@@ -1,0 +1,117 @@
+plssmeridianid	plssmeridianshort	plssmeridianlong	plssmeridianisspecialsurvey	plssmeridianomitdescription
+1	01	1st Meridian	f	f
+2	02	2nd Meridian	f	f
+3	03	3rd Meridian	f	f
+4	04	4th Meridian	f	f
+5	05	5th Meridian	f	f
+6	06	6th Meridian	f	f
+7	07	Black Hills Meridian	f	f
+8	08	Boise Meridian	f	f
+9	09	Chickasaw Meridian	f	f
+10	10	Choctaw Meridian	f	f
+11	11	Cimarron Meridian	f	f
+12	12	Copper River Meridian	f	f
+13	13	Fairbanks Meridian	f	f
+14	14	Gila-Salt River Meridian	f	f
+15	15	Humboldt Meridian	f	f
+16	16	Huntsville Meridian	f	f
+17	17	Indian Meridian	f	f
+18	18	Louisiana Meridian	f	f
+19	19	Michigan Meridian	f	f
+20	20	Montana Meridian	f	f
+21	21	Mount Diablo Meridian	f	f
+22	22	Navajo Meridian	f	f
+23	23	New Mexico Meridian	f	f
+24	24	Saint Helena Meridian	f	f
+25	25	Saint Stephens Meridian	f	f
+26	26	Salt Lake Meridian	f	f
+27	27	San Bernardino Meridian	f	f
+28	28	Seward Meridian	f	f
+29	29	Tallahassee Meridian	f	f
+30	30	Uintah Meridian	f	f
+31	31	Ute Meridian	f	f
+32	32	Washington Meridian	f	f
+33	33	Willamette Meridian	f	f
+34	34	Wind River Meridian	f	f
+36	36	Between the Miamis	f	f
+37	37	Muskingum River	f	f
+38	38	Ohio River Base	f	f
+43	43	Twelve-Miles Square Reservation	t	f
+44	44	Kateel River Meridian	f	f
+45	45	Umiat Meridian	f	f
+46	46	Extended Fourth Meridian	f	f
+47	47	West of the Great Miami	f	f
+48	48	Base Line of the US Military Survey	f	f
+50	50	Donation Tract	t	f
+51	51	Ebenezer Zane Tract	t	f
+52	52	Ephriam Kimberly Grant	t	f
+53	53	French Grants	t	f
+54	54	Gnadenhutten Tract	t	f
+55	55	Autokee, Cheno, Navarre, Petau, Ranjard Land Grant	t	f
+56	56	Armstrong and Mccollock Land Grant	t	f
+57	57	Aushcush and Ketuckkee Land Grant	t	f
+58	58	Black Loon Crescent Land Grant	t	f
+59	59	Charley Land Grant	t	f
+60	60	Cherokee Boy Land Grant	t	f
+61	61	Dochoquet Land Grant	t	f
+62	62	Elizabeth Whitaker Land Grant	t	f
+63	63	Forsythe and Hunt Land Grant	t	f
+64	64	Godfrey Land Grant	t	f
+65	65	Henry McPherson Land Grant	t	f
+66	66	James McPherson Land Grant	t	f
+67	67	Labadie Land Grant	t	f
+68	68	Lamarre and Wausaonoquet Land Grant	t	f
+69	69	Nancy Stewart Land Grant	t	f
+70	70	Peter Minor Land Grant	t	f
+71	71	Shane Land Grant	t	f
+72	72	Spicer Land Grant	t	f
+73	73	Upper Sandusky Land Grant	t	f
+74	74	Vanmeter and Walker Land Grant	t	f
+75	75	Williams Land Grant	t	f
+76	76	Salem Tract	t	f
+77	77	Schoenbrunn Tract	t	f
+78	78	Two-Miles Square Reservation	t	f
+91	91	Connecticut Western Reserve	t	f
+93	93	Virginia Military District	t	f
+99	99	Not Applicable	f	f
+100	TS	Titcomb Survey	f	f
+101	OIP WPR	Old Indian Purchase West of the Penobscot River	f	f
+102	NPC EKR	North of the Plymouth Claim East of the Kennebec River	f	f
+103	NWP	North of Waldo Patent	f	f
+104	NPC WKR	North of the Plymouth Claim West of the Kennebec River	f	f
+105	NBKP	North of Bingham's Kennebec Purchase	f	f
+106	NBPP	North of Bingham's Penobscot Purchase	f	f
+107	WBKP	West of Bingham's Kennebec Purchase	f	f
+108	WELS	West of the Easterly Line of the State	f	f
+109	ED BPP	Eastern Division Bingham's Penobscot Purchase	f	f
+110	SD BPP	Southern Division Bingham's Penobscot Purchase	f	f
+111	ND BPP	Northern Division Bingham's Penobscot Purchase	f	f
+112	MD BPP	Middle Division Bingham's Penobscot Purchase	f	f
+113	BKP WKR	Bingham's Kennebec Purchase West of the Kennebec River	f	f
+114	NOW	North of Weld	f	f
+115	OIP EPR	Old Indian Purchase East of the Penobscot River	f	f
+116	IP	Indian Purchase	f	f
+117	ME	Maine Unspecified	f	t
+118	EPR	East of the Penobscot River	f	f
+119	BKP EKR	Bingham's Kennebec Purchase East of the Kennebec River	f	f
+120	PS	Putnam Survey	f	f
+122	EPR LS	East of the Penobscot River Livermore Survey	f	f
+123	EUR LS	East of the Union River Livermore Survey	f	f
+124	RT EPR	River Township East of the Penobscot River	f	f
+126	WP	Waldo Patent	f	f
+129	NY	New York Unspecified	f	t
+130	HLC	Holland Land Company Purchase	f	f
+131	MR	Morris Reserve	f	f
+132	P&G	Phelps and Gorham Purchase	f	f
+133	T&C	Totten and Crossfield's Purchase	f	f
+134	M1	Macomb's Purchase, Great Tract 1	f	f
+135	M2	Macomb's Purchase, Great Tract 2	f	f
+136	M3	Macomb's Purchase, Great Tract 3	f	f
+137	OMT	Old Military Tract	f	f
+138	BT	Brown's Tract	f	f
+139	M6	Macomb's Purchase, Great Tract 6	f	f
+140	MRT	Moose River Tract	f	f
+141	CTT	Chenango Twenty Townships	f	f
+142	TRI	Triange Tract	f	f
+143	CT	Connecticut Tract	f	f
+144	MYT	Mill Yard Tract	f	f

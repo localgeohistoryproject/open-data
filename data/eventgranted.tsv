@@ -1,0 +1,14 @@
+eventgrantedid	eventgrantedlong	eventgrantedshort	eventgrantedsuccess	eventgrantedcertainty	eventgrantedplaceholder	eventgrantedpublicview
+1	The event is derived from bulk data source that includes successful and unsuccessful actions.	batch	f	f	f	t
+2	The event is completely verified to have been rejected.	no	f	t	f	t
+4	A final disposition has not yet occurred for the event.	pending	f	f	f	t
+6	The event possibly occurred based on cartographic evidence, but no authoritative source has been located to confirm.	yes?	t	f	f	t
+7	Additional information is required to determine if the event was approved or rejected.	unknown	f	f	f	t
+8	The event is verified to have been approved.	yes	t	t	f	t
+10	The event is derived from bulk data source that either includes only successful actions or includes a flag indicating the action was successful.	yes+	t	t	f	t
+11	The event is derived from bulk statistical data that either includes only successful actions or includes a flag indicating the action was successful.	yes~	t	t	f	t
+12	The event is derived from bulk data source that either includes only unsuccessful actions or includes a flag indicating the action was unsuccessful.	no+	f	t	f	t
+14	The event is derived from bulk statistical data, and was reported as successful, but no corroborating evidence has been located to verify.	unknown~	f	f	f	t
+15	The event is derived from bulk statistical data, and is believed to have been successful based on cartographic evidence, but no or insufficient corroborating evidence has been located to verify.	yes^	t	f	f	t
+16	The event is verified to have been approved, but has not yet taken effect.	future	f	t	f	t
+17	The event record is a placeholder that allows particular government name variants to be linked with source citations, and does not describe an actual geohistory event.	government	f	f	t	t

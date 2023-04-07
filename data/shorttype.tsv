@@ -1,0 +1,218 @@
+shorttypeid	shorttypeisform	shorttypelong	shorttypeshort
+1	f	No. 2	#2
+2	f	Agreement	Agr
+3	f	Agency	Agy
+4	f	Allocatur	Alc
+5	f	Amended	Amd
+6	f	Appeal	App
+7	t	Approved	Apv
+8	f	Appearance	Apr
+9	f	Argument	Arg
+10	f	Assessment	Asmt
+11	f	Action	Atn
+12	f	Attorney	Att'y
+13	f	Annexation	Ax
+14	t	Book	Bk
+15	f	Boundary	Bd'y
+16	f	Bill	B
+17	f	Bench	Bn
+18	f	Commonwealth	Commw
+19	f	Certification	Cert
+20	f	Charter	Chr
+21	f	Commission	Comm'n
+22	f	Communications	Commc'n
+23	f	Continuance	Cn
+24	f	County	Cty
+25	f	Common Pleas	Com.Pl
+26	f	Criminal	Crim
+27	f	Corporation	Corp
+28	f	Cost	Cst
+29	f	Court	Ct
+30	f	Contract	Cont
+31	f	Civil	Civ
+32	t	Docket	D
+33	f	Department of Community and Economic Development	Dep't.Cmty.Econ.Dev
+34	t	Decree	Dcr
+35	f	Deed	Dd
+36	f	District	Dist
+37	f	Division	Div
+38	f	Department of Education	Dep't.Educ
+39	f	Draft	Drft
+40	f	Effective	Eff
+41	f	Election	Elec
+42	t	Enacted	Enac
+43	f	Engrossed	Egr
+44	f	Equity	Eq
+45	t	File	F
+46	f	Final	Fin
+47	f	General	Gen
+48	f	Governor	Gov'r
+49	f	Government	Gov't
+50	f	Home Rule	HmR
+51	t	Index	I
+52	f	Incorporation	Inc
+53	f	Injunctive	Injc
+54	t	Instrument	Insmt
+55	f	Interim	Intm
+56	f	In re	IR
+57	f	Journal	J
+58	f	Judgment	Jg
+59	f	Land Office	LO
+60	f	Legislative Reference Bureau	Legis.Ref.Bur
+61	f	Lease	Ls
+62	f	Letter	Ltr
+63	f	Letters	Ltrs
+64	t	Minute	M
+65	f	Mortgage	Mortg
+66	f	Map	Mp
+67	f	Miscellaneous	Misc
+68	f	Motion	Mt
+69	f	Nisi Prius	N.P
+70	f	Newsletter	Newsl
+71	f	Orphans' Court	Orp.Ct
+72	f	of	o
+73	f	Official	Off
+74	f	Optional Plan	Opt.Pl
+75	f	Ordinance	Ordn
+76	f	Order	Ord
+77	f	Original	Orig
+78	f	Overridden	Ovrd
+79	t	Paper	P
+80	f	Proclamation	Pcl
+81	f	Plan/Plat	Pl
+82	f	Proceedings	Proc
+83	f	Petition	Pet
+84	f	Patent	Pat
+85	f	Quarter Sessions	Q.Sess
+86	f	Real Property Civil Other	Real.Prop.Civ.Oth
+87	f	Recorded	Rcd
+88	f	Road	Rd
+89	f	Record	Rec
+90	f	Rejected	Rej
+91	f	Report	Rep
+92	f	Resolution	Res
+93	f	Revolutionary	Revl'y
+94	f	Relief	Rlf
+95	f	Recorder of Deeds	Rec.Dd
+96	f	Register of Wills	Reg.Wl
+97	f	Archives	Arc
+98	f	Scranton	Scrtn
+99	f	Secretary of State	Sec'y.St
+100	f	Special	Spec
+101	f	Suit	Su
+102	f	Superior	Super
+103	f	Supreme	Sup
+104	f	Survey	Surv
+105	f	Transfer	Tfr
+106	f	Term	Trm
+107	f	Township	Twp
+108	f	Unknown	Unk
+109	f	Vetoed	Vet
+110	f	View	Vw
+111	f	Will	Wl
+112	f	Williamsport	Wmpt
+113	f	Zoning	Zn
+114	f	Circuit	Cir
+115	f	Borough	Bor
+116	f	Municipal	Mun
+117	f	Vacation	Vc
+118	t	Filing	Fl
+119	f	Statutory	Stat'y
+120	f	Highway	High
+122	f	American	Am
+123	f	Chancery	Ch
+124	f	Law	L
+125	f	Error	Err
+127	f	Plantation	Plt
+128	f	Census	Cns
+129	f	Change	Chg
+130	f	Correspondence	Corr
+131	f	Formation	Form
+132	f	Democrat	Dem
+133	f	Gazette	Gaz
+134	f	Weekly	Wkly
+135	f	Bulletin	Bull
+136	f	Constitution	Const
+137	f	Independent	Indep
+138	f	Serial	Ser
+139	f	Territory	Terr
+140	f	Annotated	Ann
+141	f	Public	Pub
+142	f	Private	Priv
+143	f	Opinion	Op
+144	f	Republican	Repub
+145	f	Appendix	App'x
+146	f	Clerk	Clk
+147	f	Part	Pt
+148	f	Classification	Cls
+149	f	Register of Deeds	Reg.Dd
+150	f	Real Estate	Real.Est
+151	f	Conveyances	Conv
+152	f	Probate	Prob
+153	f	Lieutenant	Lt
+154	f	Auditor	Aud
+155	f	Judicial	Jud
+156	f	Administration	Admin
+157	f	Bureau	Bur
+158	f	Department of Administration	Dep't.Admin
+159	f	Bureau of Conveyances	Bur.Conv
+160	f	Clerk of Court	Clk.Ct
+161	f	Department of Records	Dep't.Rec
+162	f	Department of Real Estate	Dep't.Real.Est
+163	f	City	City
+164	f	Clerk of the Chancery Court	Clk.Ch.Ct
+165	f	Register	Reg
+166	f	Clerk of the Circuit Court	Clk.Cir.Ct
+167	f	Clerk of Judicial Records	Clk.Jud.Rec
+168	f	County Clerk and Recorder	Cty.Clk.Rec
+169	f	Clerk of the Superior Court	Clk.Super.Ct
+170	f	Probate Judge	Prob.Jd
+171	f	Judge	Jd
+172	f	Subdivision	Subdiv
+173	f	Rack	Rk
+174	f	State	St
+175	f	Preliminary	Prelim
+176	f	Minority	Min'y
+177	f	Agenda	Agd
+178	f	Engineer	Eng'r
+179	f	Minor	Minor
+180	f	History	Hist
+181	f	Rule	R
+182	f	School	Sch
+183	f	House	H.R
+184	f	Provincial Council	Prov.Cnl
+185	f	Senate	S
+186	f	Colonial	Col
+187	f	North	N
+188	f	East	E
+189	f	West	W
+190	f	Northwest	Nw
+191	f	Southwest	Sw
+192	f	Northeast	Ne
+193	f	Southeast	Se
+194	f	Board	Bd
+195	f	Supervisor	Supv'r
+196	f	Trial	Trial
+197	f	Detachment	Detach
+198	f	Sheriff	Shrf
+199	f	Local	Loc
+200	f	No. 3	#3
+201	f	Execution	Ex
+202	f	Appointment	App't
+203	f	Right of Way	Right.Way
+204	f	Trust	Tr
+205	f	Historical Society	Hist.Soc'y
+206	f	Returns	Rtn
+207	f	Commissioner	Comm'r
+208	f	Geological	Geo
+209	f	Topographic	Topo
+210	f	Transportation	Transp
+212	f	Case	Cas
+213	f	Partition	Prt
+214	f	Line	Li
+215	f	Indian	Indian
+216	t	Calendar	Cal'r
+218	f	Roll	Roll
+219	f	Crown	Crown
+220	f	National	Nat'l
+221	f	Indebtedness	Indebt

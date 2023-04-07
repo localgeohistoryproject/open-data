@@ -1,0 +1,22 @@
+affectedtypeid	affectedtypelong	affectedtypeshort	affectedtypecreationdissolution	affectedtypefromtoboth	affectedtypeequal	originalaffectedtypeid
+2	The boundary of the government is definitively established based on monuments or its original location of record.	Ascertainment	ascertain	both	f	2
+3	The government, in conjunction with other governments, ceases to exist.	Consolidation	end	from	f	3
+4	A new government is formed.	Creation	begin	to	f	4
+5	The government ceases to exist.	Dissolution	end	from	f	5
+6	The government is divided into multiple new governments, with none retaining the same name as the divided government.	Division	end	from	f	6
+7	The territory of the government is increased.	Expansion	alter	to	f	7
+8	The government is affected in an uncertain manner without altering its boundaries or its name.	Internal		both	t	8
+9	The government starts being referenced by a particular name, including forms of government included in the name.	New Name	begin	to	f	9
+10	The government ceases being referenced by a particular name, including forms of government included in the name.	Old Name	end	from	f	10
+11	The territory of the government is decreased.	Reduction	alter	from	f	11
+12	The government is not directly affected at the time of the event, but is noted to facilitate information retrieval.	Reference	other	both	t	12
+13	The government becomes independent of another government, or elevates to another level of government.	Separation	separate	both	f	13
+14	The boundary of the government is affected in an uncertain manner.	Swap	ascertain	both	f	14
+15	Additional information is required to determine how the government is affected.	Unknown	other	both	t	15
+16	The entirety of the government is affected, without altering its boundaries or name.	Whole		both	f	8
+17	The entirety of that portion of the territory of the government remaining after a simultaneous boundary alteration is affected.	Remainder		from	f	8
+18	Only a portion of the government is affected, without altering its boundaries or name.	Part		both	f	8
+19	Only a portion of the government is affected, without altering its boundaries or name, but affects the entirety of that portion that overlaps the next highest level of government.	Overlap		both	f	8
+20	The territory of the government is decreased, but affects the entirety of that portion that overlaps the next highest level of government.	*Reduction	alter	from	f	11
+21	The government becomes dependent on another government, or drops to another level of government.	Subordination	subordinate	both	f	\N
+23	Not used in the data itself, but may be presented in reports as a placeholder for incomplete information.	Missing	other	both	t	\N

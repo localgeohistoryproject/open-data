@@ -1,0 +1,149 @@
+governmentformid	governmentstate	governmentformpublication	recategorize	governmentformpublicationdate	governmentformtype	governmentformclass	governmentformqualifier	governmentformqualifierinclude	governmentformextended
+1	40	t	f	f	Borough			t	
+2	40	t	f	f	City	1st Class		t	
+3	40	t	f	f	City	2nd Class		t	
+4	40	t	f	f	City	2nd Class A		t	
+5	40	t	f	f	City	3rd Class	Title 11	t	
+6	40	t	f	f	Town			t	
+7	40	t	f	f	Township			t	
+8	40	t	f	f	Township	1st Class		t	
+9	40	t	f	f	Township	2nd Class		t	
+10	32	t	f	f	Borough		1890	t	
+11	32	t	f	f	Borough		1891	t	
+12	32	t	f	f	Borough		Seaside Resort	t	
+13	32	t	f	f	Borough Commission			t	
+14	32	t	f	f	Borough Council			t	
+15	32	t	f	f	City			t	
+16	32	t	f	f	City Charter Act		P.L. 1897, c.30	t	
+17	32	t	f	f	City Charter Act		P.L. 1899, c.52	t	
+18	32	t	f	f	City Charter Act		P.L. 1908, c.250	t	
+19	32	t	f	f	City Special Charter		Pre-1875	t	
+20	32	t	f	f	Commission		1911	t	
+21	32	t	f	f	Council-Manager		1923	t	
+22	32	t	f	f	Council-Manager		OMCL	t	
+23	32	t	f	f	Council-Manager Non-Partisan		OMCL	t	
+24	32	t	f	f	Council-Manager Partisan		OMCL	t	
+25	32	t	f	f	Council-Manager Plan A		OMCL	t	
+26	32	t	f	f	Council-Manager Plan B		OMCL	t	
+27	32	t	f	f	Council-Manager Plan C		OMCL	t	
+28	32	t	f	f	Council-Manager Plan D		OMCL	t	
+29	32	t	f	f	Council-Manager Plan E		OMCL	t	
+30	32	t	f	f	Council-Manager Plan F		OMCL	t	
+31	32	t	f	f	Mayor-Council-Administration		OMCL	t	
+32	32	t	f	f	Mayor-Council-Administration Partisan		OMCL	t	
+33	32	t	f	f	Mayor-Council		OMCL	t	
+34	32	t	f	f	Mayor-Council Non-Partisan		OMCL	t	
+35	32	t	f	f	Mayor-Council Partisan		OMCL	t	
+36	32	t	f	f	Mayor-Council Plan A		OMCL	t	
+37	32	t	f	f	Mayor-Council Plan B		OMCL	t	
+38	32	t	f	f	Mayor-Council Plan C		OMCL	t	
+39	32	t	f	f	Mayor-Council Plan D		OMCL	t	
+40	32	t	f	f	Mayor-Council Plan E		OMCL	t	
+41	32	t	f	f	Mayor-Council Plan F		OMCL	t	
+42	32	t	f	f	Small Municipality		OMCL	t	
+43	32	t	f	f	Small Municipality Non-Partisan		OMCL	t	
+44	32	t	f	f	Small Municipality Partisan		OMCL	t	
+45	32	t	f	f	Small Municipality Plan A		OMCL	t	
+46	32	t	f	f	Small Municipality Plan B		OMCL	t	
+47	32	t	f	f	Small Municipality Plan C		OMCL	t	
+48	32	t	f	f	Small Municipality Plan D		OMCL	t	
+49	32	t	f	f	Special Charter			t	
+50	32	t	f	f	Special Charter		P.L. 1851, c.149	t	
+51	32	t	f	f	Special Charter		P.L. 1857, c.162	t	
+52	32	t	f	f	Special Charter		P.L. 1858, c.152	t	
+53	32	t	f	f	Special Charter		P.L. 1858, c.65	t	
+54	32	t	f	f	Special Charter		P.L. 1868, c.44	t	
+55	32	t	f	f	Special Charter		P.L. 1869, c.280	t	
+56	32	t	f	f	Special Charter		P.L. 1870, c.271	t	
+57	32	t	f	f	Special Charter		P.L. 1922, c.56	t	
+58	32	t	f	f	Special Charter		P.L. 1955, c.201	t	
+59	32	t	f	f	Special Charter		P.L. 1967, c.195	t	
+60	32	t	f	f	Special Charter		P.L. 1968, c.59	t	
+61	32	t	f	f	Special Charter		P.L. 1970, c.206	t	
+62	32	t	f	f	Special Charter		P.L. 1971, c.237	t	
+63	32	t	f	f	Special Charter		Post-1950	t	
+64	32	t	f	f	Special Charter		Pre-1950	t	
+65	32	t	f	f	Special Charter Non-Partisan			t	
+66	32	t	f	f	Special Charter Partisan			t	
+67	32	t	f	f	Town Council			t	
+68	32	t	f	f	Town Special Charter		Pre-1875	t	
+69	32	t	f	f	Township Committee			t	
+70	32	t	f	f	Village Board of Trustees			t	
+71	40	t	f	f	County	1st Class		t	
+72	40	t	f	f	County	2nd Class		t	
+73	40	t	f	f	County	2nd Class A		t	
+74	40	t	f	f	County	3rd Class		t	
+75	40	t	f	f	County	4th Class		t	
+76	40	t	f	f	County	5th Class		t	
+77	40	t	f	f	County	6th Class		t	
+78	40	t	f	f	County	7th Class		t	
+79	40	t	f	f	County	8th Class		t	
+82	40	t	f	f	County			t	
+93	40	t	f	f	Borough		Home Rule Charter	t	
+94	40	t	f	f	City	1st Class	Home Rule Charter	t	
+95	40	t	f	f	City	2nd Class	Home Rule Charter	t	
+96	40	t	f	f	City	2nd Class A	Home Rule Charter	t	
+97	40	t	f	f	City	3rd Class	Home Rule Charter	t	
+100	40	t	f	f	County	1st Class	Home Rule Charter	t	
+101	40	t	f	f	County	2nd Class	Home Rule Charter	t	
+102	40	t	f	f	County	2nd Class A	Home Rule Charter	t	
+103	40	t	f	f	County	3rd Class	Home Rule Charter	t	
+104	40	t	f	f	Township	1st Class	Home Rule Charter	t	
+105	40	t	f	f	Township	2nd Class	Home Rule Charter	t	
+107	40	t	f	f	City	3rd Class	Optional Charter, Council-Manager	t	
+108	40	t	f	f	City	3rd Class	Special Charter	t	
+109	40	t	f	f	City		Special Charter	t	
+110	40	t	f	f	Borough		1834 Act	t	
+111	40	t	f	f	Borough		Title 8	t	
+112	40	t	f	f	Borough		Pre-1851 Special Charter	f	
+113	40	t	f	f	Borough		Title 8	t	
+114	40	t	f	f	Borough for Water Purposes		Special Charter	t	
+115	40	t	f	f	Township	2nd Class	Optional Plan, Mayor-Council B	t	
+116	40	t	f	f	City	3rd Class	Optional Plan, Mayor-Council B	t	
+117	40	t	f	f	Township	1st Class	Optional Plan, Mayor-Council C	t	
+118	40	t	f	f	Borough		Optional Plan, Council-Manager	t	
+119	40	t	f	f	City	3rd Class	Optional Plan, Council-Manager	t	
+120	40	t	f	f	Township	2nd Class	Optional Plan, Mayor-Council C	t	
+121	40	t	f	f	Township		Special Charter	t	
+122	40	t	f	f	Township	2nd Class	Optional Plan, Council-Manager	t	
+126	40	t	f	f	County	4th Class	Home Rule Charter	t	
+131	40	t	f	f	Borough		Provincial Charter	t	
+132	40	t	f	f	City		Provincial Charter	t	
+133	40	t	f	f	Borough		Inactive	t	
+134	40	t	f	f	City		Inactive	t	
+135	40	t	f	f	Town		Special Charter	t	
+136	40	t	f	f	City District		Special Charter	t	
+137	40	t	f	f	Road District		Special Charter	t	
+138	40	t	f	f	Township		Unorganized	t	
+139	40	t	f	f	County		Unorganized	t	
+141	40	t	f	f	Borough		Title 8	t	
+142	40	t	f	f	Borough		Title 8	t	
+143	40	t	f	f	Borough		Title 8	t	
+148	40	t	f	f	Borough		Title 8	t	
+149	40	t	f	f	Borough		Title 8	t	
+155	1	t	f	f	State			t	
+156	40	t	f	f	County		Provisional	t	
+157	40	t	f	f	Borough		Title 8	t	
+160	40	t	f	f	County	5th Class	Home Rule Charter	t	
+161	40	t	f	f	County	6th Class	Home Rule Charter	t	
+162	40	t	f	f	County	7th Class	Home Rule Charter	t	
+163	40	t	f	f	County	3rd Class	Optional Plan	t	
+164	40	t	f	f	County	3rd Class	Executive-Council Optional Plan C	t	
+165	40	t	f	f	City	3rd Class	Optional Charter, Mayor-Council A	t	
+167	40	t	f	f	Township	1st Class	Optional Plan, Council-Manager	t	
+169	40	t	f	f	Borough		1834 Act	t	
+171	40	t	f	f	Borough		1834 Act	t	
+172	40	t	f	f	Borough		1834 Act	t	
+173	40	t	f	f	Borough		Title 8	t	
+174	40	t	f	f	Borough		Title 8	t	
+175	40	t	f	f	Borough		1834 Act	t	
+176	32	t	f	f	Borough		1878	t	
+218	32	t	f	f	Borough			t	
+219	32	t	f	f	Village		1891	t	
+220	32	t	f	f	Borough Special Charter			t	
+221	32	t	f	f	Township		Paper	t	
+239	1	t	f	f	Province		Proprietary	t	
+240	1	t	f	f	Province		Royal	t	
+241	40	t	f	f	School District	Independent	Pre-1855	t	
+246	40	t	f	f	School District	Independent	1855-1911	t	
+247	40	t	f	f	School District	Independent	Post-1911	t	

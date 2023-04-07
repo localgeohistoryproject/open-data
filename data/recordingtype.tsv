@@ -1,0 +1,55 @@
+recordingtypeid	recordingtypetype	recordingtypeabbreviation	recordingtypelong	recordingtypeshort	recordingtypevolumetype	recordingtypepagetype	recordingisnumber
+1	Book	Agr.Bk.	Agreement	Agr.Bk.	Volume	Page	f
+2	Book	Bor.Bk.	Borough	Bor.Bk.	Volume	Page	f
+3	Book	Chr.Bk.	Charter	Chr.Bk.	Volume	Page	f
+4	Book	Comm'n.Bk.	Commission	Comm'n.Bk.	Volume	Page	f
+5	Book	Cont.Bk.	Contract	Cont.Bk.	Volume	Page	f
+6	Book	Corp.Bk.	Corporation	Corp.Bk.	Volume	Page	f
+7	Book	Dd.Bk.	Deed	Dd.Bk.	Volume	Page	f
+8	Book	Div.Bk.	Division	Div.Bk.	Volume	Page	f
+9	Papers	Elec.P.	Election Return (GCHS)	Elec.P.	Folder		f
+10	Minutes	Gov'r.M.	Governor	Gov'r.M.	Volume	Page	f
+11	Book	High.Pl.Bk.	Highway Plan	High.Pl.Bk.	Volume	Page	f
+12	Book	Inc.Bk.	Incorporation	Inc.Bk.	Volume	Page	f
+13	Certificates	Inc.Cert.	Incorporation (GCHS)	Inc.Cert.	Folder		f
+14		Insmt.	Instrument	Insmt.			t
+15	Book	L.Bk.	Law	L.Bk.	Volume	Page	f
+16	Map	LO.Mp.	Land Office	LO.Mp.			t
+17	Book	Ls.Agr.Bk.	Lease and Agreement	Ls.Agr.Bk.	Volume	Page	f
+18	Book	Ltr.Att'y.Bk.	Letter of Attorney	Ltr.Att'y.Bk.	Volume	Page	f
+19	Book	Ltr.Bk.	Letter	Ltr.Bk.	Volume	Page	f
+20	Book	Misc.Bk.	Miscellaneous	Misc.Bk.	Volume	Page	f
+21	Book	Mortg.Bk.	Mortgage	Mortg.Bk.	Volume	Page	f
+22		Mp.	Map	Mp.			t
+23	Book	Mp.Bk.	Map	Mp.Bk.	Volume	Page	f
+24	Book	Mun.Inc.Bk.	Municipal Incorporation	Mun.Inc.Bk.	Volume	Page	f
+25	Book	Mun.Ordn.Bk.	Municipal Ordinance	Mun.Ordn.Bk.	Volume	Page	f
+26	Book	Off.Commc'n.Bk.	Official Communication	Off.Commc'n.Bk.	Volume	Page	f
+27	Book	Pat.Bk.	Patent	Pat.Bk.	Volume	Page	f
+28		Pl.	Plat	Pl.			t
+29	Book	Pl.Bk.	Plat	Pl.Bk.	Volume	Page	f
+30	Display Rack	Pl.Rk.	Plan	Pl.Rk.	Rack	Number	f
+32	Book	Rd.Bk.	Road	Rd.Bk.	Volume	Page	f
+33	Book	Rd.Vc.Bk.	Road Vacation	Rd.Vc.Bk.	Volume	Page	f
+34	Book	Rec.Bk.	Record	Rec.Bk.	Volume	Page	f
+35	Papers	Revl'y.Gov't.P.	Revolutionary Government	Revl'y.Gov't.P.	Roll	Page	f
+36	Filing	Stat'y.Fl.	Statutory	Stat'y.Fl.	Series	Number	f
+37	Book	Subdiv.Pl.Bk.	Subdivision Plan	Subdiv.Pl.Bk.	Volume	Page	f
+38	Book	Surv.Bk.	Survey	Surv.Bk.	Volume	Page	f
+39	Book	Twp.Inc.Bk.	Township Incorporation	Twp.Inc.Bk.	Volume	Page	f
+40	Book	Twp.Inc.Mp.	Township Incorporation	Twp.Inc.Mp.	Volume	Page	f
+41	Book	Unk.Bk.	Unknown	Unk.Bk.	Volume	Page	f
+42	Book	Vc.Bk.	Vacation	Vc.Bk.	Volume	Page	f
+43	Book	Zn.Ordn.Bk.	Zoning Ordinance	Zn.Ordn.Bk.	Volume	Page	f
+44	Filing	Mun.Inc.Fl.	Municipal Incorporation	Mun.Inc.Fl.			t
+45	Book	Shrf.Dd.Bk.	Sheriff Deed	Shrf.Dd.Bk.	Volume	Page	f
+50	Book	Right.Way.Pl.Bk.	Right of Way Plan	Right.Way.Pl.Bk.	Volume	Page	f
+51	Returns	Twp.Bd'y.Comm'r.Rtn.	Township Boundary Commissioner	Twp.Bd'y.Comm'r.Rtn.			t
+53	Book	Prt.Bk.	Partition	Prt.Bk.	Volume	Page	f
+54	Book	Bd'y.Div.Bk.	Boundaries and Divisions	Bd'y.Div.Bk.	Volume	Page	f
+55	Papers	Ax.P.	Annexation	Ax.P.			t
+56	Papers	Corp.P.	Corporation	Corp.P.	Folder	Roll	f
+57	Map	Commw.Bd'y.Mp.	Commonwealth Boundary	Commw.Bd'y.Mp.			t
+58	Book	Div.Li.Bk.	Division Line	Div.Li.Bk.	Volume	Page	f
+61	Roll Calendar	Pat.Roll.Cal'r.	Patent	Pat.Roll.Cal'r.	Volume	Page	f
+62	Roll	Pat.Roll.	Patent	Pat.Roll.	Roll	Number	f

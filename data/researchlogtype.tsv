@@ -1,0 +1,115 @@
+researchlogtypeid	researchlogtypelong	researchlogtypelongpart	researchlogtypeisrecord	researchlogtypeisspecificdate
+1	Agreement Grantee Index (Rec.Dd.)		t	f
+2	Agreement Grantor Index (Rec.Dd.)		t	f
+3	Annexation Docket		t	f
+4	Annual Report		t	f
+5	Appeal Docket		t	f
+6	Appearance Docket		t	f
+7	Appearance Docket (Sup.)		t	f
+8	Assessment Book		t	f
+9	Auditors' Reports (Com.Pl.)		t	f
+10	Auditors' Reports (Q.Sess.)		t	f
+11	Bench Docket		t	f
+12	Boroughs & Townships Docket		t	f
+13	Boroughs & Townships Index		t	f
+14	Boroughs & Townships Papers		t	f
+15	Charter Index		t	f
+16	Civil Costs Docket (Q.Sess.)		t	f
+17	Civil Docket (Q.Sess.)		t	f
+18	Civil Docket Index (Q.Sess.)		t	f
+19	Civil Papers		t	f
+20	Code of Ordinances		t	f
+21	Code of Ordinances with Tables		t	f
+22	Commission Book (Rec.Dd.)		t	f
+23	Commission Index (Rec.Dd.)		t	f
+24	Common Pleas Docket		t	f
+25	Commonwealth Docket (Commw.)		t	f
+26	Continuance Docket		t	f
+27	Continuance Road Docket		t	f
+31	Correspondence (Record Series)		t	f
+34	Court Minutes		t	f
+35	Criminal Docket		t	f
+36	Criminal Index		t	f
+37	Deed Grantee Index		t	f
+38	Deed Grantor Index		t	f
+39	Docket Box		t	f
+40	Election Docket		t	f
+41	Election Returns		t	f
+42	Engrossed Docket		t	f
+43	Engrossed Minutes		t	f
+44	Entry Book (Com.Pl.)		t	f
+45	Entry Book (Q.Sess.)		t	f
+46	Entry Book (Rec.Dd.)		t	f
+47	Equity Docket		t	f
+48	Equity Index		t	f
+49	Equity Papers		t	f
+52	General Docket (Com.Pl.)		t	f
+53	General Index (Com.Pl.)		t	f
+56	Law Library Visit		t	f
+57	Law Reporters (Commw.)		t	f
+58	Law Reporters (Super.)		t	f
+59	Law Reporters (Sup.)		t	f
+60	Law Reporters (Trial Ct.)		t	f
+63	Minute Book		t	f
+64	Miscellaneous Book (Rec.Dd.)		t	f
+65	Miscellaneous Docket (Commw.)		t	f
+66	Miscellaneous Docket (Com.Pl.)		t	f
+67	Miscellaneous Docket (Q.Sess.)		t	f
+68	Miscellaneous Docket (Super.)		t	f
+69	Miscellaneous Docket (Sup.)		t	f
+70	Miscellaneous Grantee Index		t	f
+71	Miscellaneous Grantor Index		t	f
+72	Miscellaneous Index (Com.Pl.)		t	f
+73	Miscellaneous Index (Q.Sess.)		t	f
+74	Miscellaneous Papers (Q.Sess.)		t	f
+75	Municipal Incorporation Book		t	f
+76	Newspaper		t	f
+78	Open Records Request (Classification)		t	t
+79	Open Records Request (Elections)		t	t
+80	Open Records Request (Executive Agency Files)		t	t
+81	Open Records Request (Miscellaneous)		t	t
+82	Open Records Request (Ordinances)		t	t
+83	Open Records Request (Relevant items in code)		t	t
+84	Open Records Request (Resolutions)		t	t
+89	Ordinance Book		t	f
+90	Ordinance Index		t	f
+91	Other Papers (Com.Pl.)		t	f
+92	Other State Record Series		t	f
+93	Petition Docket		t	f
+94	Plan Docket (Q.Sess.)		t	f
+95	Plan Index (Rec.Dd.)		t	f
+96	Proclamations		t	f
+98	Request		t	t
+100	Resolution Book		t	f
+101	Road Book		t	f
+102	Road Docket		t	f
+103	Road Draft		t	f
+104	Road Index		t	f
+105	Road Minutes		t	f
+106	Road Papers		t	f
+107	Road Record		t	f
+108	Road Reports		t	f
+109	Quarter Sessions Docket		t	f
+110	Quarter Sessions Index		t	f
+111	Quarter Sessions Minutes		t	f
+112	Quarter Sessions Papers		t	f
+113	Special Docket		t	f
+114	State Agency Reports (Dep't.Educ.)		t	f
+116	Transfer Docket (Commw.)		t	f
+117	Circuit Court Minute		t	f
+118	Common Pleas Minute		t	f
+119	Common Pleas Papers		t	f
+120	Divisions Book		t	f
+121	Divisions Papers		t	f
+122	Incorporation Papers		t	f
+123	Miscellaneous Book		t	f
+124	Miscellaneous Papers		t	f
+128	Other Record Series		t	f
+129	Partition Book		t	f
+130	Partition Papers		t	f
+131	Petition Papers		t	f
+132	Supreme Court Docket		t	f
+133	Supreme Court Minute		t	f
+134	Vacation Book		t	f
+135	Session Laws		t	f
+140	Allocatur Docket (Sup.)		t	f

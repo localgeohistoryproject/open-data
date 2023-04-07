@@ -1,0 +1,421 @@
+adjudicationtypeid	tribunal	adjudicationtypeabbreviation	adjudicationtypelong	adjudicationtypeshort
+1	3	Cv	Civil	Civ.D.
+2	5	Appellate	Appellate	App.D.
+3	5	Original	Original	Orig.D.
+4	6	CD	Commonwealth	Commw.D.
+5	6	MD	Miscellaneous	Misc.D.
+6	6	Tr	Transfer	Tfr.D.
+7	7	EDA	Appeal	App.D.
+9	8	MDA	Appeal	App.D.
+11	9	Williamsport Appeal	Appeal	App.D.
+12	10	Scranton Appeal	Appeal	App.D.
+13	11	WDA	Appeal	App.D.
+14	11	WDM	Miscellaneous	Misc.D.
+15	12	EAL	Allocatur	Alc.D.
+16	12	EAP	Appeal	App.D.
+18	13	MAL	Allocatur	Alc.D.
+19	13	MAP	Appeal	App.D.
+20	13	MM	Miscellaneous	Misc.D.
+21	14	WAL	Allocatur	Alc.D.
+22	14	WAP	Appeal	App.D.
+23	14	WM	Miscellaneous	Misc.D.
+24	16	GD	General	Gen.D.
+25	16	Appearance (No. 2)	Appearance (No. 2)	Com.Pl.#2.Apr.D.
+26	17	Civ	Civil	Civ.D.
+27	19	CP	Common Pleas	Com.Pl.D.
+28	20	App	Appearance	Apr.D.
+29	20	Equity	Equity	Eq.D.
+30	21	Civ	Civil	Civ.D.
+31	22	Civ	Civil	Civ.D.
+32	23	Civ	Civil	Civ.D.
+33	24	MSD	Miscellaneous	Misc.D.
+34	25	Equity	Equity	Eq.D.
+35	29	Equity	Equity	Eq.D.
+36	29	Misc	Miscellaneous	Misc.D.
+37	30	Civ	Civil	Civ.D.
+38	31	CD	Civil	Civ.D.
+39	32	Equity	Equity	Eq.D.
+40	32	Misc	Miscellaneous	Misc.D.
+41	34	Apr	Appearance	Apr.D.
+42	34	Equity	Equity	Eq.D.
+43	35	App	Appearance	Apr.D.
+44	36	CD	Commonwealth	Commw.D.
+45	37	Civ	Civil	Civ.D.
+46	39	Equity	Equity	Eq.D.
+47	40	Civ	Civil	Civ.D.
+49	49	Civ	Civil	Civ.D.
+50	49	Equity	Equity	Eq.D.
+51	51	Appearance	Appearance	Apr.D.
+52	51	Equity	Equity	Eq.D.
+53	51	Misc	Miscellaneous	Misc.D.
+54	52	Civil	Civil	Civ.D.
+55	52	Equity	Equity	Eq.D.
+57	54	Civ	Civil	Civ.D.
+58	54	Equity	Equity	Eq.D.
+59	55	Equity	Equity	Eq.D.
+60	60	Equity	Equity	Eq.D.
+61	62	Continuance	Continuance	Cn.D.
+62	63	Civ	Appearance	Apr.D.
+63	63	Equity	Equity	Eq.D.
+65	68	Equity	Equity	Eq.D.
+67	68	S	Suit	Su.D.
+68	69	Civ	Appearance	Apr.D.
+70	70	Equity	Equity	Eq.D.
+71	70	Misc	Miscellaneous	Misc.D.
+72	71	Civ	Civil	Civ.D.
+73	72	CP	Common Pleas	Com.Pl.D.
+74	73	Civ	Civil	Civ.D.
+75	77	Civ	Civil	Civ.D.
+76	77	Equity	Equity	Eq.D.
+77	79	CI	Civil	Civ.D.
+78	79	Equity	Equity	Eq.D.
+79	83	Misc	Miscellaneous	Misc.D.
+81	85	In re	In re	IR.D.
+82	85	Road	Road	Rd.D.
+83	86	Misc	Miscellaneous	Misc.D.
+84	86	Road	Road	Rd.D.
+85	87	Sess	Sessions	Q.Sess.D.
+86	88	Misc	Miscellaneous	Misc.D.
+87	89	Petn	Petition	Pet.D.
+88	90	Misc	Miscellaneous	Misc.D.
+89	91	Misc	Miscellaneous	Misc.D.
+90	92	B.T.S.	B.T.S.	Twp.D.
+91	93	Misc	Miscellaneous	Misc.D.
+92	93	Road	Road	Rd.D.
+93	96	Misc	Miscellaneous	Misc.D.
+94	97	Misc	Miscellaneous	Misc.D.
+95	98	Sess	Sessions	Q.Sess.D.
+97	102	Misc	Miscellaneous	Misc.D.
+98	102	Road	Road	Rd.D.
+99	103	Misc	Miscellaneous	Misc.D.
+100	104	Misc	Miscellaneous	Misc.D.
+101	105	Misc	Miscellaneous	Misc.D.
+102	107	Misc	Miscellaneous	Misc.D.
+103	107	Sess	Sessions	Q.Sess.D.
+104	108	Civ	Civil	Civ.D.
+105	110	Anx	Annexation	Ax.D.
+106	111	Sess	Sessions	Q.Sess.D.
+108	112	Road	Road	Rd.D.
+109	113	Sess	Sessions	Q.Sess.D.
+110	114	Misc	Miscellaneous	Misc.D.
+111	115	Sess	Sessions	Q.Sess.D.
+112	117	Crim	Criminal	Crim.D.
+113	117	Misc	Miscellaneous	Misc.D.
+114	118	Road	Road Minutes	Rd.D.
+115	119	Road	Roads and Bridges	Rd.D.
+116	120	Crim	Criminal	Crim.D.
+117	120	Misc	Miscellaneous	Misc.D.
+118	121	Misc	Miscellaneous	Misc.D.
+119	121	Road	Road	Rd.D.
+120	122	Crim	Criminal	Crim.D.
+121	122	Sess	Sessions	Q.Sess.D.
+124	125	Misc	Miscellaneous	Misc.D.
+125	127	Misc	Miscellaneous	Misc.D.
+126	128	Elec	Election	Elec.D.
+127	128	Sess	Sessions	Q.Sess.D.
+128	130	Elec	Election	Elec.D.
+129	130	Sess	Sessions	Q.Sess.D.
+130	131	Misc	Miscellaneous	Misc.D.
+131	131	Road	Road	Rd.D.
+132	136	Misc	Miscellaneous	Misc.D.
+133	137	Misc	Miscellaneous	Misc.D.
+134	138	Misc	Miscellaneous	Misc.D.
+135	138	Road	Road	Rd.D.
+136	138	Spec	Special	Spec.D.
+137	140	Misc	Miscellaneous	Misc.D.
+138	142	Road	Road	Rd.D.
+139	143	PD	Petition	Pet.D.
+140	145	Misc	Miscellaneous	Misc.D.
+141	146	Criminal	Criminal	Crim.D.
+142	147	Civ	Civil	Civ.D.
+143	147	Road	Road	Rd.D.
+144	149	Misc	Miscellaneous	Misc.D.
+145	152	GD	General	Gen.D.
+146	152	Misc	Miscellaneous	Misc.D.
+147	153	Civ	Civil	Civ.D.
+148	154	Civ	Civil	Civ.D.
+149	155	CP	Common Pleas	Com.Pl.D.
+150	157	Civ	Civil	Civ.D.
+151	157	Equity	Equity	Eq.D.
+152	159	Civ	Civil	Civ.D.
+153	160	MSD	Miscellaneous	Misc.D.
+154	161	Civ	Civil	Civ.D.
+155	163	Civ	Civil	Civ.D.
+156	164	Civ	Civil	Civ.D.
+157	165	CT	Contract	Cont.D.
+158	165	IR	Injunctive Relief	Injc.Rlf.D.
+159	165	RC	Real Property Civil Other	Real.Prop.Civ.Oth.D.
+160	167	CD	Civil	Civ.D.
+161	168	Misc	Miscellaneous	Misc.D.
+162	169	MV	Miscellaneous	Misc.D.
+163	171	Civ	Civil	Civ.D.
+164	172	Equity	Equity	Eq.D.
+165	173	Civ	Civil	Civ.D.
+166	174	GD	General	Gen.D.
+167	175	A	Appearance	Apr.D.
+168	180	Misc	Miscellaneous	Misc.D.
+169	183	Civ	Civil	Civ.D.
+170	185	Civ	Civil	Civ.D.
+171	188	Civil	Civil	Civ.D.
+172	189	C	Civil	Civ.D.
+173	190	Civ	Civil	Civ.D.
+174	193	Civ	Civil	Civ.D.
+175	194	Civ	Appearance	Apr.D.
+176	195	Civ	Civil	Civ.D.
+177	195	Misc	Miscellaneous	Misc.D.
+178	196	General	General	Gen.D.
+180	198	Civ	Civil	Civ.D.
+181	198	CM	Court Minute	Ct.M.
+182	200	Civ	Civil	Civ.D.
+183	204	S	Suit	Su.D.
+184	206	Misc	Miscellaneous	Misc.D.
+185	210	Civ	Appearance	Apr.D.
+186	215	CI	Civil	Civ.D.
+187	217	Misc	Miscellaneous	Misc.D.
+188	217	SU	Suit	Su.D.
+189	287	Dist	District	Dist.D.
+190	288	Sess	Sessions	Q.Sess.D.
+191	289	Nisi Prius	Nisi Prius	N.P.D.
+193	358	Sess	Sessions	Q.Sess.D.
+194	358	Road	Road	Rd.D.
+195	359	Misc	Miscellaneous	Misc.D.
+196	359	Sess	Sessions	Q.Sess.D.
+197	359	Road	Road	Rd.D.
+198	360	In re	In re	IR.D.
+199	360	Sess	Sessions	Q.Sess.D.
+200	360	Road	Road	Rd.D.
+201	361	Misc	Miscellaneous	Misc.D.
+202	361	Sess	Sessions	Q.Sess.D.
+203	361	Road	Road	Rd.D.
+204	362	Sess	Sessions	Q.Sess.D.
+205	362	Road	Road	Rd.D.
+206	363	Misc	Miscellaneous	Misc.D.
+207	363	Sess	Sessions	Q.Sess.D.
+208	363	Road	Road	Rd.D.
+209	364	Petn	Petition	Pet.D.
+210	364	Road	Roads, Bridges, Streets, and Alleys	Rd.D.
+211	365	Misc	Miscellaneous	Misc.D.
+212	365	Sess	Sessions	Q.Sess.D.
+213	365	Road	Road	Rd.D.
+214	366	Misc	Miscellaneous	Misc.D.
+215	366	Misc Misc	Miscellaneous Miscellaneous	Misc.Misc.D.
+216	366	Sess	Sessions	Q.Sess.D.
+217	366	Road	Road	Rd.D.
+218	367	Misc	Miscellaneous	Misc.D.
+219	367	Sess	Sessions	Q.Sess.D.
+220	367	B.T.S.	B.T.S.	Twp.D.
+221	368	Misc	Miscellaneous	Misc.D.
+222	368	Sess	Sessions	Q.Sess.D.
+223	368	Road	Road	Rd.D.
+224	369	Sess	Sessions	Q.Sess.D.
+225	369	Road	Road	Rd.D.
+226	370	Sess	Sessions	Q.Sess.D.
+227	370	Road	Road	Rd.D.
+228	371	Sess	Sessions	Q.Sess.D.
+229	371	Road	Road	Rd.D.
+230	372	Misc	Miscellaneous	Misc.D.
+231	372	Sess	Sessions	Q.Sess.D.
+232	372	Twp, School & ED	Township, School and Election Districts	Twp.D.
+233	373	Sess	Sessions	Q.Sess.D.
+234	373	Road	Road	Rd.D.
+235	374	Sess	Sessions	Q.Sess.D.
+236	374	Road	Road	Rd.D.
+237	375	Sess	Sessions	Q.Sess.D.
+238	375	Road	Road	Rd.D.
+239	376	Sess	Sessions	Q.Sess.D.
+240	376	Road	Road	Rd.D.
+241	377	Civ	Civil	Civ.D.
+242	377	Sess	Sessions	Q.Sess.D.
+243	377	Road	Road	Rd.D.
+244	378	Misc	Miscellaneous	Misc.D.
+245	378	Sess	Sessions	Q.Sess.D.
+246	378	Road	Road	Rd.D.
+247	379	Misc	Miscellaneous	Misc.D.
+248	379	Sess	Sessions	Q.Sess.D.
+249	379	Road	Road	Rd.D.
+250	380	Misc	Miscellaneous	Misc.D.
+251	380	Road	Road	Rd.D.
+252	381	Sess	Sessions	Q.Sess.D.
+253	381	Road	Road	Rd.D.
+254	382	Sess	Sessions	Q.Sess.D.
+255	383	Civ	Civil	Civ.D.
+256	383	Sess	Sessions	Q.Sess.D.
+257	384	Sess	Sessions	Q.Sess.D.
+258	384	Road	Road	Rd.D.
+259	385	Anx	Annexation	Ax.D.
+260	385	Misc	Miscellaneous	Misc.D.
+261	385	Sess	Sessions	Q.Sess.D.
+263	386	Sess	Sessions	Q.Sess.D.
+264	386	Road	Road	Rd.D.
+265	387	Sess	Sessions	Q.Sess.D.
+266	387	Road	Road	Rd.D.
+267	388	Sess	Sessions	Q.Sess.D.
+268	388	Road	Road	Rd.D.
+269	389	Sess	Sessions	Q.Sess.D.
+271	390	Corporation	Corporation	Corp.Bk.
+272	390	Sess	Sessions	Q.Sess.D.
+273	390	Road	Road	Rd.D.
+274	391	Sess	Sessions	Q.Sess.D.
+275	391	Road	Road	Rd.D.
+276	392	Sess	Sessions	Q.Sess.D.
+277	393	Road	Road Minutes	Rd.D.
+278	394	Sess	Sessions	Q.Sess.D.
+279	394	Road	Roads and Bridges	Rd.D.
+280	395	Crim	Criminal	Crim.D.
+281	395	Sess	Sessions	Q.Sess.D.
+282	395	Road	Road	Rd.D.
+283	396	Misc	Miscellaneous	Misc.D.
+284	396	Sess	Sessions	Q.Sess.D.
+285	396	Road	Road	Rd.D.
+286	397	Sess	Sessions	Q.Sess.D.
+287	397	Road	Road	Rd.D.
+288	398	Sess	Sessions	Q.Sess.D.
+289	398	Road	Road	Rd.D.
+290	398	Road Ord	Road Order	Rd.D.
+291	398	Road Pet	Road Petition	Rd.D.
+292	399	Sess	Sessions	Q.Sess.D.
+293	399	Road	Road	Rd.D.
+294	400	Misc	Miscellaneous	Misc.D.
+295	400	Sess	Sessions	Q.Sess.D.
+296	400	Road	Road	Rd.D.
+297	401	Sess	Sessions	Q.Sess.D.
+298	401	Road	Road	Rd.D.
+299	402	Misc	Miscellaneous	Misc.D.
+300	402	Sess	Sessions	Q.Sess.D.
+301	402	Road	Road	Rd.D.
+302	403	Elec	Election	Elec.D.
+303	403	Sess	Sessions	Q.Sess.D.
+305	404	Sess	Sessions	Q.Sess.D.
+306	404	Road	Road	Rd.D.
+307	405	Elec	Election	Elec.D.
+308	405	Sess	Sessions	Q.Sess.D.
+309	405	Road	Road	Rd.D.
+310	406	Misc	Miscellaneous	Misc.D.
+311	406	Sess	Sessions	Q.Sess.D.
+312	406	Road	Road	Rd.D.
+313	407	Sess	Sessions	Q.Sess.D.
+314	407	Road	Road	Rd.D.
+315	408	Misc	Miscellaneous	Misc.D.
+316	408	Sess	Sessions	Q.Sess.D.
+317	408	Road	Road	Rd.D.
+318	409	Sess	Sessions	Q.Sess.D.
+319	409	Road	Road	Rd.D.
+320	410	Sess	Sessions	Q.Sess.D.
+321	410	Road	Road	Rd.D.
+322	411	Misc	Miscellaneous	Misc.D.
+323	412	Misc	Miscellaneous	Misc.D.
+324	412	Sess	Sessions	Q.Sess.D.
+325	412	Road	Road	Rd.D.
+326	413	Misc	Miscellaneous	Misc.D.
+328	413	Road	Road	Rd.D.
+329	414	Sess	Sessions	Q.Sess.D.
+330	414	Road	Road	Rd.D.
+331	415	Misc	Miscellaneous	Misc.D.
+332	415	Sess	Sessions	Q.Sess.D.
+333	415	Road	Road	Rd.D.
+334	416	Sess	Sessions	Q.Sess.D.
+335	416	Road	Road	Rd.D.
+336	417	Sess	Sessions	Q.Sess.D.
+337	417	Road	Road	Rd.D.
+338	418	PD	Petition	Pet.D.
+339	418	Sess	Sessions	Q.Sess.D.
+340	418	Road	Road	Rd.D.
+341	419	Sess	Sessions	Q.Sess.D.
+342	419	Road	Road	Rd.D.
+343	420	Sess	Sessions	Q.Sess.D.
+344	420	Road	Road	Rd.D.
+345	421	Sess	Sessions	Q.Sess.D.
+346	421	Road	Road	Rd.D.
+347	422	Civ	Civil	Civ.D.
+348	422	Sess	Sessions	Q.Sess.D.
+349	422	Road	Road	Rd.D.
+350	423	Sess	Sessions	Q.Sess.D.
+351	423	Road	Road	Rd.D.
+352	424	Misc	Miscellaneous	Misc.D.
+353	424	Sess	Sessions	Q.Sess.D.
+354	424	Road	Road	Rd.D.
+355	427	N/A	Estate	Wl.Bk.
+359	430	Errors and Appeals	Errors and Appeals	Err.App.D.
+361	432	Supreme Court	Supreme Court	Sup.D.
+366	437	Circuit Court	Circuit Court	Cir.D.
+370	441	Circuit Court	Circuit Court	Cir.D.
+381	452	Circuit Court	Circuit Court	Cir.D.
+383	454	Common Pleas	Common Pleas	Com.Pl.D.
+384	455	Common Pleas	Common Pleas	Com.Pl.D.
+385	456	Common Pleas	Common Pleas	Com.Pl.D.
+386	457	Common Pleas	Common Pleas	Com.Pl.D.
+387	458	Common Pleas	Common Pleas	Com.Pl.D.
+390	461	Common Pleas	Common Pleas	Com.Pl.D.
+391	462	Common Pleas	Common Pleas	Com.Pl.D.
+392	463	Common Pleas	Common Pleas	Com.Pl.D.
+394	465	Common Pleas	Common Pleas	Com.Pl.D.
+395	466	Common Pleas	Common Pleas	Com.Pl.D.
+396	467	Common Pleas	Common Pleas	Com.Pl.D.
+397	468	Common Pleas	Common Pleas	Com.Pl.D.
+399	470	Common Pleas	Common Pleas	Com.Pl.D.
+400	471	Common Pleas	Common Pleas	Com.Pl.D.
+427	498	Sessions	Sessions	Q.Sess.D.
+429	500	Sessions	Sessions	Q.Sess.D.
+432	503	Sessions	Sessions	Q.Sess.D.
+434	505	Sessions	Sessions	Q.Sess.D.
+438	509	Sessions	Sessions	Q.Sess.D.
+441	512	Sessions	Sessions	Q.Sess.D.
+443	514	Sessions	Sessions	Q.Sess.D.
+458	529	Chancery	Chancery	Ch.D.
+459	530	Chancery	Chancery	Ch.D.
+460	531	Chancery	Chancery	Ch.D.
+467	538	Civil	Civil	Civ.D.
+481	552	Civil	Civil	Civ.D.
+487	558	Civil	Civil	Civ.D.
+488	18	Civil	Civil	Civ.D.
+489	202	Civ	Civil	Civ.D.
+490	191	Civ	Civil	Civ.D.
+491	170	Apr	Appearance	Apr.D.
+492	172	Civil	Civil	Civ.D.
+493	57	Apr	Appearance	Apr.D.
+494	382	Road	Road	Rd.D.
+495	57	Equity	Equity	Eq.D.
+496	383	Road	Road	Rd.D.
+497	65	Civil	Civil	Civ.D.
+498	92	Misc	Miscellaneous	Misc.D.
+499	187	Misc	Miscellaneous	Misc.D.
+500	178	Civ	Civil	Civ.D.
+527	151	S	Suit	Su.D.
+528	62	Equity	Equity	Eq.D.
+529	130	Misc	Miscellaneous	Misc.D.
+530	178	Equity	Equity	Eq.D.
+531	88	Road	Road	Rd.D.
+532	21	Equity	Equity	Eq.D.
+533	31	Misc	Miscellaneous	Misc.D.
+535	165	MN	Miscellaneous	Misc.D.
+542	167	Misc	Miscellaneous	Misc.D.
+940	29	Apr	Appearance	Apr.D.
+959	367	Road	Road	Rd.D.
+960	44	Equity	Equity	Eq.D.
+961	327	OC	Orphans' Court	Orp.Ct.D.
+963	294	OC	Orphans' Court	Orp.Ct.D.
+1249	192	Apr	Appearance	Apr.D.
+1250	160	Appearance	Appearance	Apr.D.
+1251	208	CP	Common Pleas	Com.Pl.D.
+1252	16	Appearance (No. 3)	Appearance (No. 3)	Com.Pl.#3.Apr.D.
+1253	16	Execution	Execution	Ex.D.
+1254	35	Eq	Equity	Eq.D.
+1255	171	Eq	Equity	Eq.D.
+1256	50	Trust	Trust	Trust.D.
+1257	186	Trust	Trust	Trust.D.
+1258	59	Equity	Equity	Eq.D.
+1259	47	Continuance	Continuance	Cn.D.
+1260	166	Civil	Civil	Civ.D.
+1261	319	Orphans' Court	Orphans' Court	Orp.Ct.D.
+1262	59	Civil	Civil	Civ.D.
+1263	37	Equity	Equity	Eq.D.
+1264	380	Sess	Sessions	Q.Sess.D.
+1265	1343	App	Appellate	App.D.
+1282	16	Appearance (No. 4)	Appearance (No. 4)	Com.Pl.#4.Apr.D.
+1283	184	Appearance	Appearance	Apr.D.
+1284	391	Election	Election	Elec.D.
+1285	15	S	Suit	Su.D.
+1286	44	Misc	Miscellaneous	Misc.D.
+1287	60	Misc	Miscellaneous	Misc.D.
+1302	1672	County	County	County.D.
+1304	1674	County	County	County.D.

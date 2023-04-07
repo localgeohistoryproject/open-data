@@ -1,0 +1,12 @@
+plssfirstdivisionid	plssfirstdivisionshort	plssfirstdivisionlong	plssfirstdivisionisdefault	plssfirstdivisionnotes
+1	FS	Fractional Section	f	Fractional sections are sections that are invaded by water or a protraction such that at least one quarter corner can not be established and the method for subdividing the section is modified. The fractional sections may not have been identified in some of the early standard implementations.
+2	LT	Lot	f	These are lots that occur only rarely in non-sectionalized Townships. In these cases the township is divided into lots, but again this is a rare occurrence.
+3	PB	Protracted Block	f	Protracted Blocks are divisions that provide a defined division in unsurveyed PLSS Townships. Protracted Blocks are defined by the coordinate values of the corners.
+4	QT	Quarter Township	f	The quarter townships exist in Ohio only. These are divisions that quarter the township and in some cases the quarter township is quartered again into four lots or parcels.
+5	SN	Section	t	The section is the most commonly occurring first division and is nominally one mile on a side. The section numbers are commonly 1 to 36 but section numbers as high as 48 have been identified.
+6	TR	Tract	f	There are two uses of Tracts as a first division. (1) PLSS Tracts in the eastern states that should be in the PLSS Special Survey Feature Class but are included in the First Division as a transition to the fully compliant standard. (2) Paragraph 3-122 of the 1973 manual "when administration or disposal requires no subdivision, an island is given a tract number within a township. In such cases, the section lines need not be extended to the island."
+7	UA	Unsectionalized Area	f	Unsectionalized areas are lands that were never divided and no protraction or definition of division was generated. Over time these areas are expected to have division types added
+8	UK	Unknown	f	If the type of first division is not known than this code and description is available as a placeholder until the type of first division can be established.
+9	UN	Unsurveyed Unprotracted	f	Unsurveyed Unprotracted divisions are always sections but there is no survey or plan of survey. These divisions have been termed extended PLSS or PLSS grids in some implementations.
+10	UP	Unsurveyed Protracted	f	Unsurveyed Protracted divisions are always a section but have not been measured by survey. The protraction diagram is a plan of survey.
+11	WH	Whole	f	Not used by federal government. Signifying situations where the whole township is included.

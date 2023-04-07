@@ -1,0 +1,634 @@
+adjudicationsourcecitationid	source	adjudicationsourcecitationvolume	adjudicationsourcecitationpagefrom	adjudicationsourcecitationpageto	adjudicationsourcecitationyear	adjudicationsourcecitationdate	adjudicationsourcecitationtitle	adjudicationsourcecitationauthor	adjudicationsourcecitationjudge	adjudicationsourcecitationdissentjudge	adjudicationsourcecitationurl	adjudication
+1	471	207	161	181	1908	1907-11-18	Hunter v. City of Pittsburgh.	Butler, Charles Henry	Moody, William Henry			2
+2	471	207	161	181	1908	1907-11-18	Hunter v. City of Pittsburgh.	Butler, Charles Henry	Moody, William Henry			3
+3	471	502	860	860	1995	1991-10-07		Wagner, Frank D.				4
+4	348	3	36	\N		1971-07-30						6
+5	348	2	496	\N		1971-04-15						10
+6	348	2	587	\N		1971-07-12						11
+7	348	7	119	\N		1972-12-20						12
+8	348	5	85	\N		1972-03-29						12
+9	348	7	119	\N		1972-12-20						13
+10	348	5	85	\N		1972-03-29						13
+11	348	2	310	\N		1971-07-08						14
+12	348	2	619	\N		1971-07-30						15
+13	348	3	291	\N		1971-10-13						16
+14	348	4	214	\N		1971-12-29						17
+15	348	3	596	\N		1971-12-16						18
+16	348	5	296	\N		1972-05-01						19
+17	348	10	431	\N								20
+18	348	10	431	\N								21
+19	348	10	431	\N								22
+20	348	10	222	\N		1973-09-26						23
+21	348	7	43	\N		1972-12-11						24
+22	348	9	193	\N		1973-04-17						25
+23	348	9	193	\N		1973-04-17						26
+24	348	9	143	\N		1973-05-18						27
+25	348	11	251	\N		1973-12-13						28
+26	348	14	532	\N		1974-07-31						29
+27	348	12	181	\N		1974-03-08						30
+28	348	22	455	\N		1975-12-30						32
+29	348	20	77	\N		1975-06-30						33
+30	348	21	508	\N		1975-11-05						34
+31	348	25	227	\N		1976-06-18						35
+32	348	25	230	\N		1976-06-18						36
+33	348	33	180	\N		1977-12-27						37
+34	348	44	402	\N		1979-07-24						39
+35	348	44	402	\N		1979-07-24						40
+36	348	54	53	\N		1980-09-24						41
+37	348	54	566	\N		1980-11-17						43
+38	348	54	566	\N		1980-11-17						44
+39	348	75	334	\N		1983-06-30						46
+40	348	87	324	\N		1985-01-30						47
+41	348	88	530	\N		1985-04-09						48
+42	348	87	599	\N		1985-02-21						49
+43	348	93	528	\N		1985-12-17						50
+44	348	109	418	\N		1987-09-18						51
+45	348	123	172	187	1989	1989-01-27	Moon Township v. Findlay Township. West Allegheny School District and Findlay Township, Appellants	Wilks & Feldman	Palladino			52
+46	348	127	519	\N		1989-07-17						53
+47	348	127	519	\N		1989-07-17						54
+48	348	127	519	\N		1989-07-17						55
+49	348	125	604	\N		1989-05-05						56
+50	348	130	180	\N		1989-12-15						57
+51	348	150	595	\N		1992-09-24						58
+52	348	166	221	\N		1994-07-22						60
+53	348	157	540	\N		1993-08-10						61
+54	348	166	28	\N		1994-07-13						62
+55	348	166	28	\N		1994-07-13						63
+56	348	166	15	\N		1994-07-13						64
+57	348	0	0	0	2003	2003-12-02			Simpson, Robert		https://www.pacourts.us/assets/opinions/Commonwealth/out/2467CD02_12-2-03.pdf?cb=1	71
+58	348	0	0	0	2004	2004-02-27			Pellegrini, Dan	Jiuliante, Jess S.	https://www.pacourts.us/assets/opinions/Commonwealth/out/687CD03_2-27-04.pdf?cb=1	73
+59	348	0	0	0	2004	2004-05-04			Colins, James Gardner		https://www.pacourts.us/assets/opinions/Commonwealth/out/687CD03_5-4-04.pdf?cb=1	73
+60	348	0	0	0	2006	2006-12-11			Smith-Ribner, Doris A.		https://www.pacourts.us/assets/opinions/Commonwealth/out/533CD06_12-11-06.pdf?cb=1	74
+61	348	0	0	0	2007	2007-03-12			Friedman, Rochelle S.		https://www.pacourts.us/assets/opinions/Commonwealth/out/938CD06_3-12-07.pdf?cb=1	75
+62	348	0	0	0	2008	2008-12-19			Friedman, Rochelle S.		https://www.pacourts.us/assets/opinions/Commonwealth/out/545CD08_12-19-08.pdf?cb=1	76
+63	348	0	0	0	2011	2011-04-13			Leavitt, Mary Hannah		https://www.pacourts.us/assets/opinions/Commonwealth/out/2210CD09_4-13-11.pdf?cb=1	77
+64	348	0	0	0	2010	2010-06-30			Simpson, Robert		https://www.pacourts.us/assets/opinions/Commonwealth/out/2283CD09_6-30-10.pdf?cb=1	78
+65	348	0	0	0	2013	2013-08-09			Leavitt, Mary Hannah		https://www.pacourts.us/assets/opinions/Commonwealth/out/2268CD12_8-9-13.pdf?cb=1	79
+66	348	0	0	0	2014	2014-09-26			Leadbetter, Bonnie Brigance		https://www.pacourts.us/assets/opinions/Commonwealth/out/1426CD14_9-26-14.pdf?cb=1	80
+67	348	0	0	0	2015	2015-12-18			Brobson, P. Kevin		https://www.pacourts.us/assets/opinions/Commonwealth/out/2023CD14_12-18-15.pdf	81
+68	348	6	265	\N		1972-08-16						89
+69	352	12	372	377	1911	1900-01-17	Incorporation of the Borough of Wayne. Appeal of Frank Weckerly et al.	Kress, Wilson C., and Edward P. Allinson	Porter, William D.			90
+70	135	7	540	542	1900	1900-01-17	In re Incorporation of the Borough of Wayne	Bliss, Ward R.	Porter, W. D.			90
+71	352	12	363	372	1911	1900-01-17	Incorporation of Wayne Borough. Appeal of Howard O. Hildebrand.	Kress, Wilson C., and Edward P. Allinson	Porter, William D.			91
+72	135	7	533	539	1900	1900-01-17	In re Incorporation of the Borough of Wayne	Bliss, Ward R.	Porter, W. D.			91
+73	352	15	466	470	1911	1900-12-10	Morton Borough.	Schaffer, William I., and Edward P. Allinson	Per Curiam			92
+74	135	8	118	119	1903	1900-12-10	In re Incorporation of the Borough of Morton	Bliss, Ward R.				92
+75	352	19	127	130	1902	1902-01-21	Herndon Borough	Schaffer, William I., and Albert B. Weimer	Porter, William D.			93
+76	352	49	557	\N								98
+77	352	49	483	493	1912	1912-03-01	Fister, Appellant, v. Kutztown Borough.	Schaffer, William I., and Albert B. Weimer	Rice, Charles E.			99
+78	352	52	481	\N								100
+79	352	51	186	\N								101
+80	352	58	428	438	1915	1914-10-12	Forty-Sixth Ward	Schaffer, William I., and Albert B. Weimer	Rice			103
+81	352	66	334	338	1917	1917-04-16	Ortlip v. Shivery	Schaffer, William I., and Albert B. Weimer	Trexler			104
+82	352	69	103	106	1919	1918-03-02	Exeter & Northumberland Townships	Schaffer, William I., and Albert B. Weimer	Per Curiam			105
+83	352	75	543	551	1921	1921-03-05	In re Annexation of a Portion of Porter Township to the Borough of Jersey Shore	Weimer, Albert B., and Spencer Gilbert Nauman	Keller			106
+84	352	101	227	\N								108
+85	352	104	211	215		1932-01-28						109
+86	352	172	71	76		1952-11-12						111
+87	352	172	262	271								112
+88	352	209	426	\N								120
+89	352	209	52	\N								121
+90	352	213	313	\N								122
+91	352	213	321	\N								123
+92	352	209	749	\N								126
+93	352	213	76	\N								128
+94	352	212	738	\N								129
+95	352	57	546	553	1915	1914-07-15	Washington Township Division	Schaffer, William I., and Albert B. Weimer	Henderson			132
+96	352	176	38	52		1954-07-13						134
+97	352	176	52	53		1954-07-13						135
+98	352	176	53	57		1954-07-13						136
+99	352	176	53	57		1954-07-13						137
+100	352	176	53	57		1954-07-13						138
+101	352	176	53	57		1954-07-13						139
+102	352	176	53	57		1954-07-13						140
+103	352	176	38	52		1954-07-13						141
+104	352	176	38	52		1954-07-13						142
+105	352	176	38	52		1954-07-13						143
+106	352	176	52	53		1954-07-13						144
+107	352	176	52	53		1954-07-13						145
+108	352	176	52	53		1954-07-13						146
+109	352	181	232	\N								147
+110	352	203	709	\N								149
+111	352	7	4	15	1899	1898-02-19	Division of Sugar Notch Borough. School District's Appeal.	Kress, Wilson C., and Edward P. Allinson	Porter, William W.			154
+112	352	12	359	363	1911	1900-01-17	Incorporation of the Borough of Old Forge.	Kress, Wilson C., and Edward P. Allinson	Porter, William D.			155
+113	352	12	353	358	1911	1900-01-17	Incorporation of the Borough of Moosic.	Kress, Wilson C., and Edward P. Allinson	Porter, William D.			156
+114	352	12	118	126	1911	1899-12-11	Incorporation of Swoyerville Borough. Appeal of the Lehigh Valley Coal Company.	Kress, Wilson C., and Edward P. Allinson	Porter, William D.			157
+115	352	36	215	218	1908	1908-04-20	Higgins, Appellant, v. Price.	Schaffer, William I.	Rice, Charles E.			160
+116	352	169	129	\N								163
+117	352	169	129	\N								164
+118	352	5	36	40	1898	1897-07-23	Incorporation of Linton Borough. Appeal of George Renten et al.	Kress, Wilson C., and Edward P. Allinson	Rice, Charles E.			167
+119	352	5	29	35	1898	1897-07-23	In the Matter of the Incorporation of the Borough of Emsworth	Kress, Wilson C., and Edward P. Allinson	Rice, Charles E.			168
+120	352	7	532	548	1899	1898-07-29	In re Annexation of Morrellville Borough to the City of Johnstown. Appeal of George W. Wagoner, Mayor	Kress, Wilson C., and Edward P. Allinson	Rice, Charles E.			169
+121	352	9	212	215	1899	1899-01-18	Swissvale Borough Incorporation. Appeal of James and Henry Deniston	Kress, Wilson C., and Edward P. Allinson	Rice, Charles E.			171
+122	352	12	126	129	1911	1899-12-11	Incorporation of Rouseville Borough. Appeal of Cornplanter Township et al.	Kress, Wilson C., and Edward P. Allinson	Porter, William D.			172
+123	352	18	293	297	1902	1901-10-14	Wilkins Township School District	Schaffer, William I., and Albert B. Weimer	Porter, William D.			173
+124	352	20	381	383	1912	1902-05-22	Springdale Township.	Schaffer, William I., and Albert B. Weimer	Per Curiam			175
+125	352	23	285	290	1904	1903-10-05	Stowe Township Division.	Schaffer, William I., and Albert B. Weimer	Rice, Charles E.			177
+126	352	25	554	559	1904	1904-07-28	Edgeworth Borough	Schaffer, William I., and Albert B. Weimer	Morrison, Thomas A.			178
+127	352	25	623	628	1904	1904-07-28	Leetsdale Borough	Schaffer, William I., and Albert B. Weimer	Morrison, Thomas A.			179
+128	352	26	296	300	1917	1904-10-17	Washington Borough.	Schaffer, William I., and Albert B. Weimer	Beaver, James A.			180
+129	352	26	300	305	1917	1904-10-17	Donora Borough v. Donora Borough.	Schaffer, William I., and Albert B. Weimer	Beaver, James A.			181
+130	352	31	170	\N								182
+131	352	34	639	650	1911	1907-11-18	Sheraden Borough.	Schaffer, William I., and Albert B. Weimer	Beaver, James A.			183
+132	352	32	210	227	1911	1906-11-19	Pittsburg's Petition.	Schaffer, William I., and Albert B. Weimer	Orlady, George B.			184
+133	352	34	467	468	1911	1907-10-07	Beaver Borough, Appellant.	Schaffer, William I., and Albert B. Weimer	Beaver, James A.			185
+134	352	34	74	79	1911	1907-10-07	Clairton Borough.	Schaffer, William I., and Albert B. Weimer	Beaver, James A.			186
+135	352	65	48	50	1917	1916-10-09	Turtle Creek Broough	Schaffer, William I., and Albert B. Weimer	Williams			190
+136	352	64	63	68	1917	1916-07-18	Swissvale Borough	Schaffer, William I., and Albert B. Weimer	Kephart			191
+137	352	72	419	422	1920	1919-07-17	In re Incorporation of Borough of Forest Hills (No. 1)	Weimer, Albert B., and Spencer Gilbert Nauman	Trexler			193
+138	352	72	423	423	1920	1919-07-17	In re Incorporation of Borough of Forest Hills (No. 2)	Weimer, Albert B., and Spencer Gilbert Nauman	Trexler			194
+139	352	74	291	294	1921	1920-07-14	Appeal of Upper Yoder Township et al.	Weimer, Albert B., and Spencer Gilbert Nauman	Per Curiam			195
+140	352	74	275	280	1921	1920-04-24	In re: Annexation of Mill Creek Township, Erie County	Weimer, Albert B., and Spencer Gilbert Nauman	Trexler			196
+141	352	75	162	167	1921	1920-11-08	In re Incorporation of Borough of Castle Shannon	Weimer, Albert B., and Spencer Gilbert Nauman	Porter			197
+142	352	91	1	\N								198
+143	352	99	150	151	1930	1930-07-10	In Re: Appeal of Love and Menteer	Weimer, Albert B., and Spencer Gilbert Nauman	Per Curiam			199
+144	352	99	467	475		1930-07-10	In Re: Appeal from Ordinance of the City of Pittsburgh		Linn			200
+145	352	103	106	\N								201
+146	352	103	106	\N								202
+147	352	111	380	\N								203
+148	352	126	25	\N								204
+149	352	126	53	\N								205
+150	352	148	52	\N								207
+151	352	158	40	\N								208
+152	352	159	383	\N								209
+153	352	161	122	\N								210
+154	352	160	475	\N								215
+155	352	163	84	\N								217
+156	352	161	259	\N								218
+157	352	163	84	\N								219
+158	352	161	397	\N								220
+159	352	161	397	\N								221
+160	352	161	397	\N								222
+161	352	163	568	\N								223
+162	352	165	134	\N								225
+163	352	165	134	\N								226
+164	352	165	119	\N								227
+165	352	165	119	\N								228
+166	352	168	516	\N								230
+168	352	168	582	\N								231
+169	352	168	415	\N								233
+170	352	171	256	\N								235
+171	352	171	256	\N								236
+172	352	171	642	\N								237
+173	352	178	376	\N								238
+174	352	189	569	\N								244
+175	352	202	415	\N								246
+176	352	204	453	\N								247
+177	352	208	62	\N								248
+178	352	206	166	\N								249
+179	352	206	166	\N								250
+180	352	208	70	\N								251
+181	352	209	160	\N								252
+182	352	211	186	\N								255
+183	352	211	180	\N								256
+184	352	211	180	\N								257
+185	352	218	312	\N								261
+186	352	217	723	\N								262
+187	352	219	770	\N								263
+188	352	218	742	\N								264
+189	352	217	439	\N		1970-12-10						265
+190	352	217	870	\N								266
+191	352	217	875	\N								267
+192	352	217	346	\N		1970-12-10						269
+193	352	217	720	\N								271
+194	475	5	281	284	1844	1843-03-~01	Case of the Borough of West Philadelphia.	Watts, Frederick and Henry J. Sergeant	Gibson, John Bannister			278
+195	346	28	256	258	1858		Borough of Little Meadows	Casey, Joseph	Woodward, George W.			279
+196	346	35	335	336	1860		Borough of Little Meadows	Casey, Joseph	Lowrie, Walter H.			281
+197	346	52	391	393	1867	1866-10-17	Commonwealth ex rel. Bridgewater School Directors versus The Council of Montrose Borough	Smith, P. Frazer	Strong, William			282
+198	475	2	320	\N			In the Matter of the District of the City of Pittsburgh					379
+199	346	105	323	328	1903	1884-03-03	McFate's Appeal.	Outerbridge, Albert A.	Trunkey			284
+200	479	2	169	175	1890	1885-05-29	Hatfield Township School District	Walker, Lewis B.	Clark, Silas M.			285
+201	320	1	77	81	1885	1885-05-29	In re Proceedings for Independent School District in Hatfield Township	Hobson, F. G.	Clark, Silas M.			285
+202	476	18	82	84	1887	1886-03-08	In re Incorporation of La Plume as a Borough	Fries, Harry C.	Sterrett			287
+203	346	109	600	606	1887	1885-04-27	Gilchrist's Appeal	Outerbridge, Albert A.	Mercur			288
+204	476	20	494	496	1888	1888-01-03	In re Borough of Pottstown	Lewis, Lawrence, Jr.	Clark, Silas M.			290
+205	346	117	538	548	1888	1888-01-03	In re The Borough of Pottstown	Crumrine, Boyd	Clark, Silas M.			290
+206	26	12	573	575	1888	1888-01-03	In re Borough of Pottstown		Clark, Silas M.			290
+207	320	4	29	33	1888		In re Change of Limits of Borough of Pottstown	Hobson, F. G.; Bickel, John W.	Clark, Silas M.			290
+208	346	112	66	72	1886	1886-03-01	Darby versus Sharon Hill.	Amerman, Lemuel	Clark, Silas M.			291
+209	135	2	493	497	1886	1886-03-01	Appeal of the Borough of Darby	Bliss, Ward R.	Clark, Silas M.			291
+210	320	4	69	69	1888	1888-03-19	Incorporation of Pennsburg	Hobson, F. G.; Bickel, John W.	per curiam			293
+211	105	11	842	842	1888	1888-03-19	Re Incorporation of Borough of Pennsburg.	Smith, Edmund H.				293
+212	476	22	106	107	1889	1888-03-19	In re Incorporation of the Borough of Pennsburg	Lewis, Lawrence, Jr., and Henry C. Olmstead				293
+213	476	22	180	181	1889	1888-05-14	Borough of Milesburg v. Green et al.					294
+214	476	21	533	534	1888	1888-03-19	In re Incorporation of the Borough of Taylorport		Green			295
+215	346	140	250	253	1891	1891-02-23	Incorporation of Sharon Hill Borough. Appeals by Darby Borough et al. from the Court of Quarter Sessions of Delaware County.	Crumrine, Boyd				296
+216	346	140	250	253	1891	1891-02-23	Incorporation of Sharon Hill Borough. Appeals by Darby Borough et al. from the Court of Quarter Sessions of Delaware County.	Crumrine, Boyd				297
+217	346	142	511	518	1891	1891-05-25	Annexation to Borough of Camp Hill	Crumrine, Boyd	Clark, Silas M.			298
+218	346	148	299	\N								299
+219	346	148	606	620	1893	1892-04-25	Commonwealth ex rel., Appellant, v. McGroarty.	Monaghan, James	Paxson			301
+220	346	154	24	29	1893	1892-07-13	McAskie's Appeal.	Monaghan, James	Green			302
+221	346	154	24	29	1893	1893-03-06	McAskie's Appeal.	Monaghan, James				302
+222	346	160	475	479	1894	1894-03-26	Taylor Borough. Atherton's Appeal.	Monaghan, James				303
+223	26	28	934	934	1894	1894-03-26	In re Borough of Taylor. Appeal of Atherton et al.					303
+224	346	160	494	498	1894	1894-03-26	Lackawanna Township. Harris's Appeal.	Monaghan, James	Williams, Henry W.			304
+225	346	166	502	507	1895	1895-03-05	Prospect Park Borough. Appeal of Charles F. Oesterle, Jr., et al.	Kress, Wilson C.				305
+226	135	6	137	139	1897	1895-03-05	In Re Incorporation of the Borough of Prospect Park	Bliss, Ward R.				305
+227	346	168	628	634	1895	1895-05-30	Incorporation of Flemington Borough. Philip H. Walker's Appeal.	Kress, Wilson C.	McCollum, J. Brewster			306
+228	346	171	211	221	1896	1895-10-07	Incorporation of The Borough of Narberth. Appeal of J. Pemberton Ellis and Others.	Kress, Wilson C.	Sterrett, James Patterson			307
+229	346	167	628	632	1895	1895-04-29	J. W. Gilchrist, Receiver of Taxes for the City of Wilkes-Barre, v. Theodore Strong et al., Appellants	Kress, Wilson C.	Per Curiam			308
+230	346	167	612	614	1895	1895-04-29	Plymouth Borough. Plymouth Township's Appeal.	Kress, Wilson C.				309
+231	135	6	321	323	1897	1896-03-02	Walther's Appeal	Bliss, Ward R.				310
+232	346	174	177	181	1896	1896-03-02	In re Proceedings for Approval of Ordinance of the city of Chester annexing certain lands in the township of Chester to the city of Chester. Appeals of Otto Walther and of Martha S. Knowles, Executrix, etc., of Joshua P. Eyre, deceased.	Kress, Wilson C.				310
+233	346	168	441	445	1895	1895-05-27	Petition of Citizens of Glad Township for Annexation to the Borough of Warren. Schultz's Appeal. Beaty's Appeal.	Kress, Wilson C.				311
+234	26	32	37	38	1895	1895-05-27	In re Glade Tp. Appeal of Shultz et al.					311
+235	346	168	441	445	1895	1895-05-27	Petition of Citizens of Glad Township for Annexation to the Borough of Warren. Schultz's Appeal. Beaty's Appeal.	Kress, Wilson C.				312
+236	26	32	38	38	1895	1895-05-27	In re Glade Tp. Appeal of Beatty.					312
+237	346	174	203	210	1896	1896-03-02	The Township of Upper Darby v. The Borough of Lansdowne, Appellant, and The Provident Life and Trust Company, of Philadelphia, and others holding bonds of said The Township of Upper Darby	Kress, Wilson C.	Per Curiam			313
+238	346	192	349	358	1900	1899-07-19	Sugar Notch Borough. Appeal of Warrior Run School District	Kress, Wilson C.	Mitchell, James T.			314
+239	346	217	435	438	1907	1907-04-01	Commonwealth ex rel. v. Parsons, Appellant	Schaffer, William I.	Per Curiam			316
+240	346	233	222	229	1912	1911-10-17	Commonwealth ex rel., Appellant, v. Langley.	Schaffer, William I.	Brown, J. Hay			317
+241	346	248	581	584	1915	1915-03-22	Commonwealth v. City of South Bethlehem, Appellant	Schaffer, William I.	Elkin, John P.			318
+242	346	248	518	523	1915	1915-03-15	Commonwealth, ex rel., Heinly, Appellant, v. Marks.	Schaffer, William I.	Moschzisker, Robert			319
+243	346	253	1	5	1916	1916-03-13	Commonwealth, ex rel, v. Hudson, Appellant	Schaffer, William I.	Per Curiam			320
+244	346	266	537	\N								321
+245	346	299	297	305	1930	1930-02-05	Upper Merion Township et al., Appellants, v. Bridgeport Borough et al.	Weimer, Albert B.	Moschzisker, Robert von			322
+246	346	374	529	\N		1953-06-26						325
+247	346	374	542	\N		1953-06-26						326
+248	346	374	546	\N		1953-06-26						327
+249	346	374	537	\N		1953-06-26						328
+250	346	374	543	\N		1953-06-26						329
+251	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		338
+252	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		339
+253	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		340
+254	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		341
+255	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		342
+256	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		343
+257	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		344
+258	346	405	150	164	1962	1961-07-17	West Conshohocken Borough Appeal.	Eldredge, Laurence H.	Jones, Benjamin R.	Musmanno, Michael Angelo		345
+259	346	0	0	0	2014	2014-10-17			Per Curiam		https://www.pacourts.us/assets/opinions/Supreme/out/724MAL2014%20-%201019792522723947.pdf?cb=1	356
+260	346	1	97	101	1870	1845-05-~01	In the Matter of the Division of Bethel Township	Barr, Robert M.	Per Curiam			357
+261	475	9	22	27	1846	1845-05-~01	Case of Green Township.	Watts, Frederick and Sergeant, Henry J.	Kennedy, John			358
+262	346	246	468	473	1915	1914-07-01	Commonwealth, Appellant, v. City of Pottsville	Schaffer, William I.	Elkin, John P.			359
+263	346	0	0	0	2015	2015-07-20			Stevens, Correale F.		https://www.pacourts.us/assets/opinions/Supreme/out/J-110-2014mo.pdf?cb=2	364
+264	346	0	0	0	2015	2015-07-20				Saylor, Thomas G.	https://www.pacourts.us/assets/opinions/Supreme/out/J-110-2014do.pdf?cb=2	364
+265	346	0	0	0	2005	2005-03-08			Per Curiam		https://www.pacourts.us/assets/opinions/Supreme/out/299wal2004.pdf?cb=1	375
+266	346	0	0	0	2010	2010-11-23			Per Curiam		https://www.pacourts.us/assets/opinions/Supreme/out/410wal2010.pdf?cb=1	376
+267	346	0	0	0	2016	2016-05-16			Per Curiam		https://www.pacourts.us/assets/opinions/Supreme/out/24WAL2016%20-%201026610527069635.pdf	378
+268	346	12	266	268	1852		COMMONWEALTH ex rel. v. FULLERTON.	Jones, J. Pringle, and R. C. McMurtrie	Coulter, Richard			380
+269	346	36	80	80	1861	1853-12-15	Borough of Sewickley	Casey, Joseph	Woodward, George W.			382
+270	346	56	163	166		1867-11-07	Devore's Appeal		Strong, William			384
+271	346	56	66	69		1867-11-04	Borough of Blooming Valley		Agnew, Daniel			385
+272	346	70	108	113	1873	1871-11-13	Wilkins Township School District	Smith, P. Frazer	Agnew			386
+273	346	79	317	324	1876	1876-01-06	Pittsburg's Appeal	Smith, P. Frazer	Gordon, Isaac G.			387
+274	476	6	492	493		1878-10-21	Borough of McKeesport v. Owens et al.					389
+275	346	101	284	288	1884	1882-10-25	In re Incorporation of Borough of Osborne. Appeal of Rhoads et al.	Outerbridge, Albert A.	Trunkey, John			390
+276	346	114	362	367	1887	1886-11-01	In re Incorporation of Summit Borough	Amerman, Lemuel	Clark, Silas M.			392
+277	346	122	547	557	1889	1888-10-29	APPEAL OF T. MASON RICHARDS	Crumrine, Boyd	Clark			393
+278	346	129	567	570	1890	1889-10-28	Incorporation of Jeannette Borough	Crumrine, Boyd	Per Curiam			394
+279	346	131	365	367	1890	1889-~01-~01	Incorporation of Wilkinsburg Borough	Crumrine, Boyd	Per Curiam			395
+280	346	131	368	370	1890	1890-01-06	Incorporation of Wilkinsburg Borough	Crumrine, Boyd	Per Curiam			396
+281	346	130	348	355	1890	1889-11-11	Incorporation of the Bor. of Edgewood	Crumrine, Boyd	Per Curiam			397
+282	346	146	111	\N								398
+283	346	147	58	67	1893	1892-01-04	Incorporation of Duquesne Borough. Oliver's Appeal	Monaghan, James	Sterrett, James P.			399
+284	476	34	48	50	1894	1893-12-30	In re Incorporation of the Borough of Versailles	Thomas, Samuel Hinds	McCollum			401
+285	346	198	372	376	1901	1901-01-21	Commonwealth ex rel. Jones, v. Blackley.	Schaffer, William I.	Mitchell			403
+286	346	217	227	239	1907	1907-03-11	Pittsburg's Petition.	Schaffer, William I.	Brown, J. Hay			405
+287	346	254	185	195	1917	1916-05-23	Moore, Appellant, v. Pittsburgh	Schaffer, William I.				406
+288	346	262	433	436	1919	1918-10-23	Parkin, Appellant, v. New Kensington Borough.	Schaffer, William I.				407
+289	346	0	0	0	2017	2017-02-22			Wecht, David N.		https://www.pacourts.us/assets/opinions/Supreme/out/J-103-2016mo%20-%2010300066816128048.pdf?cb=1	443
+290	346	212	533	548	1906	1905-06-22	Sample v. Pittsburg	Schaffer, William I.	Mestrezat, S. Leslie	Potter, William P.		445
+291	387	48	299	301	1901	1901-01-14	Corey v. Borough of Edgewood	Vaill, Edward B., and Thomas Ewing, Jr.	Shafer			471
+292	349	10	649	650	1901	1901-07-27	Crawford et al. v. Allegheny County Commissioners	Page, Howard W.	Frazer			472
+293	349	18	839	841	1909	1909-06-29	Denny et al. v. Bellevue Borough.	Page, Howard W.	Miller			473
+294	81	7	116	121	1915	1914-12-26	Commonwealth ex re., etc., vs. Marks, City Clerk.	Stauffer, Randolph and Wellington M. Bertolet	Endlich, Gustav A.			478
+295	81	3	202	210	1911	1910-12-05	Fister et al. vs. Kutztown.	Stauffer, Randolph and Wellington M. Bertolet	Endlich, Gustav A.			479
+296	81	3	210	215	1911	1911-02-06	Fister et al. vs. Kutztown.	Stauffer, Randolph and Wellington M. Bertolet	Endlich, Gustav A.			479
+297	349	23	82	84	1914	1913-04-26	Treichler et al. v. Kutztown	Bertolet, Wellington M.	Wagner, George W.			480
+298	81	6	218	223		1914-05-23	Treichler et al. vs. Borough of Kutztown.		Wagner, George W.			481
+299	349	18	497	498	1909	1909-03-29	Burke et al. v. Coatesville Borough et al. No. 3.	Cornwell, Gibbons Gray	Butler			497
+300	349	18	493	497	1909	1907-09-23	Burke et al. v. Coatesville Borough et al. No. 2.	Cornwell, Gibbons Gray	Butler			497
+301	349	18	491	493	1909	1907-07-08	Burke et al. v. Coatesville Borough et al. No. 1.	Cornwell, Gibbons Gray	Butler			497
+302	127	17	62	67	1914	1914-04-11	Commonwealth of Pennsylvania, ex rel., John C. Bell, Attorney General, vs. The City of Pottsville, a municipal corporation, and F. Pierce Mortimer, mayor, Harry K. Portz, controller, Hugh Dolan, A. L. Eckert, James M. Shellhammer, Joseph N. Nichter, councilmen, and F. S. Freiler, P. J. Martin, Frank Little, Horace McCool, Joseph Johnson, T. E. Hummel and C. Ackerman, aldermen, officers of said City of Pottsville	Barnett, George R.	Kunkel, George			529
+303	135	7	566	571	1900	1900-03-19	The Borough of Lansdowne vs. The Township of Upper Darby	Bliss, Ward R.	Butler			534
+304	135	7	583	584	1900	1900-04-09	The School District of the Township of Springfield vs. The School District of the Borough of Morton	Bliss, Ward R.	Johnson			535
+306	209	9	355	358	1909	1908-12-02	A. M. Harris vs. Taylor Borough School District	Fitzsimmons, Frank J.	Edwards			543
+307	209	8	333	335	1908	1907-12-09	Patrick Higgins, Collector of the School Taxes for the School District of Lackawanna Township vs. Luther Price	Fitzsimmons, Frank J.	Edwards			544
+308	208	1	5	9	1896	1895-01-17	JOHN HALE ET AL. vs. JAMES BUTLER	McAskie, John G.	Edwards			554
+309	135	6	97	101	1897	1895-01-17	Hale et al. vs. Butler	Bliss, Ward R.	Edwards			554
+310	209	7	248	256	1907	1906-09-~01	The Township of Lackawanna vs. The Borough of Moosic	Fitzsimmons, Frank J.	Edwards			559
+311	135	3	575	582	1889	1889-01-19	Hoffman vs. Matthes et al.	Bliss, Ward R.	McPherson; Simonton			565
+312	259	1	190	195	1882		The Township of Jenkins v. The Borough of Yatesville	Kulp, George B.	Rice			568
+313	259	4	125	137	1888	1886-08-09	WOODWARD et al. v. THE CITY OF WILKES-BARRE	Kulp, George B.	Rice			570
+314	259	5	49	52	1890	1888-06-30	THE TOWNSHIP OF KINGSTON v. THE BOROUGH OF LUZERNE et al.	Kulp, George B.	Rice			571
+315	259	9	278	280	1900	1898-11-02	HUNLOCK v. JONES et al.	Kulp, George B.	Woodward			574
+316	259	9	361	364	1900	1899-03-29	COMMONWEALTH ex rel. MCMANUS v. RICKETTS	Kulp, George B.	Woodward			575
+317	259	9	359	361	1900	1899-03-29	COMMONWEALTH ex rel. WRIGHT v. HILLMAN et al.	Kulp, George B.	Woodward			576
+318	259	10	193	198	1902	1901-01-21	Commonwealth ex rel. Yeager v. Nichols	Kulp, George B.	Ferris			577
+319	259	10	293	296	1902	1901-03-18	Commissioners of the Township of Plymouth v. Sweeney et al.	Kulp, George B.	Lynch			578
+320	259	10	317	319	1902	1901-06-10	Commonwealth ex rel. v. Rooney et al.	Kulp, George B.	Lynch			579
+321	259	13	194	195	1908	1906-10-24	IN RE DIVISION LINE BETWEEN WRIGHT AND DORRANCE TWPS.	Coons, Joseph D., and W. E. Woodruff	Wheaton			580
+322	259	15	481	486	1912	1911-09-07	Namcarrow v. Smith et al., Co Com.	Coons, Joseph D., and W. E. Woodruff	Fuller	Garman		581
+323	259	16	77	82	1914	1912-01-11	McDonough et al. v. Murray et al.	Coons, Joseph D., and W. E. Woodruff	Strauss	Garman		582
+324	259	21	319	320	1922	1921-07-~01	COMMONWEALTH ex rel. v. COUNTY COMMISSIONERS	Woodruff, W. E.	Fuller			583
+325	259	18	343	349	1917	1916-06-02	PLYMOUTH TWP. v. LARKSVILLE BORO.	Coons, Joseph D., and W. E. Woodruff	O'Boyle			585
+326	320	28	155	156	1912	1912-06-03	Township of Upper Gwynedd vs. Borough of North Wales	Place, A. R.	Weand, Henry K.			589
+327	320	33	39	51	1917	1916-07-01	Blank, et al. v. Borough of Souderton	Place, A. R.	Miller, John Faber			590
+328	320	33	52	52	1917	1916-10-28	Blank, et al. v. Borough of Souderton	Place, A. R.	Miller, John Faber			590
+329	320	44	129	136	1928	1928-06-01	The Township of Upper Merion, Montgomery County, Pa. et al, vs. The Borough of Bridgeport, Montgomery County, Pa., et al.	Fegley, N. P.	Knight, Harold G.			591
+330	337	7	23	26	1901	1899-06-26	STEWART V. CITY OF EASTON.	Maxwell, H. D.	Schuyler			592
+331	349	19	914	918	1910	1910-09-12	Sunbury Borough v. Rockefeller	Clement, C. M.	Auten			596
+332	338	1	1	5	1915	1913-03-07	Murray, et al., v. Borough of Shamokin	Morganroth, C. K.				600
+333	220	1	130	131	1882	1878-12-16	The Phila. & Reading Coal & Iron Company vs. Herold, et al., Chief Burgess and Councilmen of The Borough of Ashland.		Pershing			607
+334	347	34	407	413	1908	1908-01-15	Com. ex rel. Wright v. Marsh	Parkinson, Robert W., Jr.	Taylor, James Franklin			627
+335	346	16	79	94	1856	1851-03-~01	Penny Pot Landing; or, Com'th ex rel. Northern Liberties versus The City of Philadelphia	Harris, George W.	Coulter, Richard			1209
+336	387	43	293	294	1896	1896-02-24	In re the Incorporation of The Borough of Linton	Breck, E. Y.	Slagle			1477
+337	347	19	102	106	1897	1897-01-21	In re Annexation to East Pittsburgh Borough	Alter, G. E.	White, John W. F.			1485
+338	387	47	308	309	1900	1900-03-17	In re Application for Incorporation of Borough of Wall	Vaill, Edward B., and Thomas Ewing, Jr.	White			1505
+339	387	48	172	172	1900	1900-12-01	In re Incorporation of the Borough of West Homestead	Vaill, Edward B., and Thomas Ewing, Jr.	Shafer			1507
+340	349	15	423	426	1906	1906-04-25	Petition of City of Pittsburgh for Consolidation with the City of Allegheny.	Mattern, Edwin L.	McClung			1575
+341	221	3	240	245	1910	1908-08-10	Shillington Borough's Application	Wise, Leo and Charles W. Kaeppel	Endlich			2576
+342	221	3	298	307	1910	1909-09-25	In Re Extension of Borough of Kutztown	Wise, Leo and Charles W. Kaeppel	Endlich, Gustav A.			2577
+343	81	2	11	18	1910	1909-09-25	In Re Extension of the Borough of Kutztown	Stauffer, Randolph and Wellington M. Bertolet	Endlich, Gustav A.			2577
+344	347	11	126	133	1892	1892-01-23	Wintergreen Alley	Schaeffer, D. N.	Endlich			2749
+345	349	1	269	273	1892	1892-01-23	Wintergreen Alley	Schaeffer, D. N.	Endlich			2749
+346	347	24	541	543	1901	1900-08-06	Logan Township Case.	Leedom, Levi	Bell			2835
+347	347	11	97	105	1892	1891-12-07	Tullytown Borough	Applebach, Paul H.	Yerkes, Harman			3197
+348	135	4	583	595	1892	1891-12-07	In re Borough of Tullytown	Bliss, Ward R.	Yerkes			3197
+349	347	17	529	531	1896	1895-08-26	Springtown Borough Incorporation	Stout, Mahlon H.	Yerkes, Harman			3203
+350	347	17	531	533	1896	1895-08-26	Benjamin Borough Incorporation	Stout, Mahlon H.	Yerkes, Harman			3204
+351	166	3	203	204	1864	1855-05-21	Borough of Quakertown	Grant, Benjamin	Woodward			11211
+352	347	20	257	268	1898	1898-01-05	Annexation of Morrellville Borough.	Reed, S. L.	Barker			3638
+353	135	4	49	51	1892	1889-07-08	In re Annexation of Lands to Easttown School District	Bliss, Ward R.	Butler			4218
+354	347	19	452	\N								4361
+355	347	10	321	325	1892	1891-05-04	Millville Borough.	Chrisman, William	Ikeler, E. R.			4562
+356	347	37	582	584	1910	1909-~01-~01	Meadville Annexation.	Roberts, James D.	Prather			4653
+357	347	18	539	540	1897	1896-11-05	Riverton Borough	Mills, George Edward	Biddle, Edward W.			4919
+358	349	6	685	686	1897	1897-10-20	Riverton Borough (No. 2)	Miller. A. G.	Biddle, Edward W.			4920
+359	347	20	63	64	1898	1897-10-20	Riverton Borough	Mills, George Edward	Biddle, Edward W.			4920
+360	347	3	479	479	1887	1882-09-13	Lark's Petition		McPherson, John B.			4986
+361	127	5	296	303	1902	1902-11-03	In re Application for the incorporation of the Village of Highspire into a Borough	Barnett, George R.	Weiss			5005
+362	135	2	440	442	1886	1885-12-07	In re Borough of Sharon Hill	Bliss, Ward R.	Clayton, Thomas J.			5087
+363	347	11	108	110	1892	1891-12-14	Ridley Park Borough	Harrison, William H., Jr.	Clayton, Thomas J.			5092
+364	135	3	541	543	1889	1888-12-03	In re Borough of Eddystone	Bliss, Ward R.	Clayton, Thomas J.			5093
+365	349	1	308	309	1892	1891-12-14	Ridley Park Borough	Fronefield, W. Roger	Clayton			5096
+366	135	4	597	600	1892	1891-12-14	Burk vs. Borough of Ridley Park	Bliss, Ward R.	Clayton, Thomas J.			5096
+367	135	4	252	253	1892	1890-06-02	In re Borough of Sharon Hill	Bliss, Ward R.	Clayton, Thomas J.			5097
+368	347	11	105	108	1892	1891-12-14	Collingdale Borough	Harrison, William H., Jr.	Clayton, Thomas J.			5098
+369	135	4	595	597	1892	1891-12-14	In re Borough of Collingdale	Bliss, Ward R.	Clayton, Thomas J.			5098
+370	135	6	429	431	1897	1896-06-01	In re Division of Indebtedness and Property between the School Districts of Darby and Collingdale	Bliss, Ward R.	Clayton, Thomas J.			5098
+371	347	14	290	291	1894	1893-12-18	Yeadon Borough	Williamson, W. McK.	Clayton, Thomas J.			5105
+372	135	5	405	407	1894	1893-12-18	In Re Incorporation of Yeadon Borough	Bliss, Ward R.	Clayton, Thomas J.			5105
+373	135	6	139	141	1897	1895-02-04	In Re Annexation of part of Chester Township to the City of Chester	Bliss, Ward R.	Clayton, Thomas J.			5109
+374	135	8	47	50	1903	1900-08-13	In re Incorporation of the Borough of Morton	Bliss, Ward R.	Johnson, Isaac			5119
+375	135	7	123	127	1900	1898-01-19	In re Annexation of the Borough of South Chester to the City of Chester	Bliss, Ward R.	Hemphill, Joseph			5120
+376	135	6	539	541	1897	1897-03-01	In re Appeal from Ordinance of South Chester Borough	Bliss, Ward R.	Clayton, Thomas J.			5120
+377	135	8	482	485	1903	1902-09-12	In re Annexation to the Borough of Media	Bliss, Ward R.	Johnson, Isaac			5127
+378	135	10	479	481	1909	1908-06-02	Kent's Petition	Bliss, Ward R.	Johnson			5130
+379	135	10	479	481	1909	1908-06-02	Kent's Petition	Bliss, Ward R.	Johnson			5131
+380	135	11	174	182	1911	1909-10-12	Incorporation of Borough of Millbourne	Geary	Johnson			5133
+381	135	11	492	499	1911	1911-05-27	In re Incorporation of The Borough of East Lansdowne	Geary, Alexander B.	Broomall			5134
+382	347	31	321	\N								5499
+383	347	6	140	141	1889	1888-11-27	Waynesboro' Extension	Alexander, William	Rowe, D. Watson			5559
+384	135	3	461	467	1889	1888-06-11	Carbondale Township's Appeal, No. 2	Bliss, Ward R.	Archbald			6151
+385	209	1	131	132	1889	1889-05-27	In re: Annexation of part of Carbondale Township to City of Carbondale	Fitzsimmons, F. J.	Archbald			6152
+386	209	2	141	143			In re Independent School District in South Abington Township	Fitzsimmons, Frank J.	Archbald			6160
+387	209	2	233	236			In re: Application to annex land in the Borough of Dunmore to the City of Scranton	Fitzsimmons, Frank J.	Gunster			6161
+388	209	3	293	296	1895	1893-11-20	In re Borough of Throop	Fitzsimmons, Frank J.	Archbald			6167
+389	135	5	501	504	1894	1893-11-20	In Re Borough of Throop	Bliss, Ward R.	Archbald			6167
+390	208	2	109	111	1897	1896-04-13	In re Establishing line between Carbondale Township and Borough of Archbald.	McAskie, John G.	Gunster			6178
+391	208	6	124	128	1901	1897-01-27	In Re Borough of Pyne	McAskie, John G.	Archbald, Robert W.			6179
+392	349	6	353	356	1897	1897-01-27	Pyne Borough Incorporation	Wilcox, William A.	Archbald, Robert W.			6179
+393	349	7	203	204	1898	1898-01-20	Moosic Borough.	Wilcox, William A.	Archbald			6181
+394	135	7	462	467	1900	1899-04-28	In re Borough of Old Forge	Bliss, Ward R.	Archbald			6186
+395	208	5	185	189	1900	1899-04-28	In Re Borough of Old Forge.	McAskie, John G.	Archbald			6186
+396	209	4	362	365	1904	1904-01-~01	In re: Apportionment of Indebtedness of Old Forge Township School District and Old Forge Borough School District	Fitzsimmons, Frank J.	Edwards			6194
+397	209	4	204	207	1904	1903-06-16	Exceptions to the annexation of lands to the Borough of Taylor	Fitzsimmons, Frank J.	Edwards			6198
+398	209	9	350	350	1909	1908-12-15	In re: annexation of part of Lackawanna Township to the City of Scranton	Fitzsimmons, Frank J.	Edwards			6201
+399	213	4	269	272	1887	1887-07-06	In re Line between the Townships of Salisbury, Leacock, East Earl, and Caernarvon	Brubaker, H. C., and Chas. I. Landis	Patterson			6355
+400	135	3	249	256	1889	1887-07-06	In re Line Between the Townships of Salisbury, Leacock, East Earl and Caernarvon	Bliss, Ward R.	Patterson			6355
+401	347	16	252	256	1895	1894-04-13	Akron Borough	Appel, William N.	Livingston, John B.			6364
+402	213	12	172	174	1895	1895-04-13	In re Incorporation of Akron Borough.	Eshleman, George Ross	Livingston, John Boyd			6364
+403	221	2	114	118	1908	1906-07-02	Annexation to City of Allentown	Wise, Leo and Charles W. Kaeppel	Trexler			6921
+404	259	3	297	298	1886	1885-05-25	IN RE ADMISSION OF ADJACENT TERRITORY INTO THE BOROUGH OF PITTSTON	Kulp, George B.	Rice			7024
+405	259	4	313	319	1888	1887-04-19	In re Incorporation of Lehman Borough.	Kulp, George B.	Rice			7028
+406	259	4	312	312	1888	1886-06-08	In Re Incorporation of Lehman Borough.	Kulp, George B.	Woodward			7028
+407	259	4	225	230	1888	1887-01-17	IN RE INCORPORATION OF FORTY FORT BOROUGH	Kulp, George B.	Rice			7029
+408	259	4	535	536	1888	1888-04-16	IN RE INCORPORATION OF FORTY FORT BOROUGH	Kulp, George B.	Rice			7029
+409	259	5	61	66	1890	1888-07-28	IN RE INDEPENDENT SCHOOL DISTRICT IN MARCY TOWNSHIP	Kulp, George B.	Rice			7039
+410	259	5	211	213	1890	1899-01-28	IN RE DIVISION OF PLYMOUTH TOWNSHIP	Kulp, George B.	Rice			7040
+411	259	5	187	189	1890	1889-01-21	In re Annexation of lands to Hazleton Borough	Kulp, George B.	Woodward			7041
+412	135	3	563	564	1889	1889-01-21	In re Incorporation of Swoyersville Borough	Bliss, Ward R.	Woodward			7043
+413	259	5	191	192	1890	1889-01-21	In re Incorporation of Swoyersville Borough.	Kulp, George B.	Woodward			7043
+414	259	5	473	474	1890	1890-03-17	IN RE INDEPENDENT SCHOOL DIST. IN HUNTINGTON TWP.	Kulp, George B.	Rice			7048
+415	259	13	113	116	1908	1906-06-13	IN RE EXTENSION OF BOUNDARY LINE OF WILKES-BARRE	Coons, Joseph D., and W. E. Woodruff	Halsey			7056
+416	135	5	277	277	1894	1893-04-17	In Re Borough of Larksville	Bliss, Ward R.	Woodward			7057
+417	259	7	84	84	1895	1893-04-17	IN RE BOROUGH OF LARKSVILLE	Kulp, George B.	Woodward			7057
+418	259	7	107	108	1895	1893-05-08	IN RE BOROUGH OF FREELAND	Kulp, George B.	Rice			7053
+419	259	8	339	342	1897	1896-09-28	IN RE EXTENSION OF THE LIMITS OF THE BOROUGH OF EDWARDSVILLE	Kulp, George B.	Bennett			7062
+420	259	10	259	263	1902	1901-03-18	In re Division of Sugar Notch	Kulp, George B.	Ferris			7063
+421	259	9	352	354	1900	1899-03-13	IN RE EDWARDSVILLE	Kulp, George B.	Halsey			7074
+422	259	10	64	67		1900-05-28	IN RE BOUNDARY LINE	Kulp, George B.	Halsey			7076
+423	259	10	12	14	1902	1900-02-23	In Re Petition of Taxpayers of Plains Township	Kulp, George B.	Woodward			7079
+424	259	12	253	254	1906	1904-12-12	IN RE INCORPORATION OF DUPONT BOROUGH	Coons, Joseph D., and W. E. Woodruff	Halsey			7089
+425	259	12	401	402	1906	1905-05-29	IN RE INCORPORATION OF DUPONT BOROUGH	Coons, Joseph D., and W. E. Woodruff	Ferris			7090
+426	259	13	195	196	1908	1906-01-15	IN RE DIVISION OF SWOYERSVILLE BOROUGH	Coons, Joseph D., and W. E. Woodruff	Wheaton			7092
+427	259	13	156	156	1908	1906-06-13	IN RE ANNEXATION OF LAND OF BOICE	Coons, Joseph D., and W. E. Woodruff	Halsey			7095
+428	259	14	138	140	1909	1908-06-15	IN RE LINE BETWEEN WRIGHT AND DORRANCE TWPS.	Coons, Joseph D., and W. E. Woodruff	Halsey			7096
+429	259	19	129	131	1919	1917-03-~01	IN RE INCORPORATION OF BOROUGH OF DUPONT	Coons, Joseph D., and W. E. Woodruff	Garman			7109
+430	259	20	138	140	1920	1918-09-30	IN RE INCORPORATION OF MOCANAQUA BORO	Coons, Joseph D., and W. E. Woodruff	Strauss			7110
+431	259	43	37	\N								7461
+432	347	9	529	534	1891	1890-12-08	East Stroudsburg Borough	Gearhart, Cicero	Dreher, Samuel S.			8366
+433	320	1	38	40	1885	1885-03-14	In the Matter of the Incorporation of the Borough of Linfield	Hobson, F. G.	Boyer, Benjamin Markley			8407
+434	320	1	189	192	1885	1885-12-07	In re Annexation of Adjacent Territory to Borough of Pottstown	Hobson, F. G.	Boyer, Benjamin Markley			8408
+435	320	1	161	164	1885	1885-09-21	In re Annexation of Adjacent Territory to Borough of Pottstown	Hobson, F. G.	Boyer, Benjamin Markley			8408
+436	320	1	192	194	1885	1885-12-07	In re Annexation of Adjacent Territory to Borough of Lansdale	Hobson, F. G.	Boyer, Benjamin Markley			8410
+437	320	3	187	188	1887	1887-11-14	In the matter of the Application for the Incorporation of the Village of Pennsburg into a Borough	Hobson, F. G.	Swartz, Aaron S.			8411
+438	320	8	31	35	1892	1892-01-18	In re Division of Upper Salford Township	Hobson, F. G.; Hendricks, A. H.	Swartz, Aaron S.			8425
+439	320	11	18	22	1895	1894-04-02	Incorporation of Village of Narberth	Hobson, F. G.	Swartz, Aaron S.			8428
+440	320	11	22	25	1895	1894-12-03	Incorporation of Village of Narberth	Hobson, F. G.	Swartz, Aaron S.			8429
+441	320	18	208	211	1902	1902-11-19	In re Village of Schwenksville	Hobson, F. G.	Swartz, Aaron S.; Weand, Henry K.			8438
+442	320	27	137	138	1911	1909-05-17	Application of the Borough of Trappe to Set Aside Ordinance of the Borough of Collegeville, Annexing Certain Outlots	Place, A. R.	Swartz, Aaron S.			8446
+443	320	26	57	66	1910	1909-11-29	In the Matter of the Application for the Incorporation of the Borough of Wyndmoor	Place, A. R.	Swartz, Aaron S.; Weand, Henry K.			8448
+444	320	32	48	57	1916	1916-01-20	In re Application to Incorporate the Village of Bryn Athyn Moreland Township	Place, A. R.	Swartz, Aaron S.			8455
+445	320	46	150	152	1930	1929-11-25	In the Matter of the Annexation of Adjacent Land Situate Partly in the Township of Upper Moreland and Partly in the Township of Lower Moreland to the Borough of Bryn Athyn	Fegley, N. P.	Corson			8472
+446	320	42	28	34	1926	1926-01-18	In The Matter of the Petition to Alter the Boundary Line Between the Counties of Montgomery and Philadelphia	Fegley, N. P.	Miller, John Faber			8474
+447	320	43	177	182	1927	1927-08-17	In the matter of The Petition for the incorporation of the Village of Gilbertsville into a Borough, to be called the Borough of Gilbertsville	Fegley, N. P.	Knight, Harold G.			8482
+448	320	45	167	171	1929	1929-08-19	In the matter of the application of Freeholders of the Village of Linfield for the incorporation of the Village into a borough to be called the Borough of Linfield	Fegley, N. P.	Knight, Harold G.			8485
+449	320	19	178	180	1903	1903-10-05	In re Annexation of certain lands in Perkiomen Township to Schwenksville Borough	Hobson, F. G.	Swartz, Aaron S.			8621
+450	320	45	80	83	1929	1929-03-25	In the matter of the petition of the Burgess and Town Council of the Borough of Conshohocken for leave to surrender its special Charter and accept the provisions of the General Borough Act	Fegley, N. P.	Knight, Harold G.			8625
+451	349	16	288	292	1907	1906-02-26	Coaldale Borough	Ulrich, John O.	Shay, Arthur L.			9264
+452	259	5	325	328	1890	1879-01-04	IN RE INDEPENDENT SCHOOL DISTRICT IN FRANKLIN TOWNSHIP	Kulp, George B.	Jessup			9546
+453	347	21	262	266	1899	1898-08-22	Rouseville Borough.	Sayers, F. A.	Criswell, George S.			9824
+454	349	11	490	494	1902	1902-06-26	Annexation of Territory to Washington Borough. Incorporation of Tylerdale Borough.	Brownson, James I.	McIlvaine, John Add.			10075
+455	347	3	480	486	1887	1887-04-02	Tunkhannock Borough Extension	Piatt, J. Wood	Dreher			10796
+456	506	1	180	180	1881		In re Line between Washington and Warrington Townships.	Frey, S. C.	Fisher			10843
+457	506	1	47	48	1881	1880-01-12	Kraber's Appeal.	Frey, S. C.	Wickes, A. L.			11101
+458	346	387	281	\N								360
+459	346	416	73	\N								434
+460	346	416	73	\N								437
+461	346	411	94	\N								431
+462	346	412	507	\N								432
+463	346	414	176	\N								433
+464	346	408	146	\N								430
+465	346	409	324	\N								429
+466	346	409	289	\N								11161
+467	346	403	632	\N								428
+468	346	305	490	\N								409
+469	346	305	263	\N								412
+470	346	373	319	\N								421
+471	346	374	134	\N								422
+472	346	401	428	\N								425
+473	346	403	243	\N								426
+474	346	402	462	\N								11166
+475	346	395	285	\N								424
+476	346	302	259	\N								413
+477	346	304	559	\N								323
+478	346	305	490	\N								410
+479	346	355	646	\N								419
+480	346	355	646	\N								420
+481	346	373	319	\N								324
+482	346	358	90	\N								415
+483	346	358	90	\N								416
+484	346	358	90	\N								417
+485	352	183	212	212	1957	1957-03-20	Hazle Township Annexation Case	Lindenheim	Ervin			165
+486	352	183	212	212	1957	1957-03-20	Hazle Township Annexation Case	Lindenheim	Ervin			166
+487	348	0	0	0	2017	2017-08-01			Colins, James Gardner		https://www.pacourts.us/assets/opinions/Commonwealth/out/1209CD16_8-1-17.pdf	82
+488	346	527	226	\N								352
+489	346	458	396	\N								362
+490	346	458	396	\N								363
+491	346	447	310	\N								351
+492	346	423	609	\N								438
+493	346	416	163	\N								349
+494	346	408	142	\N								336
+495	346	405	419	\N								337
+496	346	401	365	\N								346
+497	346	401	365	\N								347
+498	346	400	194	\N								334
+499	346	398	180	\N								335
+500	346	383	471	\N								331
+501	346	383	471	\N								332
+502	346	378	449	\N								330
+503	352	218	205	\N								131
+504	352	211	150	\N								127
+505	352	208	187	\N								150
+506	352	183	618	\N								114
+507	352	183	618	\N								115
+508	352	183	618	\N								116
+509	352	183	618	\N								117
+510	352	183	618	\N								118
+511	352	182	304	\N								113
+513	756	3	163	\N								11238
+514	756	4	77	\N								11239
+515	756	4	79	\N								11240
+516	756	4	80	\N								11241
+517	757	30	209	\N								10536
+518	757	30	216	\N								10536
+519	756	5	229	\N								3246
+520	756	6	15	\N								3248
+521	756	6	21	\N								3249
+522	756	6	25	\N								3250
+523	756	10	260	\N								3252
+524	756	13	262	\N								3267
+525	756	14	332	\N								3272
+526	756	16	385	\N								11242
+527	756	19	483	\N								3270
+528	756	20	493	\N								3270
+529	756	25	323	\N								690
+530	506	67	137	\N								10997
+531	506	68	166	\N								10999
+532	506	70	53	\N								3248
+533	506	72	185	\N								11029
+534	506	72	164	\N								11023
+535	506	74	82	\N								11034
+536	506	75	104	\N								11022
+537	506	75	175	\N								11037
+538	506	75	197	\N								11039
+539	506	75	197	\N								11040
+540	506	75	197	\N								11041
+541	506	77	22	\N								11043
+542	506	78	210	\N								11050
+543	506	79	133	\N								11045
+544	506	80	5	\N								11058
+545	506	80	208	\N								11061
+546	506	81	149	\N								11061
+547	506	82	56	\N								11058
+548	506	83	133	\N								11065
+549	506	85	57	\N								1079
+550	506	85	137	\N								1077
+551	506	85	137	\N								1078
+552	352	171	653	\N								133
+553	352	187	378	\N								11243
+554	352	210	761	\N								11244
+555	352	210	761	\N								11245
+556	352	219	771	\N								11248
+557	352	219	771	\N								11250
+558	352	219	771	\N								11251
+559	352	219	772	\N								11252
+560	348	0	0	0		2017-01-20			Brobson, P. Kevin		https://www.pacourts.us/assets/opinions/Commonwealth/out/2582CD15_1-20-17.pdf?cb=1	11217
+561	352	32	465	467	1907	1907-02-25	Mill Creek Borough		Porter, William D.			11301
+562	506	9	206	\N		1896-01-04	Wolfe's Petition					11320
+563	352	33	203	210	1907	1907-03-11	Travis v. Lehigh Coal & Navigation Company, Appellant	Schaffer, William I. and Albert B. Weimer	Morrison			11574
+564	346	389	135	\N								12015
+565	902	11	246	\N								616
+566	902	18	319	\N								9369
+567	352	139	146	\N								110
+568	352	216	865	\N								130
+570	352	26	333	\N								153
+571	352	27	586	\N								159
+572	352	31	18	\N								94
+573	352	47	350	\N								188
+574	352	46	19	\N								96
+575	352	46	25	\N								97
+576	352	19	178	\N								11572
+577	352	11	592	\N								11571
+578	352	22	239	\N								158
+580	346	383	536	\N								333
+581	346	410	62	\N								348
+582	346	83	73	\N								388
+583	346	122	653	\N								11551
+584	346	210	527	\N								404
+585	346	450	453	\N								442
+586	346	207	638	\N								12084
+587	919	62	38	43								9290
+588	919	66	49	51								9301
+589	348	0	0	0		2020-06-04			Brobson, P. Kevin		https://www.pacourts.us/assets/opinions/Commonwealth/out/142CD19_6-4-20.pdf?cb=1	12157
+590	348	0	0	0		2020-03-02			Leavitt, Mary Hannah		https://www.pacourts.us/assets/opinions/Commonwealth/out/242CD19_3-2-20.pdf?cb=1	11283
+598	348	\N	\N	\N		2020-03-02					https://www.pacourts.us/assets/opinions/Commonwealth/out/126md17_3-2-20.pdf	88
+607	346	0	0	0	2020	2020-09-22					https://www.pacourts.us/assets/opinions/Supreme/out/230mal2020%20-%20104552233113400207.pdf	12489
+608	346	0	0	0	2020	2020-09-22					https://www.pacourts.us/assets/opinions/Supreme/out/230mal2020%20-%20104552233113400207.pdf	12490
+609	346	0	0	0		2021-01-20					https://www.pacourts.us/assets/opinions/Supreme/out/364mal2020%20-%20104665485125529432.pdf	12491
+610	346	0	0	0		2021-01-20					https://www.pacourts.us/assets/opinions/Supreme/out/365mal2020%20-%20104665495125529513.pdf	12492
+611	348	0	0	0		2012-04-30					https://www.pacourts.us/assets/opinions/Commonwealth/out/1679cd11_4-30-12.pdf	11220
+612	919	6	345	359	1910	1910-10-17	Reber vs. Haas, et al.	Ulrich, John O.	Shay			12708
+613	348	0	0	0		2021-05-12					https://www.pacourts.us/assets/opinions/Commonwealth/out/704CD20_5-12-21.pdf?cb=2	12487
+614	348	0	0	0		2021-05-12					https://www.pacourts.us/assets/opinions/Commonwealth/out/704CD20_5-12-21.pdf?cb=2	12488
+615	346	0	0	0		2021-10-07	IN RE: APPEAL FOR FORMATION OF INDEPENDENT SCHOOL DISTRICT CONSISTING OF THE BOROUGH OF HIGHSPIRE, DAUPHIN COUNTY, PENNSYLVANIA		Donohue, Christine		https://www.pacourts.us/assets/opinions/Supreme/out/J-4A-2021mo%20-%20104917296148521363.pdf?cb=1	12504
+617	346	0	0	0		2021-10-07	IN RE: APPEAL FOR FORMATION OF INDEPENDENT SCHOOL DISTRICT CONSISTING OF THE BOROUGH OF HIGHSPIRE, DAUPHIN COUNTY, PENNSYLVANIA		Donohue, Christine		https://www.pacourts.us/assets/opinions/Supreme/out/J-4B-2021mo%20-%20104917297148523206.pdf?cb=1	12505
+619	346	79	419	421		1875-11-24	Clearfield Independent School District.					12892
+620	346	5	447	452		1846-12-08	In re HARRISON Township					12911
+621	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12923
+622	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12924
+623	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12925
+624	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12926
+625	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12927
+626	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12928
+627	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12929
+628	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12930
+629	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12931
+630	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12932
+631	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12933
+632	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12934
+633	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12935
+634	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12936
+635	919	7	362	368	1911	1911-10-30	In re Independent School Districts	Ulrich, John O.				12937
+636	352	31	205	211								13027
+637	352	31	211	212								13028
+638	1361	74	562	581		1977-10-19						13207
+639	26	44	864	865		1899-11-14	WALLING v. MAYOR, ETC., OF BOROUGH OF DECKERTOWN, COUNTY OF SUSSEX.					13244
+640	221	2	387	\N	1908	1908-03-24	IN RE ANNEXATION OF SOUTH ALLENTOWN		Heydt			13111
+641	166	3	261	264								12240
+642	346	31	303	304		1858-~01-~01	In the Matter of the Division Line of Catharine and Frankstown Townships					13275
+643	350	37	515	520		1939-12-01	Thomas et al. v. Deputy et al.					13280
+644	350	34	389	392		1938-10-10	In re Merger of Reed Township School District					13281
+645	350	44	611	\N		1942-04-04	In re Landisburg Borough Charter					13282
+646	346	33	297	301		1858-~01-~01	Independent School District No. 8, in Sewickley Township					10764
+647	726	95	379	382	1921	1921-02-15	STATE, THOMAS F. McCRAN, ATTORNEY-GENERAL, RELATOR, v. THE BOROUGH OF OCEAN GROVE, IN THE COUNTY OF MONMOUTH, RESPONDENT.	Gummere, Charles E.	Black			13356
+648	726	96	158	165	1922	1921-05-12	THOMAS F. McCRAN, ATTORNEY-GENERAL, RESPONDENT, v. BOROUGH OF OCEAN GROVE, IN THE COUNTY OF MONMOUTH, APPELLANT.	Gummere	Gummere			13357
+649	471	526	589	602	2001	1999-05-17	NEW JERSEY v. NEW YORK	Wagner, Frank D.				12007
+650	471	523	767	832	2000	1998-05-26	NEW JERSEY v. NEW YORK	Wagner, Frank D.	Souter, David H.			12007
+651	471	527	1002	1002	2001	1999-06-14	No. 120, Orig. New Jersey v. New York. Motion of the Special Master for compensation and reimbursement of expenses granted, and the Special Master is awarded a total of $29,096.50, to be paid equally by the parties. [For earlier decision herein, see, e. g., 526 U. S. 589.]	Wagner, Frank D.				12007
+652	726	56	62	71			THE STATE, ASHBEL GREEN, PROSECUTOR, v. STEPHEN G. CLARKE ET AL., DEFENDANTS		Lippincott			11119
+653	348	55	605	\N		1980-12-30						42
+654	348	59	532	\N		1981-06-08						45
+655	259	24	151	\N		1926-03-~01						12230

@@ -1,0 +1,573 @@
+table_name	column_name	ordinal_position	data_type
+adjudication	adjudicationid	1	integer
+adjudication	adjudicationtype	2	integer
+adjudication	adjudicationnumber	3	character varying
+adjudication	adjudicationterm	4	character varying
+adjudication	adjudicationlong	5	text
+adjudication	adjudicationshort	6	text
+adjudication	adjudicationnotes	7	text
+adjudication	adjudicationstatus	8	text
+adjudicationevent	adjudicationeventid	1	integer
+adjudicationevent	adjudication	2	integer
+adjudicationevent	event	3	integer
+adjudicationevent	adjudicationeventrelationship	4	character varying
+adjudicationlocation	adjudicationlocationid	1	integer
+adjudicationlocation	adjudication	2	integer
+adjudicationlocation	adjudicationlocationtype	3	integer
+adjudicationlocation	adjudicationlocationvolume	4	character varying
+adjudicationlocation	adjudicationlocationpagefrom	5	character varying
+adjudicationlocation	adjudicationlocationpageto	6	character varying
+adjudicationlocation	adjudicationlocationrepositorylevel	7	integer
+adjudicationlocation	adjudicationlocationrepositoryshort	8	character varying
+adjudicationlocation	adjudicationlocationrepositoryitemnumber	9	character varying
+adjudicationlocation	adjudicationlocationrepositoryitemfrom	10	integer
+adjudicationlocation	adjudicationlocationrepositoryitemto	11	integer
+adjudicationlocation	adjudicationlocationrepositoryitemlocation	12	character varying
+adjudicationlocation	adjudicationlocationrepositoryextractdate	13	text
+adjudicationlocation	adjudicationlocationrepositoryorder	14	smallint
+adjudicationlocation	adjudicationlocationrepositoryentry	15	character varying
+adjudicationlocation	adjudicationlocationrepositoryseries	16	character varying
+adjudicationlocationtype	adjudicationlocationtypeid	1	integer
+adjudicationlocationtype	tribunal	2	integer
+adjudicationlocationtype	adjudicationlocationtypearchivelevel	3	integer
+adjudicationlocationtype	adjudicationlocationtypearchiveseries	4	character varying
+adjudicationlocationtype	adjudicationlocationtypetype	5	character varying
+adjudicationlocationtype	adjudicationlocationtypevolumetype	6	character varying
+adjudicationlocationtype	adjudicationlocationtypepagetype	7	character varying
+adjudicationlocationtype	adjudicationlocationtypeabbreviation	8	character varying
+adjudicationlocationtype	adjudicationlocationtypelong	9	character varying
+adjudicationlocationtype	adjudicationlocationtypeshort	10	character varying
+adjudicationsourcecitation	adjudicationsourcecitationid	1	integer
+adjudicationsourcecitation	source	2	integer
+adjudicationsourcecitation	adjudicationsourcecitationvolume	3	smallint
+adjudicationsourcecitation	adjudicationsourcecitationpagefrom	4	smallint
+adjudicationsourcecitation	adjudicationsourcecitationpageto	5	smallint
+adjudicationsourcecitation	adjudicationsourcecitationyear	6	character varying
+adjudicationsourcecitation	adjudicationsourcecitationdate	7	text
+adjudicationsourcecitation	adjudicationsourcecitationtitle	8	text
+adjudicationsourcecitation	adjudicationsourcecitationauthor	9	character varying
+adjudicationsourcecitation	adjudicationsourcecitationjudge	10	character varying
+adjudicationsourcecitation	adjudicationsourcecitationdissentjudge	11	character varying
+adjudicationsourcecitation	adjudicationsourcecitationurl	12	text
+adjudicationsourcecitation	adjudication	13	integer
+adjudicationtype	adjudicationtypeid	1	integer
+adjudicationtype	tribunal	2	integer
+adjudicationtype	adjudicationtypeabbreviation	3	character varying
+adjudicationtype	adjudicationtypelong	4	character varying
+adjudicationtype	adjudicationtypeshort	5	character varying
+affectedgovernmentgis	affectedgovernmentgisid	1	integer
+affectedgovernmentgis	affectedgovernment	2	integer
+affectedgovernmentgis	governmentshape	3	integer
+affectedgovernmentgroup	affectedgovernmentgroupid	1	integer
+affectedgovernmentgroup	event	2	integer
+affectedgovernmentgrouppart	affectedgovernmentgrouppartid	1	integer
+affectedgovernmentgrouppart	affectedgovernmentgroup	2	integer
+affectedgovernmentgrouppart	affectedgovernmentpart	3	integer
+affectedgovernmentgrouppart	affectedgovernmentlevel	4	integer
+affectedgovernmentlevel	affectedgovernmentlevelid	1	integer
+affectedgovernmentlevel	affectedgovernmentlevelshort	2	character varying
+affectedgovernmentlevel	affectedgovernmentlevellong	3	character varying
+affectedgovernmentlevel	affectedgovernmentlevelgroup	4	integer
+affectedgovernmentlevel	affectedgovernmentleveldisplayorder	5	integer
+affectedgovernmentpart	affectedgovernmentpartid	1	integer
+affectedgovernmentpart	governmentfrom	2	integer
+affectedgovernmentpart	affectedtypefrom	3	integer
+affectedgovernmentpart	governmentto	4	integer
+affectedgovernmentpart	affectedtypeto	5	integer
+affectedgovernmentpart	governmentformto	6	integer
+affectedtype	affectedtypeid	1	integer
+affectedtype	affectedtypelong	2	text
+affectedtype	affectedtypeshort	3	character varying
+affectedtype	affectedtypecreationdissolution	4	character varying
+affectedtype	affectedtypefromtoboth	5	character varying
+affectedtype	affectedtypeequal	6	boolean
+affectedtype	originalaffectedtypeid	7	integer
+censusmap	censusmapid	1	integer
+censusmap	censusmapyear	2	smallint
+censusmap	government	3	integer
+censusmap	censusmapgovernmentname	4	character varying
+censusmap	censusmapexamined	5	boolean
+censusmap	censusmapmin	6	boolean
+censusmap	censusmapmax	7	boolean
+censusmap	censusmap1950pertinent	8	boolean
+censusmap	censusmap1960pertinent	9	boolean
+censusmap	censusmap1970pertinent	10	boolean
+currentgovernment	currentgovernmentid	1	integer
+currentgovernment	governmentsubmunicipality	2	integer
+currentgovernment	governmentmunicipality	3	integer
+currentgovernment	governmentcounty	4	integer
+currentgovernment	governmentstate	5	integer
+currentgovernment	event	6	integer
+documentation	documentationid	1	integer
+documentation	documentationtype	2	character varying
+documentation	documentationshort	3	character varying
+documentation	documentationlong	4	text
+documentation	documentationcolor	5	character varying
+documentation	documentationlocale	6	character varying
+event	eventid	1	integer
+event	eventtype	2	integer
+event	eventmethod	3	integer
+event	eventlong	4	character varying
+event	eventfrom	5	smallint
+event	eventto	6	smallint
+event	eventgranted	7	character varying
+event	eventeffective	8	text
+event	eventeffectivetypestatutory	9	text
+event	eventeffectivetypepresumedsource	10	integer
+event	eventisrelevant	11	text
+event	eventeffectiveorder	12	integer
+event	eventismapped	13	boolean
+event	eventismappedtype	14	text
+event	government	15	integer
+eventeffectivetype	eventeffectivetypeid	1	integer
+eventeffectivetype	eventeffectivetypegroup	2	character varying
+eventeffectivetype	eventeffectivetypequalifier	3	character varying
+eventgranted	eventgrantedid	1	integer
+eventgranted	eventgrantedlong	2	text
+eventgranted	eventgrantedshort	3	character varying
+eventgranted	eventgrantedsuccess	4	boolean
+eventgranted	eventgrantedcertainty	5	boolean
+eventgranted	eventgrantedplaceholder	6	boolean
+eventgranted	eventgrantedpublicview	7	boolean
+eventmethod	eventmethodid	1	integer
+eventmethod	eventmethodlong	2	character varying
+eventrelationship	eventrelationshipid	1	integer
+eventrelationship	eventrelationshiplong	2	text
+eventrelationship	eventrelationshipshort	3	character varying
+eventrelationship	eventrelationshippublication	4	boolean
+eventrelationship	eventrelationshipreference	5	boolean
+eventrelationship	eventrelationshipcertainty	6	boolean
+eventrelationship	eventrelationshipsufficient	7	boolean
+eventslugretired	eventslugretiredid	1	integer
+eventslugretired	eventid	2	integer
+eventslugretired	eventslug	3	text
+eventtype	eventtypeid	1	integer
+eventtype	eventtypelong	2	text
+eventtype	eventtypeshort	3	character varying
+eventtype	eventtypeborders	4	character varying
+eventtype	eventtypeinclude	5	boolean
+eventtype	eventtypecreate	6	character varying
+eventtype	eventtypegroup	7	character varying
+filing	filingid	1	integer
+filing	filingtype	2	integer
+filing	filingspecific	3	text
+filing	filingnotpresent	4	character varying
+filing	filingdate	5	text
+filing	filingfiled	6	text
+filing	filingother	7	text
+filing	filingothertype	8	character varying
+filing	filingnotes	9	text
+filing	adjudication	10	integer
+filingtype	filingtypeid	1	integer
+filingtype	filingtypelong	2	character varying
+filingtype	filingtypefinalrecording	3	boolean
+government	governmentid	1	integer
+government	governmentname	2	character varying
+government	governmenttype	3	character varying
+government	governmentstatus	4	character varying
+government	governmentstatusdefacto	5	boolean
+government	governmentstyle	6	character varying
+government	governmentlevel	7	smallint
+government	governmentcurrentleadparent	8	integer
+government	governmentabbreviation	9	character varying
+government	government1983stateplaneauthority	10	character varying
+government	governmentlead1983stateplane	11	character varying
+government	governmenthasmultiple1983stateplane	12	boolean
+government	governmentdefaultsrid	13	integer
+government	governmentclass	14	character varying
+government	governmentcurrenthomerule	15	boolean
+government	governmentnotecreation	16	character varying
+government	governmentnotedissolution	17	character varying
+government	governmentnotecurrentleadparent	18	boolean
+government	governmentcharterstatus	19	integer
+government	governmentbooknote	20	text[]
+government	governmentbookcomplete	21	jsonb
+government	governmentmultilevel	22	boolean
+government	governmentindigobook	23	character varying
+government	governmentsubstitute	24	integer
+government	governmentnumber	25	character varying
+government	governmentmapstatus	26	integer
+government	governmentlocale	27	character varying
+government	governmentarticle	28	character varying
+government	governmentconnectingarticle	29	character varying
+governmentform	governmentformid	1	integer
+governmentform	governmentstate	2	integer
+governmentform	governmentformpublication	3	boolean
+governmentform	recategorize	4	boolean
+governmentform	governmentformpublicationdate	5	boolean
+governmentform	governmentformtype	6	text
+governmentform	governmentformclass	7	text
+governmentform	governmentformqualifier	8	text
+governmentform	governmentformqualifierinclude	9	boolean
+governmentform	governmentformextended	10	text
+governmentformgovernment	governmentformgovernmentid	1	integer
+governmentformgovernment	government	2	integer
+governmentformgovernment	governmentform	3	integer
+governmentformgovernment	governmentformgovernmentyear	4	integer
+governmentformgovernment	governmentformgovernmentpage	5	character varying
+governmentformgovernment	governmentformgovernmentnotes	6	text
+governmentformgovernment	governmentformgovernmenteffective	7	text
+governmentidentifier	governmentidentifierid	1	integer
+governmentidentifier	government	2	integer
+governmentidentifier	governmentidentifiertype	3	integer
+governmentidentifier	governmentidentifierprefix	4	character varying
+governmentidentifier	governmentidentifier	5	character varying
+governmentidentifier	governmentidentifiernote	6	text
+governmentidentifier	governmentidentifiermatchtype	7	character varying
+governmentidentifier	governmentidentifiermatchdate	8	date
+governmentidentifiertype	governmentidentifiertypeid	1	integer
+governmentidentifiertype	governmentidentifiertypetype	2	character varying
+governmentidentifiertype	governmentidentifiertypeshort	3	character varying
+governmentidentifiertype	source	4	integer
+governmentidentifiertype	isinteger	5	boolean
+governmentidentifiertype	governmentidentifiertypeurl	6	text
+governmentidentifiertype	governmentidentifiertypeprefixlength	7	int4range
+governmentidentifiertype	governmentidentifiertypelength	8	int4range
+governmentidentifiertype	governmentidentifiertypeslug	9	text
+governmentidentifiertype	governmentidentifiertypeprefixdelimiter	10	character varying
+governmentidentifiertype	governmentidentifiertypenote	11	text
+governmentmapstatus	governmentmapstatusid	1	integer
+governmentmapstatus	governmentmapstatusshort	2	character varying
+governmentmapstatus	governmentmapstatuslong	3	text
+governmentmapstatus	governmentmapstatusreviewed	4	boolean
+governmentmapstatus	governmentmapstatusfurtherresearch	5	boolean
+governmentmapstatus	governmentmapstatustimelapse	6	boolean
+governmentmapstatus	governmentmapstatusomit	7	boolean
+governmentothercurrentparent	governmentothercurrentparentid	1	integer
+governmentothercurrentparent	government	2	integer
+governmentothercurrentparent	governmentothercurrentparent	3	integer
+governmentshape	governmentshapeid	1	integer
+governmentshape	governmentsubmunicipality	2	integer
+governmentshape	governmentmunicipality	3	integer
+governmentshape	governmentcounty	4	integer
+governmentshape	governmentstate	5	integer
+governmentshape	governmentshapenotes	6	text
+governmentshape	governmentshapegeometry	7	geometry
+governmentshape	governmentshapereference	8	integer
+governmentshape	governmentshapetag	9	text
+governmentshape	governmentshapeplsstownship	10	integer
+governmentshape	governmentward	11	integer
+governmentshape	governmentschooldistrict	12	integer
+governmentsource	governmentsourceid	1	integer
+governmentsource	government	2	integer
+governmentsource	governmentsourcetype	3	character varying
+governmentsource	governmentsourcebody	4	character varying
+governmentsource	governmentsourcenumber	5	character varying
+governmentsource	governmentsourceterm	6	character varying
+governmentsource	governmentsourcetitle	7	text
+governmentsource	governmentsourcepagefrom	8	character varying
+governmentsource	governmentsourcepageto	9	character varying
+governmentsource	governmentsourcedate	10	text
+governmentsource	governmentsourcepreliminarydate	11	text
+governmentsource	governmentsourceapproveddate	12	text
+governmentsource	governmentsourceeffectivedate	13	text
+governmentsource	governmentsourceapproved	14	boolean
+governmentsource	governmentsourceeffectivenotes	15	text
+governmentsource	governmentsourceadvertiseddate	16	text
+governmentsource	source	17	integer
+governmentsource	governmentsourcevolume	18	character varying
+governmentsource	sourcecitationvolumetype	19	character varying
+governmentsource	governmentsourcevolumetype	20	character varying
+governmentsource	sourcecitationvolume	21	character varying
+governmentsource	sourcecitationpagefrom	22	character varying
+governmentsource	sourcecitationpageto	23	character varying
+governmentsourceevent	governmentsourceeventid	1	integer
+governmentsourceevent	governmentsource	2	integer
+governmentsourceevent	event	3	integer
+governmentsourceevent	governmentsourceeventinclude	4	boolean
+governmentsourceevent	governmentsourceeventrelationship	5	character varying
+law	lawid	1	integer
+law	source	2	integer
+law	lawvolume	3	character varying
+law	lawpage	4	integer
+law	lawnumberchapter	5	smallint
+law	lawtype	6	character varying
+law	lawtitle	7	text
+law	lawapproved	8	text
+law	laweffective	9	text
+law	lawsovereign	10	text
+law	lawurl	11	text
+law	lawdescriptiondone	12	boolean
+law	lawnumberchaptertext	13	character varying
+law	lawsession	14	character varying
+law	lawsessiontype	15	character varying
+law	lawpublished	16	text
+law	lawissue	17	integer
+lawalternate	lawalternateid	1	integer
+lawalternate	law	2	integer
+lawalternate	source	3	integer
+lawalternate	lawalternatevolume	4	character varying
+lawalternate	lawalternatepage	5	smallint
+lawalternate	lawalternatenumberchapter	6	smallint
+lawalternate	lawalternatetype	7	character varying
+lawalternate	lawalternateurl	8	text
+lawalternatesection	lawalternatesectionid	1	integer
+lawalternatesection	lawalternate	2	integer
+lawalternatesection	lawsection	3	integer
+lawalternatesection	lawalternatesectionpagefrom	4	smallint
+lawalternatesection	lawalternatesectionpageto	5	smallint
+lawsection	lawsectionid	1	integer
+lawsection	law	2	integer
+lawsection	lawsectionfrom	3	character varying
+lawsection	lawsectionpagefrom	4	integer
+lawsection	lawsectionto	5	character varying
+lawsection	lawsectionpageto	6	integer
+lawsection	eventtype	7	integer
+lawsection	lawsectionamend	8	integer
+lawsection	lawsectionnewfrom	9	character varying
+lawsection	lawsectionnewto	10	character varying
+lawsection	lawsectionnewlaw	11	integer
+lawsection	lawsectionsymbol	12	character varying
+lawsection	lawsectionnewsymbol	13	character varying
+lawsectionevent	lawsectioneventid	1	integer
+lawsectionevent	lawsection	2	integer
+lawsectionevent	event	3	integer
+lawsectionevent	lawsectioneventrelationship	4	character varying
+lawsectionevent	lawsectioneventnotes	5	text
+metesdescription	metesdescriptionid	1	integer
+metesdescription	metesdescriptiontype	2	character varying
+metesdescription	metesdescriptionsource	3	character varying
+metesdescription	metesdescriptionbeginningpoint	4	text
+metesdescription	metesdescriptionstateplane	5	integer
+metesdescription	metesdescriptionlongitude	6	numeric
+metesdescription	metesdescriptionlatitude	7	numeric
+metesdescription	metesdescriptionangle	8	double precision
+metesdescription	metesdescriptionquality	9	character varying
+metesdescription	metesdescriptionnotes	10	text
+metesdescription	metesdescriptionname	11	character varying
+metesdescription	event	12	integer
+metesdescription	metesdescriptionacres	13	double precision
+metesdescriptiongis	metesdescriptiongisid	1	integer
+metesdescriptiongis	metesdescription	2	integer
+metesdescriptiongis	governmentshape	3	integer
+metesdescriptionline	metesdescriptionlineid	1	integer
+metesdescriptionline	metesdescription	2	integer
+metesdescriptionline	metesdescriptionline	3	smallint
+metesdescriptionline	thencepoint	4	text
+metesdescriptionline	northsouth	5	character varying
+metesdescriptionline	degree	6	double precision
+metesdescriptionline	eastwest	7	character varying
+metesdescriptionline	foot	8	double precision
+metesdescriptionline	topoint	9	text
+metesdescriptionline	curveleftright	10	character varying
+metesdescriptionline	curveradiusfoot	11	double precision
+metesdescriptionline	curvetangent	12	smallint
+metesdescriptionline	manualxchange	13	double precision
+metesdescriptionline	manualychange	14	double precision
+metesdescriptionline	metesdescriptionlinenotes	15	text
+metesdescriptionline	curveinternalangle	16	double precision
+nationalarchives	nationalarchivesid	1	integer
+nationalarchives	source	2	integer
+nationalarchives	government	3	integer
+nationalarchives	nationalarchivesgovernmentname	4	text
+nationalarchives	nationalarchivesgovernmenttype	5	character varying
+nationalarchives	nationalarchivesunit	6	integer
+nationalarchives	nationalarchivesunitfrom	7	integer
+nationalarchives	nationalarchivesunitto	8	integer
+nationalarchives	nationalarchivesexamined	9	boolean
+nationalarchives	nationalarchivesset	10	character varying
+plss	plssid	1	integer
+plss	plsstownship	2	integer
+plss	plssfirstdivision	3	integer
+plss	plssfirstdivisionnumber	4	character varying
+plss	plssfirstdivisionduplicate	5	character varying
+plss	plssfirstdivisionpart	6	text[]
+plss	plssseconddivision	7	integer
+plss	plssseconddivisionnumber	8	character varying
+plss	plssseconddivisionsuffix	9	character varying
+plss	plssseconddivisionnote	10	character varying
+plss	plssspecialsurvey	11	integer
+plss	plssspecialsurveynumber	12	character varying
+plss	plssspecialsurveysuffix	13	character varying
+plss	plssspecialsurveynote	14	character varying
+plss	plssspecialsurveydivision	15	character varying
+plss	event	16	integer
+plss	plssrelationship	17	character varying
+plssfirstdivision	plssfirstdivisionid	1	integer
+plssfirstdivision	plssfirstdivisionshort	2	character varying
+plssfirstdivision	plssfirstdivisionlong	3	character varying
+plssfirstdivision	plssfirstdivisionisdefault	4	boolean
+plssfirstdivision	plssfirstdivisionnotes	5	text
+plssfirstdivisionpart	plssfirstdivisionpartid	1	integer
+plssfirstdivisionpart	plssfirstdivisionpartshort	2	character varying
+plssmeridian	plssmeridianid	1	integer
+plssmeridian	plssmeridianshort	2	character varying
+plssmeridian	plssmeridianlong	3	character varying
+plssmeridian	plssmeridianisspecialsurvey	4	boolean
+plssmeridian	plssmeridianomitdescription	5	boolean
+plssseconddivision	plssseconddivisionid	1	integer
+plssseconddivision	plssseconddivisionshort	2	character varying
+plssseconddivision	plssseconddivisionlong	3	character varying
+plssseconddivision	plssseconddivisionisdefault	4	boolean
+plssseconddivision	plssseconddivisionnotes	5	text
+plssspecialsurvey	plssspecialsurveyid	1	integer
+plssspecialsurvey	plssspecialsurveyshort	2	character varying
+plssspecialsurvey	plssspecialsurveylong	3	character varying
+plssspecialsurvey	plssspecialsurveynotes	4	text
+plsstownship	plsstownshipid	1	integer
+plsstownship	governmentstate	2	integer
+plsstownship	plssmeridian	3	integer
+plsstownship	plsstownshipnumber	4	smallint
+plsstownship	plsstownshipfraction	5	character varying
+plsstownship	plsstownshipdirection	6	character varying
+plsstownship	plssrangenumber	7	smallint
+plsstownship	plssrangefraction	8	character varying
+plsstownship	plssrangedirection	9	character varying
+plsstownship	plsstownshipduplicate	10	character varying
+recording	recordingid	1	integer
+recording	recordingoffice	2	integer
+recording	recordingvolume	3	character varying
+recording	recordingpage	4	bigint
+recording	recordingpagetext	5	character varying
+recording	recordingdescription	6	text
+recording	recordingdate	7	text
+recording	recordingrepositorylevel	8	integer
+recording	recordingrepositoryshort	9	character varying
+recording	recordingrepositoryitemnumber	10	character varying
+recording	recordingrepositoryitemfrom	11	integer
+recording	recordingrepositoryitemto	12	integer
+recording	recordingrepositoryitemlocation	13	character varying
+recording	recordingrepositoryextractdate	14	text
+recording	recordingrepositoryorder	15	smallint
+recording	recordingrepositoryentry	16	character varying
+recording	recordingisrelevant	17	character varying
+recording	recordingobtainedcopy	18	character varying
+recording	recordingtype	19	integer
+recording	recordingnumbertype	20	integer
+recording	recordingnumber	21	bigint
+recording	recordingnumbertext	22	character varying
+recording	recordingvolumeofficerinitials	23	character varying
+recording	recordingrepositoryseries	24	character varying
+recording	recordingrepositorycontainer	25	character varying
+recordingevent	recordingeventid	1	integer
+recordingevent	event	2	integer
+recordingevent	recording	3	integer
+recordingevent	recordingeventrelationship	4	character varying
+recordingevent	recordingeventinclude	5	boolean
+recordingoffice	recordingofficeid	1	integer
+recordingoffice	government	2	integer
+recordingoffice	recordingofficetype	3	integer
+recordingoffice	recordingofficedistrictcircuit	4	character varying
+recordingofficetype	recordingofficetypeid	1	integer
+recordingofficetype	recordingofficetypelevel	2	integer
+recordingofficetype	recordingofficetypeshort	3	character varying
+recordingofficetype	recordingofficetypelong	4	text
+recordingofficetype	recordingofficetypedivision	5	character varying
+recordingofficetype	recordingofficetypeisaftergovernment	6	boolean
+recordingofficetype	abbreviationverified	7	boolean
+recordingtype	recordingtypeid	1	integer
+recordingtype	recordingtypetype	2	character varying
+recordingtype	recordingtypeabbreviation	3	character varying
+recordingtype	recordingtypelong	4	character varying
+recordingtype	recordingtypeshort	5	character varying
+recordingtype	recordingtypevolumetype	6	character varying
+recordingtype	recordingtypepagetype	7	character varying
+recordingtype	recordingisnumber	8	boolean
+researchlog	researchlogid	1	integer
+researchlog	government	2	integer
+researchlog	researchlogtype	3	integer
+researchlog	researchlogdate	4	text
+researchlog	researchlogvolumefrom	5	character varying
+researchlog	researchlogfrom	6	character varying
+researchlog	researchlogvolumeto	7	character varying
+researchlog	researchlogto	8	character varying
+researchlog	researchlogismissing	9	boolean
+researchlog	researchlognotes	10	text
+researchlog	researchlogdisposition	11	character varying
+researchlog	internetarchivehandle	12	text[]
+researchlogtype	researchlogtypeid	1	integer
+researchlogtype	researchlogtypelong	2	character varying
+researchlogtype	researchlogtypelongpart	3	text
+researchlogtype	researchlogtypeisrecord	4	boolean
+researchlogtype	researchlogtypeisspecificdate	5	boolean
+shorttype	shorttypeid	1	integer
+shorttype	shorttypeisform	2	boolean
+shorttype	shorttypelong	3	character varying
+shorttype	shorttypeshort	4	character varying
+source	sourceid	1	integer
+source	sourcetype	2	character varying
+source	sourceshort	3	character varying
+source	sourceshortpart	4	character varying
+source	sourcebookshort	5	character varying
+source	sourceurlsubstitute	6	integer
+source	sourcegovernment	7	integer[]
+source	sourcelawtype	8	character varying
+source	sourceperson	9	text
+source	sourcesectiontitle	10	text
+source	sourcetitle	11	text
+source	sourceidentifier	12	text
+source	sourcepublisherlocation	13	text
+source	sourcepublisher	14	text
+source	sourcepublisheryear	15	character varying
+source	sourcelawisbynumber	16	boolean
+source	sourcelawhasspecialsession	17	boolean
+source	sourceabbreviationverified	18	boolean
+source	sourcetemporarynote	19	text
+sourcecitation	sourcecitationid	1	integer
+sourcecitation	source	2	integer
+sourcecitation	sourcecitationdate	3	text
+sourcecitation	sourcecitationdatetype	4	character varying
+sourcecitation	sourcecitationdaterange	5	text
+sourcecitation	sourcecitationdaterangetype	6	character varying
+sourcecitation	sourcecitationvolume	7	character varying
+sourcecitation	sourcecitationpagefrom	8	character varying
+sourcecitation	sourcecitationpageto	9	character varying
+sourcecitation	sourcecitationurl	10	text
+sourcecitation	sourcecitationtypetitle	11	text
+sourcecitation	sourcecitationperson	12	text
+sourcecitation	sourcecitationnotes	13	text
+sourcecitation	sourcecitationgovernmentreferences	14	text
+sourcecitation	sourcecitationarchiveslotfilm	15	character varying
+sourcecitation	sourcecitationarchivecarton	16	character varying
+sourcecitation	sourcecitationstatus	17	character varying
+sourcecitation	sourcecitationdetail	18	jsonb
+sourcecitation	sourcecitationissue	19	character varying
+sourcecitationevent	sourcecitationeventid	1	integer
+sourcecitationevent	sourcecitation	2	integer
+sourcecitationevent	event	3	integer
+sourcecitationevent	sourcecitationeventinclude	4	boolean
+sourceitem	sourceitemid	1	integer
+sourceitem	source	2	integer
+sourceitem	sourceitemedition	3	character varying
+sourceitem	sourceitemvolume	4	character varying
+sourceitem	sourceitemyear	5	smallint
+sourceitem	sourceitemurl	6	text
+sourceitem	sourceitemurlcomplete	7	boolean
+sourceitem	sourceitemurlcompletepart	8	boolean
+sourceitem	sourceitempublicdomain	9	boolean
+sourceitem	sourceitempublicdomainreason	10	text
+sourceitem	sourceitemreferenceyearfrom	11	smallint
+sourceitem	sourceitemreferenceyearto	12	smallint
+sourceitem	sourceitemreferencevolume	13	character varying
+sourceitem	sourceitemurlafter	14	text
+sourceitem	sourceitemlocal	15	boolean
+sourceitemcategory	sourceitemcategoryid	1	integer
+sourceitemcategory	sourceitemcategoryshort	2	text
+sourceitemcategory	sourceitemcategorydomain	3	text
+sourceitempart	sourceitempartid	1	integer
+sourceitempart	sourceitem	2	integer
+sourceitempart	sourceitempartisbypage	3	boolean
+sourceitempart	sourceitempartfrom	4	integer
+sourceitempart	sourceitempartto	5	integer
+sourceitempart	sourceitempartsequencecharacter	6	character varying
+sourceitempart	sourceitempartsequence	7	integer
+sourceitempart	sourceitempartsequenceverified	8	boolean
+sourceitempart	sourceitempartsequencecharacterafter	9	character varying
+sourceitempart	sourceitempartzeropad	10	smallint
+sourcetype	sourcetypeid	1	integer
+sourcetype	sourcetypeshort	2	text
+sourcetype	sourcetypeislaw	3	boolean
+tribunal	tribunalid	1	integer
+tribunal	government	2	integer
+tribunal	tribunaltype	3	integer
+tribunal	tribunaldistrictcircuit	4	character varying
+tribunal	tribunalalternatefilingoffice	5	character varying
+tribunaltype	tribunaltypeid	1	integer
+tribunaltype	tribunaltypelevel	2	integer
+tribunaltype	tribunaltypeshort	3	character varying
+tribunaltype	tribunaltypelong	4	text
+tribunaltype	tribunaltypedivision	5	character varying
+tribunaltype	tribunaltypefilingoffice	6	character varying
+tribunaltype	tribunaltypefilingofficerlevel	7	boolean
+tribunaltype	tribunaldescription	8	text
+tribunaltype	tribunaltypesummary	9	character varying

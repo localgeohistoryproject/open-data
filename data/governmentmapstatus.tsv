@@ -1,0 +1,5 @@
+governmentmapstatusid	governmentmapstatusshort	governmentmapstatuslong	governmentmapstatusreviewed	governmentmapstatusfurtherresearch	governmentmapstatustimelapse	governmentmapstatusomit
+0	Omit	Never an active government or geographic entity.	f	f	f	t
+1	No	Mapping is incomplete.	f	f	f	f
+2	Mapped	Every portion of the government is mapped.	t	f	t	f
+7	Substitute	Used for government records substituted by legal successors.	f	f	f	t

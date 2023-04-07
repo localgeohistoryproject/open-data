@@ -1,0 +1,34 @@
+sourcetypeid	sourcetypeshort	sourcetypeislaw
+1	almanacs	f
+2	atlases	f
+3	blogs	f
+4	cadastral maps	f
+5	census correspondence	f
+6	census databases	f
+7	census maps	f
+8	census reports	f
+12	county databases	f
+13	county histories	f
+14	county publications	f
+16	court reporters	f
+17	encyclopedias	f
+18	federal agency files	f
+19	federal agency reports	f
+21	federal publications	f
+24	inventories	f
+25	law indexes	f
+26	legislative journals	f
+27	local histories	f
+28	maps	f
+31	municipal histories	f
+32	municipal maps	f
+33	municipal publications	f
+34	newspapers	f
+35	research databases	f
+36	revised laws	t
+37	serials	f
+38	session laws	t
+40	state agency files	f
+41	state agency reports	f
+44	state histories	f
+45	state publications	f

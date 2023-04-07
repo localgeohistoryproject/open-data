@@ -1,0 +1,93 @@
+eventtypeid	eventtypelong	eventtypeshort	eventtypeborders	eventtypeinclude	eventtypecreate	eventtypegroup
+-100	An artificial grouping of those event types with "yes" under the "Only Border Changes?" column.	Only Border Changes	documentation	f	n	Placeholder
+0	An artificial grouping of all event types.	Any Type	documentation	f	n	Placeholder
+1	The size of a government's legislative body is increased or reduced.	Legislative Body	structure	f	n	Form
+2	The territory of a government is either only increased or only decreased, with all involved governments retaining their forms of government.	Annexation	yes	t	c	Boundaries
+4	The territory of governments is definitively established, perambulated, or is altered such that the territory of at least one government is both increased and decreased, with all involved governments retaining their forms of government.	Boundary Realignment	yes	t	c	Boundaries
+5	The charter of a government is amended. Includes reincorporation events where the intent is to adopt a new special charter when a government is already operating under a special charter.	Charter Amendment	yes	t	y	Form
+6	The charter of a government is amended with respect to the duties or manner of electing the executive officer.	Charter Amendment (Executive)	structure	t	n	Form
+7	The charter of a government is validated or, if dormant, restored. Includes reincorporation events where the intent is to cure defects in the original incorporation procedure, or to restore a lapsed government under the prior form when no formal dissolution took place.	Charter Revival	yes	t	y	Form
+9	A government is dissolved, including by merger or consolidation, with or without its territory being attached to one or more existing governments.	Dissolution	yes	t	t	Dissolution
+10	An existing government becomes independent from another government, or is made to possess the powers of another government.	Separation	yes	t	s	Level
+11	An existing county is classified or reorganized as a different class of county.	County Classification	structurecounty	t	y	Classification
+16	The event type is a placeholder for tracking election date legislation, and does not describe an actual geohistory event.	Election Dates	no	f	n	Placeholder
+17	One or more election districts are created, altered, or dissolved.	Election Districts	ignore	t	n	Other
+18	An existing government becomes independent from another government for election purposes.	Election Separation	structure	t	s	Level
+21	An existing township is reorganized as a first class township.	First Class Township	structure	t	y	Classification
+23	An existing county is reorganized under a home rule charter.	Home Rule (County)	structurecounty	t	y	Form
+24	An existing municipality is reorganized under a home rule charter.	Home Rule	structure	t	y	Form
+25	An existing government becomes independent from another government for court purposes.	Judicial Organization	structurecounty	t	y	Form
+30	A new government is created or an existing government is reorganized as a borough, either in name or form of government.	New Borough	yes	t	t	Creation
+31	A new government is created or an existing government is reorganized as a city, either in name or form of government.	New City	yes	t	t	Creation
+32	A new government is created or an existing government is reorganized as a city district, either in name or form of government, that is not subordinate to another municipal corporation.	New City District	yes	t	t	Creation
+33	A new government is created or an existing government is reorganized as a county, either in name or form of government.	New County	yescounty	t	y	Creation
+34	The name of an existing government is changed without changing the form or named type of government.	New Name	yes	t	t	Name
+35	A new government is created or an existing government is reorganized as a town, either in name or form of government.	New Town	yes	t	t	Creation
+36	A new government is created or an existing government is reorganized as a township, either in name or form of government.	New Township	yes	t	t	Creation
+40	A government adopts an official plat or boundary description without changing the form of government.	Plat Recording	yes	t	c	Other
+41	The polling place for an election district is altered.	Polling Places	ignore	f	n	Other
+42	A new quasi-municipal entity with limited powers is created, which remains dependent on another political subdivision.	New Proto-Municipality	no	t	t	Creation
+43	A new government is created or an existing government is reorganized as a road district, either in name or form of government, that is not subordinate to another municipal corporation.	New Road District	yes	t	t	Creation
+45	One or more school districts are created, altered, or dissolved.	School Districts	part	t	n	School
+48	An existing township is reorganized as a second class township.	Second Class Township	structure	t	y	Classification
+49	An existing government is reorganized chiefly or entirely under the form and powers of government available to its type of government under general law. Includes reincorporation events where the intent is to reorganize under a general law.	General Law	structure	t	y	Form
+51	A new government is created or an existing government is reorganized as an unincorporated service district, either in name or form of government.	New Unincorporated Service District	yes	t	t	Creation
+52	Additional information is required to determine the nature of the event.	Unknown	ignore	f	n	Placeholder
+54	One or more wards are created, altered, or dissolved.	Wards	ignore	t	n	Other
+55	An existing municipality is reorganized under the commission form.	Commission Form	structure	t	y	Form
+56	An existing municipality is reorganized under the council-manager form.	Council-Manager Form	structure	t	y	Form
+57	An existing municipality is reorganized under the mayor-council-administrator form.	Mayor-Council-Administrator Form	structure	t	y	Form
+58	An existing municipality is reorganized under the mayor-council form.	Mayor-Council Form	structure	t	y	Form
+59	An existing municipality is classified or reorganized as a different class of municipality.	Municipal Classification	structure	t	y	Classification
+60	An existing municipality is reorganized under the municipal manager form.	Municipal Manager Form	structure	t	y	Form
+62	A new government is created or an existing government is reorganized as a commission, either in name or form of government.	New Commission	yes	t	t	Creation
+63	A new government is created or an existing government is reorganized as a village, either in name or form of government.	New Village	yes	t	t	Creation
+64	An existing municipality is reorganized under the small municipality form.	Small Municipality Form	structure	t	y	Form
+65	An existing township is reorganized as a charter township.	Charter Township	structure	t	y	Form
+66	An existing county is reorganized under an optional form of government.	Optional Form (County)	structurecounty	t	y	Form
+67	A new government is created or an existing government is reorganized as a hundred, either in name or form of government.	New Hundred	yes	t	t	Creation
+68	The charter of a government is amended with respect to the ability to alter its territory in a delimited tract.	Charter Amendment (Annexation-Specific)	yes	t	n	Form
+69	The charter of a government is amended with respect to the ability to alter its territory, without delimiting the tract involved.	Charter Amendment (Annexation-General)	yes	t	n	Form
+70	The charter of a government is amended to require or permit the adoption of an official plat or boundary description.	Charter Amendment (Plat Recording)	yes	t	n	Form
+71	The name of an unincorporated place is changed.	Unincorporated Place Name	no	t	n	Name
+72	A new government is created or an existing government is reorganized as a state, either in name or form of government.	New State	yesstate	t	y	Creation
+73	A new government is created or an existing government is reorganized as a plantation, either in name or form of government.	New Plantation	yes	t	t	Creation
+74	A new government is created or an existing government is reorganized as a district, either in name or form of government, that is not immediately below the national government.	New District	yes	t	t	Creation
+77	A new government is created or an existing government is reorganized as a province, either in name or form of government.	New Province	yesstate	t	y	Creation
+78	A new government is created or an existing government is reorganized as a municipality, either in name or form of government.	New Municipality	yes	t	t	Creation
+79	A new government is created or an existing government is reorganized as a department, either in name or form of government.	New Department	yescounty	t	y	Creation
+80	A new government is created or an existing government is reorganized as a region, either in name or form of government.	New Region	yesstate	t	y	Creation
+81	The territory of the unincorporated growth area of a government is altered, without altering the territory of the government itself.	Growth Area	no	f	n	Form
+82	An existing city is classified or reorganized as a different class of city.	City Classification	structure	t	t	Classification
+83	A new government is created or an existing government is reorganized as a metro township, either in name or form of government.	New Metro Township	yes	t	y	Creation
+84	An existing township is classified or reorganized as a different class of township.	Township Classification	structure	t	y	Classification
+85	A new government is created or an existing government is reorganized as a territory, either in name or form of government.	New Territory	yesstate	t	y	Creation
+86	An existing government becomes dependent on another government, or ceases to possess the powers of another government.	Subordination	yes	t	s	Level
+87	An existing government is reorganized under a special charter granted by a sovereign.	Special Charter	structure	t	y	Form
+89	A new school district is created.	New School District	part	t	n	School
+90	A school district is dissolved, with or without its territory being attached to one or more existing school districts.	School District Dissolution	part	t	n	School
+91	The territory of a school district is increased, with all involved school districts retaining their forms of government.	School District Annexation	part	t	n	School
+92	Indigenous title is extinguished by or in favor of another sovereign state.	Tribal Land Cession	structure	t	n	Boundaries
+93	The territory of a government is increased for a limited time or under other agreed jurisdictional limitations, with all involved governments retaining their forms of government.	Conditional Annexation	yes	t	c	Boundaries
+94	Territory attached for a limited time or under other agreed jurisdictional limitations to a government reverts to its former government, with all involved governments retaining their forms of government.	Conditional Reversion	yes	t	c	Boundaries
+95	Territory reverts to its former school district, with all involved school districts retaining their forms of government.	School District Reversion	part	t	n	School
+96	A new government is created or an existing government is reorganized as a magisterial district, either in name or form of government.	New Magisterial District	ignore	t	n	Other
+97	An existing county becomes independent from another county.	Separation (County)	yescounty	t	y	Level
+99	A new government is created or an existing government is reorganized as a district, either in name or form of government, that is immediately below the national government.	New Federal District	yesstate	t	y	Creation
+100	A new government is created or an existing government is reorganized as a precinct, either in name or form of government.	New Precinct	yes	t	t	Creation
+101	A new government is created or an existing government is reorganized as a hamlet, either in name or form of government.	New Hamlet	yes	t	t	Creation
+102	An existing town is reorganized as a suburban town.	Suburban Town	structure	t	y	Form
+103	An existing school district is classified or reorganized as a different class of school district.	School District Classification	structure	t	n	School
+105	Preclearance requirements under Section 5 of the Voting Rights Act of 1965 are commenced for a government.	Voting Rights Act Preclearance Inclusion	structure	f	n	Voting Rights
+106	Limited preclearance requirements by court order under Section 3 of the Voting Rights Act of 1965 are commenced for a government.	Voting Rights Act Conditional Inclusion	structure	f	n	Voting Rights
+107	Preclearance requirements under Sections 3 or 5 of the Voting Rights Act of 1965 are ended for a government.	Voting Rights Act Preclearance Exclusion	structure	f	n	Voting Rights
+108	An existing municipality is reorganized under the selectman-manager form.	Selectman-Manager Form	structure	t	y	Form
+109	An existing municipality is reorganized under the selectman-administrator form.	Selectman-Administrator Form	structure	t	y	Form
+110	One or more parishes are created, altered, or dissolved.	Parishes	ignore	f	n	Other
+111	Title is extinguished by or in favor of another sovereign state.	State Land Cession	structure	t	n	Boundaries
+112	An existing government loses its form of government and powers, but remains in existence solely as a geographic unit.	Inactive Form	structure	t	n	Form
+113	An existing county is reorganized with home rule powers without a charter.	Code County	structurecounty	t	y	Form
+114	The charter of a county is amended.	Charter Amendment (County)	yescounty	t	y	Form
+115	The charter of a government is amended with respect to the ability to create a new village within its territory.	Charter Amendment (New Village)	yes	t	n	Form
+116	The charter of a government is amended with respect to the conduct of elections.	Charter Amendment (Elections)	structure	t	n	Form
+117	The event type is a placeholder for an event record that acts as a placeholder, and does not describe an actual geohistory event.	Non-Event	ignore	f	n	Placeholder

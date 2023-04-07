@@ -1,0 +1,23 @@
+tribunaltypeid	tribunaltypelevel	tribunaltypeshort	tribunaltypelong	tribunaltypedivision	tribunaltypefilingoffice	tribunaltypefilingofficerlevel	tribunaldescription	tribunaltypesummary
+1	1	U.S.Dist.	United States District Court		Clerk	f		District
+3	1	Sup.	Supreme Court		Clerk	f		Supreme
+4	2	Commw.	Commonwealth Court		Chief Clerk	f		Commonwealth
+5	2	Super.	Superior Court		Prothonotary	f		Superior
+6	2	Sup.	Supreme Court		Prothonotary	f		Supreme
+7	3	Com.Pl.	Court of Common Pleas		Prothonotary	t		Common Pleas
+8	3	Com.Pl.Crim.Div.	Court of Common Pleas	Criminal Division	Clerk of Courts	t		Common Pleas Criminal
+9	3	Com.Pl.Civ.Div.	Court of Common Pleas	Civil Division	Prothonotary	t		Common Pleas Civil
+11	3	Dist.	District Court		Prothonotary	t		District
+12	3	N.P.	Court of Nisi Prius		Prothonotary	f		Nisi Prius
+13	3	Orp.Ct.	Orphans' Court		Clerk	f		Orphans'
+14	3	Q.Sess.	Court of Quarter Sessions of the Peace		Clerk of Courts	t		Quarter Sessions
+15	3	Reg.Wl.	Register of Wills		Register of Wills	t		Wills
+18	2	Err.&App.	Court of Errors and Appeals		Clerk	f		Errors and Appeals
+19	2	Super.App.Div.	Superior Court	Appellate Division	Clerk	f		Superior Appellate
+20	2	Sup.	Supreme Court		Clerk	f		Supreme
+21	3	Cir.	Circuit Court		Clerk of the Superior Court	t		Circuit
+22	3	Com.Pl.	Court of Common Pleas		Clerk of the Superior Court	t		Common Pleas
+24	3	Q.Sess.	Court of Quarter Sessions of the Peace		Clerk of the Superior Court	t		Quarter Sessions
+25	3	Super.Ch.Div.	Superior Court	Chancery Division	Clerk of the Superior Court	t		Superior Chancery
+26	3	Super.L.Div.Civ.Pt.	Superior Court	Law Division, Civil Part	Clerk of the Superior Court	t		Superior Law Civil
+73	3	County	County Court		County Clerk	t		County

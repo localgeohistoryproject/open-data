@@ -1,0 +1,509 @@
+adjudicationlocationtypeid	tribunal	adjudicationlocationtypearchivelevel	adjudicationlocationtypearchiveseries	adjudicationlocationtypetype	adjudicationlocationtypevolumetype	adjudicationlocationtypepagetype	adjudicationlocationtypeabbreviation	adjudicationlocationtypelong	adjudicationlocationtypeshort
+1	3	\N		Docket	Volume	Page	Cv	Civil	Civ.D.
+2	5	1		Docket	Identifier	Image	Engrossed Dkt	Engrossed	Egr.D.
+4	5	1	301668	File	Number	Box	Appellate F	Appellate	App.F.
+5	6	\N		Docket	Volume	Page	Tr	Transfer	Tfr.D.
+6	6	\N		Docket	Volume	Page	MD	Miscellaneous	Misc.D.
+7	6	\N		Docket	Volume	Page	CD	Commonwealth	Commw.D.
+8	7	\N		Book	Year	Volume	Paper	Paper	P.Bk.
+10	7	\N		Docket	Volume	Page	EDA	Appeal	App.D.
+12	8	\N		Docket	Volume	Page	MDA	Appearance	Apr.D.
+14	9	\N		Docket	Volume	Page	Williamsport Appeal	Appeal	App.D.
+15	10	\N		Docket	Volume	Page	Scranton Appeal	Appeal	App.D.
+16	11	\N		Book	Year	Volume	Paper	Paper	P.Bk.
+17	11	\N		Docket	Volume	Page	WDM	Miscellaneous	Misc.D.
+18	11	\N		Docket	Volume	Page	WDA	Appeal	App.D.
+19	12	\N		Book	Year	Volume	Paper	Paper	P.Bk.
+20	12	\N		Docket	Volume	Page	EAP	Appeal	App.D.
+22	12	\N		Docket	Volume	Page	EAL	Allocatur	Alc.D.
+23	12	2	33.10	File	Location	Box	Appeal F	Appeal	App.F.
+25	13	\N		Docket	Volume	Page	MAL	Allocatur	Alc.D.
+26	13	\N		Docket	Volume	Page	MM	Miscellaneous	Misc.D.
+27	13	\N		Docket	Volume	Page	MAP	Appeal	App.D.
+28	14	\N		Book	Year	Volume	Paper	Paper	P.Bk.
+29	14	\N		Docket	Volume	Page	WAL	Allocatur	Alc.D.
+30	14	\N		Docket	Volume	Page	WAP	Appeal	App.D.
+31	14	\N		Docket	Volume	Page	WM	Miscellaneous	Misc.D.
+32	16	\N		Docket	Volume	Page	Appearance (No. 2)	Appearance (No. 2)	Com.Pl.#2.Apr.D.
+33	16	\N		Docket	Volume	Page	GD	General	Gen.D.
+34	17	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+36	20	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+37	21	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+38	21	\N		Docket	Volume	Page	CP	Common Pleas	Com.Pl.D.
+39	22	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+40	23	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+42	24	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+43	25	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+44	29	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+45	29	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+46	30	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+47	31	\N		Docket	Volume	Page	CD	Continuance	Cn.D.
+48	32	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+49	32	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+50	32	\N		File	Box	N/A	Sup Ct F	Supreme Court	Sup.Ct.F.
+51	34	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+52	34	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+53	36	\N		Docket	Volume	Page	CD	Commonwealth	Commw.D.
+54	39	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+56	40	\N		Docket	Volume	Page	Civ	Continuance	Cn.D.
+57	49	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+58	49	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+59	51	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+60	51	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+61	51	\N		Docket	Volume	Page	Appearance	Appearance	Apr.D.
+62	52	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+63	54	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+64	54	\N		Docket	Volume	Page	Civ	Continuance	Cn.D.
+65	55	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+68	60	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+69	62	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+70	63	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+71	63	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+73	68	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+75	68	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+77	70	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+78	70	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+79	71	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+80	72	\N		Docket	Volume	Page	CP	Common Pleas	Com.Pl.D.
+81	73	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+82	77	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+83	77	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+84	79	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+85	79	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+86	83	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+88	85	\N		Docket	Volume	Page	In re	In re	IR.D.
+89	85	\N		Docket	Volume	Page	Road	Road	Rd.D.
+90	86	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+91	86	\N		Docket	Volume	Page	Road	Road	Rd.D.
+92	87	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+93	88	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+94	88	\N		File	Roll	Location	Misc Film	Miscellaneous	Misc.F.
+95	89	\N		Docket	Volume	Page	Petn	Petition	Pet.D.
+96	90	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+97	91	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+98	92	\N		Docket	Volume	Page	B.T.S.	B.T.S.	Twp.D.
+99	93	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+100	93	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+101	93	\N		File	Number	Location	Road F	Road	Rd.F.
+102	96	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+103	97	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+104	97	\N		Index	Volume	Page	Misc Idx	Miscellaneous	Misc.I.
+105	98	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+108	102	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+109	102	\N		Docket	Volume	Page	Road	Road	Rd.D.
+111	103	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+112	103	\N		Docket	Volume	Page	Road	Road	Rd.D.
+113	104	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+114	105	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+115	107	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+116	107	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+117	108	\N		Docket	Volume	Page	Civ Costs	Civil Costs	Civ.Cst.D.
+118	108	\N		Docket	Volume	Page	Civ (New)	Civil	Civ.D.
+119	110	\N		Docket	Volume	Page	Anx	Annexation	Ax.D.
+120	111	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+121	111	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+122	112	\N		Docket	Volume	Page	Road	Road	Rd.D.
+124	113	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+125	114	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+126	115	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+127	117	\N		Docket	Volume	Page	Crim	Criminal	Crim.D.
+128	118	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+129	118	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+130	119	\N		Docket	Volume	Page	Road	Roads and Bridges	Rd.D.
+131	120	\N		Docket	Volume	Page	Crim	Criminal	Crim.D.
+132	120	\N		File	Roll	Location	Crim F	Criminal	Crim.F.
+133	121	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+134	121	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+135	121	\N		File	Roll	Location	Road F	Road	Rd.F.
+136	122	\N		Docket	Volume	Page	Crim	Criminal	Crim.D.
+137	122	\N		Docket	Volume	Page	Sess D	Sessions	Q.Sess.D.
+140	125	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+141	127	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+142	128	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+143	128	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+144	130	\N		Docket	Volume	Page	Sess Dkt	Sessions	Q.Sess.D.
+145	130	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+146	131	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+147	131	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+148	136	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+149	136	\N		Docket	Volume	Page	Road	Road	Rd.D.
+150	136	\N		Docket	Volume	Page	Div of Boro & Twp	Record & Division of Boroughs & Townships	Twp.D.
+151	136	\N		File	Location	Box	Misc F	Miscellaneous	Misc.F.
+152	137	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+153	138	\N		Docket	Volume	Page	Spec	Special	Spec.D.
+154	138	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+155	138	\N		Docket	Volume	Page	Road R	Road Reports	Rd.Rep.D.
+156	138	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+157	140	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+158	142	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+159	142	\N		File	Number	Box	Road F	Road	Rd.F.
+160	143	\N		Docket	Volume	Page	PD	Petition	Pet.D.
+161	145	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+162	146	\N		Docket	Volume	Page	Criminal	Criminal	Crim.D.
+163	147	\N		Docket	Volume	Page	Road	Road	Rd.D.
+164	147	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+165	149	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+166	152	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+167	152	\N		Docket	Volume	Page	GD	General	Gen.D.
+168	153	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+169	154	\N		Docket	Volume	Page	General	General	Gen.D.
+170	155	\N		Docket	Volume	Page	CP	Common Pleas	Com.Pl.D.
+171	157	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+172	157	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+173	160	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+174	161	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+175	163	\N		File	Roll	Location	Civ F	Civil	Civ.F.
+176	164	\N		Docket	Volume	Page	GD	General	Gen.D.
+177	165	\N		Docket	Volume	Page	CT	Contract	Cont.D.
+178	165	\N		Docket	Volume	Page	IR	Injunctive Relief	Injc.Rlf.D.
+179	165	\N		Docket	Volume	Page	RC	Real Property Civil Other	Real.Prop.Civ.Oth.D.
+180	167	\N		Docket	Volume	Page	CD	Continuance	Cn.D.
+181	168	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+182	169	\N		Docket	Volume	Page	MV	Miscellaneous	Misc.D.
+183	174	\N		Docket	Volume	Page	GD	General	Gen.D.
+184	175	\N		Docket	Volume	Page	A	Appearance	Apr.D.
+185	180	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+186	183	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+187	185	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+188	188	\N		File	Roll	Location	Civ F	Civil	Civ.F.
+189	189	\N		Docket	Volume	Page	C	Civil	Civ.D.
+190	190	\N		Docket	Volume	Page	Civ	Continuance	Cn.D.
+191	194	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+192	196	\N		Docket	Volume	Page	General	General	Gen.D.
+194	198	\N		Minute	Volume	Page	CM	Court	Ct.M.
+195	198	\N		File	Roll	Location	CV F	Civil	Civ.F.
+196	200	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+197	204	\N		Docket	Volume	Page	S	Suit	Su.D.
+198	206	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+199	210	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+200	215	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+201	287	\N		Docket	Volume	Page	Dist	District	Dist.D.
+202	288	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+203	358	\N		Docket	Volume	Page	Road	Road	Rd.D.
+204	358	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+205	359	\N		Docket	Volume	Page	Road	Road	Rd.D.
+206	359	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+207	359	\N		Docket	Volume	Page	Sess D	Sessions	Q.Sess.D.
+208	359	\N		Docket	Volume	Page	Spec Elec	Special Election	Spec.Elec.D.
+209	359	\N		Minute	Volume	Page	Sess M	Sessions	Q.Sess.M.
+210	360	\N		Docket	Volume	Page	Road	Road	Rd.D.
+211	360	\N		Docket	Volume	Page	In re	In re	IR.D.
+212	360	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+213	361	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+214	361	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+215	361	\N		Docket	Volume	Page	Plot	Plot	Pl.D.
+216	361	\N		Docket	Volume	Page	Road	Road	Rd.D.
+217	362	\N		Docket	Volume	Page	Arg	Argument	Arg.D.
+218	362	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+219	362	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+220	362	\N		Docket	Volume	Page	Plan	Plans and Draughts	Pl.D.
+221	362	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+222	363	\N		Book	Volume	Page	Road B	Road	Rd.Bk.
+223	363	\N		Docket	Volume	Page	Road Dkt	Road	Rd.D.
+224	363	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+225	363	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+226	363	\N		Docket	Volume	Page	Spec Elec	Special Election	Spec.Elec.D.
+227	363	\N		Docket	Volume	Page	Road Draft	Road Draft	Rd.Drft.D.
+228	363	\N		File	Roll	Location	Misc Film	Miscellaneous	Misc.F.
+229	364	\N		Docket	Volume	Page	Bench	Bench	Bn.D.
+230	364	\N		Docket	Volume	Page	Road	Roads, Bridges, Streets, and Alleys	Rd.D.
+231	364	\N		Docket	Volume	Page	Petn	Petition	Pet.D.
+232	365	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+233	365	\N		Docket	Volume	Page	Road	Road	Rd.D.
+234	365	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+235	366	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+236	366	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+237	366	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+238	366	\N		File	Number	Roll	Div F	Division of Districts	Twp.F.
+239	366	\N		File	Number	Box	Misc Misc F	Miscellaneous Miscellaneous	Misc.Misc.F.
+240	366	\N		File	Number	Box	Road F	Road	Rd.F.
+241	367	\N		Docket	Volume	Page	B.T.S.	B.T.S.	Twp.D.
+242	367	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+243	367	\N		Docket	Volume	Page	Road	Road	Rd.D.
+244	367	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+245	368	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+246	368	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+247	368	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+248	368	\N		File	Number	Location	Road F	Road	Rd.F.
+249	369	\N		Docket	Volume	Page	Road V	Road View	Rd.Vw.D.
+250	369	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+251	369	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+252	370	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+253	370	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+254	370	\N		File	Roll	Location	Sess F	Sessions	Q.Sess.F.
+255	370	\N		File	Roll	Location	Misc	Miscellaneous	Misc.F.
+257	371	\N		Docket	Volume	Page	Road	Road	Rd.D.
+258	371	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+259	371	\N		Docket	Volume	Page	Plat	Plat	Pl.D.
+260	372	\N		Case Number	Volume	Number	Road No	Road	Rd.F.
+261	372	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+262	372	\N		Docket	Volume	Page	Road	Road	Rd.D.
+263	372	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+264	372	\N		File	Box	Location	Misc F	Miscellaneous	Misc.F.
+265	372	\N		File	Volume	Page	Twp, School & ED	Township, School and Election Districts	Twp.F.
+266	373	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+267	373	\N		Docket	Volume	Page	Road	Road	Rd.D.
+269	374	\N		Docket	Volume	Page	Road	Road	Rd.D.
+270	374	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+271	375	\N		Docket	Volume	Page	Road	Road	Rd.D.
+272	375	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+273	376	\N		Docket	Volume	Page	Road	Road	Rd.D.
+274	376	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+275	377	\N		Docket	Volume	Page	Road	Road	Rd.D.
+276	377	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+277	377	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+278	378	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+279	378	\N		Docket	Volume	Page	Crim	Criminal	Crim.D.
+280	378	\N		Docket	Volume	Page	Plan	Plan	Pl.D.
+281	378	\N		Docket	Volume	Page	Unk	Unknown	Unk.D.
+282	378	\N		Docket	Volume	Page	Road	Road	Rd.D.
+283	378	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+284	378	\N		File	Number	Location	Sess F	Sessions	Q.Sess.F.
+285	378	\N		File	Number	Location	Road F	Road	Rd.F.
+286	379	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+287	379	\N		Docket	Volume	Page	Road	Road	Rd.D.
+288	379	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+289	380	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+290	380	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+291	380	\N		Docket	Volume	Page	Cont Road	Continuance Road	Cn.Rd.D.
+292	380	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+293	380	\N		File	Box	Location	Road F	Road	Rd.F.
+294	380	\N		File	Box	Location	Misc F	Miscellaneous	Misc.F.
+295	381	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+296	381	\N		Docket	Volume	Page	Road	Road	Rd.D.
+297	382	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+298	383	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+299	383	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+300	383	\N		Docket	Volume	Page	Civ (New)	Civil	Civ.D.
+301	384	\N		Docket	Volume	Page	Road	Road	Rd.D.
+302	384	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+303	385	\N		Docket	Volume	Page	Anx	Annexation	Ax.D.
+304	385	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+305	386	\N		Book	Volume	Page	Road B	Road	Rd.Bk.
+306	386	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+307	386	\N		Docket	Volume	Page	Road R	Road Record	Rd.Rec.D.
+308	387	\N		Docket	Volume	Page	Road	Road	Rd.D.
+309	387	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+310	388	\N		Docket	Volume	Page	Road	Road	Rd.D.
+311	388	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+312	389	\N		Docket	Volume	Page	Road	Road	Rd.D.
+313	389	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+314	390	\N		Docket	Volume	Page	Argument	Argument	Arg.D.
+315	390	\N		Docket	Volume	Page	Road	Road	Rd.D.
+316	390	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+317	391	\N		Docket	Volume	Page	Road	Road	Rd.D.
+318	391	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+319	392	\N		Docket	Volume	Page	Road	Road	Rd.D.
+320	392	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+321	393	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+322	393	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+323	393	3	RG 5-2.1	File	Municipality	Location	Anx	Annexations	Ax.F.
+324	394	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+325	394	\N		Docket	Volume	Page	Road	Roads and Bridges	Rd.D.
+326	395	\N		Docket	Volume	Page	Road	Road	Rd.D.
+327	395	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+328	395	\N		Docket	Volume	Page	Crim	Criminal	Crim.D.
+329	396	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+330	396	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+331	396	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+332	397	\N		Case Number	Volume	Number	Road No	Road	Rd.F.
+333	397	\N		Docket	Volume	Page	Map	Map	Mp.D.
+334	397	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+335	397	\N		Docket	Volume	Page	Sess D	Sessions	Q.Sess.D.
+336	397	\N		Minute	Volume	Page	Sess M	Sessions	Q.Sess.M.
+337	397	\N		File	Roll	Session	Road F	Road	Rd.F.
+338	398	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+339	398	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+340	398	\N		File	Box	Location	Road F	Road	Rd.F.
+341	399	\N		Docket	Volume	Page	Road	Road	Rd.D.
+342	399	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+343	399	\N		Minute	Volume	Page	Ct Min	Court	Ct.M.
+344	399	\N		File	Box	N/A	Elec Dist F	Change of Election Districts	Elec.Dist.F.
+345	400	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+346	400	\N		Docket	Volume	Page	Road	Road	Rd.D.
+347	400	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+348	401	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+349	401	\N		Docket	Volume	Page	Road	Road	Rd.D.
+350	402	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+351	402	\N		Docket	Volume	Page	Road	Road	Rd.D.
+352	402	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+353	402	\N		Docket	Volume	Page	Inc	Incorporation	Inc.D.
+354	403	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+355	403	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+356	404	\N		Docket	Volume	Page	Road	Road	Rd.D.
+357	404	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+358	405	\N		Docket	Volume	Page	Sess Dkt	Sessions	Q.Sess.D.
+359	405	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+360	405	\N		Docket	Volume	Page	Road	Road	Rd.D.
+361	405	\N		Minute	Volume	Page	Sess Min	Sessions	Q.Sess.M.
+362	405	\N		File	Number	Location	Div F	Divisions of Townships and Incorporation of Boroughs	Twp.F.
+363	406	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+364	406	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+365	406	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+366	406	\N		File	Number	Location	Road F	Road	Rd.F.
+367	407	2		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+368	407	\N		Docket	Volume	Page	Road	Road	Rd.D.
+369	407	\N		File	Session	Location	Sess F	Sessions	Q.Sess.F.
+370	408	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+371	408	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+372	408	\N		File	Box	Location	Road F	Road	Rd.F.
+373	409	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+374	409	\N		Docket	Volume	Page	Road	Road	Rd.D.
+375	410	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+376	410	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+377	410	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+378	411	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+379	411	\N		Docket	Volume	Page	Div of Boro & Twp	Record & Division of Boroughs & Townships	Twp.D.
+380	411	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+381	411	\N		File	Location	Box	Misc F	Miscellaneous	Misc.F.
+382	411	\N		File	Location	Box	Div of Boro & Twp F	Division of Boroughs & Townships	Twp.F.
+383	411	\N		File	Location	Box	Road F	Road	Rd.F.
+384	412	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+385	412	\N		Docket	Volume	Page	Road	Road	Rd.D.
+386	412	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+388	413	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+389	413	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+390	413	\N		Docket	Volume	Page	Road R	Road Reports	Rd.Rep.D.
+391	414	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+392	414	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+393	414	\N		Minute	Volume	Page	Court	Court	Ct.M.
+394	414	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+395	415	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+396	415	\N		Docket	Volume	Page	Road	Road	Rd.D.
+397	415	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+398	416	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+399	416	\N		Docket	Volume	Page	Road	Road	Rd.D.
+400	417	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+401	417	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+402	417	\N		File	Number	Box	Road F	Road	Rd.F.
+403	418	\N		Docket	Volume	Page	Road	Road	Rd.D.
+404	418	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+405	418	\N		Docket	Volume	Page	PD	Petition	Pet.D.
+406	419	\N		Docket	Volume	Page	Road D	Road	Rd.D.
+407	419	\N		Docket	Volume	Page	Sess D	Sessions	Q.Sess.D.
+408	419	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+409	420	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+410	420	\N		Docket	Volume	Page	Road	Road	Rd.D.
+411	421	\N		Docket	Volume	Page	Sess Dkt	Sessions	Q.Sess.D.
+412	421	\N		Docket	Volume	Page	Road	Road	Rd.D.
+415	422	\N		Docket	Volume	Page	Road	Road	Rd.D.
+416	422	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+418	422	\N		Docket	Volume	Page	Road & Br	Roads and Bridge	Rd.D.
+419	422	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+420	423	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+421	423	\N		Docket	Volume	Page	Road	Road	Rd.D.
+422	424	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+423	424	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+424	424	\N		Docket	Volume	Page	Road	Road	Rd.D.
+425	427	\N		Book	Volume	Page	Will	Will	Wl.Bk.
+426	427	\N		Index	Volume	Page	Proc Idx	Proceedings	Proc.I.
+427	18	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+428	377	\N		File	Box	N/A	Sess F	Sessions	Q.Sess.F.
+429	202	\N		Docket	Volume	Page	Cont	Continuance	Cn.D.
+430	170	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+431	35	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+432	171	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+433	172	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+434	396	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+435	57	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+436	382	\N		Docket	Volume	Page	Road	Road	Rd.D.
+437	382	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+438	400	\N		File	Roll	Location	Road F	Road	Rd.F.
+439	400	\N		File	Box	Location	Sess F	Sessions	Q.Sess.F.
+440	102	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+441	57	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+444	79	\N		Minute	Volume	Page	Min	Common Pleas	Com.Pl.M.
+445	383	\N		Docket	Volume	Page	Road	Road	Rd.D.
+446	37	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+447	393	\N		Journal	Volume	Page	QS J	Quarter Sessions	Q.Sess.J.
+448	408	\N		Minute	Volume	Page	Road M	Road	Rd.M.
+449	92	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+450	187	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+451	5	1	597292	File	Number	Box	Original F	Original	Orig.F.
+452	405	\N		File	Number	Location	Road F	Road	Rd.F.
+453	178	\N		Docket	Volume	Page	Civ	Civil	Civ.D.
+480	151	\N		Docket	Volume	Page	S	Suit	Su.D.
+481	7	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+482	8	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+483	12	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+484	13	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+485	14	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+486	6	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+487	11	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+488	10	\N		Book	Volume	Page	Paper2	Paper	P.Bk.
+489	62	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+490	130	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+491	10	\N		Book	Year	Volume	Paper	Paper	P.Bk.
+492	9	\N		Book	Year	Volume	Paper	Paper	P.Bk.
+494	178	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+495	360	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+496	360	\N		Docket	Volume	Page	Rule	Rule	R.D.
+497	88	\N		Docket	Volume	Page	Road Dkt	Road	Rd.D.
+498	21	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+499	31	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+501	165	\N		Docket	Volume	Page	MN	Miscellaneous	Misc.D.
+502	498	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+504	503	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+505	505	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+506	509	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+514	167	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+515	386	\N		File	Box	Location	Road F	Road	Rd.F.
+1095	29	\N		Docket	Volume	Page	Apr	Appearance	Apr.D.
+1114	44	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+1115	327	\N		Docket	Volume	Page	OC	Orphans' Court	Orp.Ct.D.
+1117	389	\N		File	File	Number	Twp & SD	Townships and School Districts	Twp.F.
+1118	294	\N		Docket	Volume	Page	OC	Orphans' Court	Orp.Ct.D.
+1119	217	\N		Docket	Roll	Location	Suit	Suit	Su.D.
+1122	217	\N		File	Roll	Location	Suit F	Suit	Su.F.
+1123	172	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+1407	192	\N		Docket	Volume	Page	Apr	Appearance	Apr.D.
+1408	373	\N		File	Roll	Location	Road F	Road	Rd.F.
+1409	373	\N		File	Box	N/A	Sess F	Sessions	Q.Sess.F.
+1410	160	\N		Docket	Volume	Page	Appearance	Appearance	Apr.D.
+1411	416	\N		Docket	Volume	Page	Unknown	Unknown	Unk.D.
+1412	208	\N		Docket	Volume	Page	CP	Common Pleas	Com.Pl.D.
+1413	16	\N		Docket	Volume	Page	Appearance (No. 3)	Appearance (No. 3)	Com.Pl.#3.Apr.D.
+1414	16	\N		Docket	Volume	Page	Execution	Execution	Ex.D.
+1415	414	\N		File	Box	N/A	Election Appt F	Election Appointments	Elec.App't.F.
+1416	414	\N		File	Box	N/A	Road F	Road	Rd.F.
+1417	35	\N		Docket	Volume	Page	Eq	Equity	Eq.D.
+1419	20	\N		Docket	Volume	Page	App	Appearance	Apr.D.
+1420	363	\N		Minute	Volume	Page	Sess M	Quarter Sessions	Q.Sess.M.
+1421	392	\N		Index	Volume	Page	Sess Idx	Sessions	Q.Sess.I.
+1422	50	\N		Docket	Volume	Page	Trust	Trust	Trust.D.
+1423	186	\N		Docket	Volume	Page	Trust	Trust	Trust.D.
+1424	59	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+1425	47	\N		Docket	Volume	Page	Continuance	Continuance	Cn.D.
+1427	195	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+1428	166	\N		Docket	Volume	Page	Civil	Civil	Civ.D.
+1429	319	\N		Docket	Volume	Page	OC	Orphans' Court	Orp.Ct.D.
+1431	359	\N		File	Row	Shelf	Road F	Road	Rd.F.
+1432	200	\N		Docket	Volume	Page	Road	Road	Rd.D.
+1433	370	\N		File	Number	Location	Mun F	Municipal	Mun.F.
+1434	402	\N		File	Number	Box	Div of Boro & Twp F	Division of Boroughs & Townships	Twp.F.
+1435	59	\N		Docket	Volume	Page	Civil	Civil	Civ.D.
+1436	37	\N		Docket	Volume	Page	Equity	Equity	Eq.D.
+1437	380	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+1439	380	\N		Docket	Volume	Page	Road Idx	Road Index	Road.I.D.
+1440	405	\N		Book	Volume	Page	HSP Misc	Historical Society of Pennsylvania Miscellaneous	Hist.Soc'y.Pa.Misc.Bk.
+1442	396	\N		File	Roll	Location	Road F	Road	Rd.F.
+1443	1343	\N		Docket	Volume	Page	App.	Appellate	App.D.
+1460	468	\N		Register	Volume	Page	Case Register	Case	Cas.Reg.
+1461	16	\N		Docket	Volume	Page	Appearance (No. 4)	Appearance (No. 4)	Com.Pl.#4.Apr.D.
+1462	184	\N		Docket	Volume	Page	Appearance	Appearance	Apr.D.
+1464	391	\N		Docket	Volume	Page	Election	Election	Elec.D.
+1465	391	\N		File	N/A	N/A	Borough	Borough	Bor.F.
+1466	15	\N		Docket	Volume	Page	S	Suit	Su.D.
+1467	44	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+1468	60	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
+1471	382	\N		File	Location	N/A	Sess F	Sessions	Q.Sess.F.
+1472	117	\N		Index	Volume	Page	Crim Idx	Criminal	Crim.I.
+1473	419	\N		Minute	Volume	Page	Sess M	Sessions	Q.Sess.M.
+1474	372	\N		Docket	Volume	Page	Priv Sess	Private Sessions	Priv.Sess.D.
+1475	373	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+1476	402	\N		Docket	Volume	Page	Plot	Plot	Pl.D.
+1477	407	\N		Docket	Volume	Page	Elec	Election	Elec.D.
+1478	375	\N		Docket	Volume	Page	Auditor	Auditor	Aud.D.
+1479	397	\N		Docket	Volume	Page	Indebt	Indebtedness	Indebt.D.
+1492	1672	\N		Docket	Volume	Page	County	County	County.D.
+1494	1674	\N		Docket	Volume	Page	County	County	County.D.

@@ -1,0 +1,174 @@
+eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
+1	Act of Legislature	Date Approved
+3	Act of Legislature	Date Enacted
+4	Act of Legislature	Listed Effective Date
+5	Act of Legislature	Listed Organization Meeting Date
+6	Act of U.S. Congress	Date Approved
+8	Agreement	Listed Effective Date
+9	Appeal	Date Withdrawn
+10	Appeal	Date Withdrawn after Date Election Results Certified
+11	Census	January 1 thereafter
+12	Certification	Date Granted by Governor
+13	Certification	January 1 after Date Granted by Governor
+14	Charter	Date Recorded
+15	Decree Nisi	Date Granted
+16	Decree Nisi	Effective Date Calculated
+17	Decree of Incorporation	Date Granted
+18	Decree of Incorporation	Date Granted per Alternate Official Source
+19	Decree of Incorporation	Date Granted per Unofficial Source
+20	Decree of Incorporation	Listed Effective Date
+21	Decree of Incorporation	Most Probable Year Granted
+22	Decree/Order (Miscellaneous)	Date Granted
+23	Draft, Map, or Plan	Date Filed with Court
+25	Reference	Earliest Known Year
+26	Election	1st Monday in January thereafter
+27	Election	Date Results Certified
+29	Election	Immediately Thereafter
+30	Final Decree	1st Monday in January thereafter
+32	Final Decree	Date Filed with Court
+33	Final Decree	Date Filed with State after Date Recorded
+34	Final Decree	Date Granted
+35	Final Decree	Date Granted (2nd County)
+36	Final Decree	Date Granted per Alternate Official Source
+37	Final Decree	Date Granted per Unofficial Source
+38	Final Decree	Date Recorded
+39	Final Decree	Date Recorded (2nd County)
+41	Final Decree	Immediately after Election after Date Granted
+42	Final Decree	Listed Effective Date
+43	Final Decree	Most Probable Year Granted
+44	First Election	1st Monday in January thereafter
+45	Home Rule Charter	Listed Effective Date
+46	Joint Resolution of U.S. Congress	Date Approved
+47	Letters Patent	Date Granted
+48	Election	Most Recent Known Year
+49	Reference	Most Recent Known Year
+50	Municipal Election after Adoption Election	1st Monday in January thereafter
+51	Municipal Election after Final Decree	1st Monday in December thereafter
+52	Municipal Election after Final Decree	1st Monday in January thereafter
+53	Municipal Election after Letters Patent	1st Monday in April thereafter
+54	Municipal Election after Letters Patent	1st Monday in January thereafter
+55	Municipal Election after Proclamation	1st Monday in January thereafter
+56	Municipal Election after Proclamation	1st Monday in March thereafter
+57	Municipal Election after Year Letters Patent Issued	1st Monday in December thereafter
+58	Municipal Election at least 90 days after Charter Recorded	1st Monday in January thereafter
+59	Municipal Election at least 90 days after Final Decree	1st Monday in January thereafter
+60	Municipal Primary after Approval by Electorate	1st Monday in January thereafter
+61	Not Specified	
+62	Ordinance	10 Days after Date First Advertised
+63	Ordinance	11 Days after Date Enacted
+64	Ordinance	30 Days after Date Filed with Court
+65	Ordinance	31 Days after Date Filed with Court
+66	Ordinance	7 Days after Date Enacted
+67	Ordinance	Date Approved
+68	Ordinance	Date Approved (2nd Municipality)
+69	Ordinance	Date Enacted
+70	Ordinance	Date Enacted by Councils without Appeal within 10 Days
+71	Ordinance	Date Filed with Court
+72	Ordinance	Date Filed with Court after Service upon Board of Elections
+73	Ordinance	Date Filed with Court after Service upon County Commissioners
+74	Ordinance	Date Recorded
+75	Ordinance	Day after Election after Date Filed with Court
+76	Ordinance	Listed Effective Date
+77	Ordinance	Most Recent Date on Initial Filing with Court
+78	Petition	Date Filed with Court
+79	Petition to Board of Elections	Listed Effective Date
+80	Proclamation	Date Granted
+82	Remittitur	Date Filed with Trial Court
+83	Report of Commissioner(s)	Date Filed with Court (2nd County)
+85	Report of Commissioner(s)	Date Recorded
+86	Resolution	Date Approved
+87	Resolution	Date Enacted
+89	Resolution of Legislature	Date Approved
+90	Service upon Board of Elections	
+91	Service upon County Commissioners	
+92	Stipulation of Counsel	Date Filed with Court
+97	Act of Legislature	Date Filed with County Clerk
+98	Act of Legislature	Date of Next Town Meeting
+99	Election	1st Monday thereafter
+101	Election	56 days thereafter
+102	Election	6th Tuesday thereafter
+103	Election	Date Results Entered in Minutes of Origin Municipality
+104	Election	Date Results Filed with County Clerk
+105	Election	Date Results Filed with Secretary of State
+106	Final Decree	1st day of January thereafter
+107	Final Decree	Date Filed with County Clerk
+109	Letters Patent	Date Granted per Unofficial Source
+111	Municipal Election after Adoption Election	Date Officers Organized
+112	Ordinance	10 Days after Date Enacted
+113	Ordinance	20 Days after Date Advertised after Enactment
+114	Ordinance	Date Advertised after Enactment
+116	Ordinance	Date Filed with County Clerk after Date Filed with Secretary of State
+118	Ordinance	Date Filed with Secretary of State after Date Filed with County Clerk
+119	Resolution	Date Filed with County Clerk
+120	Resolution	Date Filed with Secretary of State
+121	Resolution	Listed Effective Date
+123	Remittitur	Date Issued by Appellate Court
+124	Decree of Incorporation	Date Filed with Court
+125	Municipal Election after Appeal	1st Monday in January thereafter
+126	Decree/Order (Miscellaneous)	Immediately after Election after Date Granted
+127	Plat	Date Recorded
+130	Ordinance	Day after Election after Most Recent Date on Initial Filing with Court
+131	Ordinance	30 Days after Most Recent Date on Initial Filing with Court
+132	Service upon County Commissioners	Date Filed with Court
+133	Service upon Board of Elections	Date Filed with Court
+134	Final Decree	Listed Effective Date (2nd County)
+135	Ordinance	Day after Election after Date Approved
+136	Ordinance	Date Enacted (2nd Municipality)
+137	Deed	Date Recorded
+138	Tax Assessment	Most Recent Known Year
+139	Tax Assessment	Earliest Known Year
+141	Municipal Election after Census	1st Monday in January thereafter
+142	Election	Date Results Filed with Court
+144	Reference	Date Granted per Unofficial Source
+145	Report of Commissioner(s)	Date Filed with Court
+146	Report of Commissioner(s)	Date Issued
+147	Final Decree	Date Granted per Court Index
+148	Report of Commissioner(s)	Date Recorded (2nd County)
+152	Appeal	Date Denied by Court of Last Resort
+154	Proclamation	Listed Effective Date
+156	Plat	Date Issued
+157	Agreement	Date Recorded
+158	Final Decree	Most Probable Month Granted
+160	Plat	Date Filed with Secretary of State
+171	Motion	Date Adopted (2nd Municipality)
+172	Deed	Date Issued
+173	Grand Jury	Date Approval Filed
+174	Ordinance	30 Days after Most Probable Date Filed with Court
+175	Grand Jury	Date Approval Issued
+176	First Election	Immediately Thereafter
+197	Ordinance	Date Costs of Filing with Court Paid
+198	Ordinance	30 Days after Date Costs of Filing with Court Paid
+199	Ordinance	Day after Election after Date Costs of Filing with Court Paid
+200	Ordinance	Day after Election after Date Enacted
+201	Ordinance	30 Days after Date Enacted
+202	Decree for Distribution of Annexed Territory to Precincts	Date Granted
+203	Ordinance	Most Probable Date Filed with Court
+205	Boundary Certificate	Date Filed with County Clerk
+206	Final Decree	1st Monday in June thereafter
+207	Final Decree	Date Certified to the Department of Public Instruction (or Education)
+208	Final Decree	1st Monday in July thereafter
+209	Appeal	Date Opinion Filed
+210	Act of Legislature	Date Approved (2nd State)
+211	Act of Legislature	Listed Effective Date (2nd State)
+212	Census Correspondence	Listed Effective Date
+213	Ordinance	Date Enacted per Unofficial Source
+214	Ordinance	Immediately after Election after Date Approved
+215	Agreement	Date Executed
+216	Ordinance	Date Approved per Unofficial Source
+217	Final Decree	1st Monday in June after Date Granted per Alternate Official Source
+218	Petition	Date Accepted by Municipality
+219	Ordinance	Immediately after Election after Date Enacted
+220	Resolution	Date Enacted (2nd Municipality)
+221	Final Decree	1st Monday in June after Date Granted per Unofficial Source
+222	Report of Commissioner(s)	Date Filed with Secretary of State
+225	Municipal Election after Decree Nisi	1st Monday in January thereafter
+226	Election	Listed Effective Date
+227	Ordinance	1st day in January after Date Filed with Court
+229	Letters Patent	Date Recorded
+231	Deed of Surrender	Date Accepted
+232	Deed of Surrender	Date Accepted per Unofficial Source
+233	Deed	Date Issued per Unofficial Source
+236	Ordinance	Most Recent Date on Initial Filing with Secretary of State
+237	Ordinance	Date Advertised after Enactment (2nd Municipality)
+238	Ordinance	20 Days after Date Enacted
+239	Determination	Listed Effective Date

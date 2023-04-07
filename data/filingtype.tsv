@@ -1,0 +1,113 @@
+filingtypeid	filingtypelong	filingtypefinalrecording
+1	Affidavit	f
+2	Affirmed (Commonwealth Court)	f
+3	Affirmed (Superior Court)	f
+4	Affirmed (Supreme Court)	f
+5	Agreement	f
+6	Amended Decree	f
+7	Answer	f
+8	Approval by Grand Jury	f
+9	Approval by State Council (or Board) of Education	f
+10	Bond or Recognizance	f
+11	Brief or Memorandum of Law of Counsel	f
+12	Certified record from Clerk of Courts or Prothonotary of	f
+13	Certified to Board of Elections	f
+14	Certified to County Commissioners	f
+15	Certified to Department of Highways (or Transportation)	f
+16	Certified to Department of Internal (or Community) Affairs (or Community and Economic Development)	f
+17	Certified to Department of Public Instruction (or Education)	f
+20	Complaint	f
+21	Correspondence	f
+22	Decree	f
+23	Decree - Election to be held	f
+24	Decree Absolute - Report Confirmed	f
+25	Decree for Distribution of Annexed Territory to Precincts	f
+26	Decree Nisi	f
+27	Decree of Incorporation	t
+28	Draft, Map, or Plan	f
+29	Election Occurs Within Two (2) Months of Initial Pleading or Final Decree	f
+30	Election Returns	f
+31	Entry of Appearance	f
+32	Exception, Remonstrance, or Appeal	f
+33	Exit Order to Commissioner(s), Master(s), or Viewer(s) Appointed	f
+34	Final Decree	f
+35	Final Decree	t
+36	First Borough Election	f
+37	Hearing Held	f
+38	No Election Occurs Within Two (2) Months of Initial Pleading or Final Decree	f
+39	No Exceptions Filed Within Ten (10) Days	f
+40	No Exceptions Filed Within Thirty (30) Days	f
+41	No Exceptions Filed Within Twenty (20) Days	f
+42	Notice	f
+43	Opinion	f
+44	Opinion and Decree	f
+45	Opinion and Decree - Other (Commonwealth Court)	f
+48	Opinion and Decree Nisi	f
+49	Order	f
+50	Order - Approval of Grand Jury to be Entered of Record	f
+51	Order - Hearing Scheduled or Continued	f
+52	Order - Initial Pleading to be filed of record	f
+53	Order - Petition to be laid before Grand Jury	f
+54	Order for Appointment of Auditor(s)	f
+55	Order for Appointment of Commissioner(s), Master(s), or Viewer(s)	f
+56	Order for Supersedeas	f
+57	Ordinance (with certification)	f
+58	Petition	f
+59	Petition for Allowance of Appeal to Supreme Court	f
+60	Petition for Distribution of Annexed Territory to Precincts	f
+61	Petition for Final Decree	f
+62	Petition for Rule to Show Cause	f
+63	Petition for Supersedeas	f
+64	Petition or Motion (non-initiating)	f
+65	Petition to Amend	f
+66	Praecipe (other)	f
+67	Praecipe for Discontinuance	f
+68	Praecipe for Trial or Argument	f
+69	Pre-Trial Statement	f
+70	Preliminary Decree	f
+71	Preliminary Objections	f
+72	Proof of Posting	f
+73	Proof of Publication	f
+74	Rejection by Grand Jury	f
+75	Rejection by State Council (or Board) of Education	f
+76	Remittitur (Commonwealth Court)	f
+77	Remittitur (Superior Court)	f
+78	Remittitur (Supreme Court)	f
+79	Remittitur (Unknown)	f
+80	Reply	f
+81	Report of Auditor(s)	f
+82	Report of Commissioner(s), Master(s), or Viewer(s)	f
+83	Resolution	f
+84	Reversed (Commonwealth Court)	f
+85	Reversed (Superior Court)	f
+86	Reversed (Supreme Court)	f
+87	Reversed and Remanded (Commonwealth Court)	f
+88	Reversed and Remanded (Superior Court)	f
+89	Reversed and Remanded (Supreme Court)	f
+91	Rule to Show Cause	f
+92	Service (other)	f
+93	Service upon Board of Elections	f
+94	Service upon Borough Councilor(s)	f
+95	Service upon County Commissioners	f
+96	Service upon Township Supervisor(s)	f
+97	Stipulation of Counsel	f
+99	Testimony	f
+100	Vacated (Commonwealth Court)	f
+103	Vacated and Remanded (Commonwealth Court)	f
+105	Vacated and Remanded (Supreme Court)	f
+106	Withdrawal of Appearance	f
+107	Withdrawal of Petition	f
+108	Writ of Certiorari or Notice of Appeal (Commonwealth Court)	f
+109	Writ of Certiorari or Notice of Appeal (Superior Court)	f
+110	Writ of Certiorari or Notice of Appeal (Supreme Court)	f
+111	Writ of Certiorari or Notice of Appeal (Unknown)	f
+113	Non Prossed (Superior Court)	f
+114	Non Prossed (Supreme Court)	f
+116	Quashed (Superior Court)	f
+118	Transferred to Commonwealth Court (Superior Court)	f
+120	Discontinued (Superior Court)	f
+121	Discontinued (Supreme Court)	f
+122	Transferred to Supreme Court (Superior Court)	f
+123	Allocatur or Writ of Certiorari Denied (Supreme Court)	f
+125	Exhibits	f
+126	Affirmed (Court of Errors and Appeals)	f

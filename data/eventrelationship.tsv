@@ -1,0 +1,11 @@
+eventrelationshipid	eventrelationshiplong	eventrelationshipshort	eventrelationshippublication	eventrelationshipreference	eventrelationshipcertainty	eventrelationshipsufficient
+1	The instrument or action directly implements or is inherent to the event.	direct	t	f	t	t
+2	The instrument or action creates a procedure to allow a specific event to take place that is not generally applicable.	enabling	t	f	t	t
+3	The instrument or action is ancillary to the event, or is linked for informational purposes, and should be included in summary information sources.	include	t	t	t	t
+4	The instrument or action creates a general procedure to allow events to take place given a similar set of circumstances.	indirect	f	t	t	t
+5	The instrument or action is ancillary to the event, or is linked for informational purposes.	reference	f	t	t	f
+6	The law reinstates all or a portion of another law that was previously repealed.	reinstated	f	t	t	f
+7	The law repeals all or a portion of another law.	repealer	f	t	t	f
+8	Additional information is required to determine the relationship between the event and the instrument or action.	unknown	t	t	f	f
+9	The law provides a method to correct technical or procedural errors in event.	validation	f	t	t	f
+10	Should either be reference or include.	reference*	t	t	f	f

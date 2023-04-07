@@ -1,0 +1,8 @@
+affectedgovernmentlevelid	affectedgovernmentlevelshort	affectedgovernmentlevellong	affectedgovernmentlevelgroup	affectedgovernmentleveldisplayorder
+1	ward	Ward	5	1
+2	submunicipality	Sub Municipality	4	3
+3	municipality	Municipality	4	4
+4	subcounty	Sub County	3	5
+5	county	County	3	6
+6	state	State	2	7
+7	schooldistrict	School District	4	2
