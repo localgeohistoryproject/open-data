@@ -6,6 +6,7 @@
 
 - Changelog.
 - Zenodo DOI badge to README.
+- Zenodo metadata file.
 
 ## [1.0.0] - 2023-04-02
 
