@@ -1,5 +1,7 @@
 # Local Geohistory Project: Open Data
 
+[![DOI](https://zenodo.org/badge/624773291.svg)](https://zenodo.org/badge/latestdoi/624773291)
+
 ## Summary
 
 The Local Geohistory Project aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government. This repository contains the data used to populate the [project website](https://www.localgeohistory.pro/en/). The tab-separated values (TSV) files containing the data are available in the **data** folder, and metadata is available in the **metadata** folder.
