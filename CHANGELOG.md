@@ -7,7 +7,7 @@
 - Changelog.
 - Zenodo DOI badge to README.
 
-## [1.0.0] - 2023-04-02
+## [1.0.0] - 2023-04-07
 
 ### Added
 
