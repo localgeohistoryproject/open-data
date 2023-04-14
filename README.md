@@ -6,7 +6,7 @@
 
 The Local Geohistory Project aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government. This repository contains the data used to populate the [project website](https://www.localgeohistory.pro/en/). The tab-separated values (TSV) files containing the data are available in the **data** folder, and metadata is available in the **metadata** folder.
 
-Currently, the open dataset only contains information related to New Jersey and Pennsylvania, with several scattered events concerning neighboring jurisdictions, mostly that currently border either state.
+Currently, the open dataset only contains information related to New Jersey and Pennsylvania, with several scattered events concerning neighboring jurisdictions.
 
 This repository does not contain the application code, which can be found in the [Application repository](https://github.com/markconnellypro/local-geohistory-project), nor does it contain the table data for the bundled **calendar** extension.
 
