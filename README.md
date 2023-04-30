@@ -59,7 +59,7 @@ In the Quaker calendar, which uses month numbers exclusively, months in dates pr
 
 While not currently used in the Local Geohistory Project, dates in the French Republican and Hebrew calendars do not use integers; rather, they use the codes specified in the FamilySearch GEDCOM 7.0 specification:
 
-https://github.com/FamilySearch/GEDCOM/blob/main/specification/gedcom-06-calendars.md
+<https://github.com/FamilySearch/GEDCOM/blob/main/specification/gedcom-06-calendars.md>
 
 ### Precision
 
@@ -103,6 +103,6 @@ Then, press **Add**, then **Close**, and the least common geometries should appe
 
 For further information, see:
 
-https://gis.stackexchange.com/questions/69500/importing-points-in-wkb-format-to-qgis
+<https://gis.stackexchange.com/questions/69500/importing-points-in-wkb-format-to-qgis>
 
 [^1]: Martina De Moor and Torsten Wiedemann, "Reconstructing Territorial Units and Hierarchies: A Belgian Example," *History and Computing* 13, no. 1 (March 2001): 71-98, https://doi.org/10.3366/hac.2001.13.1.71.
