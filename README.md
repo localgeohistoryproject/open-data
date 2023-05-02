@@ -57,9 +57,7 @@ For most calendars, the month value matches the month integer in ISO 8601.
 
 In the Quaker calendar, which uses month numbers exclusively, months in dates prior to Julian year 1753 are shifted by 2, so that March is the First Month, and not January.
 
-While not currently used in the Local Geohistory Project, dates in the French Republican and Hebrew calendars do not use integers; rather, they use the codes specified in the FamilySearch GEDCOM 7.0 specification:
-
-<https://github.com/FamilySearch/GEDCOM/blob/main/specification/gedcom-06-calendars.md>
+While not currently used in the Local Geohistory Project, dates in the French Republican and Hebrew calendars do not use integers; rather, they use the codes specified in the [FamilySearch GEDCOM 7.0 specification](https://github.com/FamilySearch/GEDCOM/blob/main/specification/gedcom-06-calendars.md).
 
 ### Precision
 
