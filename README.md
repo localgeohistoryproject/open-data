@@ -14,6 +14,8 @@ This repository does not contain the application code, which can be found in the
 
 The TSV files were created using the [PostgreSQL COPY function](https://www.postgresql.org/docs/15/sql-copy.html) in the Text Format. Each file corresponds with a PostgreSQL table in the application.
 
+Because TSV files do not use quotation marks to escape fields containing tabs, the **String delimiter** option in LibreOffice Calc or the **Text qualifier** option in Microsoft Excel must be left blank to ensure the file imports accurately.
+
 An extra header line containing column names is included in each file to facilitate use in other applications. When the data is imported using the build process in the [Application repository](https://github.com/markconnellypro/local-geohistory-project), this line is removed automatically; however, manual data imports into PostgreSQL require manual removals of these lines.
 
 ## Metadata
