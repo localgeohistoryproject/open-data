@@ -26,6 +26,7 @@
 
 ### Removed
 
+- Obsolete handles in researchlog.tsv.
 - Partial or full omission from open data from lawdescriptiondone column in law.tsv, and recordingrepositoryitemfrom and recordingrepositoryitemto columns in recording.tsv.
 - Placeholder affected government part references.
 
