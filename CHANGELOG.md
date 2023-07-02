@@ -27,6 +27,7 @@
 ### Removed
 
 - Partial or full omission from open data from lawdescriptiondone column in law.tsv, and recordingrepositoryitemfrom and recordingrepositoryitemto columns in recording.tsv.
+- Placeholder affected government part references.
 
 ## [1.0.0] - 2023-04-07
 
