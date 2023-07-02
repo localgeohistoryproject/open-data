@@ -93,11 +93,11 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 106	Final Decree	1st day of January thereafter
 107	Final Decree	Date Filed with County Clerk
 109	Letters Patent	Date Granted per Unofficial Source
-111	Municipal Election after Adoption Election	Date Officers Organized
 112	Ordinance	10 Days after Date Enacted
 113	Ordinance	20 Days after Date Advertised after Enactment
 114	Ordinance	Date Advertised after Enactment
 116	Ordinance	Date Filed with County Clerk after Date Filed with Secretary of State
+117	Ordinance	Date Filed with Secretary of State
 118	Ordinance	Date Filed with Secretary of State after Date Filed with County Clerk
 119	Resolution	Date Filed with County Clerk
 120	Resolution	Date Filed with Secretary of State
@@ -143,6 +143,7 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 201	Ordinance	30 Days after Date Enacted
 202	Decree for Distribution of Annexed Territory to Precincts	Date Granted
 203	Ordinance	Most Probable Date Filed with Court
+204	Agreement	Date Filed with Secretary of State
 205	Boundary Certificate	Date Filed with County Clerk
 206	Final Decree	1st Monday in June thereafter
 207	Final Decree	Date Certified to the Department of Public Instruction (or Education)
@@ -172,3 +173,5 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 237	Ordinance	Date Advertised after Enactment (2nd Municipality)
 238	Ordinance	20 Days after Date Enacted
 239	Determination	Listed Effective Date
+240	Election	Implied Date Results Filed with County Clerk per Unofficial Source
+242	Election	Date per Unofficial Source

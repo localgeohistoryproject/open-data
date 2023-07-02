@@ -174,22 +174,21 @@ government	government1983stateplaneauthority	10	character varying
 government	governmentlead1983stateplane	11	character varying
 government	governmenthasmultiple1983stateplane	12	boolean
 government	governmentdefaultsrid	13	integer
-government	governmentclass	14	character varying
-government	governmentcurrenthomerule	15	boolean
-government	governmentnotecreation	16	character varying
-government	governmentnotedissolution	17	character varying
-government	governmentnotecurrentleadparent	18	boolean
-government	governmentcharterstatus	19	integer
-government	governmentbooknote	20	text[]
-government	governmentbookcomplete	21	jsonb
-government	governmentmultilevel	22	boolean
-government	governmentindigobook	23	character varying
-government	governmentsubstitute	24	integer
-government	governmentnumber	25	character varying
-government	governmentmapstatus	26	integer
-government	governmentlocale	27	character varying
-government	governmentarticle	28	character varying
-government	governmentconnectingarticle	29	character varying
+government	governmentnotecreation	14	character varying
+government	governmentnotedissolution	15	character varying
+government	governmentnotecurrentleadparent	16	boolean
+government	governmentcharterstatus	17	integer
+government	governmentbooknote	18	text[]
+government	governmentbookcomplete	19	jsonb
+government	governmentmultilevel	20	boolean
+government	governmentindigobook	21	character varying
+government	governmentsubstitute	22	integer
+government	governmentnumber	23	character varying
+government	governmentmapstatus	24	integer
+government	governmentlocale	25	character varying
+government	governmentarticle	26	character varying
+government	governmentconnectingarticle	27	character varying
+government	governmentcurrentform	28	integer
 governmentform	governmentformid	1	integer
 governmentform	governmentstate	2	integer
 governmentform	governmentformpublication	3	boolean
@@ -306,6 +305,26 @@ lawalternatesection	lawalternate	2	integer
 lawalternatesection	lawsection	3	integer
 lawalternatesection	lawalternatesectionpagefrom	4	smallint
 lawalternatesection	lawalternatesectionpageto	5	smallint
+lawgroup	lawgroupid	1	integer
+lawgroup	government	2	integer
+lawgroup	lawgrouplong	3	character varying
+lawgroup	lawgroupfrom	4	integer
+lawgroup	lawgroupto	5	integer
+lawgroup	eventeffectivetype	6	integer
+lawgroup	lawgroupcourtname	7	character varying
+lawgroup	lawgrouprecording	8	boolean
+lawgroup	lawgroupsecretaryofstate	9	boolean
+lawgroup	lawgroupplanningagency	10	boolean
+lawgroup	lawgroupprocedure	11	text
+lawgroup	lawgroupgovernmenttype	12	text[]
+lawgroup	eventtype	13	integer[]
+lawgroup	lawgroupgroup	14	text
+lawgroup	lawgroupsectionlead	15	text
+lawgroupsection	lawgroupsectionid	1	integer
+lawgroupsection	lawgroupsectionorder	2	integer
+lawgroupsection	lawgroup	3	integer
+lawgroupsection	lawsection	4	integer
+lawgroupsection	lawsectionrelationship	5	character varying
 lawsection	lawsectionid	1	integer
 lawsection	law	2	integer
 lawsection	lawsectionfrom	3	character varying
@@ -324,6 +343,7 @@ lawsectionevent	lawsection	2	integer
 lawsectionevent	event	3	integer
 lawsectionevent	lawsectioneventrelationship	4	character varying
 lawsectionevent	lawsectioneventnotes	5	text
+lawsectionevent	lawgroup	6	integer
 metesdescription	metesdescriptionid	1	integer
 metesdescription	metesdescriptiontype	2	character varying
 metesdescription	metesdescriptionsource	3	character varying
@@ -475,6 +495,7 @@ researchlog	researchlogismissing	9	boolean
 researchlog	researchlognotes	10	text
 researchlog	researchlogdisposition	11	character varying
 researchlog	internetarchivehandle	12	text[]
+researchlog	event	13	text
 researchlogtype	researchlogtypeid	1	integer
 researchlogtype	researchlogtypelong	2	character varying
 researchlogtype	researchlogtypelongpart	3	text

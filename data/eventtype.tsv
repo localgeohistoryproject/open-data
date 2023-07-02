@@ -47,7 +47,7 @@ eventtypeid	eventtypelong	eventtypeshort	eventtypeborders	eventtypeinclude	event
 66	An existing county is reorganized under an optional form of government.	Optional Form (County)	structurecounty	t	y	Form
 67	A new government is created or an existing government is reorganized as a hundred, either in name or form of government.	New Hundred	yes	t	t	Creation
 68	The charter of a government is amended with respect to the ability to alter its territory in a delimited tract.	Charter Amendment (Annexation-Specific)	yes	t	n	Form
-69	The charter of a government is amended with respect to the ability to alter its territory, without delimiting the tract involved.	Charter Amendment (Annexation-General)	yes	t	n	Form
+69	The charter of a government is amended with respect to the ability to alter its territory, without delimiting the tract involved. This also includes intergovernment agreements concerning annexation.	Charter Amendment (Annexation-General)	yes	t	n	Form
 70	The charter of a government is amended to require or permit the adoption of an official plat or boundary description.	Charter Amendment (Plat Recording)	yes	t	n	Form
 71	The name of an unincorporated place is changed.	Unincorporated Place Name	no	t	n	Name
 72	A new government is created or an existing government is reorganized as a state, either in name or form of government.	New State	yesstate	t	y	Creation

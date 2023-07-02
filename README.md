@@ -1,16 +1,20 @@
 # Local Geohistory Project: Open Data
 
+[![DOI](https://zenodo.org/badge/624773291.svg)](https://zenodo.org/badge/latestdoi/624773291)
+
 ## Summary
 
 The Local Geohistory Project aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government. This repository contains the data used to populate the [project website](https://www.localgeohistory.pro/en/). The tab-separated values (TSV) files containing the data are available in the **data** folder, and metadata is available in the **metadata** folder.
 
-Currently, the open dataset only contains information related to New Jersey and Pennsylvania, with several scattered events concerning neighboring jurisdictions, mostly that currently border either state.
+Currently, the open dataset only contains information related to New Jersey and Pennsylvania, with several scattered events concerning neighboring jurisdictions.
 
 This repository does not contain the application code, which can be found in the [Application repository](https://github.com/markconnellypro/local-geohistory-project), nor does it contain the table data for the bundled **calendar** extension.
 
 ## File format
 
 The TSV files were created using the [PostgreSQL COPY function](https://www.postgresql.org/docs/15/sql-copy.html) in the Text Format. Each file corresponds with a PostgreSQL table in the application.
+
+Because TSV files do not use quotation marks to escape fields containing tabs, the **String delimiter** option in LibreOffice Calc or the **Text qualifier** option in Microsoft Excel must be left blank to ensure the file imports accurately.
 
 An extra header line containing column names is included in each file to facilitate use in other applications. When the data is imported using the build process in the [Application repository](https://github.com/markconnellypro/local-geohistory-project), this line is removed automatically; however, manual data imports into PostgreSQL require manual removals of these lines.
 
@@ -55,9 +59,7 @@ For most calendars, the month value matches the month integer in ISO 8601.
 
 In the Quaker calendar, which uses month numbers exclusively, months in dates prior to Julian year 1753 are shifted by 2, so that March is the First Month, and not January.
 
-While not currently used in the Local Geohistory Project, dates in the French Republican and Hebrew calendars do not use integers; rather, they use the codes specified in the FamilySearch GEDCOM 7.0 specification:
-
-https://github.com/FamilySearch/GEDCOM/blob/main/specification/gedcom-06-calendars.md
+While not currently used in the Local Geohistory Project, dates in the French Republican and Hebrew calendars do not use integers; rather, they use the codes specified in the [FamilySearch GEDCOM 7.0 specification](https://github.com/FamilySearch/GEDCOM/blob/main/specification/gedcom-06-calendars.md).
 
 ### Precision
 
@@ -101,6 +103,6 @@ Then, press **Add**, then **Close**, and the least common geometries should appe
 
 For further information, see:
 
-https://gis.stackexchange.com/questions/69500/importing-points-in-wkb-format-to-qgis
+<https://gis.stackexchange.com/questions/69500/importing-points-in-wkb-format-to-qgis>
 
 [^1]: Martina De Moor and Torsten Wiedemann, "Reconstructing Territorial Units and Hierarchies: A Belgian Example," *History and Computing* 13, no. 1 (March 2001): 71-98, https://doi.org/10.3366/hac.2001.13.1.71.
