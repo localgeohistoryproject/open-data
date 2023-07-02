@@ -16,6 +16,7 @@
 - Columns in government.tsv to remove governmentclass and governmentcurrenthomerule and substitute with governmentcurrentform.
 - Data quality improvements in New Jersey from more detailed abstracting of County Clerk and Secretary of State Statutory Filing records.
 - Event data for Towamencin Township 2023 Home Rule, which was approved by the electorate and took effect since prior release.
+- Event method descriptor for Court to Judicial.
 - Stylistic and minor changes to README.
 
 ### Fixed
