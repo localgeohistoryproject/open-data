@@ -361,11 +361,15 @@ adjudicationtypeid	tribunal	adjudicationtypeabbreviation	adjudicationtypelong	ad
 438	509	Sessions	Sessions	Q.Sess.D.
 441	512	Sessions	Sessions	Q.Sess.D.
 443	514	Sessions	Sessions	Q.Sess.D.
+450	521	Chancery	Chancery	Ch.D.
 458	529	Chancery	Chancery	Ch.D.
 459	530	Chancery	Chancery	Ch.D.
 460	531	Chancery	Chancery	Ch.D.
+461	532	Chancery	Chancery	Ch.D.
 467	538	Civil	Civil	Civ.D.
+468	539	Civil	Civil	Civ.D.
 481	552	Civil	Civil	Civ.D.
+482	553	Civil	Civil	Civ.D.
 487	558	Civil	Civil	Civ.D.
 488	18	Civil	Civil	Civ.D.
 489	202	Civ	Civil	Civ.D.

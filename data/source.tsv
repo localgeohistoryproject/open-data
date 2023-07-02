@@ -282,6 +282,7 @@ sourceid	sourcetype	sourceshort	sourceshortpart	sourcebookshort	sourceurlsubstit
 515	newspapers	Woodbury Gloucester Cty. Times			515	{7588}				Gloucester County Times		Woodbury, N.J.			f	f	f	
 516	state agency reports	Godfrey 1935			516	{32}		Godfrey, Carlos E.		Commission and Manager Government Elections		Trenton, N.J.	New Jersey Public Record Office	15 February 1935	f	f	f	
 517	newspapers	Jamesburg Rec.			517	{7260}				Jamesburg (N.J.) Record					f	f	f	
+532	atlases	Bromley 1912-1913			532	{1818}		Bromley, George Washington, and Walter Scott Bromley		Atlas of Bergen County, New Jersey . . . From actual surveys and official plans, by George W. and Walter S. Bromley	Library of Congress Atlas 15682	Philadelphia, Pa.	G. W. Bromley &amp; Co.	1912-1913	f	f	f	
 723	municipal publications	Madison ERI 2011			723	{7306}		Madison Environmental Commission, and H2M Associates, Inc.	Accessed 30 July 2013	Madison Borough Environmental Resources Inventory				December 2011	f	f	f	
 724	newspapers	Matawan J.			724	{7323}				Matawan (N.J.) Journal					f	f	f	
 726	court reporters	N.J.L.			726	{32}		New Jersey		New Jersey Law Reports					f	f	f	
@@ -353,9 +354,13 @@ sourceid	sourcetype	sourceshort	sourceshortpart	sourcebookshort	sourceurlsubstit
 982	session laws	N.J. Bloomfield's Laws			982	{32}	Act	Bloomfield, Joseph		Laws of the State of New Jersey		Trenton, N.J.	James J. Wilson	1811	f	f	f	
 983	session laws	N.J. Grants & Concessions			983	{32}	Act	Leaming, Aaron, and Jacob Spicer		Grants, Concessions, and Original Constitutions of the Province of New Jersey		Philadelphia, Pa.	W. Bradford		f	f	f	
 984	county histories	Winfield 1874			984	{1825}		Winfield, Charles H.		History of the County of Hudson, New Jersey: from its earliest settlement to the present time		New York, N.Y.	Kennard &amp; Hay Stationery M'fg and Printing Co.	1874	f	f	f	
+985	county histories	Cushing & Sheppard 1883			985	{1822,1824,1833}		Cushing, Thomas, and Charles E. Sheppard		History of the Counties of Gloucester, Salem, and Cumberland, New Jersey, with biographical sketches of their prominent citizens		Philadelphia, Pa.	Everts &amp; Peck	1883	f	f	f	
 986	municipal histories	Dally 1873			986	{7587}		Dally, Joseph W.		Woodbridge and Vicinity. The Story of a New Jersey Township		New Brunswick, N.J.	A. E. Gordon	1873	f	f	f	
+987	county histories	Clayton 1882			987	{1818,1832}		Clayton, W. Woodford, comp.		History of Bergen and Passaic Counties, New Jersey, with biographical sketches of many of its pioneers and prominent men		Philadelphia, Pa.	Everts &amp; Peck	1882	f	f	f	
 988	municipal histories	Murray 1844			988	{7155}		Murray, Nicholas.		Notes, Historical and Biographical, Concerning Elizabeth-Town		Elizabeth-Town, N.J.	E. Sanderson	1844	f	f	f	
 990	county histories	Salter 1890			990	{1829,1831}		Salter, Edwin		A History of Monmouth and Ocean Counties, embracing a genealogical record of earliest settlers in Monmouth and Ocean Counties and their descendants. The Indians: Their Language, Manners and Customs. Important Historical Events. The Revolutionary War, Battle of Monmouth, The War of the Rebellion. Names of Officers and Men of Monmouth and Ocean Counties engaged in it, etc., etc		Bayonne, N.J.	E. Gardner &amp; Son	1890	f	f	f	
+991	county histories	Shaw 1884			991	{1823,1825}		Shaw, William H., comp.		History of Essex and Hudson Counties, New Jersey		Philadelphia, Pa.	Everts &amp; Peck	1884	f	f	f	
+992	county histories	Snell 1881			992	{1826,1834}		Snell, James P., comp.		History of Hunterdon and Somerset Counties, New Jersey, with illustrations and biographical sketches of its prominent men and pioneers		Philadelphia, Pa.	Everts &amp; Peck	1881	f	f	f	
 993	county histories	Woodward & Hageman 1883			993	{1819,1827}		Woodward, E. M., and John F. Hageman		History of Burlington and Mercer Counties, New Jersey, with biographical sketches of many of their pioneers and prominent men		Philadelphia, Pa.	Everts &amp; Peck	1883	f	f	f	
 1090	session laws	Ohio Laws	(General)		340	{37}	Act	Ohio		General and Local Laws and Joint Resolutions Passed by the General Assembly					f	f	f	
 1097	session laws	Ohio Laws	(Local)		340	{37}	Act	Ohio		General and Local Laws and Joint Resolutions Passed by the General Assembly					f	f	f	
@@ -380,6 +385,7 @@ sourceid	sourcetype	sourceshort	sourceshortpart	sourcebookshort	sourceurlsubstit
 1210	session laws	Stat.	(Public Law)		472	{1}	Act	U.S. Congress		United States Statutes at Large					t	f	f	
 1211	session laws	N.Y. Laws	(County)		328	{34}	County Law	New York		Laws of the State of New York					f	f	f	
 1224	newspapers	Princeton Herald			1224	{7436}				Princeton (N.J.) Herald					f	f	f	
+1360	court reporters	N.J. Misc.			1360	{32}				New Jersey Miscellaneous Reports					f	f	f	
 1361	court reporters	N.J.			1361	{32}				New Jersey Reports					f	f	f	
 1522	newspapers	Dallas Post			1522	{3753}				Dallas (Pa.) Post					f	f	f	
 1523	county histories	Lehigh Cty. Hist. Soc'y Proc.			1523	{2325}				Proceedings of the Lehigh County Historical Society					f	f	f	
@@ -405,6 +411,7 @@ sourceid	sourcetype	sourceshort	sourceshortpart	sourcebookshort	sourceurlsubstit
 1575	local histories	McMinn 1886			1575	{5580}		McMinn, Edwin		A German hero of the colonial times of Pennsylvania; or the life and times of Henry Antes		Moorestown, N.J.		1886	f	f	f	
 1576	serials	Bull. Hist. Soc'y Montgomery Cty.			1576	{2332}				Bulletin of the Historical Society of Montgomery County, Pennsylvania		Norristown, Pa.	Historical Society of Montgomery County, Pennsylvania		f	f	f	
 1577	newspapers	St. Marys Daily Press			1577	{5206}				Daily Press		Saint Marys, Pa.			f	f	f	
+1578	session laws	Va. Hening's Laws			1578	{48}	Act	Hening, William Waller		Statutes at Large; being a collection of all of the laws of Virginia, from the first session of the Legislature, in the year 1619				1809-1823	f	f	f	
 1579	newspapers	Phila. Pa. Packet			1579	{5002}				Pennsylvania Packet		Philadelphia, Pa.			f	f	f	
 1580	maps	U.S. Geo. Surv. Topo. Mp.			1580	{1}		U.S. Department of the Interior, Geological Survey		USGS Historical Topographic Map Collection					f	f	f	
 1581	maps	Pa. Dep't Trans. Cty. Mp.			1581	{40}		Pennsylvania Department of Transportation, Bureau of Planning and Research, Geographic Information Division		County Type 10 Maps (Historic)					f	f	f	
@@ -455,3 +462,5 @@ sourceid	sourcetype	sourceshort	sourceshortpart	sourcebookshort	sourceurlsubstit
 1644	state histories	Dunn 1981-1987			1644	{40}		Dunn, Mary Maples, and Richard S. Dunn, eds.		Papers of William Penn		Philadelphia, Pa.	University of Pennsylvania Press	1981-1987	f	f	f	
 1645	municipal histories	Learned 1908			1645	{5002}		Learned, Marion Dexter		Life of Francis Daniel Pastorius: The Founder of Germantown		Philadelphia, Pa.	William J. Campbell	1908	f	f	f	
 1646	newspapers	Hightstown Gaz.			1646	{7241}				Hightstown (N.J.) Gazette					f	f	f	
+1647	placeholder laws	Placeholder			1647	{1,32,40}	Act								f	f	f	
+1655	newspapers	Cape May Herald			1655	{7097}				Cape May (N.J.) Herald					f	f	f	

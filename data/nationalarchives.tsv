@@ -2021,6 +2021,7 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 4898	7	3324	Auburn		5838308	1	1	f	1940
 4903	7	7041	Audubon		5835107	1	1	f	1940
 4904	7	7041	Audubon		23853128	1	1	f	1950
+4911	7	2870	Augusta	County	51435434	1	1	f	1950
 4932	7	3326	Avalon		32199634	1	1	f	1950
 4934	7	3328	Avoca		5837816	1	1	f	1940
 4935	7	3328	Avoca		36433208	1	1	f	1950
@@ -4269,6 +4270,7 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 14534	7	1883	Stamford		5835529	1	1	f	1940
 14550	7	5408	State College		5837101	1	1	f	1940
 14551	7	5408	State College		36432866	1	1	f	1950
+14557	7	2870	Staunton		5840244	1	1	f	1940
 14569	7	5409	Steelton		5837375	1	1	f	1940
 14570	7	5409	Steelton		36432946	1	1	f	1950
 14582	7	5410	Sterling		5838500	1	1	f	1940
@@ -4574,6 +4576,7 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 15692	7	2350	Wayne	County	40037724	1	1	f	1950
 15698	7	5697	Waynesboro		5837522	1	1	f	1940
 15699	7	5697	Waynesboro		36433014	1	1	f	1950
+15700	7	2870	Waynesboro		5840245	1	1	f	1940
 15703	7	5698	Waynesburg		5837557	1	1	f	1940
 15704	7	5698	Waynesburg		36433021	1	1	f	1950
 15727	7	7561	Weehawken		5835187	1	1	f	1940
@@ -4896,6 +4899,7 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 18666	7	2351	Westmoreland	County	5838541	1	1	f	1940
 18667	7	2352	Wyoming	County	5838561	1	1	f	1940
 18668	7	2353	York	County	5838601	1	1	f	1940
+19269	7	2870	Augusta	County	5840246	1	1	f	1940
 19404	7	3039	Brooke	County	5840925	1	1	f	1940
 19414	7	3049	Hancock	County	5840950	1	1	f	1940
 19424	7	3060	Marshall	County	5840984	1	1	f	1940

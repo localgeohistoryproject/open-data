@@ -2388,6 +2388,7 @@ sourceitemid	source	sourceitemedition	sourceitemvolume	sourceitemyear	sourceitem
 2647	22			\N	https://www.census.gov/popest/data/historical/1990s/boundary_changes/34.html	t	t	\N		\N	\N			f
 2648	18		1991-2000	\N	https://www2.census.gov/geo/pvs/bas/annexation/compressed_national/US_bas91-00.zip	t	t	\N		\N	\N			f
 2650	18		2001-2010	\N	https://www2.census.gov/geo/pvs/bas/annexation/compressed_national/US_bas01-10.zip	t	t	\N		\N	\N			f
+2666	532			\N		f	f	\N		\N	\N			f
 2868	723			\N	http://www.rosenet.org/uploads/46/eri_2011final.pdf	t	t	\N		\N	\N			f
 2869	726		1	\N	https://hdl.handle.net/2027/mdp.35112101853978	f	t	\N		\N	\N			f
 2870	726		1	\N	https://hdl.handle.net/2027/mdp.35112102235605	f	t	\N		\N	\N			f
@@ -3131,9 +3132,14 @@ sourceitemid	source	sourceitemedition	sourceitemvolume	sourceitemyear	sourceitem
 4091	978			\N	https://hdl.handle.net/2027/njp.32101060741426	f	t	\N		\N	\N			f
 4092	983			\N	https://archive.org/details/grantsconcession00newj	f	t	\N		\N	\N			f
 4093	979		1	\N	https://njlaw.rutgers.edu/cgi-bin/njleg/provinc1.cgi?file=001	f	f	\N		1703	1752			f
+4094	987			\N	https://archive.org/details/historyofbergenp00clay	f	t	\N		\N	\N			f
+4095	985			\N	https://archive.org/details/cu31924008641379	f	t	\N		\N	\N			f
 4096	986			\N	https://archive.org/details/woodbridgevicini00dall	f	t	\N		\N	\N			f
 4097	988			\N	https://hdl.handle.net/2027/loc.ark:/13960/t5fb59351	f	t	\N		\N	\N			f
 4099	990			\N	https://archive.org/details/historyofmonmou00salt	f	t	\N		\N	\N			f
+4100	991			1	https://archive.org/details/historyofessexhu01shaw_0	f	t	\N		\N	\N			f
+4101	991			2	https://archive.org/details/historyofessexhu02shaw_0	f	t	\N		\N	\N			f
+4102	992			\N	https://archive.org/details/cu31924104752518	f	t	\N		\N	\N			f
 4103	993			\N	https://archive.org/details/historyofburling00wood	f	t	\N		\N	\N			f
 4104	136		50	\N	https://delaware.contentdm.oclc.org/digital/collection/p15323coll1	f	t	\N		\N	\N			f
 4105	136		48	\N	https://delaware.contentdm.oclc.org/digital/collection/p15323coll1	f	t	\N		\N	\N			f
@@ -4273,6 +4279,17 @@ sourceitemid	source	sourceitemedition	sourceitemvolume	sourceitemyear	sourceitem
 6063	1575			\N	https://archive.org/details/germanheroofcolo00macm	f	t	\N		\N	\N			f
 6064	1576		8:3	\N	https://hsmcpa.org/images/thebulletin/1952vol8no3.pdf	t	t	\N		\N	\N			f
 6065	1576		1:5	\N	https://hsmcpa.org/images/thebulletin/1938vol1no5.pdf	t	t	\N		\N	\N			f
+6066	1578		1	\N	https://archive.org/details/statutesatlargeb01invirg	f	t	\N		\N	\N			f
+6067	1578		2	\N	https://archive.org/details/statutesatlargeb02virg	f	t	\N		\N	\N			f
+6068	1578		5	\N	https://archive.org/details/statutesatlargeb05virg	f	t	\N		\N	\N			f
+6069	1578		6	\N	https://archive.org/details/statutesatlargeb06virg	f	t	\N		\N	\N			f
+6070	1578		7	\N	https://archive.org/details/statutesatlargeb07virg	f	t	\N		\N	\N			f
+6071	1578		8	\N	https://archive.org/details/statutesatlargeb08virg	f	t	\N		\N	\N			f
+6072	1578		9	\N	https://archive.org/details/statutesatlargeb09virg	f	t	\N		\N	\N			f
+6073	1578		10	\N	https://archive.org/details/statutesatlargeb10virg	f	t	\N		\N	\N			f
+6074	1578		11	\N	https://archive.org/details/statutesatlarge00henigoog	f	t	\N		\N	\N			f
+6075	1578		12	\N	https://archive.org/details/statutesatlargeb12virg	f	t	\N		\N	\N			f
+6076	1578		13	\N	https://archive.org/details/statutesatlargeb13virg	f	t	\N		\N	\N			f
 6077	1149		1	\N	https://archive.org/details/historyofschuylk0001adol	f	t	\N		\N	\N			f
 6079	1154			\N	https://archive.org/details/contributionstoh01holl	f	t	\N		\N	\N			f
 6080	1154			\N	https://archive.org/details/contributionstoh02holl	f	t	\N		\N	\N			f
@@ -4294,3 +4311,5 @@ sourceitemid	source	sourceitemedition	sourceitemvolume	sourceitemyear	sourceitem
 6505	245			\N	https://collections.leventhalmap.org/search/commonwealth:4m90f488h	t	t	\N		\N	\N			f
 6506	364			\N	https://collections.leventhalmap.org/search/commonwealth:4m90fd019	t	t	\N		\N	\N			f
 6520	1555			\N	https://archive.org/details/newbrunswickinhi00bene_0	f	t	\N		\N	\N			f
+6522	1578		3	\N	https://hdl.handle.net/2027/uga1.32108007923215	f	t	\N		\N	\N			f
+6523	1578		4	\N	https://hdl.handle.net/2027/uga1.32108007923181	f	t	\N		\N	\N			f

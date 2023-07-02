@@ -2301,6 +2301,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2548	3096	I	336			1919-02-13	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2549	3096	I	503			1931-06-06	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	13
 2550	3096	I	345			1919-07-31	2	St.Arc.		\N	\N	3:72		\N				36	\N	\N			SSTSE038	10
+2553	3096	II	20687			1987-04-06	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	89
 2554	3096	Box 105	0			1915-05-01	2	St.Arc.		\N	\N	3:6		\N				36	\N	\N				
 2555	3096	OV Box 119	0			1882-08-09	2	St.Arc.		\N	\N	3:25		\N				36	\N	\N				
 2556	3096	OV Box 119	0			1880-08-18	2	St.Arc.		\N	\N	3:26		\N				36	\N	\N				
@@ -2339,7 +2340,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2591	3096	Municipal	7			1890-04-16	2	St.Arc.	3	\N	\N			\N				36	\N	\N			SSTSE002	2
 2592	3096	Municipal	52			1892-07-19	2	St.Arc.	4	\N	\N			\N				36	\N	\N			SSTSE002	2
 2593	3096	Municipal	0			1895-05-21	2	St.Arc.	22	\N	\N			\N				36	\N	\N			SSTSE002	2
-2594	3096	I	260			1912-01-08	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	8
+2594	3096	I	260			1912-01-08	2	St.Arc.		\N	\N	4:40 or 4:48		\N				36	\N	\N			SSTSE038	8
 2595	3096	II	20729			1987-06-10	2	St.Arc.	4	\N	\N			\N				36	\N	\N			SSTSE039	89
 2596	3096	II	17385			1981-07-24	2	St.Arc.	3	\N	\N			\N				36	\N	\N			SSTSE039	75
 2597	3096	II	18867			1983-09-21	2	St.Arc.	4	\N	\N			\N				36	\N	\N			SSTSE039	81
@@ -2350,7 +2351,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2602	3096	Municipal	50			1892-04-20	2	St.Arc.	20	\N	\N			\N				36	\N	\N			SSTSE002	2
 2603	3096	Municipal	0			1895-10-07	2	St.Arc.	23	\N	\N			\N				36	\N	\N			SSTSE002	2
 2604	3096	Municipal	0			1900-05-31	2	St.Arc.	15	\N	\N			\N				36	\N	\N			SSTSE002	2
-2605	3096	Municipal	0			1906-~01-~01	2	St.Arc.	2	\N	\N			\N				36	\N	\N			SSTSE002	2
+2605	3096	Municipal	0			1906-~08-~23	2	St.Arc.	2	\N	\N			\N				36	\N	\N			SSTSE002	2
 2606	3096	II	21483			1989-12-18	2	St.Arc.	7	\N	\N			\N				36	\N	\N			SSTSE039	96
 2607	3096	II	10965			1969-07-11	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	50
 2609	3096	II	20731			1987-07-29	2	St.Arc.	4	\N	\N			\N				36	\N	\N			SSTSE039	89
@@ -2373,7 +2374,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2626	3096	Municipal	4			1890-07-07	2	St.Arc.	8	\N	\N			\N				36	\N	\N			SSTSE002	1
 2627	3096	Municipal	67			1896-05-07	2	St.Arc.	15	\N	\N			\N				36	\N	\N			SSTSE002	1
 2628	3096	Municipal	0			1896-03-12	2	St.Arc.	17	\N	\N			\N				36	\N	\N			SSTSE002	1
-2629	3096	Municipal	0			1894-07-22	2	St.Arc.	19	\N	\N			\N				36	\N	\N			SSTSE002	1
+2629	3096	Municipal	0			1895-07-22	2	St.Arc.	19	\N	\N			\N				36	\N	\N			SSTSE002	1
 2630	3096	Municipal	0			1897-03-23	2	St.Arc.	20	\N	\N			\N				36	\N	\N			SSTSE002	1
 2631	3096	Municipal	0			1899-12-09	2	St.Arc.	16	\N	\N			\N				36	\N	\N			SSTSE002	1
 2632	3096	II	24520			2003-08-23	2	St.Arc.	12	\N	\N			\N				36	\N	\N			SSTSE039	120
@@ -2398,7 +2399,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2651	3096	Municipal	49			1892-04-06	2	St.Arc.	12	\N	\N			\N				36	\N	\N			SSTSE002	2
 2652	3096	Municipal	0			1894-03-24	2	St.Arc.	14	\N	\N			\N				36	\N	\N			SSTSE002	2
 2653	3096	II	5137			1954-01-05	2	St.Arc.	1	\N	\N			\N				36	\N	\N			SSTSE039	27
-2654	3096	I	201			1910-03-08	2	St.Arc.		\N	\N	4:48		\N				36	\N	\N			SSTSE038	7
+2654	3096	I	201			1910-03-08	2	St.Arc.		\N	\N	4:40 or 4:48		\N				36	\N	\N			SSTSE038	7
 2655	3096	II	4808			1951-03-21	2	St.Arc.	2	\N	\N			\N				36	\N	\N			SSTSE039	25
 2656	3096	II	4524			1949-09-16	2	St.Arc.	5	\N	\N			\N				36	\N	\N			SSTSE039	23
 2657	3096	II	19575			1985-05-16	2	St.Arc.	2	\N	\N			\N				36	\N	\N			SSTSE039	84
@@ -2419,8 +2420,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2672	3096	I	890			1968-08-02	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	24
 2673	3096	I	566			1935-05-03	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	15
 2674	3096	I	576			1936-03-09	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	15
-2675	3096	I	309			1917-04-20	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	10
-2676	3096	I	309			1917-04-20	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
+2675	3096	I	309			1917-04-19	2	St.Arc.		\N	\N	4:40 or 4:72		\N				36	\N	\N			SSTSE038	10
 2677	3096	I	311			1917-04-26	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2678	3096	I	315			1917-06-06	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2679	3096	I	316			1917-06-07	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
@@ -2437,12 +2437,12 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2690	3096	I	296			1916-01-29	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	9
 2691	3096	I	293			1916-01-06	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	9
 2692	3096	I	283			1915-05-01	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	9
-2693	3096	I	325			1905-02-21	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	10
+2693	3096	I	325			1905-02-21	2	St.Arc.		\N	\N	4:72 (or 4:40?)		\N				36	\N	\N			SSTSE038	10
 2694	3096	I	329			1918-04-02	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2695	3096	I	330			1918-04-11	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2696	3096	I	331			1918-04-30	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2697	3096	I	604			1939-04-14	2	St.Arc.		\N	\N	4:75		\N				36	\N	\N			SSTSE038	16
-2698	3096	I	334			1918-08-22	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	10
+2698	3096	I	334			1918-08-22	2	St.Arc.		\N	\N	4:72 (or 4:40?)		\N				36	\N	\N			SSTSE038	10
 2699	3096	I	628			1942-01-14	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	16
 2700	3096	I	496			1931-02-14	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	13
 2701	3096	I	495			1931-02-05	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	13
@@ -2465,15 +2465,13 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2719	3096	II	23286			1999-10-05	2	St.Arc.	9	\N	\N			\N				36	\N	\N			SSTSE039	111
 2720	3096	II	23894			2002-11-20	2	St.Arc.	9	\N	\N			\N				36	\N	\N			SSTSE039	117
 2721	3096	II	23905			2002-12-11	2	St.Arc.	1	\N	\N			\N				36	\N	\N			SSTSE039	118
-2722	3096	I	201			1910-03-08	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	7
 2723	3096	I	224			1884-04-18	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	7
 2724	3096	I	217			1910-11-16	2	St.Arc.		\N	\N	4:48		\N				36	\N	\N			SSTSE038	7
 2725	3096	I	243			1911-07-24	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	8
 2726	3096	I	244			1909-12-21	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	8
 2727	3096	I	246			1911-09-27	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	8
 2728	3096	I	645			1943-10-11	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	17
-2729	3096	I	250			1912-05-21	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	8
-2730	3096	I	250			1912-05-21	2	St.Arc.		\N	\N	4:48		\N				36	\N	\N			SSTSE038	8
+2729	3096	I	250			1912-05-21	2	St.Arc.		\N	\N	4:40 or 4:48		\N				36	\N	\N			SSTSE038	8
 2731	3096	II	23295			1999-11-05	2	St.Arc.	1	\N	\N			\N				36	\N	\N			SSTSE039	112
 2732	3096	I	314			1917-05-22	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2733	3096	I	314			1917-05-15	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
@@ -2515,7 +2513,6 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2772	3096	I	550			1934-04-26	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	14
 2773	3096	I	545			1933-10-16	2	St.Arc.		\N	\N	4:73		\N				36	\N	\N			SSTSE038	14
 2774	3096	II	5898			1957-06-17	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	0
-2775	3096	I	433			1926-12-20	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	12
 2776	3096	I	438			1927-03-18	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	12
 2777	3096	I	527			1932-10-05	2	St.Arc.		\N	\N	4:73		\N				36	\N	\N			SSTSE038	14
 2778	3096	I	526			1932-10-05	2	St.Arc.		\N	\N	4:73		\N				36	\N	\N			SSTSE038	14
@@ -2547,7 +2544,6 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2804	3096	I	322			1917-10-19	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2805	3096	I	332			1918-05-20	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2806	3096	I	333			1918-08-05	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
-2807	3096	I	334			1918-08-22	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2808	3096	I	343			1919-07-19	2	St.Arc.		\N	\N	3:72		\N				36	\N	\N			SSTSE038	10
 2809	3096	I	751			1958-06-25	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	19
 2810	3096	I	422			1926-04-09	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	12
@@ -2555,7 +2551,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2812	3096	I	423			1926-05-19	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	12
 2813	3096	I	430			1926-10-30	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	12
 2814	3096	I	432			1926-11-29	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	12
-2815	3096	I	433			1926-12-20	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	12
+2815	3096	I	433			1926-12-20	2	St.Arc.		\N	\N	4:72 (or 4:74)		\N				36	\N	\N			SSTSE038	12
 2816	3096	I	740			1958-10-15	2	St.Arc.		\N	\N	1:51		\N				36	\N	\N			SSTSE038	0
 2817	3096	I	573			1935-09-28	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	15
 2818	3096	I	560			1934-09-13	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	15
@@ -2615,7 +2611,6 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2876	3096	I	966			1972-05-02	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	27
 2877	3096	I	580			1936-12-28	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	15
 2878	3096	I	599			1938-11-25	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	15
-2879	3096	I	325			1905-02-21	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	10
 2880	3096	I	590			1938-04-05	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	15
 2881	3096	I	598			1938-08-15	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	15
 2882	3096	I	826			1963-02-18	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	22
@@ -2673,10 +2668,10 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2939	3096	I	650			1945-10-15	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	17
 2940	3096	I	651			1945-11-09	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	17
 2941	3096	I	713			1955-10-03	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	18
-2942	3096	I	722				2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	19
+2942	3096	I	722			1956-~03-~23	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	19
 2943	3096	I	841			1963-02-20	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	23
 2944	3096	I	853			1965-03-05	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	23
-2945	3096	I	387				2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
+2945	3096	I	387			1908-~05-~21	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
 2946	3096	I	401			1924-02-25	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	11
 2947	3096	I	485			1930-09-22	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	13
 2948	3096	I	733			1956-12-03	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	19
@@ -2725,8 +2720,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 2993	3096	I	686			1950-03-30	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	18
 2994	3096	I	687			1950-12-13	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	18
 2995	3096	I	688			1950-12-22	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	18
-2997	3096	I	689			1951-11-13	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	18
-2998	3096	I	689			1951-11-13	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	18
+2997	3096	I	689			1951-11-13	2	St.Arc.		\N	\N	4:74 (or 4:72)		\N				36	\N	\N			SSTSE038	18
 2999	3096	I	690			1951-06-04	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	18
 3000	3096	I	692			1952-01-02	2	St.Arc.		\N	\N	4:74		\N				36	\N	\N			SSTSE038	18
 3001	3096	I	709			1952-01-09	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	18
@@ -2783,8 +2777,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 3060	3096	I	880			1967-06-26	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	24
 3061	3096	I	666			1947-11-01	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	17
 3062	3096	I	193			1908-05-12	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	7
-3063	3096	I	196			1908-10-15	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	7
-3064	3096	I	196			1908-10-15	2	St.Arc.		\N	\N	4:48		\N				36	\N	\N			SSTSE038	7
+3063	3096	I	196			1908-10-15	2	St.Arc.		\N	\N	4:40 or 4:48		\N				36	\N	\N			SSTSE038	7
 3065	3096	II	3800			1942-09-24	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	17
 3066	3096	I	712			1955-11-21	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	18
 3067	3096	I	778			1959-11-12	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	20
@@ -2842,7 +2835,6 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 3119	3096	I	400			1907-04-16	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
 3120	3096	II	4522			1949-11-28	2	St.Arc.	5	\N	\N			\N				36	\N	\N			SSTSE039	23
 3121	3096	I	195			1909-02-15	2	St.Arc.		\N	\N	4:48		\N				36	\N	\N			SSTSE038	7
-3122	3096	I	260			1912-01-08	2	St.Arc.		\N	\N	4:48		\N				36	\N	\N			SSTSE038	8
 3123	3096	I	262			1912-07-25	2	St.Arc.		\N	\N	4:40		\N				36	\N	\N			SSTSE038	8
 3124	3096	I	270			1913-05-10	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	8
 3125	3096	I	271			1913-06-23	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	8
@@ -2856,8 +2848,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 3133	3096	I	397			1923-10-26	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
 3134	3096	I	395			1923-09-04	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
 3135	3096	I	399			1924-01-11	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
-3136	3096	I	403			1924-03-13	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
-3137	3096	I	403			1924-03-13	2	St.Arc.		\N	\N	3:72		\N				36	\N	\N			SSTSE038	11
+3137	3096	I	403			1924-03-13	2	St.Arc.		\N	\N	3:72 (or 4:72)		\N				36	\N	\N			SSTSE038	11
 3138	3096	I	404			1924-03-29	2	St.Arc.		\N	\N	4:72		\N				36	\N	\N			SSTSE038	11
 3139	3096	I	405			1924-04-10	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	11
 3140	3096	I	985			1973-04-05	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	27
@@ -2893,6 +2884,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 3170	3099	S10	86			1792-~01-~01	\N			\N	\N			\N				38	\N	\N				
 3171	3099	S15	208				\N			\N	\N			\N				38	\N	\N				
 3172	3096	II	22805			1996-09-03	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	108
+3173	3096	II	22816			1996-10-01	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	108
 3174	3096	II	23071			1998-05-27	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	109
 3178	3096	II	23636			2001-12-17	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	115
 3179	3096	II	24404			2005-01-10	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE039	120
@@ -3016,7 +3008,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 3337	1669	Overpeck Township	1			1921-05-13	\N			\N	\N			\N				39	\N	\N				
 3338	1669		0			1922-04-27	\N			\N	\N			\N				41	\N	\N				
 3339	1669	Cresskill	12			1894-04-23	\N			\N	\N			\N				39	\N	\N				
-3340	1669	Cresskill	43				\N			\N	\N			\N				39	\N	\N				
+3340	1669	Cresskill	43			1903-~12-~10	\N			\N	\N			\N				39	\N	\N				
 3341	1669	Westwood	1			1894-05-09	\N			\N	\N			\N				39	\N	\N				
 3342	1669	Westwood	11			1894-04-24	\N			\N	\N			\N				39	\N	\N				
 3343	1669	Westwood	7			1914-06-04	\N			\N	\N			\N				39	\N	\N				
@@ -3186,13 +3178,13 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 3514	1675		\N			1874-~01-~01	\N			\N	\N			\N				\N	22	409				
 3515	1675	1881-1889-B	0			1883-03-10	\N			\N	\N			\N				13	\N	\N				
 3516	3104		0			1895-07-03	\N			\N	\N			\N				41	\N	\N				
-3517	1677	1	10				\N			\N	\N			\N				24	\N	\N				
-3518	1677	1	17				\N			\N	\N			\N				24	\N	\N				
-3519	1677	1	1				\N			\N	\N			\N				24	\N	\N				
-3520	1677	1	5				\N			\N	\N			\N				24	\N	\N				
-3521	1677	1	8				\N			\N	\N			\N				24	\N	\N				
+3517	1677	1	10			1910-~05-~02	\N			\N	\N			\N				24	\N	\N				
+3518	1677	1	17			1911-~05-~13	\N			\N	\N			\N				24	\N	\N				
+3519	1677	1	1			1898-~04-~19	\N			\N	\N			\N				24	\N	\N				
+3520	1677	1	5			1905-~03-~30	\N			\N	\N			\N				24	\N	\N				
+3521	1677	1	8			1909-~02-~11	\N			\N	\N			\N				24	\N	\N				
 3522	1677	1	26				\N			\N	\N			\N				24	\N	\N				
-3523	1677	1	30				\N			\N	\N			\N				24	\N	\N				
+3523	1677	1	30			1919-~04-~26	\N			\N	\N			\N				24	\N	\N				
 3524	1677	1	37				\N			\N	\N			\N				24	\N	\N				
 3525	1677	1	43			1974-04-19	\N			\N	\N			\N				24	\N	\N				
 3526	1677		0			1894-06-22	\N			\N	\N			\N				41	\N	\N				
@@ -3250,7 +3242,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 3579	1679	1	79				\N			\N	\N			\N				25	\N	\N				
 3580	1679	1	81			1908-05-18	\N			\N	\N			\N				25	\N	\N				
 3581	1679	1	88			1913-05-24	\N			\N	\N			\N				25	\N	\N				
-3582	1680	Spring Lake Bch Imp Co	0			1878-05-16	\N			\N	\N			\N				23	\N	\N				
+3582	1680	41	2			1878-05-16	\N			\N	\N			\N				23	\N	\N				
 3583	1680	1265	409				\N			\N	\N			\N				7	\N	\N				
 3584	1680	1857	215				\N			\N	\N			\N				7	\N	\N				
 3585	1680	2	416			1957-06-25	\N			\N	\N			\N				33	\N	\N				
@@ -4171,7 +4163,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 22684	3096	County	0			1880-07-12	2	St.Arc.	12	\N	\N			\N				36	\N	\N			SSTSE021	1
 22685	3096	County	0			1880-06-17	2		11	\N	\N			\N				36	\N	\N			SSTSE021	1
 22686	3096	County	0			1868-12-08	2		10	\N	\N			\N				36	\N	\N			SSTSE021	1
-22687	3096	County	0			1858-11-17	2			8	9			\N				36	\N	\N			SSTSE021	1
+22687	3096	County	0			1858-11-17	2			\N	\N			\N				36	\N	\N			SSTSE021	1
 22688	3096	County	0			1844-09-18	2		7	\N	\N			\N				36	\N	\N			SSTSE021	1
 22689	3096	County	0			1841-09-14	2		7	\N	\N			\N				36	\N	\N			SSTSE021	1
 22690	3096	County	0			1840-02-28	2		6	\N	\N			\N				36	\N	\N			SSTSE021	1
@@ -4345,7 +4337,7 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 22859	1669	6646	954			1981-08-17	\N			\N	\N			\N				7	\N	\N				
 22860	1669	6648	503			1981-08-25	\N			\N	\N			\N				7	\N	\N				
 22861	1679	1	39			1895-04-04	\N			\N	\N			\N				25	\N	\N				
-22862	1682	A	496			1965-01-29	\N			\N	\N			\N				23	\N	\N				
+22862	1682	D	4			1966-02-08	\N			\N	\N			\N				23	\N	\N				
 22863	1682	2	546			1992-~01-~01	\N			\N	\N			\N				2	\N	\N				
 22864	1682	2	548			1992-~01-~01	\N			\N	\N			\N				2	\N	\N				
 22865	1682	2	551			1992-~01-~01	\N			\N	\N			\N				2	\N	\N				
@@ -4529,3 +4521,40 @@ recordingid	recordingoffice	recordingvolume	recordingpage	recordingpagetext	reco
 27324	1680	5390	560			1995-02-27	\N			\N	\N			\N				7	14	286051				
 27325	1680	5391	539			1995-03-02	\N			\N	\N			\N				7	14	286829				
 27326	1682		\N			1970-03-20	\N			\N	\N			\N				\N	22	86	F			
+27327	1687		\N			1911-03-21	\N			\N	\N			\N				\N	22	245	A			
+27328	1687		\N			1961-02-14	\N			\N	\N			\N				\N	22	545	F			
+27329	1687		\N			1908-06-22	\N			\N	\N			\N				\N	22	127	E			
+27330	1687		\N			1907-12-09	\N			\N	\N			\N				\N	22	72	A			
+27331	1687		\N			1926-06-08	\N			\N	\N			\N				\N	22	156	E			
+27332	1687		\N			1959-12-15	\N			\N	\N			\N				\N	22	518	E			
+27333	1687		\N			1959-10-07	\N			\N	\N			\N				\N	22	515	B			
+27334	1687		\N			1951-~11-~16	\N			\N	\N			\N				\N	22	376	F			
+27335	3096	AAA	145			1713-~04-~27J	\N			\N	\N			\N				4	\N	\N				
+27336	3096	AAA	155			1713-~11-~07J	\N			\N	\N			\N				4	\N	\N				
+27374	1669		\N			1927-08-23	\N			\N	\N			\N				\N	22	2318				
+27375	1669		\N			1955-09-16	\N			\N	\N			\N				\N	22	4883				
+27376	1687		\N				\N			\N	\N			\N				\N	22	288	B			
+27377	1687		\N				\N			\N	\N			\N				\N	22	423	D			
+27378	1687	Merchants Park	0			1923-~07-~01	\N			\N	\N			\N				23	\N	\N				
+27379	1669		\N			1956-02-28	\N			\N	\N			\N				\N	22	4952				
+27380	3096	I	742			1959-03-30	2	St.Arc.		\N	\N			\N				36	\N	\N			SSTSE038	19
+27381	1686		\N			1910-~02-~01	\N			\N	\N			\N				\N	22	44				
+27382	1686		\N			1953-~07-~27	\N			\N	\N			\N				\N	22	98	B			
+27383	1686		\N			1954-~05-~10	\N			\N	\N			\N				\N	22	98	D			
+27384	1682		\N			1925-04-07	\N			\N	\N			\N				\N	22	\N				
+27385	1669	Glendale Homes	0			1956-~03-~19	\N			\N	\N			\N				23	\N	\N				
+27386	1680	66	26			1959-08-25	\N			\N	\N			\N				23	\N	\N				
+27387	1669		\N			1922-09-27	\N			\N	\N			\N				\N	22	1804				
+27388	1669		\N			1870-06-22	\N			\N	\N			\N				\N	22	143				
+27389	1682		\N			1956-03-20	\N			\N	\N			\N				\N	22	51	C			
+27390	1682		\N			1925-04-07	\N			\N	\N			\N				\N	22	300	A			
+27392	1681		\N			1980-11-19	\N			\N	\N			\N				\N	22	3961				
+27393	1681	2366	1004			1976-11-15	\N			\N	\N			\N				7	\N	\N				
+27394	1681		\N			1994-08-23	\N			\N	\N			\N				\N	22	5107				
+27395	1681	4188	67			1995-05-23	\N			\N	\N			\N				7	\N	\N				
+27396	1681		\N			1895-~01-~01	\N			\N	\N			\N				\N	22	201				
+27397	1668		\N			2007-10-26	\N			\N	\N			\N				\N	14	2007096722				
+27398	1669	Charles L. Acker	0				\N			\N	\N			\N				23	\N	\N				
+27399	1669	Annett	0				\N			\N	\N			\N				23	\N	\N				
+27400	1682	147	232				\N			\N	\N			\N				7	\N	\N				
+27401	1682	194	310				\N			\N	\N			\N				7	\N	\N				
