@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.0] - 2023-10-01
+
+### Changed
+
+- Minor data quality improvements in New Jersey and Pennsylvania.
+
 ## [1.1.0] - 2023-07-01
 
 ### Added
@@ -36,5 +42,6 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
+[1.2.0]: https://github.com/markconnellypro/local-geohistory-project-open-data/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/markconnellypro/local-geohistory-project-open-data/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/markconnellypro/local-geohistory-project-open-data/releases/tag/v1.0.0
