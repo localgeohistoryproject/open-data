@@ -2,6 +2,10 @@
 
 ## [1.2.0] - 2023-10-01
 
+### Added
+
+- Line ending description in README.
+
 ### Changed
 
 - Minor data quality improvements in New Jersey and Pennsylvania.
