@@ -2992,6 +2992,7 @@ lawsectionid	law	lawsectionfrom	lawsectionpagefrom	lawsectionto	lawsectionpageto
 3266	2737	1	45	4	46	9	\N			\N	§	
 3267	2489	1	211	3	212	30	3042			\N	§	
 3269	1941	1	393	3	394	9	3266			\N	§	
+3271	2193	1	627	3	628	7	\N			\N	§	
 3272	2251	1	198	11	201	10	\N			\N	§	
 3273	2175	1	392	3	392	10	3272			\N	§	
 3274	1990	1	194	2	194	10	3272			\N	§	
@@ -3655,3 +3656,5 @@ lawsectionid	law	lawsectionfrom	lawsectionpagefrom	lawsectionto	lawsectionpageto
 29880	28864	1 [40:157-1]	712	1 [40:157-15]	712	63	3066			\N	§	
 29881	28865	1 [1896-171]	684	1 [1896-171]	684	63	\N			\N	§	
 29882	28866	88	138	88	142	49	\N			\N	§	
+29927	28911	1	1005	26	1017	30	\N			\N	§	
+29928	28912	1	817	2	817	9	\N			\N	§	

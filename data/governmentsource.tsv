@@ -6014,7 +6014,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6133	1826	Election							1837-03-~01				t			\N						
 6134	1826	Election				[For or against the incorporation of "The Village of Flemington"]			1894-~01-~01				t			\N						
 6135	1826	Election				[On the adoption of Commission Form of Government by the City of Lambertville]			1916-09-19				t			\N						
-6136	1826	Election							1918-~01-~01				t			\N						
+6136	1826	Election							1918-04-02				t			\N						
 6137	1826	Election							1926-04-20				t			\N						
 6138	1826	Election				[For or against "an act to incorporate the borough of Glen Gardner, in the county of Hunterdon," approved March 26, 1919.]			1919-04-22				t			\N						
 6139	1826	Election				[For or against the adoption of "an act to incorporate the borough of Milford, in the county of Hunterdon," approved April 15, 1911.]			1911-05-08				t			\N						
@@ -6028,7 +6028,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6147	1827	Election							1915-~01-~01				t			\N						
 6148	1827	Election				[For the adoption or against the adoption of "An Act relating to, regulating and providing for the government of municipalities, except counties, by a Municipal Council and a Municipal Manager," approved March 19, 1923, being Chapter 113 of the Laws of 1923 by the City of Trenton]			1935-03-19				t			\N						
 6149	1827	Election				"Shall chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.), providing for the commission form of government, be adopted in the City of Trenton?"			1939-04-11				t			\N						
-6150	1827	Election							2011-11-~01				t			\N						
+6150	1827	Election				"Shall the Borough of Princeton and Township of Princeton be consolidated into a single municipality to be known as Princeton, and governed under the Borough form of government, with a separately elected Mayor and six (6) member Council to be elected at large with partisan elections and staggered terms of office?"			2011-11-~01				t			\N						
 6151	1827	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law providing for a council of five councilmen to be elected at large be adopted by Ewing Township?"			1955-11-08				t			\N						
 6152	1827	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for five councilmen, be adopted by Lawrence Township?"			1968-11-05				t	Council-Manager Plan E (OMCL)		\N						
 6153	1827	Election				"Shall East Windsor Township and the Borough of Hightstown, in the County of Mercer, State of New Jersey, be consolidated and become one municipality in accordance with the Approved Plan of Consolidation, an official abstract of which is printed above?"			1969-04-17				f			\N						
@@ -6159,7 +6159,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6279	1830	Election							1895-06-25				t			\N						
 6280	1830	Election							1902-04-16				t			\N						
 6281	1830	Election							1922-03-21				t			\N						
-6282	1830	Election							1922-04-25				t			\N						
+6282	1830	Election				"Shall an act entitled 'An act to incorporate the borough of Lincoln Park, in the county of Morris,' be adopted?"			1922-04-25				t			\N						
 6283	1830	Election							1923-04-17				t			\N						
 6284	1830	Election				"Shall an act entitled 'An Act to incorporate The Township of Mine Hill, in the County of Morris', be adopted?"			1923-05-08				t			\N						
 6285	1830	Election							1926-04-15				t			\N						
@@ -7415,7 +7415,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24665	54479	Deed							1669-06-01J				t			\N						
 24666	48126	Letters Patent							1749-04-04J				t			\N						
 24667	48126	Letters Patent							1749-04-04J				t			\N						
-24668	54475	Ordinance							1661-09-05V				t			\N						
+24668	54475	Ordinance					765	771	1661-09-05V				t			\N	9			9	53851	53851
 24669	48126	Letters Patent							1773-12-08				t			\N						
 24670	48126	Letters Patent							1755-03-01				t			\N						
 24671	48126	Letters Patent							1775-06-22				t			\N						
@@ -7625,3 +7625,9 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24975	1821	Election				[For or against the acceptance of Chapter 94 of 1907]			1907-04-30				t			\N						
 24976	1821	Election				[For the adoption or rejection by the Borough of Wildwood Crest of the Act of March 21, 1899]			1917-08-07				f			\N						
 24977	1831	Election				"Shall an act entitled 'An act to incorporate the borough of Forked River, in the County of Ocean,' be adopted?"			1923-05-01				f			\N						
+24983	54479	Oath of Allegiance							1665[-02-19J				t			1665				1:1	49	50
+24984	54479	Oath of Allegiance							1667*-02-27J				t			1665				1:1	50	50
+24985	7782	Final Report	Consolidation Commission						2011-06-22			2013-01-01	t			\N						
+24986	7783	Final Report	Consolidation Commission						2011-06-22			2013-01-01	t			\N						
+24987	1827	Election							1892-05-10				t			\N						
+24988	1836	Election							1869-04-21				t			\N						
