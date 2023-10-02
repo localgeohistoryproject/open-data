@@ -1660,7 +1660,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1760	732	152	889	2		"The Town of Bloomfield in the County of Essex" has changed its name to "The Town of Bloomfield," [...].	1928-02-15				f					\N
 1761	727	133	209	137		To annex a portion of the borough of Etna, or Emerson, in the county of Bergen, to the borough of Westwood.	1909-04-16				f					\N
 1762	732	163	1089	1		At a Special Election held in the City of Trenton, April 11, 1939, on the question: "Shall Chapters 70 to 76 of the title 'Municipalities and Counties' of the Revised Statutes (40:70-1 et seq.), providing for Commission Form of Government be adopted?" was adopted [...].	1939-04-14				f					\N
-1763	727	93	1241	522			1869-04-02				f					\N
+1763	727	93	1241	522		To incorporate the City of Plainfield.	1869-04-02				f					\N
 1765	727	129	135	72		To incorporate the borough of Bloomsbury, in the county of Hunterdon.	1905-03-30				f					\N
 1766	727	98	623	495		To incorporate "The Village of Irvington," in the Township of Clinton, and County of Essex.	1874-03-27				f					\N
 1767	727	75	112	0		To incorporate the City of Cape Island.	1851-02-28	1851-03-10			f					\N
@@ -2058,6 +2058,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2190	727	150	181	115		To ratify, confirm and continue the incorporation of the borough of Brooklawn, in the county of Camden, and to fix the boundaries and the corporate name thereof, and to ratify, confirm and validate the acts of the officers of the borough.	1926-03-23				f					\N
 2191	727	137	426	236		To annex to the borough of Riverside a portion of the borough of Delford, in the county of Bergen and State of New Jersey.	1913-04-02				f					\N
 2192	732	164	685	1		By action of the Township Committee of "The Township of Cranford in the County of Union" the name was changed to "Township of Cranford," March 19, 1940.	1940-03-21				f					\N
+2193	727	119	627	313		To validate and confirm proceedings for the formation of borough commissions, had and taken under the provisions of an act entitled "An act for the formation of borough commissions," approved March seventh, one thousand eight hundred and eighty-two.	1895-03-22				f					\N
 2194	732	150	869	2		An ordinance annexing certain territory to the township of Upper Deerfield, in the county of Cumberland, adopted by the township committee of the township of Upper Deerfield, December 12, 1925.					f					\N
 2195	732	141	1057	4		"Township of Acquackanonk" changed to "The Mayor and City Council of Clifton," April 26, 1917.					f					\N
 2196	727	128	379	216		To consolidate with an annex to the city of Newark, in the county of Essex, the territory embraced within the borough of Vailsburgh, in the county of Essex; provided, a majority of the votes cast in said borough upon the question of such annexation and consolidation shall be in favor thereof, and the mayor and common council of said city shall consent thereto.	1904-03-29	1905-01-01			f					\N
@@ -2525,7 +2526,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2693	727	134	146	96		To incorporate the borough of Wildwood Crest, in the county of Cape May, and to fix the boundaries thereof.	1910-04-06				f					\N
 2694	727	98	500	420		To incorporate Asbury Park.	1874-03-26				f					\N
 2695	727	62	95	0		To divide the township of Galloway, in the county of Atlantic, into two townships.	1838-02-21	1838-03-14			f					\N
-2696	727	90	710	298			1866-03-27				f					\N
+2696	727	90	710	298		To authorize the inhabitants of the village of Passaic to improve the sidewalks of said village.	1866-03-27				f					\N
 2697	727	82	385	152		To incorporate Egg Harbor City.	1858-03-16	1858-06-14			f					\N
 2698	727	121	107	39		To incorporate Ocean City, as a city, and fix the boundaries thereof.	1897-03-25				f					\N
 2700	727	149	313	103		To annex to the City of Woodbury part of the borough of Woodbury Heights, and to annex to the borough of Woodbury Heights part of the city of Woodbury, in the county of Gloucester.	1925-03-13				f					\N
@@ -2876,3 +2877,5 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 28864	727	184	712	171		Repealing certain sections of the Village Law, Title 40 of the Revised Statutes.	1961-01-05				f					\N
 28865	727	141	684	208		To repeal sundry acts relative to municipal corporations.	1917-03-29				f					\N
 28866	727	123	96	52		Relating to and providing for the government of cities of this state containing a population of less than twelve thousand inhabitants.	1899-03-21				f					\N
+28911	727	92	1005	435		To incorporate the borough of Riverside, in the county of Burlington.	1868-04-15	1868-05-05			f					\N
+28912	727	93	817	260		To repeal "An Act to incorporate the Borough of Riverside, in the county of Burlington," approved April fifteenth, eighteen hundred and sixty-eight.	1869-03-30	1869-03-30			f					\N

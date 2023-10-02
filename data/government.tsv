@@ -19,7 +19,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 1246	Garrett	County		f		3	22	Gar		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1247	Harford	County		f		3	22	Har		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1256	Washington	County		f		3	22	Wash		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
-1817	Atlantic	County		f		3	32	Atl		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
+1817	Atlantic	County		f		3	32	Atl		X	f	\N			f	\N	\N	\N	f		\N		2	en			\N
 1818	Bergen	County		f		3	32	Ber		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1819	Burlington	County		f		3	32	Bur		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1820	Camden	County		f		3	32	Cam		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -34,7 +34,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 1829	Monmouth	County		f		3	32	Mon		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1830	Morris	County		f		3	32	Mor		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1831	Ocean	County		f		3	32	Oce		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
-1832	Passaic	County		f		3	32	Pas		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
+1832	Passaic	County		f		3	32	Pas		X	f	\N			f	\N	\N	\N	f		\N		2	en			\N
 1833	Salem	County		f		3	32	Sal		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1834	Somerset	County		f		3	32	Som		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 1835	Sussex	County		f		3	32	Sus		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -208,7 +208,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 3316	Aston	Township		f		4	2309				\N	\N			f	\N	\N	\N	f		\N		2	en			8
 3317	Asylum	Township		f		4	2294				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 3318	Atglen	Borough		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			111
-3319	Athens	Borough		f		4	2294				\N	\N			f	\N	\N	\N	f		\N		1	en			111
+3319	Athens	Borough		f		4	2294				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 3320	Athens	Township		f		4	2294				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 3321	Athens	Township		f		4	2306				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 3322	Atwood	Borough		f		4	2289				\N	\N			f	\N	\N	\N	f		\N		2	en			111
@@ -936,7 +936,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 4045	Franklin	Township		f		4	2299				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4046	Franklin	Township		f		4	2296				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 4047	Franklin	Township		f		4	2294				\N	\N			t	\N	\N	\N	f		\N		1	en			9
-4048	Franklin	Township		f		4	2311				\N	\N			t	\N	\N	\N	f		\N		1	en			9
+4048	Franklin	Township		f		4	2311				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 4049	Franklin	Township		f		4	2317				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4050	Franklin	Township		f		4	2305				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4051	Franklin	Township		f		4	2287				\N	\N			t	\N	\N	\N	f		\N		1	en			9
@@ -987,7 +987,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 4096	Gilpin	Township		f		4	2289				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 4097	Girard	Borough		f		4	2311				\N	\N			f	\N	\N	\N	f		\N		2	en			143
 4098	Girard	Township		f		4	2303				\N	\N			t	\N	\N	\N	f		\N		1	en			9
-4099	Girard	Township		f		4	2311				\N	\N			t	\N	\N	\N	f		\N		1	en			9
+4099	Girard	Township		f		4	2311				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 4100	Girardville	Borough		f		4	2340				\N	\N			f	\N	\N	\N	f		\N		2	en			143
 4101	Glade	Township		f		4	2348				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 4102	Glasgow	Borough		f		4	2290				\N	\N			f	\N	\N	\N	f		\N		2	en			142
@@ -2331,7 +2331,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5440	Summerhill	Township		f		4	2306				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5441	Summerhill	Township		f		4	2297				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5442	Summerville	Borough		f		4	2319				\N	\N			f	\N	\N	\N	f		\N		2	en			111
-5443	Summit	Township		f		4	2311				\N	\N			t	\N	\N	\N	f		\N		1	en			9
+5443	Summit	Township		f		4	2311				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 5444	Summit	Township		f		4	2306				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5445	Summit	Township		f		4	2342				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5446	Summit	Township		f		4	2296				\N	\N			t	\N	\N	\N	f		\N		2	en			9
@@ -2394,7 +2394,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5503	Topton	Borough		f		4	2292				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5504	Towamencin	Township		f		4	2332				\N	\N			f	\N	\N	\N	f		\N		2	en			105
 5505	Towamensing	Township		f		4	2299				\N	\N			t	\N	\N	\N	f		\N		1	en			9
-5506	Towanda	Borough		f		4	2294				\N	\N			f	\N	\N	\N	f		\N		1	en			142
+5506	Towanda	Borough		f		4	2294				\N	\N			f	\N	\N	\N	f		\N		2	en			142
 5507	Towanda	Township		f		4	2294				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5508	Tower City	Borough		f		4	2340				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5509	Townville	Borough		f		4	2306				\N	\N			f	\N	\N	\N	f		\N		2	en			143
@@ -3939,7 +3939,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7215	Hainesport	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7216	Haledon	Borough		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7217	Hamburg	Borough		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7218	Hamilton	Township		f		4	1817				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+7218	Hamilton	Township		f		4	1817				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 7219	Hamilton	Township		f		4	1827				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7220	Hammonton	Town		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7221	Hampton	Borough		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4085,7 +4085,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7361	Mountain Lakes	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7362	Mountainside	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7363	Mullica	Township		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7364	National Park	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7364	National Park	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7365	Neptune	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7366	Neptune City	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7367	Netcong	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4284,16 +4284,16 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7563	West Amwell	Township		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7564	West Caldwell	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7565	West Cape May	Borough		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
-7566	West Deptford	Township		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7566	West Deptford	Township		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7567	West Long Branch	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7568	West Milford	Township		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7568	West Milford	Township		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7569	West New York	Town		f		4	1825				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7570	West Orange	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7571	West Wildwood	Borough		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7572	West Windsor	Township		f		4	1827				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7573	Westampton	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7574	Westfield	Town		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7575	Westville	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7575	Westville	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7576	Westwood	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7577	Weymouth	Township		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7578	Wharton	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4369,7 +4369,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7650	Cohansey	Township	defunct	f		4	1822				\N	\N	1697	1748	f	\N	\N	\N	f		\N		1	en			\N
 7651	Cohansey	Township	defunct	f		4	1822				\N	\N	1848	1865	f	\N	\N	\N	f		\N		1	en			\N
 7653	Columbia	Township	defunct	f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7654	Cropwell	Township	defunct	f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7654	Cropwell	Township	alternate	f		4	1819				\N	\N			f	\N	\N	\N	f		7645		0	en			\N
 7655	Deckertown	Borough	defunct	f		4	1835				\N	\N			f	\N	\N	\N	f		7517		1	en			\N
 7656	Delaware	Township	defunct	f		4	1820				\N	\N			t	\N	\N	\N	f		7105		1	en			\N
 7657	Delford	Borough	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7399		1	en			\N
@@ -4501,7 +4501,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7790	Ridgefield	Township	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7181		1	en			\N
 7791	Ridgefield Park	Township	paper	t		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7792	Ridgewood	Township	paper	t		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7793	Riverside	Borough	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7452		1	en			\N
+7793	Riverside	Borough	defunct	f		4	1818				\N	\N			t	\N	\N	\N	f		7452		1	en			\N
 7795	Roosevelt	Borough	defunct	f		4	1828				\N	\N			t	\N	\N	\N	f		7101		1	en			\N
 7796	Saddle River	Township	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7471		1	en			\N
 7797	Salem	Township	defunct	f		4	1833				\N	\N			f	\N	\N	\N	f		7473		1	en			\N
@@ -8487,3 +8487,8 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 135045	England	Kingdom	defunct	f		1	\N				\N	\N			f	\N	\N	\N	f		135042		1	en			\N
 135046	Metedeconk	Village	proposed	f		4	1831				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 135049	Fieldsborough	Borough	alternate	f		4	1819				\N	\N			f	\N	\N	\N	f		7176		0	en			\N
+135694	Tullileague	Township	alternate	f		4	2291				\N	\N			f	\N	\N	\N	f		48995		0	en			\N
+135761	New Bloomfield	Borough	alternate	f		4	2336				\N	\N			f	\N	\N	\N	f		3430		0	en			\N
+135763	Riverside	Borough	defunct	f		4	1819				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+135766	Bissell	Place	unincorporated	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
+135767	Elrod	Place	unincorporated	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N

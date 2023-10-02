@@ -4411,7 +4411,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 4420	shape	act	point in the high-water line of the South Shrewsbury river, which said point is intersected by the center line of the Rumson road at or near the Seabright bridge	6527	0.0000000	0.0000000	0				10564	0
 4421	shape	act	stone monument at the southwest corner of Verona township and in the easterly line of Essex Fells borough	6527	0.0000000	0.0000000	0				10568	0
 4422	shape	act	point in the northerly line of Bloomfield avenue at its point of intersection with the boundary line between the town of Montclair and township of Verona	6527	0.0000000	0.0000000	0				10569	0
-4423	shape	act	point where the northerly line of the Penn's Grove branch of the West Jersey and Seashore railroad intersects the westerly line of the city of Woodbury	6527	0.0000000	0.0000000	0				10571	0
+4423	shape	act	point where the northerly line of the Penn's Grove branch of the West Jersey and Seashore railroad intersects the westerly line of the city of Woodbury	6527	-75.1634680	39.8327730	20.9				10571	0
 4424	shape	act	wharf bolt set in the side of the public road leading from David D. DeVault's to Paulsboro, corner to lands of Andrew W. Mellon, and in the northerly line of the lands of the West Jersey and Seashore Railroad (Pennsgrove Branch)	6527	-75.2477509	39.8339800	0				10574	0
 4425	shape	act	northeast corner of lands of Edward Smith, at the northwest corner of lands of John J. DeBaun, and in the line of the borough of Upper Saddle River	6527	0.0000000	0.0000000	0				10582	0
 4426	line after	act	second corner of the boundary lines of the borough of Rockaway as originally described in its incorporation, being the point where the center line of the Franklin road crosses the center line of the tracks of the Morris and Essex Railroad	6527	0.0000000	0.0000000	0				10584	0
@@ -4467,7 +4467,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 4476	shape	act	hole drilled in a stone in the road leading from Ogdensburg to the borough of Franklin, said stone is about three-eighths of a mile northeasterly from the Ogdensburg post office, and is in the boundary line between the townships of Hardyston and Sparta, and is a corner of the borough of Franklin	6527	-74.5896204	41.0855475	-9.5	i			10665	0
 4477	shape	act	point in the middle of Great channel where the same is intersected by the southwest line of Eightieth street in the borough of Avalon	6527	0.0000000	0.0000000	0				10667	0
 4478	shape	act	point in the southwesterly line of the city of Paterson, where the same is intersected by the dividing line of the borough of Totowa, and the township of Little Falls	6527	0.0000000	0.0000000	0				10669	0
-4479	shape	act	point in the middle of Great Timber creek, in range with the property line between lands of formerly George W. Gardiner and lands formerly of William C. Allen	6527	0.0000000	0.0000000	0				10670	0
+4479	shape	act	point in the middle of Great Timber creek, in range with the property line between lands of formerly George W. Gardiner and lands formerly of William C. Allen	6527	-75.1166150	39.8669040	0				10670	0
 4480	whole after	act	middle of the Old York road, thirty-four chains and ninety-seven links from the intersection of the Etra road with the said Old York road	6527	-74.5265812	40.2574824	-9.35				10675	0
 4481	shape	act	point in the center line of "Rahway road" where the same is intersected by the southeasterly line of lands owned by the town of Westfield on which are located the sewage treatment works of said town, said point being in the division line between the town of Westfield and the township of Fanwood	6527	0.0000000	0.0000000	0				10676	0
 4482	shape	act	middle of Brooklake road at a point therein distant five hundred feet northeasterly from Main street	6527	-74.3951120	40.7483230	-4.45				10677	0
@@ -4485,7 +4485,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 4494	shape	act	point in the center line of a bridge over Coopers river, at Ellis street where said line intersects the easterly line of the borough of Haddonfield	6527	0.0000000	0.0000000	0				10702	0
 4495	line after	act	westerly line of the river known as South River, where the southerly line of the first tract as described in a deed from Wychick Lonchock and wife to the "Borough of South River" intersects the same	6527	-74.3573808	40.4296923	-10				10703	0
 4496	shape	act	point in the center line of the street known as Broadway where the said center line in intersected by the easterly line of the right of way of the Bergen County Railroad	6527	0.0000000	0.0000000	0				10704	0
-4497	shape	act	point in the northerly line of Bloomfield avenue, a county road, as now laid out and accepted by the county of Essex, at a point where the easterly line of the lands now or formerly belonging to Frank Brunetto intersects the said northerly line of Bloomfield avenue	6527	0.0000000	0.0000000	0				10705	0
+4497	shape	act	point in the northerly line of Bloomfield avenue, a county road, as now laid out and accepted by the county of Essex, at a point where the easterly line of the lands now or formerly belonging to Frank Brunetto intersects the said northerly line of Bloomfield avenue	6527	-74.2082160	40.8056000	-6.75				10705	0
 4498	shape	act	point in the present division line between the village of South Orange andthe township of South Orange, where the same would be intersected by a line drawn parallel with Walton avenue and distant one hundred (100) feet southeasterly therefrom as measured at right angles therewith	6527	0.0000000	0.0000000	0				10710	0
 4499	shape	act	stone in the middle of Clements Bridge road, located at the southwesterly line of the Atlantic City railroad	6527	0.0000000	0.0000000	0				10712	0
 4500	shape	act	stone at high-water mark on the south bank of Toms River, said stone being also the southeasterly corner of lands of the Cedar Point Land Company	6527	-74.1906560	39.9457853	-9.62				10713	0
@@ -4831,7 +4831,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 4840	shape	ordinance (Statutory Filing)	point in the present line between the Town of Newton and the Township of Fredon, where said line crosses the property line between the estate of W. C. Whittingham, deceased, and a tract known as the Slate Quarry Property, said point is distant nine chains and sixty eight links on a course of North twenty three degrees East from the center of a small bridge on the public road leading from Newton to Huntsville, which bridge is a corner between the Town of Newton and the Township of Fredon near the farm house on the Whittingham estate (formerly William M. Babbitt)	6527	-74.7683994	41.0497885	-10				10778	0
 4841	shape	ordinance (Statutory Filing)	point therein distant South 55 degrees, 39 minutes, West 41.34 feet from a point which is distant North 38 degrees, 01 minutes, West 73.60 feet from a point in the northwesterly side of Fortieth Street, said point being distant northeasterly 208.46 feet along said side of Fortieth Street from the intersection of the same within the northeasterly side of Boyden Avenue, said point of beginning being a corner of the present division of line of the Township of Maplewood and the Town of Irvington	6527	-74.2525622	40.7158156	-6.5				11299	0
 4842	shape	ordinance (Statutory Filing)	point therein distant South 41 degrees, 52 minutes West 41.46 feet from a point which is distant North 31 degrees 57 minutes West 104.13 feet from a point in the northwesterly side of Fortieth Street, which point is distant northeasterly 437.14 feet along said side of Fortieth Street from the intersection of the same with the northeasterly side of Boyden Avenue	6527	-74.2521444	40.7163725	-6.5				11295	0
-4843	shape	ordinance (Statutory Filing)	point in the northerly side of Baldwin street which point is distant three hundred ninety-one feet, more or less, westerly from the point of intersection of the said northerly side of Baldwin street with the westerly side of Highland avenue	6527	0.0000000	0.0000000	0				10884	0
+4843	shape	ordinance (Statutory Filing)	point in the northerly side of Baldwin street which point is distant three hundred ninety-one feet, more or less, westerly from the point of intersection of the said northerly side of Baldwin street with the westerly side of Highland avenue	6527	-74.2060831	40.8085864	0				10884	0
 4844	shape	ordinance (Statutory Filing)	point in the present boundary line between the Village of South Orange, and the City of Newark, where the same is intersected with the center line of South Orange Avenue	6527	-74.2368345	40.7455713	-6.65				10829	0
 4845	shape	act	point in the present boundary line between the said city of Orange and the said village of South Orange, where the same would be intersected by a line running at right angles with Stirling avenue and distant three hundred fifty-nine and eighty-one hundredths feet   northwesterly from the northwesterly line of Centre street, as measured along the southwesterly line of Stirling avenue	6527	0.0000000	0.0000000	0			Tract 2 (to South Orange)	10786	0
 4846	shape	act	point in the present boundary line between the village of South Orange, in the county of Essex, and the city of Orange, in the county of Essex, where the same will be intersected by a line running at right angles with Stirling avenue and distant three hundred fifty-nine and eighty-one hundredths feet northwesterly from the northwesterly line of Centre street, as measured along the southwesterly line of Stirling avenue	6527	0.0000000	0.0000000	0			Tract 2 (to Orange)	10786	0
@@ -5016,7 +5016,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 5025	shape	act	northwest corner of the borough of Point Pleasant Beach	6527	0.0000000	0.0000000	0				10625	0
 5026	shape	act	mouth of Bowker's run	6527	0.0000000	0.0000000	0				10626	0
 5027	shape	act	southwesterly corner thereof, at the most northerly corner of the borough of Emerson, said point being the southwesterly corner of lands of Henry H. Goodwin, late of Stephen Bogert, in what is known as Bogert's Pond	6527	0.0000000	0.0000000	0				10631	0
-5028	shape	act	point in the middle of Big Timber creek in range with the northerly line of John Schrufer's land, formerly the George W. Gardiner land	6527	0.0000000	0.0000000	0				10603	0
+5028	shape	act	point in the middle of Big Timber creek in range with the northerly line of John Schrufer's land, formerly the George W. Gardiner land	6527	-75.1248120	39.8676210	-11.9				10603	0
 5029	shape	act	centre of the main north branch of Metedeconk river, where it crosses the line between Monmouth and Ocean counties	6527	0.0000000	0.0000000	0				10579	0
 5030	shape	act	junction of the middle lines of the White Horse stone road and Linden avenue	6527	0.0000000	0.0000000	0				10547	0
 5031	shape	act	point formed by the intersection of the middle line of Twentieth avenue produced westerly with the westerly side of line of "B" street produced southerly	6527	0.0000000	0.0000000	0				10570	0
@@ -7112,9 +7112,9 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 7315	shape	petition (docket)	point near the bridge crossing Towanda creek near the residence of R. R. Rockwell	100007	-76.4698430	41.7127320	-7.65				1251	0
 7316	whole after	act	on the Susquehanna river, at the eastern termination of the line between the farms of Hiram Mix, and Francis Delpuech	100007	0.0000000	0.0000000	0				22499	0
 7317	shape	act		100007	0.0000000	0.0000000	0				358	0
-7318	shape	ordinance	Northeast corner of the Borough as heretofore constituted	100007	0.0000000	0.0000000	0				9619	0
-7319	shape	ordinance	point marking the intersection of the boundary line between North Towanda  Township and Towanda Township and the boundary line between Towanda Township and Towanda Borough	100007	-76.4528270	41.7660040	-9.9				7408	0
-7320	shape	ordinance	point in the present existing Towanda Borough, Towanda Township line, said point also being the northeast corner of the lands herein described, said point also being the northwest corner of other lands of Towanda Post 42, American Legion	100007	-76.4431070	41.7577010	-9.35				7861	2
+7318	shape	ordinance	Northeast corner of the Borough as heretofore constituted	100007	-76.4427640	41.7857070	-6.5				9619	0
+7319	shape	ordinance	point marking the intersection of the boundary line between North Towanda  Township and Towanda Township and the boundary line between Towanda Township and Towanda Borough	100007	-76.4531860	41.7730500	-11.75				7408	0
+7320	shape	ordinance	point in the present existing Towanda Borough, Towanda Township line, said point also being the northeast corner of the lands herein described, said point also being the northwest corner of other lands of Towanda Post 42, American Legion	100007	-76.4454080	41.7576130	-9.35				7861	2
 7321	shape	act	Satterlee's landing or ferry, on the Susquehanna river	100007	0.0000000	0.0000000	0				378	0
 7322	whole after	act	be extended north to the south line of the Caton tract	100007	0.0000000	0.0000000	0				22425	0
 7323	shape	petition (recorded)	North east corner of the Borough of Athens	100007	-76.5161280	41.9660520	-5.7				2968	0
@@ -7972,7 +7972,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 8239	shape	ordinance (Statutory Filing)	center of the Polifly Road at the point where the line between the Borough of Hasbrouck Heights and the Borough of Woodridge intersects said center line	6527	0.0000000	0.0000000	0				10384	0
 8240	line after	report of commissioners (docket)	where the said Seventh Street crosses the said Camden and Atlantic railroad	6527	-74.7683730	39.6115120	-4.5				55092	0
 8241	shape	act	point in the Mullica River, at the intersection of Camden and Atlantic counties	6527	0.0000000	0.0000000	0				10012	0
-8242	shape	deed (recorded)		6527	-75.0780130	39.7809080	-3.65				10068	0
+8242	shape	deed (recorded)		6527	-75.0780130	39.7809080	-3.65			Deed	10068	0
 8243	line	report of commissioners (docket)	stone monument set in the ground in the old county road, in the line between Cumberland and Cape May County	6527	-74.8306700	39.2662300	-4.55				55094	0
 8244	shape	election notice (recorded)	point at low water mark on the Atlantic Ocean where the line known as the West New Jersey society line intersects said Ocean	6527	0.0000000	0.0000000	0				10170	0
 8245	whole after	election return (recorded)	point in Cape Island Creek opposite the mouth of a line ditch and Northeast corner of Henry C. Hughes meadow	6527	-74.9209640	38.9413510	-5.1				55095	0
@@ -8027,3 +8027,60 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 8294	shape	election notice (recorded)	intersection of Potter's Road and the Towns River and Waretown Railroad (marked by an iron spike) in the Township of Berkeley, County of Ocean and State of New Jersey	6527	0.0000000	0.0000000	0				55117	1267
 8295	shape	decree (recorded)	on the north east by North Twenty Fifth Street	6527	0.0000000	0.0000000	0				10304	0
 8296	shape	decree (recorded)	on the northerly side by the line bounding the William Dockwra patent on Long Beach on the south the same being the northerly line of a tract of land conveyed by the Barnegat and Long Beach Improvement Company to Benjamin Wright, by deed dated March 24th, 1886, and recorded in the Ocean County Clerk's Office in Book 147 of Deeds, page 232	6527	0.0000000	0.0000000	0				10299	0
+8297	line after	act	point in the centre of the stone arch bridge, over a stream crossing the road west of and near the residence of Henry Stucky, on the Orange line	6527	0.0000000	0.0000000	0				10035	0
+8298	shape	act	Mouth of Rahway River, where it falls into the Sound	6527	0.0000000	0.0000000	0				22612	0
+8299	shape	act	that Part of the said Borough lying on the West Side of the East Branch of Rahway River	6527	0.0000000	0.0000000	0				22667	0
+8300	shape	act	line of the townships of Great-Eggharbour and Weymouth, at the mouth of Miery Run, where it empties into Great-Eggharbour river	6527	0.0000000	0.0000000	0				9775	0
+8301	shape	act	eastern part of the county of Gloucester contained in the townships of Galloway, Hamilton, Weymouth, and Egg Harbour	6527	0.0000000	0.0000000	0				9810	0
+8302	shape	act	mouth of Yantekaw, or Third river, at its entrance into the Passaic river, being the present boundary of the township of Aquackanonk	6527	0.0000000	0.0000000	0				9811	0
+8303	line after	act	middle of the road on the west side of Passaick river, at the foot of the Hackensack and Paterson Turnpike bridge, near the house of John Marsales	6527	-74.1339830	40.9024360	-2.4				9797	0
+8304	shape	act	Cook's Bridge, on Passaick river	6527	0.0000000	0.0000000	0				9753	0
+8305	shape	act	line that divides the state of New-York and New-Jersey, where the said line strikes the fist pond in the Ramapaugh mountain	6527	0.0000000	0.0000000	0				9751	0
+8306	shape	act	bridge crossing the Pequanac river, on the Paterson and Hamburg turnpike road, a few rods east of Cook's hill, so called, and on the Morris county line	6527	0.0000000	0.0000000	0				9807	0
+8307	shape	act	mouth of Turkey-hoe river	6527	0.0000000	0.0000000	0				9755	0
+8308	whole after	act	point in the river Delaware as far westerly as the jurisdiction of the State of New Jersey extends, opposite to the mouth of a stream of water called Newton creek	6527	0.0000000	0.0000000	0				10075	0
+8310	shape	act	all that part of the county of Camden comprising the townships of Washington and Monroe, (except that part of the township of Washington included within the boundaries of the Camden county almshouse farm, which is to remain part of said county of Camden, and be annexed to and made a part of the township of Gloucester, in said county,)	6527	0.0000000	0.0000000	0				10068	0
+8311	shape	act	Camden county line, in the middle of Timber creek, and in the centre of the bridge of the Gloucester Turnpike Company	6527	0.0000000	0.0000000	0				10085	0
+8312	shape	act	point in the middle of the main branch of Newton creek opposite the mouth of the north branch of said creek	6527	0.0000000	0.0000000	0				10076	0
+8313	shape	act	point in the boundary line between Westlield and Springfield townships, distant three thousand feet from the continence of Normahiggin brook and Rahway river	6527	0.0000000	0.0000000	0				10069	0
+8314	line before	act		6527	0.0000000	0.0000000	0			Before	10083	0
+8315	line after	act		6527	0.0000000	0.0000000	0			After	10083	0
+8316	line after	act	outlet of the canal reservoir, near Stanhope, on the line between the counties of Sussex and Morris	6527	0.0000000	0.0000000	0				10074	0
+8317	shape	act	point in the line between the counties of Ocean and Burlington, where the southerly and easterly line of Manchester township meets the same	6527	0.0000000	0.0000000	0				10072	0
+8318	shape	act	point in the middle of Spruce run brook, a corner of Clinton and Lebanon townships and in the line of Union township	6527	0.0000000	0.0000000	0				10071	0
+8319	line after	act	southeasterly from where a straight line, running from the point where the township of Tewksbury and the new township of High Bridge intersect each other at the end of the fifth course, in the act creating the said township of High Bridge, to an arch bridge over\nCold brook, in a line between the townships of Tewksbury and Readington	6527	0.0000000	0.0000000	0				10082	0
+8320	whole after	act	stone bridge in the road near the house of Mahlon Munson	6527	0.0000000	0.0000000	0				10081	0
+8321	whole after	act	middle of the Hudson river, at a point hearing south sixty degrees east from the southwest corner of block number seventy-six, as shown on the map of property of Cornelius Van Vorst	6527	0.0000000	0.0000000	0				52432	0
+8322	line after	act	present corner of Oxford, Mansfield and Washington townships, in the Van Nest Gap	6527	0.0000000	0.0000000	0				10084	0
+8323	shape	act	intersection of the centre of the Second river with the centre of Passaic river	6527	0.0000000	0.0000000	0			to Newark	10087	0
+8324	shape	act	intersection of Herman street and the Hackensack turnpike	6527	0.0000000	0.0000000	0				52429	0
+8325	line after	act	line between Barnet D. Fine and Rosetta White, at the Delaware river	6527	0.0000000	0.0000000	0				10077	0
+8326	shape	report of commissioners (docket)	North west Corner of Fairview Township at the Shore of Lake Erie	100007	0.0000000	0.0000000	0			Springfield Township	15001	0
+8327	shape	report of commissioners (docket)	South East corner of North East Township	100007	0.0000000	0.0000000	0			Greenfield Township	15001	0
+8328	shape	report of commissioners (docket)	South East corner of Harbour Creek Township	100007	0.0000000	0.0000000	0			Beaverdam Township	15001	0
+8329	shape	report of commissioners (docket)	238 mile post on the old lines of the State and South west corner of Beaverdam Township	100007	0.0000000	0.0000000	0			McKean Township	15001	0
+8330	shape	report of commissioners (docket)	North East corner of tract No 49, which is the South East corner of Fairview Township	100007	0.0000000	0.0000000	0			Elkcreek Township	15001	0
+8331	shape	report of commissioners (docket)	South East corner of Springfield Township	100007	0.0000000	0.0000000	0			Conniaut Township	15001	0
+8332	shape	report of commissioners (docket)	South East corner of Greenfield Township on the New York State line	100007	0.0000000	0.0000000	0			Venango Township	15001	0
+8333	shape	report of commissioners (docket)	North East corner of the Erie County where the old line of the State and Warren County line intersects	100007	0.0000000	0.0000000	0			Concord Township	15001	0
+8334	shape	report of commissioners (docket)	South west corner of Concord Township	100007	0.0000000	0.0000000	0			Union Township	15001	0
+8335	shape	report of commissioners (docket)	South west corner of tract No. 122 on the west line of Union Township	100007	0.0000000	0.0000000	0			Waterford Township	15001	0
+8336	shape	report of commissioners (docket)	South East corner of Elkcreek Township	100007	0.0000000	0.0000000	0			Conniauttee Township	15001	0
+8337	shape	report of commissioners (docket)	South East corner of Conniauttee Township	100007	0.0000000	0.0000000	0			LeBoeuff Township	15001	0
+8338	shape	petition (docket)		100007	0.0000000	0.0000000	0				54359	0
+8339	shape	report of commissioners (docket)	point where the line between said Bloom and Union townships crosses Big Anderson Creek	100007	0.0000000	0.0000000	0				22541	0
+8340	shape	report of commissioners (docket)	head of Moshannon Creek	100007	0.0000000	0.0000000	0			Bradford	149	0
+8341	shape	report of commissioners (docket)	mouth of little Clearfield	100007	0.0000000	0.0000000	0			Beccaria	149	0
+8342	shape	report of commissioners (docket)	white pine on the west branch of the river Susquehanna a corner of Clearfield and Lycoming Counties	100007	0.0000000	0.0000000	0			Lawrence	169	0
+8343	shape	report of commissioners (docket)	remaining part of the Township not included in the above bounds	100007	0.0000000	0.0000000	0			Pike	169	0
+8344	shape	report of commissioners (docket)	River at the Lycoming County line	100007	0.0000000	0.0000000	0			Covington	222	0
+8345	shape	report of commissioners (docket)	fifty mile tree a corner of 5417 & 541? and a corner of Covington Township on the Lycoming County line	100007	0.0000000	0.0000000	0			Gibson	222	0
+8346	shape	report of commissioners (docket)	North east corner of said Township	100007	0.0000000	0.0000000	0				264	0
+8347	shape	decree (docket)	hickory on tract No 250, in the name of Robert Curry on the Jefferson County line	100007	-78.7922930	40.9933580	0.65				297	0
+8348	line after	report of commissioners (docket)	hemlock 240 per north of the present corner	100007	-79.0685820	41.1995230	0			Warsaw	50669	0
+8349	line after	report of commissioners (docket)	bank of North fork? West side	100007	-79.0744610	41.1802430	0			Rose	50669	0
+8350	shape	act	point on Rancocas creek, at the mouth of Tarhill run	6527	0.0000000	0.0000000	0				59068	0
+8351	shape	decree (paper book)	Youghiogheny river at the line of low water mark at the northwest corner of the O'Bryan plan of lots	100007	-79.8388810	40.3175060	-2.65				3562	0
+8356	shape	deed (recorded)	corner on the Tioga River	100007	-76.5216430	41.9554800	-3			9-71	378	0
+8357	shape	deed (recorded)	eight perches + five links from the South part of Hamilton Street (so distinguished on the new plot of Tioga Point drawn by James Pumpelly, Surveyor, in the year Eighteen Hundred + two) twenty five feet from a Stone fixed on the East side of the main Road	100007	0.0000000	0.0000000	0			2-5	378	0
+8358	shape	report of commissioners (docket)	lake Shore	100007	0.0000000	0.0000000	0			Erie Township or Borough	15001	0

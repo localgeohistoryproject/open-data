@@ -403,8 +403,8 @@ adjudicationtypeid	tribunal	adjudicationtypeabbreviation	adjudicationtypelong	ad
 1251	208	CP	Common Pleas	Com.Pl.D.
 1252	16	Appearance (No. 3)	Appearance (No. 3)	Com.Pl.#3.Apr.D.
 1253	16	Execution	Execution	Ex.D.
-1254	35	Eq	Equity	Eq.D.
-1255	171	Eq	Equity	Eq.D.
+1254	35	Equity	Equity	Eq.D.
+1255	171	Equity	Equity	Eq.D.
 1256	50	Trust	Trust	Trust.D.
 1257	186	Trust	Trust	Trust.D.
 1258	59	Equity	Equity	Eq.D.

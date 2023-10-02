@@ -136,6 +136,7 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 174	Ordinance	30 Days after Most Probable Date Filed with Court
 175	Grand Jury	Date Approval Issued
 176	First Election	Immediately Thereafter
+190	Consolidation Plan	Listed Effective Date
 197	Ordinance	Date Costs of Filing with Court Paid
 198	Ordinance	30 Days after Date Costs of Filing with Court Paid
 199	Ordinance	Day after Election after Date Costs of Filing with Court Paid
@@ -175,3 +176,6 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 239	Determination	Listed Effective Date
 240	Election	Implied Date Results Filed with County Clerk per Unofficial Source
 242	Election	Date per Unofficial Source
+243	Election	Implied Date Results Filed with Secretary of State per Unofficial Source
+244	Declaration	Date Issued
+245	Election	Date Results Filed with County Clerk per Unofficial Source
