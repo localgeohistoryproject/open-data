@@ -6,6 +6,10 @@
 
 - Repository paths to accommodate moving repository to organization.
 
+### Fixed
+
+- Governmentidentifier data to reflect that tax district 48 of Cumberland County, Pennsylvania is located in the Township of Lower Allen instead of the Borough of Shiremanstown.
+
 ## [1.2.0] - 2023-10-01
 
 ### Added
