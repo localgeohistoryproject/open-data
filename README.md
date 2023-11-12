@@ -8,7 +8,7 @@ The Local Geohistory Project aims to educate users and disseminate information c
 
 Currently, the open dataset only contains information related to New Jersey and Pennsylvania, with several scattered events concerning neighboring jurisdictions.
 
-This repository does not contain the application code, which can be found in the [Application repository](https://github.com/markconnellypro/local-geohistory-project), nor does it contain the table data for the bundled **calendar** extension.
+This repository does not contain the application code, which can be found in the [Application repository](https://github.com/localgeohistoryproject/application), nor does it contain the table data for the bundled **calendar** extension.
 
 ## File format
 
@@ -18,7 +18,7 @@ Because TSV files do not use quotation marks to escape fields containing tabs, t
 
 The files use Unix-style [line endings](https://en.wikipedia.org/wiki/Newline#Representations) (LF), which may have to be adjusted in applications that expect Windows-style line endings (CR LF).
 
-An extra header line containing column names is included in each file to facilitate use in other applications. When the data is imported using the build process in the [Application repository](https://github.com/markconnellypro/local-geohistory-project), this line is removed automatically; however, manual data imports into PostgreSQL require manual removals of these lines.
+An extra header line containing column names is included in each file to facilitate use in other applications. When the data is imported using the build process in the [Application repository](https://github.com/localgeohistoryproject/application), this line is removed automatically; however, manual data imports into PostgreSQL require manual removals of these lines.
 
 ## Metadata
 
@@ -26,13 +26,13 @@ A full list of columns in every TSV, along with the associated datatypes, is ava
 
 ## Dates
 
-Most dates in the Local Geohistory Project are stored using a custom **calendar.historicdatetext** domain (essentially, the alias of a datatype) in the **calendar** extension bundled with the [Application repository](https://github.com/markconnellypro/local-geohistory-project). This format serializes the date in a text format similar to [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601); however, the goal is to store the date **as closely to how it was presented at the time it was written**, and not using the [Proleptic Gregorian calendar](https://en.wikipedia.org/wiki/Proleptic_Gregorian_calendar).
+Most dates in the Local Geohistory Project are stored using a custom **calendar.historicdatetext** domain (essentially, the alias of a datatype) in the **calendar** extension bundled with the [Application repository](https://github.com/localgeohistoryproject/application). This format serializes the date in a text format similar to [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601); however, the goal is to store the date **as closely to how it was presented at the time it was written**, and not using the [Proleptic Gregorian calendar](https://en.wikipedia.org/wiki/Proleptic_Gregorian_calendar).
 
-Because this format may cause difficulties when reusing data in other contexts, the **calendar** extension bundled with the [Application repository](https://github.com/markconnellypro/local-geohistory-project) contains code that allows for conversion of this serialization format to the **calendar.historicdate** datatype, which contains in the **gregorian** subfield the Proleptic Gregorian date.
+Because this format may cause difficulties when reusing data in other contexts, the **calendar** extension bundled with the [Application repository](https://github.com/localgeohistoryproject/application) contains code that allows for conversion of this serialization format to the **calendar.historicdate** datatype, which contains in the **gregorian** subfield the Proleptic Gregorian date.
 
 ### Qualifiers
 
-If present, it constitutes the first character. These are generally not used in the Local Geohistory Project; however, a list of possible qualifiers is stored in the **qualifier** table in the **calendar** extension bundled with the [Application repository](https://github.com/markconnellypro/local-geohistory-project).
+If present, it constitutes the first character. These are generally not used in the Local Geohistory Project; however, a list of possible qualifiers is stored in the **qualifier** table in the **calendar** extension bundled with the [Application repository](https://github.com/localgeohistoryproject/application).
 
 ### Double years
 
@@ -75,7 +75,7 @@ While not often used in the Local Geohistory Project, when the entire date is un
 
 ### Calendars
 
-The Local Geohistory Project supports a number of calendars, including Gregorian, Julian, and Quaker. For calendars other than Gregorian with the year beginning on January 1, the calendar abbreviation is placed at the end of the serialization format, and often incorporates additional characters to signify non-standard year start days. A list of possible calendars is stored in the **part** table in the **calendar** extension bundled with the [Application repository](https://github.com/markconnellypro/local-geohistory-project).
+The Local Geohistory Project supports a number of calendars, including Gregorian, Julian, and Quaker. For calendars other than Gregorian with the year beginning on January 1, the calendar abbreviation is placed at the end of the serialization format, and often incorporates additional characters to signify non-standard year start days. A list of possible calendars is stored in the **part** table in the **calendar** extension bundled with the [Application repository](https://github.com/localgeohistoryproject/application).
 
 ## Geometries
 

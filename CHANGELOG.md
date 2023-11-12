@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.1] - 2023-11-12
+
+### Changed
+
+- Repository paths to accommodate moving repository to organization.
+
+### Fixed
+
+- Governmentidentifier data to reflect that tax district 48 of Cumberland County, Pennsylvania is located in the Township of Lower Allen instead of the Borough of Shiremanstown.
+
 ## [1.2.0] - 2023-10-01
 
 ### Added
@@ -46,6 +56,7 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
-[1.2.0]: https://github.com/markconnellypro/local-geohistory-project-open-data/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/markconnellypro/local-geohistory-project-open-data/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/markconnellypro/local-geohistory-project-open-data/releases/tag/v1.0.0
+[1.2.1]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.0...v1.2.1
+[1.2.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/localgeohistoryproject/open-data/releases/tag/v1.0.0
