@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.0.0] - 2024-05-04
+
+### Added
+
+- Extract file locale.tsv.
+
+### Changed
+
+- Extract files adjudicationevent.tsv, governmentsourceevent.tsv, lawgroupsection.tsv, lawsectionevent.tsv, and recordingevent.tsv to replace columns adjudicationeventrelationship, governmentsourceeventrelationship, lawsectionrelationship, lawsectioneventrelationship, and recordingeventrelationship, respectively, with eventrelationship column with foreign key reference.
+- Extract file event.tsv to change data type for eventgranted column and replace data with foreign key reference.
+- Extract file governmentidentifiertype.tsv to replace column governmentidentifiertypeprefixlength with governmentidentifiertypeprefixlengthfrom and governmentidentifiertypeprefixlengthto, and to replace column governmentidentifiertypelength with governmentidentifiertypelengthfrom and governmentidentifiertypelengthto.
+- Extract file lawgroup.tsv to remove columns eventtype and lawgroupgovernmenttype and replace with new extracts lawgroupeventtype.tsv and lawgroupgovernmenttype.tsv.
+- Extract file plss.tsv to change data type for plssfirstdivisionpart column.
+- Extract file sourcecitation.tsv to remove sourcecitationdetail column and replace with new extracts sourcecitationnote.tsv and sourcecitationnotetype.tsv.
+- Extract file source.tsv to remove sourcegovernment column and replace with new extract sourcegovernment.tsv.
+
+### Removed
+
+- In extract file researchlog.tsv, internetarchivehandle column.
+- In extract file sourcecitation.tsv, sourcecitationnotes column.
+
 ## [1.2.1] - 2023-11-12
 
 ### Changed
@@ -56,6 +77,7 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
+[2.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.1...v2.0.0
 [1.2.1]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.0.0...v1.1.0
