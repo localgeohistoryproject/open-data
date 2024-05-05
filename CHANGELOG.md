@@ -4,7 +4,7 @@
 
 ### Added
 
-- Estimated years for key government sources (charter commissions, elections, ordinances) related to New Jersey Optional Municipal Charter Law (Faulkner Act) proceedings based on New Jersey County and Municipal Government Study Commission reports.
+- Estimated years for key government sources (charter commission reports, elections, ordinances) related to New Jersey Optional Municipal Charter Law (Faulkner Act) proceedings based on New Jersey County and Municipal Government Study Commission reports.
 - Extract file locale.tsv.
 - Remaining legal descriptions for unabstracted New Jersey laws to extract files metesdescription.tsv and metesdescriptionline.tsv.
 
