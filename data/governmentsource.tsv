@@ -1817,7 +1817,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 1818	3649	Ordinance		45		For the admission into the Borough of Clymer, County of Indiana, and Commonwealth of Pennsylvania, of a certain section of land lying adjacent into the easterly boundary line of said Borough, and plotted into lots to conform with the Borough plan			1914-12-09		1914-12-10		t			\N						
 1819	3649	Ordinance		46		Annexing and admitting into the Borough of Clymer, County of Indiana and State of Pennsylvania, a certain section of land adjoining the Northerly boundary line of the Borough, and plotted to conform with the Borough plan			1917-01-08				t			\N						
 1820	3657	Ordinance							1922-09-06		1922-09-14		t			\N						
-1821	3657	Ordinance		19					1904-11-07				t			\N						
+1821	3657	Ordinance		19		Providing for the annexation to the Borough of Coalport of that portion of Beccaria Township, lying adjacent to said Borough on the west, heretofore known as the Village of Rosebud, and that portion on the North known as Blain City, under the provisions of the thirtieth section of the Act of the 3" of April AD 1851, as amended by Acts of April 28 A.D. 1899 and April 22" A.D. 1903			1904-11-07		1904-11-07		t			\N						
 1822	3658	Final Report	Charter Commission			[Recommending retaining the current form of government for the City of Coatesville]			1960-~01-~01				t			\N						
 1823	3658	Final Report	Charter Commission			[Recommending the adoption of a home rule charter for the City of Coatesville]			1979-03-07			1980-01-07	t			\N						
 1824	3658	Ordinance							1917-02-19				t			\N						
@@ -5704,15 +5704,15 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 5822	1817	Election							1889-02-19				t			\N						
 5823	1817	Election				[For or against the incorporation of the Borough of Brigantine]			1890-06-03				t			\N						
 5824	1817	Election							1911-07-25				t			\N						
-5825	1817	Election							1912-05-14				t			\N						
+5825	1817	Election				[For or against the adoption of Commission Form of government in the City of Atlantic City]			1912-05-14				t			\N						
 5826	1817	Election							1912-06-18				t			\N						
-5827	1817	Election							1914-04-14				t			\N						
+5827	1817	Election				"Shall an act entitled 'An act to incorporate Pleasantville as a city and fix the boundaries thereof' be adopted?"			1914-04-14				t			\N						
 5828	1817	Election				[For the adoption or rejection by the City of Brigantine of the provisions of an act of the Legislature of the State of New Jersey, entitled "An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities governed by boards of commissioners or improvement commissions in this State" approved April 25, 1911, and the acts amendatory thereof and supplemental thereto]			1931-02-03				t			\N						
 5829	1817	Election				"Shall subtitle 5 of the title Municipalities and Counties of the Revised Statutes (40:79-1 et seq.), providing for municipal manager form of government, be adopted in Atlantic City?"			1940-02-20				f			\N						
 5830	1817	Election				"Shall subtitle 5 of the title Municipalities and Counties of the Revised Statutes (40:79-1 et seql) providing for municipal manager form of government, be adopted in Margate City?"			1941-~11-~04				f			\N						
 5831	1817	Election				"Shall Subtitle 5 of the Titlt Municipalities and Counties of the Revised Statutes (40:79-1 et seq.), providing for Municipal Manager Form of Government, be adopted in the City Of Ventnor City, N.J."			1962-10-02				t			\N						
 5832	1817	Election				"Shall chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.), providing for the commission form of government, be adopted in Ventnor City."			1968-07-30				t			\N						
-5833	1817	Election				"Shall an act entitled 'An act to annex to the city of Egg Harbor City, part of the township of Galloway, in the county of Atlantic,'be adopted?"			1929-~01-~01				t			\N						
+5833	1817	Election				"Shall an act entitled 'An act to annex to the city of Egg Harbor City, part of the township of Galloway, in the county of Atlantic,'be adopted?"			1929-06-10				f			\N						
 5834	1817	Election				[For or against incorporation of the Borough of Somers Point]			1886-04-24				t			\N						
 5835	1817	Election				[For or against the incorporation of the Borough of Somers Point]			1890-04-01				t			\N						
 5836	1817	Election				[For the adoption or rejection by the City of Pleasantville, of the provisions of an act of one thousand nine hundred and eleven, entitled, "An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities governed by Boards of Commissioners or Improvement Commissions in this state."]			1931-09-15				f			\N						
@@ -5736,7 +5736,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 5854	1818	Election				[For or against the formation of "The Mayor and Council of the Borough of Old Tappan"]			1894-10-16				t			\N						
 5855	1818	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Allendale" under the Act of April 5, 1878]			1894-11-08				t			\N						
 5856	1818	Election				[For or against the formation of "The Mayor and Council of the Borough of Saddle River"]			1894-11-19				t			\N						
-5857	1818	Election							1894-11-20				t			\N						
+5857	1818	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Upper Saddle River"]			1894-11-20				t			\N						
 5858	1818	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Wood-Ridge"]			1894-12-05				t			\N						
 5859	1818	Election				[For or against the formation of "The Mayor and Council of the Borough of Fairview"]			1894-12-18				t			\N						
 5860	1818	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Lodi"]			1894-12-21				t			\N						
@@ -5752,7 +5752,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 5870	1818	Election							1910-05-03				t			\N						
 5871	1818	Election							1911-08-29				f			\N						
 5872	1818	Election							1911-09-12				t			\N						
-5873	1818	Election							1913-~01-~01				t			\N						
+5873	1818	Election							1913-05-06				t			\N						
 5874	1818	Election							1913-08-12				t			\N						
 5875	1818	Election				[Whether the Borough of Garfield shall be incorporated as a city under the act of March 24, 1899]			1917-04-17				t			\N						
 5876	1818	Election							1922-04-18				t			\N						
@@ -5811,13 +5811,13 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 5929	1819	Election							1934-08-21				f			\N						
 5930	1819	Election				"Shall chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.) providing for the commission form of government, be adopted in the Borough of Medford Lakes, County of Burlington and State of New Jersey?"			1941-08-12				t			\N						
 5931	1819	Election				"Shall chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.), providing for the commission form of government, be adopted in Bass River Township"			1972-08-29				t			\N						
-5932	1819	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing five councilmen to be elected at large, be adopted by the Township of Moorestown?"			1965-11-02				t	Council-Manager Plan E (OMCL)		\N						
-5933	1819	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for five councilmen, be adopted by Mount Laurel Township?"			1969-11-04				t	Council-Manager Plan E (OMCL)		\N						
+5932	1819	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing five councilmen to be elected at large, be adopted by the Township of Moorestown?"			1965-11-02				t			\N						
+5933	1819	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for five councilmen, be adopted by Mount Laurel Township?"			1969-11-04				t			\N						
 5934	1819	Election				"Shall the name of the Township of Beverly be changed to the Township of Delanco"			1926-11-02				t			\N						
 5935	1819	Election				"Shall the name of this municipality be changed from the Township of Levittown to the Township of Willingboro?"			1963-11-05				t			\N						
 5936	1819	Election				"Shall the name of this municipality be changed from the Township of Willingboro to the Township of Levittown?"			1959-11-03				t			\N						
 5937	1819	Election				[For or against the adoption of "An Act to incorporate the Township of Moorestown in the County of Burlington"]			1922-04-25				t			\N						
-5938	1819	Election				[For or against the adoption of Council-Manager Plan "E", with five councilmen, under the Optional Municipal Charter Law, in the Township of Levittown]			1960-11-08				t	Council-Manager Plan E (OMCL)		\N						
+5938	1819	Election				[For or against the adoption of Council-Manager Plan "E", with five councilmen, under the Optional Municipal Charter Law, in the Township of Levittown]			1960-11-08				t			\N						
 5939	1819	Election				[For the adoption or rejection by the Borough of Medford Lakes of the provisions of an act entitled, "The Municipal Manager Form of Government Law," being Chapters 79 to 85, inclusive, of the title "Municipalities and Counties," Revised Statutes of New Jersey, 1937, and the amendments thereof and supplements thereto]			1946-05-07				t			\N						
 5940	1819	Election				[Incorporation of the Borough of Riverton]			1893-12-12				t			\N						
 5941	1819	Election				[Whether to change the name of the Township of Chester, in the County of Burlington, to the Township of Maple Shade]			1945-11-06				t			\N						
@@ -5842,7 +5842,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 5960	1820	Election				"Shall an act entitled 'An Act to incorporate the borough of Gibbsboro, in the County of Camden' be adopted?"			1919-05-13				f			\N						
 5961	1820	Election				"Shall an act entitled 'An act to incorporate the borough of Gibbsboro, in the county of Camden," be adopted?"			1924-04-11				t			\N						
 5962	1820	Election				"Shall an act entitled 'An act to incorporate the borough of Laurel Springs, in the county of Camden' be adopted?"			1913-05-01				t			\N						
-5963	1820	Election				"Shall an act entitled 'An act to incorporate the borough of Mt. Ephraim, in the county of Camden,' be adopted?"			1925-04-21				f			\N						
+5963	1820	Election				"Shall an act entitled 'An act to incorporate the borough of Mt. Ephraim, in the county of Camden,' be adopted?"			1925-04-20				f			\N						
 5964	1820	Election				"Shall an act entitled 'An act to incorporate the borough of Mt. Ephraim, in the county of Camden,' be adopted?"			1926-04-28				t			\N						
 5965	1820	Election				"Shall an act entitled 'An act to incorporate the borough of Runnemede in the county of Camden' be adopted."			1926-04-24				t			\N						
 5966	1820	Election				"Shall an act entitled 'An act to incorporate the borough of Stratford in the county of Camden' be adopted?"			1925-03-17				t			\N						
@@ -5865,8 +5865,8 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 5983	1820	Election				[For the adoption or rejection of an act of 1911 entitled "An act relating to, regulating and providing for the government of cities, towns, boroughs, villages and municipalities governed by board of commissioners or improvement commissions in this State," approved April twenty-fifth, one thousand nine hundred and eleven, by the City of Camden]			1923-03-06				t			\N						
 5984	1820	Election				[Shall Chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.), providing for the Commission Form of Government, be adopted in the City of Gloucester City?]			1939-08-15				f			\N						
 5985	1820	Election				[To decide whether a borough commission shall be formed for Collingswood]			1888-05-22				t			\N						
-5986	1820	Election				[To determine the adoption or rejection of an act entitled "An Act to incorporate the borough of Barrington in the County of Camden."]			1917-04-17				t			\N						
-5987	1820	Election							1906-~01-~01				t			\N						
+5986	1820	Election				[To determine the adoption or rejection of an act entitled "An Act to incorporate the borough of Barrington in the County of Camden."]			1917-~04-~17				t			\N						
+5987	1820	Election							1906-05-08				t			\N						
 5988	1820	Election							1906-~01-~01				t			\N						
 5989	1820	Election	Charter Commission			"Shall a charter commission be elected to study the charter of the Township of Cherry Hill and to consider a new charter or improvements in the present charter and to make recommendations thereon?"			1973-11-06				t			\N						
 5990	1820	Election	Charter Commission			[in the City of Camden]			1960-11-08				t			\N						
@@ -5922,10 +5922,10 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6041	1823	Election							1855-03-27				t			\N						
 6042	1823	Election							1869-05-04				t			\N						
 6043	1823	Election							1892-02-09				t			\N						
-6044	1823	Election							1894-03-27				t			\N						
+6044	1823	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Vailsburgh"]			1894-03-27				t			\N						
 6045	1823	Election							1895-02-12				t			\N						
 6046	1823	Election							1902-03-11				t			\N						
-6047	1823	Election							1904-~01-~01				t			\N						
+6047	1823	Election							1904-04-12				t			\N						
 6048	1823	Election							1907-04-30				t			\N						
 6049	1823	Election							1908-04-10				t			\N						
 6050	1823	Election							1911-09-12				f			\N						
@@ -5944,7 +5944,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6063	1823	Election				"Shall 'An act relating to the government and administration of the town of Bloomfield in the county of Essex,' to provide for the appointment of a town administrator by the town council, to fix a 3-year term of office for the mayor and councilmen, and for related purposes, be adopted?"			1955-11-08		1955-11-21		t			\N						
 6064	1823	Election				"Shall 'An act to provide a special charter for the township of South Orange Village in the county of Essex,' known and designated as the charter of the township of South Orange Village (1977), be adopted?"			1977-11-08				t			\N						
 6065	1823	Election				"SHALL COUNCIL-MANAGER PLAN B OF THE OPTIONAL MUNICIPAL CHARTER LAW, PROVIDING FOR FIVE (5) COUNCILMEN TO BE ELECTED AT LARGE, BE ADOPTED BY THE TOWNSHIP OF CEDAR GROVE?"			1954-11-02				t			\N						
-6066	1823	Election				"Shall MAYOR-COUNCIL PLAN C of the Optional Municipal Charter Law, providing for the division of the municipality into FIVE WARDS, with nine councilmen, one to be elected from each ward, and four to be elected at large be adopted by the City of NEWARK?"			1953-11-03				t	Mayor-Council Plan C (OMCL)		\N						
+6066	1823	Election				"Shall MAYOR-COUNCIL PLAN C of the Optional Municipal Charter Law, providing for the division of the municipality into FIVE WARDS, with nine councilmen, one to be elected from each ward, and four to be elected at large be adopted by the City of NEWARK?"			1953-11-03				t			\N						
 6067	1823	Election				"Shall the name of the Borough of North Caldwell be changed to the Township of North Caldwell?"			1982-04-20				t			\N						
 6068	1823	Election				"Shall the name of the municipality be changed from 'THE TOWNSHIP OF SOUTH ORANGE IN THE COUNTY OF ESSEX' to 'THE TOWNSHIP OF MAPLEWOOD?'"			1922-11-07				t			\N						
 6069	1823	Election				"Shall the Name of the Town of Belleville be changed to Township of Belleville?"			1981-07-21				t			\N						
@@ -5972,7 +5972,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6091	1823	Election	Charter Commission			[in the City of Newark]			1953-11-12				t			\N						
 6092	1823	Election	Charter Commission			[in the Town of Bloomfield]			1954-11-02				t			\N						
 6093	1824	Election							1854-03-22				t			\N						
-6094	1824	Election							1887-05-07				t			\N						
+6094	1824	Election				[For or against the incorporation of the "Mayor and Council of the Borough of Clayton"]			1887-05-07				t			\N						
 6095	1824	Election							1914-04-28				t			\N						
 6096	1824	Election							1915-04-27				t			\N						
 6097	1824	Election							1924-04-01				t			\N						
@@ -5995,7 +5995,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6114	1825	Election							1924-03-04				t			\N						
 6115	1825	Election				[For the adoption of the Commission Form of government by the City of Union City]			1930-04-22				t			\N						
 6116	1825	Election				[For or against the adoption of the Commission Form of Government]			1931-04-07				t			\N						
-6117	1825	Election				"Shall Mayor-Council Plan C of the Optional Municipal Charter Law, providing for a division of the municipality into six wards, with nine councilmen, one to be elected from each word and three to be elected at large be adopted by the City of Jersey City?"			1960-11-08				t	Mayor-Council Plan C (OMCL)		\N						
+6117	1825	Election				"Shall Mayor-Council Plan C of the Optional Municipal Charter Law, providing for a division of the municipality into six wards, with nine councilmen, one to be elected from each word and three to be elected at large be adopted by the City of Jersey City?"			1960-11-08				t			\N						
 6118	1825	Election				"Shall Mayor-Council Plan C of the Optional Municipal Charter Law, providing for a division of the municipality into three wards, with five councilmen, one to be elected from each ward and two to be elected at-large be adopted by the City of Bayonne?"			1961-11-07				t			\N						
 6119	1825	Election				"Shall subtitle 5 of the title Municlpalities and Counties of the Revised Statutes (40:79-1 et seq.) providing for municipal manager form of government, be adopted in the Township of North Bergen?"			1948-10-19				f			\N						
 6120	1825	Election				[For the Adoption or Rejection of the Act Entitled "An Act relating to, regulating and providing for the Government of Cities, Towns, Townships, Boroughs, Villages and Municipalities Governed by Boards of Commissioners or Improvement Commissions in this State," approved April 25, 1911, in the Township of North Bergen]			1921-05-17				f			\N						
@@ -6011,8 +6011,8 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6130	1825	Election							1913-04-15				f			\N						
 6131	1825	Election	Charter Commission			[in the City of Bayonne]			1960-11-~01				t			\N						
 6132	1825	Election	Charter Commission			[in the City of Jersey City]			1959-11-03				t			\N						
-6133	1826	Election							1837-03-~01				t			\N						
-6134	1826	Election				[For or against the incorporation of "The Village of Flemington"]			1894-~01-~01				t			\N						
+6133	1826	Election				[For or against the adoption of an act to incorporate the City of Trenton.]			1837-03-20				t			\N						
+6134	1826	Election				[For or against the incorporation of the Town of Flemington as "The Village of Flemington"]			1894-06-11				t			\N						
 6135	1826	Election				[On the adoption of Commission Form of Government by the City of Lambertville]			1916-09-19				t			\N						
 6136	1826	Election							1918-04-02				t			\N						
 6137	1826	Election							1926-04-20				t			\N						
@@ -6022,27 +6022,27 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6141	1826	Election				For the adoption or rejection of an act of the Legislature entitled "An act to incorporate the borough of Flemington in the County of Hunterdon" approved April 7th, 1910.			1910-04-26				t			\N						
 6142	1827	Election							1890-01-21				t			\N						
 6143	1827	Election							1891-03-21				t			\N						
-6144	1827	Election							1891-04-18				t			\N						
+6144	1827	Election				[For or against the incorporation of "The Borough Commission of Wilber"]			1891-04-18				t			\N						
 6145	1827	Election				"For the adoption or the rejection by the City of Trenton of the provisions of an act of one thousand and nine hundred and eleven, entitled 'An act relating to, regulating and providing for the government of cities, towns, boroughs and other municipalities within this state.'"			1911-06-20				t			\N						
-6146	1827	Election							1913-~01-~01				t			\N						
-6147	1827	Election							1915-~01-~01				t			\N						
+6146	1827	Election				[Accepting or rejecting the provisions of an act of the legislature entitled, "An act to annex to the Borough of Hightstown a part of the township of East Windsor, in the county of Mercer," approved April 2, 1913, being Chapter 241, Laws 1913.]			1913-04-29				f			\N						
+6147	1827	Election				"Shall an act entitled 'An act to annex to the borough of Hightstown a part of the township of East Windsor, in the county of Mercer,' be adopted?"			1915-05-04				t			\N						
 6148	1827	Election				[For the adoption or against the adoption of "An Act relating to, regulating and providing for the government of municipalities, except counties, by a Municipal Council and a Municipal Manager," approved March 19, 1923, being Chapter 113 of the Laws of 1923 by the City of Trenton]			1935-03-19				t			\N						
 6149	1827	Election				"Shall chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.), providing for the commission form of government, be adopted in the City of Trenton?"			1939-04-11				t			\N						
 6150	1827	Election				"Shall the Borough of Princeton and Township of Princeton be consolidated into a single municipality to be known as Princeton, and governed under the Borough form of government, with a separately elected Mayor and six (6) member Council to be elected at large with partisan elections and staggered terms of office?"			2011-11-~01				t			\N						
 6151	1827	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law providing for a council of five councilmen to be elected at large be adopted by Ewing Township?"			1955-11-08				t			\N						
-6152	1827	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for five councilmen, be adopted by Lawrence Township?"			1968-11-05				t	Council-Manager Plan E (OMCL)		\N						
+6152	1827	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for five councilmen, be adopted by Lawrence Township?"			1968-11-05				t			\N						
 6153	1827	Election				"Shall East Windsor Township and the Borough of Hightstown, in the County of Mercer, State of New Jersey, be consolidated and become one municipality in accordance with the Approved Plan of Consolidation, an official abstract of which is printed above?"			1969-04-17				f			\N						
-6154	1827	Election				"Shall Mayor-Council Plan C of the Optional Municipal Charter Law, providing for a division of the city into four wards, with seven councilmen, one to be elected from each ward and three to be elected at large, be adopted by the city of Trenton?"			1961-11-07				t	Mayor-Council Plan C (OMCL)		\N						
-6155	1827	Election				"Shall Mayor-Council Plan E of the Optional Municipal Charter Law, providing for five councilmen to be elected at large be adopted by Hamilton Township?"			1974-11-05				t	Mayor-Council Plan E (OMCL)		\N						
-6156	1827	Election				"Shall the Mayor-Council Plan of the Optional Municipal Charter Law, providing for five council members to be elected at-large for staggered terms at elections held in May, with the mayor elected directly by the voters, be adopted by West Windsor Township?"			1992-11-03				t	May elections, at-large (OMCL)		\N						
-6157	1827	Election				"Shall the Mayor-Council Plan of the Optional Municipal Charter Law, providing for five council members to be elected at-large for staggered terms at elections held in November, with the mayor elected directly by the voters, be adopted by Ewing Township?"			1993-11-02				t	November elections, at-large (OMCL)		\N						
+6154	1827	Election				"Shall Mayor-Council Plan C of the Optional Municipal Charter Law, providing for a division of the city into four wards, with seven councilmen, one to be elected from each ward and three to be elected at large, be adopted by the city of Trenton?"			1961-11-07				t			\N						
+6155	1827	Election				"Shall Mayor-Council Plan E of the Optional Municipal Charter Law, providing for five councilmen to be elected at large be adopted by Hamilton Township?"			1974-11-05				t			\N						
+6156	1827	Election				"Shall the Mayor-Council Plan of the Optional Municipal Charter Law, providing for five council members to be elected at-large for staggered terms at elections held in May, with the mayor elected directly by the voters, be adopted by West Windsor Township?"			1992-11-03				t			\N						
+6157	1827	Election				"Shall the Mayor-Council Plan of the Optional Municipal Charter Law, providing for five council members to be elected at-large for staggered terms at elections held in November, with the mayor elected directly by the voters, be adopted by Ewing Township?"			1993-11-02				t			\N						
 6158	1827	Election	Charter Commission			"Shall a Charter Commission be elected to study the Charter of Hamilton Township and to consider a new Charter or improvements in the present Charter and to make recommendations thereon?"			1973-11-06				t			\N						
 6159	1827	Election	Charter Commission			[in Ewing Township]			1992-11-03				t			\N						
 6160	1827	Election	Charter Commission			[in Lawrence Township]			1967-11-07				t			\N						
 6161	1827	Election	Charter Commission			[in the City of Trenton]			1960-11-08				t			\N						
 6162	1827	Election	Charter Commission			[in West Windsor Township]			1991-11-05				t			\N						
 6163	1828	Election							1886-03-23				t			\N						
-6164	1828	Election							1889-01-26				t			\N						
+6164	1828	Election				[For or against the incorporation of "The Borough Commission of Milltown"			1889-01-26				t			\N						
 6165	1828	Election							1908-07-21				t			\N						
 6166	1828	Election							1911-06-27				f			\N						
 6167	1828	Election							1911-09-12				f			\N						
@@ -6057,13 +6057,13 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6176	1828	Election				"For the adoption or rejection of the Township of Raritan of the provisions of an act of One thousand nine hundred and eleven entitled 'An Act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities governed by boards of commissioners or improvement commissions in this State.'"			1927-05-10				t			\N						
 6177	1828	Election				"SHALL CHAPTERS 70 TO 76 OF THE TITLE, 'MUNICIPALITIES AND COUNTIES,' OF REVISED STATUTES OF NEW JERSEY, (Section 40:70-1 et seq.), PROVIDING FOR THE COMMISSION FORM OF GOVERNMENT BE ADOPTED IN THE BOROUGH OF SPOTSWOOD, COUNTY OF MIDDLESEX AND STATE OF NEW JERSEY?"			1939-09-12				t			\N						
 6178	1828	Election							1975-11-04				t			\N						
-6179	1828	Election				"Shall an act entitled 'An act to annex a portion of the township of East Brunswick, in the county of Middlesex, to the borough of South River, in said county of Middlesex,' be adopted?"			1927-~01-~01				t			\N						
+6179	1828	Election				"Shall an act entitled 'An act to annex a portion of the township of East Brunswick, in the county of Middlesex, to the borough of South River, in said county of Middlesex,' be adopted?"			1927-11-08				t			\N						
 6180	1828	Election				"Shall an act entitled 'An act to incorporate the borough of South Plainfield, in the county of Middlesex,' be adopted?"			1926-04-06				t			\N						
 6181	1828	Election				"Shall an act entitled 'An Act to incorporate the township of Plainsboro in the County of Middlesex,' be adopted?"			1919-05-06				t			\N						
-6182	1828	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for seven councilmen to be elected at large be adopted by Madison Township?"			1962-11-06				t	Council-Manager Plan E (OMCL)		\N						
+6182	1828	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for seven councilmen to be elected at large be adopted by Madison Township?"			1962-11-06				t			\N						
 6183	1828	Election				"Shall Mayor-Council Plan E (Article 7) of the Optional Municipal Charter Law of 1950, providing for five councilmen and a Mayor to be elected at large, be adopted by the Township of East Brunswick?"			1963-11-05				t			\N						
 6184	1828	Election				"SHALL MAYOR-COUNCIL PLAN E OF THE OPTIONAL MUNICIPAL CHARTER LAW, PROVIDING FOR SEVEN COUNCILMEN, BE ADOPTED BY EDISON TOWNSHIP?"			1956-11-06				t			\N						
-6185	1828	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into five wards with nine councilmen, one to be elected from each ward and four to be elected at large, be adopted by Woodbridge Township?"			1962-11-06				t	Mayor-Council Plan F (OMCL)		\N						
+6185	1828	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into five wards with nine councilmen, one to be elected from each ward and four to be elected at large, be adopted by Woodbridge Township?"			1962-11-06				t			\N						
 6186	1828	Election				[For Commission Form of Government, under the Walsh Act, in the City of Perth Amboy]			1926-07-06				t			\N						
 6187	1828	Election				[For or against a change of name of this municipality from the "Township of Raritan, County of Middlesex" to the "Township of Edison, County of Middlesex"]			1954-11-02				t			\N						
 6188	1828	Election				[For or against a change of name of this municipality from the "Township of Raritan, County of Middlesex" to the "Township of Nixon, County of Middlesex"]			1954-11-02				f			\N						
@@ -6077,25 +6077,23 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6196	1828	Election	Charter Commission			[in Edison Township]			1955-11-08				t			\N						
 6197	1828	Election	Charter Commission			[in Woodbridge Township]			1961-11-~01				t			\N						
 6198	1829	Election							1879-05-05				t			\N						
-6199	1829	Election							1881-03-19				t			\N						
-6200	1829	Election							1885-02-10				t			\N						
+6199	1829	Election				[For or against the incorporation of "The Borough of Neptune City"]			1881-03-19				t			\N						
+6200	1829	Election				[For or against the incorporation of the borough commission of Ocean Beach]			1885-02-10				t			\N						
 6201	1829	Election							1887-02-28				t			\N						
-6202	1829	Election							1887-12-29				t			\N						
-6203	1829	Election							1888-01-03				t			\N						
+6202	1829	Election				[For or against the incorporation of the "Borough of Manasquan"]			1887-12-29				t			\N						
+6203	1829	Election				[For or against the incorporation of "The Borough Commission of Englishtown"]			1888-01-03				t			\N						
 6204	1829	Election							1889-01-29				t			\N						
 6205	1829	Election							1889-03-20				t			\N						
-6206	1829	Election							1889-04-16				t			\N						
-6207	1829	Election							1889-05-14				t			\N						
-6208	1829	Election							1891-09-15				t			\N						
-6209	1829	Election							1892-03-08				t			\N						
-6210	1829	Election							1893-01-03				t			\N						
-6211	1829	Election							1893-02-27				t			\N						
-6212	1829	Election							1893-03-06				t			\N						
-6214	1829	Election							1897-03-09				t			\N						
-6215	1829	Election							1902-~01-~01				t			\N						
-6216	1829	Election							1906-~01-~01				t			\N						
-6217	1829	Election							1908-~01-~01				t			\N						
-6218	1829	Election							1910-~01-~01				t			\N						
+6206	1829	Election				[For or against the adoption of the name City of Elcho]			1889-04-16				t			\N						
+6207	1829	Election				[For or against the adoption of the name Belmar]			1889-05-14				t			\N						
+6208	1829	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Atlantic Highlands"]			1891-09-01				t			\N						
+6209	1829	Election				[For or against the Incorporation of "The Mayor and Council of the Borough of Spring Lake"]			1892-03-08				t			\N						
+6210	1829	Election				[For or against the incorporation of "THE MAYOR AND COUNCIL OF THE BOROUGH OF NORTH SPRING LAKE, N.J."			1893-01-03				t			\N						
+6211	1829	Election				[For or against the incorporation of The Mayor and Council of the Borough of Asbury Park]			1893-02-27				t			\N						
+6212	1829	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Bradley Beach"]			1893-03-06				t			\N						
+6216	1829	Election							1906-05-15				t			\N						
+6217	1829	Election							1908-06-02				t			\N						
+6218	1829	Election							1910-04-15				t			\N						
 6219	1829	Election							1912-03-12				t			\N						
 6220	1829	Election							1912-04-23				t			\N						
 6221	1829	Election							1912-07-02				t			\N						
@@ -6121,8 +6119,8 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6241	1829	Election							1927-05-03				t			\N						
 6242	1829	Election				[For or against the adoption of Commission Government by the Borough of Belmar]			1927-10-25				t			\N						
 6243	1829	Election				[For the adoption or rejection by the Borough of Monmouth Beach of the provisions of an act of one thousand nine hundred and eleven, entitled "An Act relating to, regulating and providing for the government, of cities, towns, townships, boroughs, villages and municipalities governed by boards of commissioners or improvement commissions in this State," approved April 25, 1911, as amended in title by an amendatory Act of April 2, 1912 and the several amendments thereof and supplements thereto]			1929-09-03				t			\N						
-6244	1829	Election							1931-05-12				t			\N						
-6245	1829	Election							1933-05-23				t			\N						
+6244	1829	Election				"Shall an act entitled 'An act to annex a part of the township of Matawan, in the county of Monmouth, to the borough of Matawan, in the county of Monmouth,' be adopted?"			1931-05-12				t			\N						
+6245	1829	Election				"Shall an act entitled 'An act to annex a part of the township of Matawan, in the county of Monmouth, to the borough of Matawan, in the county of Monmouth,' be adopted?"			1933-05-23				t			\N						
 6246	1829	Election				[For the adoption or rejection by the Municipality of the City of Asbury Park of the Act known as "The Municipal Manager Form of Government Act"]			1933-10-10				t			\N						
 6247	1829	Election							1934-05-08				f			\N						
 6248	1829	Election							1950-07-18				t			\N						
@@ -6135,7 +6133,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6255	1829	Election				"Shall an act entitled 'An act to incorporate the borough of West Belmar, in the county of Monmouth,' be adopted?"			1927-~01-~01				t			\N						
 6256	1829	Election				"Shall Chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (§40:70-1 et seq.) providing for the commission form of government, be adopted in the Township of Wall?"			1947-08-26				f			\N						
 6257	1829	Election				"Shall chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.), providing for the commission form of government be adopted in the Village of Loch Arbour."			2011-12-20				t			\N						
-6258	1829	Election				"Shall Council-Manager Plan A of the Optional Municipal Charter Law, providing for five councilmen to be elected at large, be adopted by Ocean Township?"			1962-11-06				t	Council-Manager Plan A (OMCL)		\N						
+6258	1829	Election				"Shall Council-Manager Plan A of the Optional Municipal Charter Law, providing for five councilmen to be elected at large, be adopted by Ocean Township?"			1962-11-06				t			\N						
 6259	1829	Election				"Shall Council-Manager Plan E of the Optional Municipal Charter Law, providing for seven councilmen to be elected at large, be adopted by Matawan Township?"			1964-11-03				t			\N						
 6260	1829	Election				"Shall the Name of the Township of Matawan be changed to the Township of Aberdeen?"			1977-11-08				t			\N						
 6261	1829	Election				[For or against "An Act to incorporate the Borough of West Long Branch in the County of Monmouth, and to provide for the holding of an election"]			1908-05-05				t			\N						
@@ -6152,12 +6150,11 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6272	1829	Election	Charter Commission			[in Matawan Township]			1963-11-~01				t			\N						
 6273	1829	Election	Charter Commission			[in Ocean Township]			1961-11-~01				t			\N						
 6274	1830	Election							1866-05-05				t			\N						
-6275	1830	Election							1889-12-24				t			\N						
-6276	1830	Election							1890-11-01				t			\N						
-6277	1830	Election							1894-06-18				t			\N						
-6278	1830	Election							1894-10-22				t			\N						
-6279	1830	Election							1895-06-25				t			\N						
-6280	1830	Election							1902-04-16				t			\N						
+6275	1830	Election				[For or against the incorporation of the "Mayor and Council of the Borough of Madison"]			1889-12-24				t			\N						
+6276	1830	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Mt. Arlington"]			1890-11-01				t			\N						
+6277	1830	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Rockaway"]			1894-06-18				t			\N						
+6278	1830	Election				[For or against the incorporation of the Mayor and Common Council of the Borough of Netcong]			1894-10-22				t			\N						
+6279	1830	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Port Oram"]			1895-06-25				t			\N						
 6281	1830	Election							1922-03-21				t			\N						
 6282	1830	Election				"Shall an act entitled 'An act to incorporate the borough of Lincoln Park, in the county of Morris,' be adopted?"			1922-04-25				t			\N						
 6283	1830	Election							1923-04-17				t			\N						
@@ -6170,13 +6167,13 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6290	1830	Election				"Shall an act entitled 'An act to incorporate the Borough of Pompton in the County of Morris', be adopted?"			1921-11-08				f			\N						
 6291	1830	Election				"Shall an act entitled 'An Act to incorporate the Township of Harding, in the County of Morris', be adopted?"			1922-05-09				t			\N						
 6292	1830	Election				"Shall an act entitled 'An act to incorporate the township of Lincoln in the County of Morris', be adopted?"			1921-05-24				f			\N						
-6293	1830	Election				"Shall an Act entitled, 'An act to provide a Special Charter for the Township of Montville in the County of Morris, known and designated as the 'Montville Township Charter, 1974' be adopted?"			1974-11-05				t	Special Charter (OMCL)		\N						
+6293	1830	Election				"Shall an Act entitled, 'An act to provide a Special Charter for the Township of Montville in the County of Morris, known and designated as the 'Montville Township Charter, 1974' be adopted?"			1974-11-05				t			\N						
 6294	1830	Election				"Shall Chester Borough and Chester Township be consolidated into a single municipality to be known as Chester, a township type of government and governed under the Mayor-Council form of the 'Optional Charter Law,' providing for a Mayor and seven Councilmen to be elected at large in a nonpartisan election?"			1983-11-08				t			\N						
-6295	1830	Election				"Shall Council-Manager Plan 'A', as provided in Articles 2, 9 and 17 of the Optional Municipal Charter Laws (Chapter 210, Laws of 1950) be adopted by the Township of Parsippany-Troy Hills, in the County of Morris?"			1953-11-03				t	Council-Manager Plan A (OMCL)		\N						
-6296	1830	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into four wards, with seven\ncouncilmen, one to be elected from each ward and three to be elected at large, be adopted by Morristown."			1972-09-12				t	Mayor-Council Plan F (OMCL)		\N						
+6295	1830	Election				"Shall Council-Manager Plan 'A', as provided in Articles 2, 9 and 17 of the Optional Municipal Charter Laws (Chapter 210, Laws of 1950) be adopted by the Township of Parsippany-Troy Hills, in the County of Morris?"			1953-11-03				t			\N						
+6296	1830	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into four wards, with seven\ncouncilmen, one to be elected from each ward and three to be elected at large, be adopted by Morristown."			1972-09-12				t			\N						
 6297	1830	Election				"Shall Small Municipality Plan C of the Optional Municipal Charter Law, providing for a township council consisting of a mayor and four councilmen, elected at large by the voters, be adopted by Chester Township?"			1958-11-04				t			\N						
 6298	1830	Election				"SHALL THE ACT OF THE LEGISLATURE OF THE STATE OF NEW JERSEY, BE ADOPTED: LAWS 1951, STATE OF NEW JERSEY, CHAPTER 259"			1951-09-18				t			\N						
-6299	1830	Election				"Shall the Council-Manager Plan E as amended of the Optional Municipal Charter Law, providing for five Councilmen to be elected at large, be adopted by the Township of Pequannock"			1955-11-~01				t	Council-Manager Plan E (OMCL)		\N						
+6299	1830	Election				"Shall the Council-Manager Plan E as amended of the Optional Municipal Charter Law, providing for five Councilmen to be elected at large, be adopted by the Township of Pequannock"			1955-11-~01				t			\N						
 6300	1830	Election				[For or against the incorporation of a proposed village to be known by the name of "The Village of Chatham"]			1892-08-09				t			\N						
 6301	1830	Election				[For the adoption or rejection by the Borough of Madison of the provisions of an act of 1911 entitled "An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities governed by boards of commissioners or improvement commissions within this State" approved April 25th, 1911, as amended in title by an amendatory Act of April 2nd, 1912, and the several amendments thereof and supplements thereto.]			1920-11-30				f			\N						
 6302	1830	Election				[Whether or not the Town of Dover should become incorporate as "The City of Dover"]			1896-05-04				t			\N						
@@ -6223,7 +6220,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6343	1831	Election				[To continue or set aside the Borough Commission of Island Heights by the name of "The board of Commissioners of the borough of Island Heights"]			1887-04-21				t			\N						
 6344	1831	Election				[Whether or not the Borough should henceforth be known as either Ship Bottom or Beach Arlington]			1943-11-02				t			\N						
 6345	1832	Election							1851-03-27				t			\N						
-6346	1832	Election							1895-02-23				t			\N						
+6346	1832	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Pompton Lakes"]			1895-02-23				t			\N						
 6347	1832	Election							1911-07-18				t			\N						
 6348	1832	Election							1911-07-25				t			\N						
 6349	1832	Election							1911-08-29				f			\N						
@@ -6233,17 +6230,15 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6353	1832	Election				[For the purpose of deciding for the adoption or the rejection of the act known as "The Municipal Manager Form of Government Act"]			1934-05-01				t			\N						
 6354	1832	Election				"For the adoption or rejection by the City of Clifton of the provisions of an act entitled 'An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities governed by boards of commissioners or improvement commissions in this State.'"			1920-07-13				f			\N						
 6355	1832	Election				"For the adoption or rejection by the City of Clifton of the provisions of an Act entitled, 'An Act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities governed by boards of commissioners or improvement commissions in this State.'"			1923-06-05				f			\N						
-6356	1832	Election				"Shall Mayor-Council Plan D of the Optional Municipal Charter Law, providing for a division of the City into six wards, with nine councilmen, one to be elected from each ward and three to be elected at large, be adopted by the City of Paterson?"			1973-11-07				t	Mayor-Council Plan D (OMCL)		\N						
+6356	1832	Election				"Shall Mayor-Council Plan D of the Optional Municipal Charter Law, providing for a division of the City into six wards, with nine councilmen, one to be elected from each ward and three to be elected at large, be adopted by the City of Paterson?"			1973-11-07				t			\N						
 6357	1832	Election				"Shall subtitle 5 of the Title Municipalities and Counties of the Revised Statutes (40:79-1 et seq.), providing for Municipal Manager Form of Government be adopted in the City of Passaic?"			1949-07-12				f			\N						
-6358	1832	Election				"Shall the Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into three (3) wards, with five (5) councilmen, one to be elected from each ward and two to be elected at large, be adopted by the Township of West Milford, in the County of Passaic?"			1962-11-06				t	Mayor-Council Plan F (OMCL)		\N						
+6358	1832	Election				"Shall the Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into three (3) wards, with five (5) councilmen, one to be elected from each ward and two to be elected at large, be adopted by the Township of West Milford, in the County of Passaic?"			1962-11-06				t			\N						
 6359	1832	Election				[For or against the adoption of Chapter 224 of the Laws of 1908, incorporating the Township of Manchester into the Borough of Haledon]			1908-05-21				t			\N						
-6360	1832	Election				[For or against the adoption of Council-Manager Plan D of the Optional Municipal Charter Law for the Township of West Milford]			1968-09-10				t	Council-Manager Plan D (OMCL)		\N						
+6360	1832	Election				[For or against the adoption of Council-Manager Plan D of the Optional Municipal Charter Law for the Township of West Milford]			1968-09-10				t			\N						
 6361	1832	Election				[For or against the change of name of the Borough of West Paterson to the Borough of Woodland Park]			2008-11-04				t			\N						
-6362	1832	Election							1918-03-22				t			\N						
-6363	1832	Election							1918-03-22				t			\N						
 6364	1833	Election							1882-07-26				t			\N						
-6365	1833	Election							1893-01-24				t			\N						
-6366	1833	Election							1894-03-06				t			\N						
+6365	1833	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Elmer"]			1893-01-24				t			\N						
+6366	1833	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Penn's Grove"]			1894-03-06				t			\N						
 6367	1833	Election							1911-10-17				f			\N						
 6368	1833	Election				"Shall the name of The Township of Lower Penns Neck, Salem County, New Jersey, be changed to The Township of Pennsville, Salem County, New Jersey, in accordance with and provided for by Revised Statutes of the State of New Jersey , Title 40:43-4 et seq."			1965-11-02				t			\N						
 6369	1833	Election				"Shall the name of the Township of Upper Penns Neck, Salem County, New Jersey, be changed to Carneys Point Township, Salem County, New Jersey, in accordance with and provided for by Revised Statutes of the State of New Jersey, Title 40:43-4 et seq."			1976-11-02				t			\N						
@@ -6258,7 +6253,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6378	1834	Election				"Shall Council-Manager Plan D of the Optional Municipal Charter Law, providing for a dIvision of the mmunicipality into five wards, with nine Councilmen, one to be elected from each ward and four to be elected at large be adopted by the Township of Franklin?"			1958-11-04				t			\N						
 6379	1834	Election				[For or against "An Act to incorporate the borough of Peapack and Gladstone, in the county of Somerset."]			1912-04-23				t			\N						
 6380	1834	Election				[For or against "An act to incorporate the borough of South Bound Brook."]			1907-05-01				t			\N						
-6381	1834	Election				[For or against the adoption of "An Act to annex the territory within the boundaries of the mayor and council of the borough of North Plainfield, in the county of Somerset, to the county of Union."]			1902-~01-~01				t			\N						
+6381	1834	Election				[For or against the adoption of "An Act to annex the territory within the boundaries of the mayor and council of the borough of North Plainfield, in the county of Somerset, to the county of Union."]			1902-09-16				f			\N						
 6382	1834	Election				[For or against the adoption of "An Act To incorporate the borough of Somerville, in the county of Somerset."]			1909-05-04				t			\N						
 6383	1834	Election				[For or against the adoption of "An Act to unite and consolidate the municipal corporations known as inhabitants of the city of Plainfield, in the county of Union, and the mayor and council of the borough of North Plainfield.]			1902-~01-~01				t			\N						
 6384	1834	Election				[For or against the incorporation of "The Borough Commission of Millstone"]			1894-04-30				t			\N						
@@ -6267,13 +6262,13 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6387	1834	Election				[For or against the incorporation of the Borough of North Plainfield]			1885-06-09				t			\N						
 6388	1834	Election				[To change the name of "the township of North Plainfield, in the county of Somerset" to The Township of Green Brook in the County of Somerset]			1932-11-08				t			\N						
 6389	1834	Election	Charter Commission			[in Franklin Township]			1957-11-~01				t			\N						
-6390	1835	Election							1891-10-14				t			\N						
+6390	1835	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Deckertown"]			1891-10-14				t			\N						
 6391	1835	Election							1913-04-23				t			\N						
 6392	1835	Election							1920-04-24				t			\N						
 6393	1835	Election				"Shall an act entitled 'An act annexing to the borough of Hopatcong, in the county of Sussex, a part of the township of Byram, in the county of Sussex,' be adopted?"			1922-05-25				t			\N						
-6394	1835	Election				"Shall Council-Manager Plan B  of the Optional Municipal Charter Law providing for a council of five councilmen to be elected at large (on a non-partisan basis be adopted by the Town of Newton, in the County of Sussex."			1955-11-08				t	Council-Manager Plan B (OMCL)		\N						
-6395	1835	Election				"Shall Council-Manager Plan B of the Optional Municipal Charter Law, providing for a council of five councilmen to be elected at large (on a non-partisan basis) be adopted by the Township of Sparta, in the County of Sussex"			1959-11-03				t	Council-Manager Plan B (OMCL)		\N						
-6396	1835	Election				"Shall the Council-Manager Plan of the Optional Municipal Charter Law, providing for 5 councilmen to be elected at large for staggered terms, one of whom will run for election as Mayor and who will be elected directly by the voters, at elections held in May, be adopted by Byram Township?"			1985-02-19				t	May elections, at-large (OMCL)		\N						
+6394	1835	Election				"Shall Council-Manager Plan B  of the Optional Municipal Charter Law providing for a council of five councilmen to be elected at large (on a non-partisan basis be adopted by the Town of Newton, in the County of Sussex."			1955-11-08				t			\N						
+6395	1835	Election				"Shall Council-Manager Plan B of the Optional Municipal Charter Law, providing for a council of five councilmen to be elected at large (on a non-partisan basis) be adopted by the Township of Sparta, in the County of Sussex"			1959-11-03				t			\N						
+6396	1835	Election				"Shall the Council-Manager Plan of the Optional Municipal Charter Law, providing for 5 councilmen to be elected at large for staggered terms, one of whom will run for election as Mayor and who will be elected directly by the voters, at elections held in May, be adopted by Byram Township?"			1985-02-19				t			\N						
 6397	1835	Election				[Whether an act of the Legislature of said State, entitled "An Act to Incorporate the Borough of Ogdensburg, in the County of Sussex," approved February 26, 1914, (being Chapter 4 of the Laws of 1914), should be adopted."			1914-03-31				t			\N						
 6398	1835	Election	Charter Commission			[in Sparta Township]			1958-11-~01				t			\N						
 6399	1835	Election	Charter Commission			[in the Town of Newton]			1954-11-~01				t			\N						
@@ -6293,11 +6288,11 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6413	1836	Election							1923-11-08				t			\N						
 6414	1836	Election							1931-01-06				f			\N						
 6415	1836	Election							1934-06-12				f			\N						
-6416	1836	Election				"Shall 'An act to provide a special charter for the city of Plainfield, in the county of Union' to provide a strong mayor-council form of government, with city administrator for the city, be adopted?"			1968-11-~01				t	Special Charter (OMCL)		\N						
+6416	1836	Election				"Shall 'An act to provide a special charter for the city of Plainfield, in the county of Union' to provide a strong mayor-council form of government, with city administrator for the city, be adopted?"			1968-11-~01				t			\N						
 6417	1836	Election				"Shall 'An act to provide a special charter for the town of Westfield, in the county of Union' be adopted?"			1967-11-07				t			\N						
 6418	1836	Election				"Shall Chapters 70 to 76 of the title Municipalities and Counties of the Revised Statutes (40:70-1 et seq.) providing for the Commission form of government, be adopted in the Township of Clark"?			1941-05-20				t			\N						
-6419	1836	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law providing for a division of the municipality into 6 wards with 9 councilmen, 1 to be elected from each ward and 3 to be elected at large, be adopted by the City of Rahway?"			1953-11-03				t	Mayor-Council Plan F (OMCL)		\N						
-6420	1836	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into four wards, with seven councilmen, one to be elected from each ward and three councilmen to be elected at large, be adopted by the Town of Westfield?"			1961-11-~01				t	Mayor-Council Plan F (OMCL)		\N						
+6419	1836	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law providing for a division of the municipality into 6 wards with 9 councilmen, 1 to be elected from each ward and 3 to be elected at large, be adopted by the City of Rahway?"			1953-11-03				t			\N						
+6420	1836	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into four wards, with seven councilmen, one to be elected from each ward and three councilmen to be elected at large, be adopted by the Town of Westfield?"			1961-11-~01				t			\N						
 6421	1836	Election				"Shall Mayor-Council Plan F of the Optional Municipal Charter Law, providing for a division of the municipality into six wards, with nine councilmen, (one to be elected from each ward and three to be elected at large) be adopted by the City of Elizabeth?"			1959-11-03				t			\N						
 6422	1836	Election				"Shall the City of Rahway abandon 'Commission Government' under an Act commonly known as the 'Walsh Act' and resume the form of government under the law under which it was being governed, when 'Commission Government' under the Act commonly known as the 'Walsh Act' was adopted."			1924-03-25				t			\N						
 6423	1836	Election				"Should the corporate name of the Township of New Providence, County of Union, be changed to Township of Berkeley Heights in accordance with provisions of Revised Statutes 40:43-4 of the State of New Jersey, and its amendments and supplements thereto."			1951-11-06				t			\N						
@@ -6324,7 +6319,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6444	7047	Resolution				[Consenting to annexation]			1960-08-19				t			\N						
 6445	7049	Ordinance		14	1982				1982-12-21				t	[immediately upon final passage and publication as required by law]		\N						
 6446	7049	Resolution				[Adopting name of borough as "The Borough of Bay Head".]			1897-06-14				t			\N						
-6447	7050	Report	Charter Commission			[Recommending adoption in the City of Bayonne of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 7, 1961, to take effect July 1, 1962.]			1961-07-~01				t			\N						
+6447	7050	Final Report	Charter Commission			[Recommending adoption in the City of Bayonne of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 7, 1961, to take effect July 1, 1962.]			1961-07-~01				t			\N						
 6448	7056	Ordinance		225		Annexing land in the Township of Wall to the Borough of Belmar to which said land is contiguous			1927-02-28				t	as provided by law		\N						
 6449	7058	Resolution				[Name of this Borough to be shortened by striking therefrom the words "The Mayor and Council of the", so that the corporate title shall thereafter be, "Borough of Bergenfield"]			1950-12-11				t			\N						
 6450	7060	Minute							1951-11-07				t			\N						
@@ -6347,23 +6342,23 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6467	7091	Ordinance		21	2006	To annex certain lands in the Township of Springfield, County of Burlington and State of New Jersey to the Township of Burlington, County of Burlington, State of New Jersey pursuant to N.J.S.A. 40A:7-12 et seq.			2006-06-13				t	Immediately upon final passage and publication		\N						
 6468	7096	Ordinance		11	1918	Providing for the annexation of certain lands in Haddon Township, Camden County, New Jersey, known as the Edward Smith Kelly farm, to the City of Camden.			1918-05-17				t	Immediately		\N						
 6469	7096	Ordinance		12	1918	Providing for the annexation of certain lands in Haddon Township, Camden County, New Jersey, known as part of the Samuel Cooper farm, to the City of Camden.			1918-05-17				t	Immediately		\N						
-6470	7096	Report	Charter Commission			[Recommending adoption in the City of Camden of Mayor-Council Plan B of the Optional Municipal Charter Law (OMCL) at the election of February 21, 1961.]			1960-12-22				t			\N						
+6470	7096	Final Report	Charter Commission			[Recommending adoption in the City of Camden of Mayor-Council Plan B of the Optional Municipal Charter Law (OMCL) at the election of February 21, 1961.]			1960-12-22				t			\N						
 6471	7097	Resolution				[Petitioning the Township of Lower for the annexation of a certain parcel of land]			1966-12-30				t			\N						
 6472	7098	Ordinance		320	1993	To annex certain lands in the Township of Lower, County of Cape May pursuant to N.J.S.A. 40A:7-12			1993-02-11				t	Twenty (20) days after final passage and publication		\N						
 6473	7099	Resolution				[Corporate title of the Mayor and Council of the Borough of Carlstadt shortened to "Borough of Carlstadt"]			1921-04-14		1921-04-14		t			\N						
 6474	7100	Minute					167	169	1976-11-10				t			\N						
 6475	7100	Resolution				[Declaring the result of the election to change the name of the Township of Upper Penns Neck to Carneys Point Township]			1976-11-10				t			\N						
 6476	7101	Ordinance				To annex to the Borough of Carteret in the County of Middlesex, certain lands heretofore situated in the Township of Woodbridge in said County.			1924-02-18				t	Immediately	1924-02-22	\N						
-6477	7102	Report	Charter Commission			[Recommending adoption in Cedar Grove Township of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 2, 1954, to take effect July 1, 1955.]			1954-07-29				t			\N						
+6477	7102	Final Report	Charter Commission			[Recommending adoption in Cedar Grove Township of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 2, 1954, to take effect July 1, 1955.]			1954-07-29				t			\N						
 6478	7104	Resolution		71	1991	Consenting to the annexation of certain lands to the Borough of Madison, in the County of Morris, New Jersey			1991-05-15				t			\N						
 6479	7105	Minute							1961-11-13				t			\N						
 6480	7105	Ordinance		10	2000	To convey, transfer, release, vacate and extinguish any and all public right in and to a portion of Fifth Avenue (Block 224.03, Lot 1) and Sixth Avenue (Block 224.04, Lot 1)			2000-06-26				t			\N						
 6481	7105	Ordinance		16	1972	Annexing certain land from the Borough of Haddonfield to the Township of Cherry Hill			1972-03-27				t			\N						
 6482	7105	Ordinance		57	1972	Authorizing an election of a Charter Study Commission			1972-12-11				t			\N						
 6483	7105	Ordinance		9	2000	Authorizing and consenting to the de-annexation of certain property located on Princeton Avenue, North, presently within the boundaries of Cherry Hill Township, pursuant to N.J.S.A. 40A:7-12 et. seq.			2000-06-26				t			\N						
-6484	7105	Report	Charter Commission			[Recommending adoption in Cherry Hill Township of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1974, to take effect July 1, 1975.]			1974-07-29				t			\N						
+6484	7105	Final Report	Charter Commission			[Recommending adoption in Cherry Hill Township of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1974, to take effect July 1, 1975.]			1974-07-29				t			\N						
 6485	7108	Ordinance				Annexing to the Township certain lands presently within the Township of Mendham, County of Morris, State of New Jersey			1995-09-05				t	Upon publication of notice of final adoption		\N						
-6486	7108	Report	Charter Commission			[Recommending adoption in Chester Township of Small Municipality Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 4, 1958.]			1958-07-10				t			\N						
+6486	7108	Final Report	Charter Commission			[Recommending adoption in Chester Township of Small Municipality Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 4, 1958.]			1958-07-10				t			\N						
 6487	7114	Resolution				[Corporate title be shortened by striking words "The Mayor and Council of" so that the corporate title shall hereafter be "Borough of Cliffside Park"]			1926-11-22				t			\N						
 6488	7115	Ordinance		6548	2006	To annex certain lands in the Borough of West Paterson to the City of Clifton in the County of Passaic, pursuant to N.J.S.A. 40A:7-12			2006-01-17				t	After final passage and publication	2006-01-21	\N						
 6489	7116	Ordinance				To provide for the annexation of certain lands and premises situate in the Township of Clinton in the County of Hunterdon			1945-09-25				t	Immediately after final adoption and publication as required by law		\N						
@@ -6383,32 +6378,32 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6503	7135	Ordinance				Providing for an election of members of the Common Council of the Town of Dover to be held on Monday, May 4th, eighteen hundred and ninety-six.			1896-04-01				t			\N						
 6504	7135	Ordinance				To annex certain lands situate in the Township of Rockaway, a municipal corporation of the State of New Jersey, to the Town of Dover, a municipal corporation of the State of New Jersey.			1964-12-14				t	In accordance with the law		\N						
 6505	7135	Resolution				Shortening corporate name of the Town of Dover.			1949-03-14				t			\N						
-6506	7141	Report	Charter Commission			[Recommending adoption in East Brunswick Township of Mayor-Council Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1963.]			1963-08-01				t			\N						
+6506	7141	Final Report	Charter Commission			[Recommending adoption in East Brunswick Township of Mayor-Council Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1963.]			1963-08-01				t			\N						
 6507	7147	Ordinance				To annex a portion of the Township of West Windsor			1971-12-14				t	Twenty (20) days after final passage and publication		\N						
 6508	7147	Ordinance		1	1975	To annex certain lands in the Borough of Hightstown to the Township of East Windsor, in the County of Mercer, pursuant to N.J.S.A. 40:43-26			1975-02-11				t	Twenty (20) days after final passage and publication	1975-02-20	\N						
 6509	7147	Ordinance		22	1975	To annex certain lands in the Township of West Windsor to the Township of East Windsor in the County of Mercer, pursuant to N.J.S.A. 40:43-26.			1975-09-09				t	Twenty (20) days after final passage and publication	1975-09-18	\N						
 6510	7147	Ordinance		23	1974	To annex certain lands in the Borough of Hightstown to the Township of East Windsor, in the County of Mercer, pursuant to N.J.S.A. 40:43-26.			1974-11-12				t	Twenty (20) days after final passage and publication	1974-11-14	\N						
 6511	7149	Ordinance				Annexing Block 89B, Lots 24-30; Block 89, Lots 22/4-22/9; Block 89, Lots 22/10, 22/11, 22/12 on the Tax Map of the Borough of Oceanport, County of Monmouth, State of New Jersey to the Borough of Eatontown, County of Monmouth, State of New Jersey.			1971-02-10			1971-01-01	t	[Exact date given]		\N						
-6512	7152	Report	Charter Commission			[Recommending adoption in Edison Township of Mayor-Council Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1956, to take effect January 1, 1958.]			1956-~01-~01				t			\N						
+6512	7152	Final Report	Charter Commission			[Recommending adoption in Edison Township of Mayor-Council Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1956, to take effect January 1, 1958.]			1956-~01-~01				t			\N						
 6513	7152	Resolution				[Seal designated as official and legal seal of Township; resolution to be certified to Secretary of State of New Jersey]			1954-12-08				t			\N						
 6514	7155	Ordinance				To annex a portion of the Borough of Roselle, County of Union, to the City of Elizabeth.			1932-08-05		1932-08-15		t	immediately		\N						
 6515	7155	Ordinance				To annex a portion of the Township of Union to the City of Elizabeth.			1920-07-06		1920-07-08		t	Immediately		\N						
-6516	7155	Report	Charter Commission			[Recommending adoption in the City of Elizabeth of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1959, to take effect January 1, 1961.]			1959-08-03				t			\N						
+6516	7155	Final Report	Charter Commission			[Recommending adoption in the City of Elizabeth of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1959, to take effect January 1, 1961.]			1959-08-03				t			\N						
 6517	7158	Resolution				[Name of the Borough of East Paterson has been officially changed to the Borough of Elmwood Park, as of January 1, 1973; results of question to be entered in minutes]			1972-11-30		1972-11-30		t			\N						
 6518	7160	Ordinance				For the annexation of certain territory to the Borough of Emerson.			1957-09-24		1957-09-24		t	immediately upon the final publication		\N						
 6519	7162	Ordinance		2	1979	Providing for the annexation by the Borough of Englewood Cliffs of lots designated as Lots 51, 52, 53, 54 and 55 in Block 3705 on the Official Map of the City of Englewood into the Borough of Englewood Cliffs pursuant to the provisions of N.J.S.A. 40:43-26 and for the imposition of conditions upon said annexation and the procedures subsequent thereto			1979-02-13				t	Upon publication after final passage		\N						
 6520	7165	Ordinance		3	1957	Annexing a part of Weymouth Township in Atlantic County, New Jersey, to the City of Estell Manor, Atlantic County, New Jersey.			1957-12-19		1957-12-19		t	upon its final passage and publication		\N						
-6521	7167	Report	Charter Commission			[Recommending adoption in Ewing Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 8, 1955.]			1955-08-02				t			\N						
-6522	7167	Report	Charter Commission			[Recommending adoption in Ewing Township of Mayor-Council Form of the Optional Municipal Charter Law (OMCL), having November elections at-large, at the election of November 2, 1993, to take effect January 1, 1995.]			1993-08-~01				t			\N						
+6521	7167	Final Report	Charter Commission			[Recommending adoption in Ewing Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 8, 1955.]			1955-08-02				t			\N						
+6522	7167	Final Report	Charter Commission			[Recommending adoption in Ewing Township of Mayor-Council Form of the Optional Municipal Charter Law (OMCL), having November elections at-large, at the election of November 2, 1993, to take effect January 1, 1995.]			1993-08-~01				t			\N						
 6523	7170	Minute					2	2	1978-11-20				t			\N						
 6524	7174	Ordinance				Providing for the annexation to the Borough of Far Hills of certain land in the Township of Bernards			1938-06-06		1938-06-06		t	Immediately		\N						
 6525	7176	Resolution				[Corporate title of "The Mayor and Common Council of the Borough of Fieldsboro" shortened to "Borough of Fieldsboro"]			1919-10-06				t			\N						
 6526	7178	Ordinance		1	2002	Authorizing the Annexation of Block 54.02, Lot 7, currently located in the Township of Mansfield to the Township of Florence and providing for  the readjustment of the Municipal Boundaries between the Township of Florence and the Township of Mansfield to reflect the Annexation					2002-01-16		t	Immediately upon final passage. Notice of adoption shall be published as provided by law.		\N						
 6527	7179	Ordinance		2	2011	To authorize the annexation of lands to the Borough of Madison known as Block 1401, Lot 5.02, and Block 1503, Lot 1 on the Tax Map of the Borough of Florham Park \n			2011-03-29				t			\N						
-6528	7179	Ordinance		8	1968	To annex certain land to the Borough of Madison, in the County of Morris, New Jersey			1968-04-16				t	upon the publication of the notice of final adoption		\N			1968-05-01			
+6528	7179	Ordinance		8	1968	To annex certain land to the Borough of Madison, in the County of Morris, New Jersey			1968-04-16				t	upon the publication of the notice of final adoption	1968-05-01	\N						
 6529	7179	Ordinance		9	2007	To authorize the annexation of lands within the Borough of Madison known as Block 401, Lot 1 on the Tax Map of the Borough of Madison			2007-11-27				t	Upon final publication	2007-12-06	\N						
 6530	7184	Ordinance				To annex the land embraced within the Town of East Millstone, County of Somerset and State of New Jersey, to the Township of Franklin, County of Somerset and State of New Jersey			1949-10-13			1949-12-31	t	[Exact date given]	1949-10-28	\N						
-6531	7184	Report	Charter Commission			[Recommending adoption in Franklin Township of Council-Manager Plan D of the Optional Municipal Charter Law (OMCL) at the election of November 1958.]			1958-08-05				t			\N						
+6531	7184	Final Report	Charter Commission			[Recommending adoption in Franklin Township of Council-Manager Plan D of the Optional Municipal Charter Law (OMCL) at the election of November 1958.]			1958-08-05				t			\N						
 6532	7189	Resolution				[Consenting to annexation]			1920-08-28				t			\N						
 6533	7190	Ordinance				For the Annexation of Certain Property by the Borough of Freehold.			1926-09-07		1926-09-07		t	From and after its passage, recording and publication in due form of law		\N						
 6534	7195	Resolution				[Corporate title of the city shall hereafter be "City of Garfield"]			1920-11-09		1920-11-19		t	At once		\N						
@@ -6426,7 +6421,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6547	7217	Ordinance				Authorizing the annexation of land to the Borough of Hamburg			1985-07-01				t	final adoption and publication according to law		\N						
 6548	7217	Ordinance				Authorizing the annexation of land to the Borough of Hamburg			1981-10-05				t	[upon final adoption and publication according to law]		\N						
 6549	7219	Ordinance				Providing for the annexation of certain lands to the City of Trenton.			1921-02-01				t	Upon the payment to the Township of Hamilton of the cost and expense incurred in the proper consideration, passage and publication thereof		\N						
-6550	7219	Report	Charter Commission			[Recommending adoption in Hamilton Township of Mayor-Council Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1974, to take effect January 1, 1976.]			1974-08-05				t			\N						
+6550	7219	Final Report	Charter Commission			[Recommending adoption in Hamilton Township of Mayor-Council Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1974, to take effect January 1, 1976.]			1974-08-05				t			\N						
 6551	7222	Resolution							1991-01-07				t			\N						
 6552	7232	Ordinance		10		To annex additional territory to the Borough of Hasbrouck Heights in the county of Bergen and state of New Jersey			1895-06-17		1895-06-29	1895-07-16	t	[Exact date given]		\N						
 6553	7232	Resolution				[Name of "The Mayor and Council of the Borough of Hasbrouck Heights" changed to "The Borough of Hasbrouck Heights"]			1905-01-11		1905-01-11		t			\N						
@@ -6441,7 +6436,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6562	7254	Ordinance		5	2005	Pursuant to N.J.S.A. 40:7-12 to approve the annexation by the Township of Howell of property known as Lot 16 and 18 in Block 977 as presently located in the Township of Wall, County of Monmouth, State of New Jersey			2005-05-17				t	Immediately upon its final passage and publication as required by law	2005-05-20	\N						
 6563	7258	Resolution				[Legal title to be "The Borough of Island Heights"]			1898-04-08				t			\N						
 6564	7262	Ordinance							1958-11-15				t			\N						
-6565	7262	Report	Charter Commission			[Recommending adoption in the City of Jersey City of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 8, 1960, to take effect July 1, 1961.]			1960-07-~01				t			\N						
+6565	7262	Final Report	Charter Commission			[Recommending adoption in the City of Jersey City of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 8, 1960, to take effect July 1, 1961.]			1960-07-~01				t			\N						
 6566	7263	Ordinance		647		Annexing premises in the Township of Middletown to the Borough of Keansburg.			1972-01-19		1972-01-19		t	Upon its passage and publication		\N						
 6567	7265	Ordinance				To annex a portion of the Township of Cranford to the Borough of Kenilworth.			1920-09-07		1920-09-07		t	Immediately	1920-09-09	\N						
 6568	7268	Resolution		6-20	2005	Consenting to the de-annexation/annexation of Block 89.10, Lot 95 from the Borough of Kinnelon to the Township of Pequannock			2005-06-16				t	Immediately		\N						
@@ -6463,7 +6458,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6585	7277	Resolution				[Borough supports the efforts and the application in court of the Bay Beach Way residents to be annexed to Lavallette and deannexed from Toms River]			2007-09-10				t			\N						
 6586	7277	Resolution				[To conduct an Executive Session with regard to "annexation of Bay Beach Way" and other matters]			2009-07-20				t			\N						
 6587	7277	Resolution		253	2009	Appointing an Annexation Committee pursuant to N.J.S.A. 40A:7-18			2009-11-09				t			\N						
-6588	7280	Report	Charter Commission			[Recommending adoption in Lawrence Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1968, to take effect January 1, 1970.]			1968-08-02				t			\N						
+6588	7280	Final Report	Charter Commission			[Recommending adoption in Lawrence Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 5, 1968, to take effect January 1, 1970.]			1968-08-02				t			\N						
 6589	7281	Ordinance		7	2000	To annex to the Borough of Lebanon certain lands now located in the Township of Clinton			2000-09-20				t	Upon passage and filing as required by law		\N						
 6590	7286	Ordinance				Annexing to the City of Linden certain land herein particularly described, heretofore being in the Township of Cranford, designating the ward of which said land shall become a part, and providing that such annexation shall be effective pursuant to and in accordance with R.S. 40:43-26, et. seq.			1955-05-17		1955-05-18		t	Immediately in the manner prescribed by law		\N						
 6591	7299	Resolution		317	1992	[Name of Township of Passaic is changed to Township of Long Hill]			1992-11-16				t			\N						
@@ -6503,14 +6498,14 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6625	7342	Resolution		53	2006				2006-~01-~01				t			\N						
 6626	7349	Ordinance		501					1965-12-~01				t			\N						
 6627	7349	Ordinance		6		To extend the boundaries of the BOrough of Mont Vale			1896-02-01		1896-02-01	1896-02-15	t	[Exact date given]		\N						
-6628	7350	Report	Charter Commission			[Recommending adoption in Montville Township of a Special Charter.]			1973-08-~01				t			\N						
-6629	7352	Report	Charter Commission			[Recommending adoption in Moorestown Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 2, 1965, to take effect January 1, 1967.]			1965-08-03				t			\N						
+6628	7350	Final Report	Charter Commission			[Recommending adoption in Montville Township of a Special Charter.]			1973-08-~01				t			\N						
+6629	7352	Final Report	Charter Commission			[Recommending adoption in Moorestown Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 2, 1965, to take effect January 1, 1967.]			1965-08-03				t			\N						
 6630	7353	Ordinance		25	1975	Authorizing the annexation of certain land situate on Frederick Place and known as Lot F, in Block 23, on the Tax Map of the Township of Harding.			1975-08-13				t	Immediately upon publication, after final passage		\N						
 6631	7356	Ordinance		10		Extending the corporate limits of the Borough of Mount Arlington			1891-06-20			1891-07-25	t	[Exact date given]		\N						
 6632	7356	Ordinance		27		Extending the corporate limits of the Borough of Mount Arlington			1893-05-19		1893-05-19	1893-05-31	t	[Exact date given]		\N						
 6633	7356	Ordinance		29		Extending limits of the Borough of Mount Arlington					1894-05-19	1894-05-31	t	[Exact date given]		\N						
 6634	7359	Ordinance							1968-06-17				t			\N						
-6635	7359	Report	Charter Commission			[Recommending adoption in Mount Laurel Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 4, 1969, to take effect January 1, 1971.]			1969-07-~01				t			\N						
+6635	7359	Final Report	Charter Commission			[Recommending adoption in Mount Laurel Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 4, 1969, to take effect January 1, 1971.]			1969-07-~01				t			\N						
 6636	7360	Ordinance		7	1992	Annexing lands in the Township of Washington			1992-04-28				t	In accordance with law	1992-04-29	\N						
 6637	7362	Resolution				[Borough hereafter known as "The Borough of Mountainside"]			1909-12-14				t			\N						
 6638	7363	Ordinance		1	1986				1986-03-11				t			\N						
@@ -6522,21 +6517,21 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6644	7373	Ordinance		4326		To annex to the City of Newark certain land lying and being in the Town of Belleville and to become a part of the City of Newark, to which said land is contigous.			1939-03-06				t	immediately upon adoption in manner provided by law		\N						
 6645	7373	Ordinance		4147-D		Providing for the annexation of land lying and being in the Township of Maplewood, in the County of Essex, to the City of Newark.			1927-01-04				t	immediately upon final passage and publication thereof		\N						
 6646	7373	Preliminary Report	Charter Commission			[Recommending adoption in the City of Newark of Mayor-Council Form of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1953.]			1953-08-08				t			\N						
-6647	7373	Report	Charter Commission			[Recommending adoption in the City of Newark of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1953, to take effect July 1, 1954.]			1953-09-03				t			\N						
+6647	7373	Final Report	Charter Commission			[Recommending adoption in the City of Newark of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1953, to take effect July 1, 1954.]			1953-09-03				t			\N						
 6648	7375	Ordinance				[Annexing certain lands in Fredon Township]			1920-09-07				t	As soon as the same has been duly adopted as by statute provided		\N						
 6649	7375	Ordinance		14	1981	To annex certain lands to the Town of Newton, County of Sussex and State of New Jersey, pursuant to N.J.S. 40A:7-13			1981-07-13				t	Immediately		\N						
-6650	7375	Report	Charter Commission			[Recommending adoption in the Town of Newton of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 8, 1955, to take effect July 1, 1956.]			1955-07-29				t			\N						
+6650	7375	Final Report	Charter Commission			[Recommending adoption in the Town of Newton of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 8, 1955, to take effect July 1, 1956.]			1955-07-29				t			\N						
 6651	7376	Resolution				[Corporate title of "The Mayor and Council of the Borough of North Arlington" hereafter "Borough of North Arlington"]			1923-10-09				t			\N						
 6652	7379	Ordinance		19	2005						2005-11-14		t	[upon final approval and publication, pursuant to law]	2005-11-17	\N						
-6653	7390	Report	Charter Commission			[Recommending adoption in Ocean Township of Council-Manager Plan A of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect July 1, 1963.]			1962-08-01				t			\N						
+6653	7390	Final Report	Charter Commission			[Recommending adoption in Ocean Township of Council-Manager Plan A of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect July 1, 1963.]			1962-08-01				t			\N						
 6654	7393	Ordinance		89		To annex the lands described in the following ordinance to the Borough of Ocean Gate, in the County of Ocean and State of New Jersey from the Township of Berkeley in said county and state			1953-02-28		1953-02-28		t	After its final passage, publication and approval as required by law	1953-03-05	\N						
 6655	7395	Ordinance				Annexing to the Borough of Ogdensburg, in Sussex County, New Jersey, two separate tracts of land now lying in the Township of Sparta, Sussex County, New Jersey, in the areas known as Ogden Hill Estates and Sterling Hill			1963-05-27				t	Upon final adoption and publication of notice thereof		\N						
 6656	7404	Ordinance				To annex to the Borough of Paramus certain lands heretofore lying within the limits of the Borough of Emerson, in the County of Bergen, and State of New Jersey.			1939-04-26		1939-04-26		t	immediately after publication		\N						
 6657	7404	Ordinance		292		To provide for the annexation to the Borough of Paramus of certain lands now forming part of the Borough of River Edge, in the County of Bergen, State of New Jersey			1953-11-12			1954-01-01	t	[Exact date given]	1953-~01-~01	\N						
 6658	7405	Ordinance		10	1981	Authorizing the annexation to the Borough of Park Ridge, in the County of Bergen and State of New Jersey, certain lands now being in the Township of River Vale, in the County of Bergen and State of New Jersey			1981-07-28		1981-07-28		t	Immediately following final passage, approval and publication as required by law		\N						
 6659	7406	Ordinance		1	1993	Annexing lands in the Borough of Morris Plains			1993-02-09				t	In accordance with law		\N						
-6660	7406	Report	Charter Commission			[Recommending adoption in Parsippany-Troy Hills Township of Council-Manager Plan A of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1953, to take effect July 1, 1954.]			1953-07-30				t			\N						
-6661	7408	Report	Charter Commission			[Recommending adoption in the City of Paterson of Mayor-Council Plan D of the Optional Municipal Charter Law (OMCL) at the election of November 7, 1973, to take effect July 1, 1974.]			1973-07-31				t			\N						
+6660	7406	Final Report	Charter Commission			[Recommending adoption in Parsippany-Troy Hills Township of Council-Manager Plan A of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1953, to take effect July 1, 1954.]			1953-07-30				t			\N						
+6661	7408	Final Report	Charter Commission			[Recommending adoption in the City of Paterson of Mayor-Council Plan D of the Optional Municipal Charter Law (OMCL) at the election of November 7, 1973, to take effect July 1, 1974.]			1973-07-31				t			\N						
 6662	7408	Resolution				[Corporate title of the city shall hereafter be "City of Paterson"]			1912-01-04		1912-01-05		t			\N						
 6663	7411	Resolution				[Corporate title of municipal hereafter THE BOROUGH OF PEMBERTON.]			1922-07-12				t			\N						
 6664	7415	Ordinance		28	2000	Authorizing and consenting to the annexation of certain property located on Princeton Avenue, North, presently within the boundaries of Cherry Hill Township, pursuant to N.J.S.A. 40:7-12, et seq.			2000-07-26				t	Upon the fulfillment of all conditions contained herein and in the Township of Cherry Hill Ordinance 2000-9 and immediately following the effective date of Township of Cherry Hill Ordinance 2000-9		\N						
@@ -6544,7 +6539,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6666	7416	Resolution				[Declaring the approval of the public question and the change of the name of The Township of Lower Penns Neck, Salem County, New Jersey, to The Township of Pennsville, Salem County, New Jersey]			1965-11-15				t			\N						
 6667	7417	Ordinance		12	2005	To annex certain lands in the Borough of Kinnelon to the Township of Pequannock, in the County of Morris, pursaunt to N.J.S.A. 40A:7-12			2005-07-26				t	Twenty (20) days after adoption and publication	2005-07-31	\N						
 6668	7417	Ordinance		18	1999	Annexing lands formerley located within the Borough of Riverdale known as Block 38, Lot 3.27 and Block 39, Lot 1, in accordance with N.J.S.A 40A:7-13			1999-09-28				t	Immediately after passage and publication		\N						
-6669	7417	Report	Charter Commission			[Recommending adoption in Pequannock Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 1955, to take effect January 1, 1957.]			1955-08-~01				t			\N						
+6669	7417	Final Report	Charter Commission			[Recommending adoption in Pequannock Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 1955, to take effect January 1, 1957.]			1955-08-~01				t			\N						
 6670	7417	Resolution				[Granting minor subdivision]			1977-04-25				t			\N						
 6671	7419	Ordinance				To provide for the annexation of an unpopulated area in the Township of Pohatcong to the Town of Phillipsburg.			1957-10-16				t	immediately upon due passage		\N						
 6672	7419	Ordinance				To provide for the annexation of a parcel of land in the Township of Lopatcong, Warren County, to the Town of Phillipsburg, Warren County, New Jersey.			1969-06-30				t	Upon due passage		\N						
@@ -6554,10 +6549,10 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6676	7427	Amended Report	Charter Commission			[Recommending adoption in the City of Plainfield of amendments to the Special Charter.]			2013-12-31				t			\N						
 6677	7427	Ordinance							2012-07-16				t			\N						
 6678	7427	Ordinance	Pending	10	2014	[To accept the report of the Plainfield Charter Study Commission and forwarding to the New Jersey State Legislature for action]			2014-~01-~01				t			\N						
-6679	7427	Report	Charter Commission			[Recommending adoption in the City of Plainfield of a Special Charter.]			1968-01-15				t			\N						
-6680	7427	Report	Charter Commission			[Recommending adoption in the City of Plainfield of amendments to the Special Charter.]			2013-08-06				t			\N						
+6679	7427	Final Report	Charter Commission			[Recommending adoption in the City of Plainfield of a Special Charter.]			1968-01-15				t			\N						
+6680	7427	Final Report	Charter Commission			[Recommending adoption in the City of Plainfield of amendments to the Special Charter.]			2013-08-06				t			\N						
 6681	7427	Resolution							1967-04-17				t			\N						
-6682	7440	Report	Charter Commission			[Recommending adoption in the City of Rahway of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1953.]			1953-08-04				t			\N						
+6682	7440	Final Report	Charter Commission			[Recommending adoption in the City of Rahway of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1953.]			1953-08-04				t			\N						
 6683	7443	Ordinance		1	1986	Amending Ordinance 85-7 and annexing to the Borough of Raritan in the County of Somerset certain land being in the Borough of Somerville, County of Somerset, New Jersey			1986-02-25		1986-02-25		t	[See Section 7]	1986-03-06	\N						
 6684	7443	Ordinance		7	1985	Annexing to the Borough of Raritan in the County of Somerset, certain land being in the Borough of Somerville, in the County of Somerset			1985-04-23				t	[See Section 6]		\N						
 6685	7443	Resolution							1986-01-14				t			\N						
@@ -6593,9 +6588,9 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6716	7490	Ordinance		464		Annexing to The Borough of Somerville, in the County of Somerset certain land being in The Township of Bridgewater, in the County of Somerset and contiguous to the said Borough.			1954-03-01		1954-03-01	1954-04-01	t	[Exact date given]		\N						
 6717	7490	Resolution							1983-06-06				t			\N						
 6718	7495	Ordinance		10	2005				2005-08-10				t	upon Second and Final Reading and approval		\N						
-6719	7501	Report	Charter Commission			[Recommending adoption in Sparta Township of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1959.]			1959-~01-~01				t			\N						
+6719	7501	Final Report	Charter Commission			[Recommending adoption in Sparta Township of Council-Manager Plan B of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1959.]			1959-~01-~01				t			\N						
 6720	7506	Resolution				Approving annexation of property located in Springfield Township by Burlington Township in connection with acquisition of development rights easements			2006-05-10				t			\N						
-6721	7512	Ordinance		177		Accepting and annexing to the Borough of Stone Harbor the Southwesterly half of Eightieth Street, now in the Borough of Avalon.			1941-12-27				t			\N						
+6721	7512	Ordinance		177		Accepting and annexing to the Borough of Stone Harbor the Southwesterly half of Eightieth Street, now in the Borough of Avalon.			1941-12-27				t	final passage and legal publication		\N						
 6722	7515	Ordinance		2567	2003				2003-09-03				t	[upon final passage and publication according to law]		\N						
 6723	7515	Ordinance		2749	2007				2007-02-13			2007-02-17	t	[upon final passage and publication according to law]		\N						
 6724	7522	Ordinance		1005		To provide for the annexation to the Borough of Tenafly, in the County of Bergen and State of New Jersey of certain lands now being in the Borough of Cresskill, in the County of Bergen and State of New Jersey			1970-12-22		1970-12-22	1970-12-31	t	[Exact date given]		\N						
@@ -6617,7 +6612,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6740	7526	Resolution				Conditionally consenting to the deannexation of Bay Beach Bay from the Township of Toms River and reannexation to the Borough of Lavallette pursuant to N.J.S.A. 40A:7-12, in accordance with the July 15, 2008, Final Judgment rendered by the Superior Court of New Jersey and affirmed on appeal, and appointing three individuals to the six-member committee established by N.J.S.A. 40A:7-18 to ascertain Bay Beach Way's proportionate share of the Township of Toms River's bonded and other indebtedness			2010-01-12				t			\N						
 6741	7526	Resolution				Refusing to consent to a de-annexation of Bay Beach Way from the Township of Toms RIver to the Borough of Lavallette			2007-05-08				t			\N						
 6742	7528	Ordinance							1960-04-14				t			\N						
-6743	7528	Report	Charter Commission			[Recommending adoption in the City of Trenton of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 7, 1961.]			1961-07-27				t			\N						
+6743	7528	Final Report	Charter Commission			[Recommending adoption in the City of Trenton of Mayor-Council Plan C of the Optional Municipal Charter Law (OMCL) at the election of November 7, 1961.]			1961-07-27				t			\N						
 6744	7530	Resolution				[No objections will be raised by township to creation and defining of proposed Borough of Kenilworth]			1907-04-18				t			\N						
 6745	7535	Ordinance		28		Annexing Certain Territory To Upper Deerfield Township In The Couty Of Cumberland.			1925-12-12				t	Immediately upon its publication		\N						
 6746	7538	Ordinance				To provide for the annexation by the Borough of Upper Saddle River, in the County of Bergen, State of New Jersey, of certain lands now forming a part of the Borough of Montvale, County of Bergen and State of New Jersey			1965-12-09				t		1965-12-15	\N						
@@ -6630,12 +6625,12 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6753	7554	Ordinance		1	1959	To provide for the annexation to the Township of Washington, in the County of Bergen, State of New Jersey, of certain lands and premises now forming a part of the Borough of Hillsdale, in the County of Bergen and State of New Jersey			1959-02-24		1959-02-24	1959-04-01	t	[Exact date given]		\N						
 6754	7554	Ordinance		3	1965	To provide for annexation by the Township of Washington of lands now forming a part of the Borough of Westwood in the County of Bergen and State of New Jersey.			1965-02-23			1965-04-30	t	[Exact date given]		\N						
 6755	7563	Ordinance		7	2000	Extending and increasing the corporate limits of the Township of West Amwell, County of Hunterdon and State of New Jersey, pursuant to the provisions of N.J.S. 40A:7-12 et seq. by annexing thereto a certain tract of land contiguous to and not embraced within the present limits of the Township of West Amwell.			2000-09-20				t	After final adoption and publication	2009-09-28	\N						
-6756	7568	Report	Charter Commission			[Recommending adoption in West Milford Township of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect January 1, 1964.]			1962-08-01				t			\N						
+6756	7568	Final Report	Charter Commission			[Recommending adoption in West Milford Township of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect January 1, 1964.]			1962-08-01				t			\N						
 6757	7571	Ordinance		31					1926-02-27				t			\N						
 6758	7571	Ordinance		34		To annex to the Borough of West Wildwood, contiguous lands consisting of 79-56/100 acres, and belonging to the W.D. Hann Co.			1926-04-24				t	Not specified		\N						
-6759	7572	Report	Charter Commission			[Recommending adoption in West Windsor Township of Mayor-Council Form of the Optional Municipal Charter Law (OMCL), having May elections at-large, at the election of November 3, 1992, to take effect July 1, 1993.]			1992-08-~01				t			\N						
+6759	7572	Final Report	Charter Commission			[Recommending adoption in West Windsor Township of Mayor-Council Form of the Optional Municipal Charter Law (OMCL), having May elections at-large, at the election of November 3, 1992, to take effect July 1, 1993.]			1992-08-~01				t			\N						
 6760	7572	Resolution							1975-08-11				t			\N						
-6761	7574	Report	Charter Commission			[Recommending adoption in the Town of Westfield of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 1961, to take effect January 1, 1963.]			1961-06-~01				t			\N						
+6761	7574	Final Report	Charter Commission			[Recommending adoption in the Town of Westfield of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 1961, to take effect January 1, 1963.]			1961-06-~01				t			\N						
 6762	7576	Ordinance				For the annexation of certain territory to the Borough of Westwood.			1957-09-24		1957-09-24		t	immediately upon the final publication		\N						
 6763	7576	Ordinance		541					1965-04-30				t			\N						
 6764	7576	Resolution				[Legal designation of municipality be changed from "Mayor and Council of the Borough of Westwood" to "Borough of Westwood"			1914-06-02				t			\N						
@@ -6644,13 +6639,13 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6767	7582	Resolution				[Clerk directed to record results of election held November 5, 1963, in the minutes]			1963-11-18				t			\N						
 6768	7585	Ordinance		16		Providing for the extension of the corporate boundaries of the Borough of Wood-Ridge in the County of Bergen.			1897-04-09		1897-04-09	1897-04-17	t			\N						
 6769	7587	Ordinance				To annex to the Township of Woodbridge in the County of Middlesex, certain lands heretofore situated in the Borough of Carteret, in said County.			1924-02-18			1924-02-22	t	[Exact date given]	1924-02-22	\N						
-6770	7587	Report	Charter Commission			[Recommending adoption in Woodbridge Township of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect January 1, 1964.]			1962-07-18				t			\N						
+6770	7587	Final Report	Charter Commission			[Recommending adoption in Woodbridge Township of Mayor-Council Plan F of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect January 1, 1964.]			1962-07-18				t			\N						
 6771	7588	Resolution				Shortening the corporate name of the City of Woodbury from "The Mayor and Council of the City of Woodbury" to the "City of Woodbury".			1912-07-23		1912-07-24		t			\N						
 6772	7590	Ordinance				To provide for the annexation by the Borough of Woodcliff Lake of lands forming part of the Borough of Hillsdale, County of Bergen, State of New Jersey.			1960-10-10			1960-10-13	t	Listed effective date		\N						
 6773	7597	Ordinance		1454					2004-03-09				t	[upon final passage and publication as required by law]	2004-03-12	\N						
 6774	7603	Resolution				[Changing name of the Borough of Anglesea to "Borough of North Wildwood"]			1906-05-16				t			\N						
 6775	7613	Ordinance				Providing for submitting to the voters of the Township of Belleville, the question of incorporating as a town.			1910-10-18				t			\N						
-6776	7622	Report	Charter Commission			[Recommending adoption in the Town of Bloomfield of a Special Charter.]			1955-06-13				t			\N						
+6776	7622	Final Report	Charter Commission			[Recommending adoption in the Town of Bloomfield of a Special Charter.]			1955-06-13				t			\N						
 6777	7633	Resolution				[Consenting to annexation of 13.01 acre tract to Borough of North Caldwell]			1960-12-16				t			\N						
 6778	7640	Resolution				[The report of the Board of Registry and Elections of the 3rd Precinct, Centre Township be received and same spread upon the minutes]	188	188	1915-05-31				t			\N	3		Minute Book			
 6779	7655	Resolution							1902-~01-~01				t			\N						
@@ -6670,9 +6665,9 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6793	7710	Resolution				[Corporate name of "The Borough of Junction", be changed to "The Borough of Hampton."]			1909-02-11				t			\N						
 6794	7715	Minute							1959-11-10				t			\N						
 6795	7721	Resolution				[Name changed from "Long Beach City" to "Surf City"]			1899-05-26				t			\N						
-6796	7724	Report	Charter Commission			[Recommending adoption in Madison Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect January 1, 1964.]			1962-08-01				t			\N						
+6796	7724	Final Report	Charter Commission			[Recommending adoption in Madison Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 6, 1962, to take effect January 1, 1964.]			1962-08-01				t			\N						
 6797	7730	Ordinance		1	1972	Annexing premises in the Borough of Matawan to the Township of Matawan			1972-04-17				t	Upon its passage and publication	1972-04-20	\N						
-6798	7730	Report	Charter Commission			[Recommending adoption in Matawan Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1964, to take effect January 1, 1966.]			1964-08-03				t			\N						
+6798	7730	Final Report	Charter Commission			[Recommending adoption in Matawan Township of Council-Manager Plan E of the Optional Municipal Charter Law (OMCL) at the election of November 3, 1964, to take effect January 1, 1966.]			1964-08-03				t			\N						
 6799	7730	Resolution				[Name of this municipality be changed to "Township of Matawan"]			1959-11-04				t			\N						
 6800	7737	Ordinance				To annex certain lands contiguous to the Town of Montclair to said Town of Montclair.			1925-11-17				t	Not specified	1925-11-18	\N						
 6801	7738	Ordinance				For the holding of a special election in the Township of Montclair, for the purpose of deciding whether such township shall become incorporated as a town.			1894-01-29				t			\N						
@@ -6680,15 +6675,15 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 6803	7750	Resolution				Change of Name to "Township of North Caldwell"			1982-05-11				t			\N						
 6804	7764	Resolution				Changing name of Borough to conform with Borough Act of 1897			1908-~01-~01				t			\N						
 6805	7782	Ordinance				Annexing to the Borough of Princeton, in the County of Mercer part of the Township of Princeton in the County of Mercer.			1928-01-03		1928-01-04		t	immediately		\N						
-6806	7793	Resolution				"Shall the name of the Borough of Riverside, Bergen County, New Jersey, be changed from 'Borough of Riverside' to 'Borough of River Edge'"			1930-11-04				t			\N						
+6806	7793	Election				"Shall the name of the Borough of Riverside, Bergen County, New Jersey, be changed from 'Borough of Riverside' to 'Borough of River Edge'"			1930-11-04				t			\N						
 6807	7795	Resolution				[Corporate name of "The Borough of Roosevelt" changed to "The Borough of Carteret"]			1921-11-19		1921-11-19		t			\N						
 6808	7795	Resolution				[Resolution of December 19, 1921, was of no legal effect and is rescinded]			1922-01-16				t			\N						
 6809	7799	Resolution				[Corporate name of The Mayor and Council of The Borough of Schraalenburgh changed to The Borough of Dumont]			1898-06-13				t			\N						
 6810	7800	Ordinance		42		To extend the corporate boundaries of the Borough of Sea Isle City so that the same shall include the entire beach or island known as Ludlam's Beach or Island			1889-01-25		1889-01-25		t	Immediately		\N						
 6811	7800	Resolution				[Corporate name of borough changed to "THE BOROUGH OF SEA ISLE CITY"]			1897-05-06				t			\N						
 6812	7804	Ordinance				Extending the lines of the Borough of Somers Point.			1889-04-24			1889-05-11	t	[Exact date given]		\N						
-6813	7814	Ordinance							1925-08-17				t			\N						
-6814	7814	Ordinance							1929-04-15				t			\N						
+6813	7814	Ordinance				To provide for the annexation of all that portion of the Township of Maplewood in the County of Essex and State of New Jersey bounded on the east by the Village of South Orange, on the south by South Orange Avenue, on the west by the Essex County Park Commission's South Mountain Reservation and on the north by the Town of West Orange, to the Village of South Orange	183	184	1925-08-17			1925-08-17	t	Exact date given.		\N	2					
+6814	7814	Ordinance				To provide for the annexation of that portion of the Township of Maplewood in the County of Essex and State of New Jersey, bounded on the east by the City of Newark, on the west by the Village of South Orange, on the south by Irvington Avenue and on the north by the boundary line between lands of Seton Hall College and the Tuxedo Park tract, to the Village of South Orange	352	354	1929-04-15			1929-07-01	t	Listed effective date		\N	2					
 6815	7814	Ordinance				To provide for the annexation of all that portion of the Township of Maplewood in the County of Essex and State of New Jersey, lying north of Garfield Place and bounded on the east by lands owned by the Board of Education of the School District of South Orange and Maplewood and known as "Underhill Field", to the Village of South Orange.			1935-11-18			1935-12-16	t			\N						
 6816	7814	Resolution				[Special election to be held on March 2, 1904, for the purpose of deciding whether the Village shall be separated from the Township of South Orange]			1904-02-15				t			\N						
 6817	7818	Ordinance				For the purpose of submitting at a special election, the question whether or not the inhabitants of the Township of Stockton shall become incorporated into a Town, under a[n] Act of the Legislature of the State of New Jersey, entitled, "An act providing for the Formation and Government of Towns," approved April 24, 1888, and the supplements thereto.			1894-02-27				t			\N						
@@ -6963,7 +6958,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 10700	5221	Ordinance							1874-07-~01				t			\N						
 10701	6201	Ordinance							1872-01-08		1872-01-09		t			\N						
 10702	4163	Ordinance							1868-04-~01				t			\N						
-10703	1829	Election							1885-03-17				t			\N						
+10703	1829	Election				[For or against the incorporation of "The Borough Commission of Matawan."]			1885-03-17				t			\N						
 10704	2288	Election	Charter Commission			"Shall a Government Study Commission of seven members be elected to study the existing form of government of the municipality, to consider the advisability of the adoption of a home rule charter and, if advisable, to draft and to recommend a home rule charter?"			2018-05-15				t			\N						
 10705	3449	Final Report				[Recommending the adoption of a home rule charter for the "Borough of Braddock"]			2019-08-26			2021-01-04	t			\N						
 10706	2288	Election				"Shall the Home Rule Charter contained in the report, dated August 26, 2019, of the government study commission, prepared in accordance with the Home Rule Charter and Optional Plans Law, be adopted by the Borough of Braddock?"			2019-11-06				t			\N						
@@ -7236,8 +7231,8 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24179	9	Agreement							2004-12-21				t			\N						
 24181	1817	Election				"Shall Mayor-Council Plan C of the Optional Municipal Charter Law, providing for a division of the municipality into four wards with seven councilmen, one to be elected from each ward, and three to be elected at-large be adopted by the City of Atlantic City?"			1976-11-02				t			\N						
 24182	1817	Election	Charter Commission						1976-05-11				t			\N						
-24183	7039	Report	Charter Commission						1976-~01-~01				t			\N						
-24184	7039	Final Report							1977-~01-~01				t			\N						
+24183	7039	Final Report	Charter Commission						1976-~01-~01				t			\N						
+24184	7039	Final Report	Charter Commission						1977-~01-~01				t			\N						
 24185	1817	Election				"SHALL MAYOR-COUNCIL PLAN C OF THE OPTIONAL MUNICIPAL CHARTER LAW PROVIDING FOR A DIVISION OF THE CITY INTO THREE WARDS WITH FIVE COUNCILMEN, ONE TO BE ELECTED FROM EACH WARD AND TWO TO BE ELECTED AT LARGE"			1978-01-06				t			\N						
 24186	1821	Election				[For or against the incorporation of the Mayor and Council of the Borough of Ocean City pursuant to the Act of April 5, 1878]			1882-09-29				t			\N						
 24187	1821	Election				[For or against the change of boundaries of the Borough of West Cape May]			1894-07-10				t			\N						
@@ -7271,17 +7266,17 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24217	1818	Election							1953-11-03				t			\N						
 24218	7441	Final Report	Charter Commission						1953-06-23				t			\N						
 24219	1818	Election	Charter Commission						1952-11-04				t			\N						
-24220	7161	Election	Charter Commission						1952-11-04				t			\N						
+24220	1818	Election	Charter Commission						1952-11-04				t			\N						
 24221	7471	Final Report	Charter Commission						1961-08-01				t			\N						
 24222	7545	Final Report	Charter Commission						1960-08-01				t			\N						
-24223	7545	Election	Charter Commission						1959-11-03				t			\N						
+24223	1818	Election	Charter Commission						1959-11-03				t			\N						
 24224	1818	Election							1960-11-08				t			\N						
 24226	7226	Final Report	Consolidation Commission						1997-08-05				t			\N						
 24227	7183	Final Report	Consolidation Commission						1997-08-05				t			\N						
 24228	1835	Election	Consolidation Commission						1996-11-06				t			\N						
-24229	1828	Election							1895-02-06				t			\N						
-24230	1828	Election							1895-02-19				t			\N						
-24231	1828	Election							1896-07-02				t			\N						
+24229	1828	Election				[For or against the separation of the borough commission of Dunellen from the township of Piscataway]			1895-02-06				t			\N						
+24230	1828	Election				[For or against the incorporation of the "Borough Commission of New Market"]			1895-02-19				t			\N						
+24231	1828	Election				[Whether the Borough Incorporation of the Borough of New Market shall be continued or set aside]			1896-07-02				t			\N						
 24232	7493	Final Report	Charter Commission						1964-06-18				t			\N						
 24233	1828	Election							1964-11-03				t			\N						
 24234	1828	Election	Charter Commission						1963-11-05				t			\N						
@@ -7306,7 +7301,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24253	1831	Election							1966-11-08				t			\N						
 24254	1831	Election							1992-11-03				t			\N						
 24255	1831	Election	Charter Commission						1992-11-03				t			\N						
-24256	7274	Election							1992-11-03				t			\N						
+24256	1831	Election							1992-11-03				t			\N						
 24257	1831	Election							1993-11-02				t			\N						
 24258	7419	Resolution		232	2006				2006-11-06				t			\N						
 24259	7166	Ordinance		38-12	2014				2014-12-30				t		2015-01-06	\N						
@@ -7321,7 +7316,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24268	1824	Resolution							1950-05-18				t			\N						
 24269	7207	Ordinance				Consenting to the Annexation of a certain piece of land situate in the Township of Greenwich, in the County of Gloucester, to the Borough of Paulsboro.			1936-03-02				t	Not specified		\N						
 24270	7588	Ordinance				To annex to the City of Woodbury a tract of land situate in the Township of West Deptford and contiguous to the City of Woodbury.			1929-09-17		1929-09-18		t	upon its publication	1929-09-19	\N						
-24271	7032	Resolution							1897-07-02				t			\N						
+24271	7032	Resolution				[Corporate name to be The "Borough of Allentown"]			1897-07-02				t			\N						
 24272	7759	Minute					144	145	1889-03-21				t			\N	1885					
 24273	7759	Minute					146	147	1889-03-29				t			\N	1885					
 24274	7759	Minute					148	149	1889-04-01				t			\N	1885					
@@ -7331,8 +7326,8 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24278	7614	Minute					179	179	1889-08-05				t			\N	1885					
 24279	7056	Minute					497	497	1893-04-05				t			\N	1885					
 24280	1829	Election							1893-01-18				t			\N						
-24281	7077	Resolution							1897-07-16		1897-07-16		t			\N						
-24282	7310	Resolution							1897-08-~01				t			\N						
+24281	7077	Resolution				[Adopting the name "The Borough of Bradley Beach"]			1897-07-16		1897-07-16		t			\N						
+24282	7310	Resolution				[Corporate names hall be "The "Borough of Manasquan."]			1897-08-07				t			\N						
 24283	7298	Final Report	Charter Commission						1960-08-02				t			\N						
 24284	1829	Election	Charter Commission						1959-11-03				t			\N						
 24285	1829	Election							1960-11-08				t			\N						
@@ -7344,7 +7339,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24291	7783	Final Report	Consolidation Commission						1979-07-25				t			\N						
 24292	1827	Election							1979-11-06				t			\N						
 24293	7306	Resolution							1897-05-14				t			\N						
-24294	1830	Election							1890-10-13				t			\N						
+24294	1830	Election				[For or against the incorporation of "The Mayor and Council of the Borough of Landing"]			1890-10-13				t			\N						
 24295	7367	Resolution							1909-12-13				t			\N						
 24296	1830	Election							1896-03-31				t			\N						
 24297	7223	Final Report	Charter Commission						1963-07-~01				t			\N						
@@ -7368,8 +7363,8 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24329	40	Minute	Supreme Executive Council			"The townships of Franklin and Southampton were this day erected into two distinct districts, for the election of Justices of the Peace, agreeably to certificates of the Court of General Quarter Sessions of the Peace of the county of Franklin, that the townships aforesaid have been struck off from the townships of Guilford and Lurgan, and that the division is proper and useful."	650	650	1786-03-02				t			1630	14					
 24330	40	Minute	Supreme Executive Council			"A certificate of the division of the township of Mahoning, in the county of Northumberland, by the Court of General Quarter Sessions of the Peace held at Sunsbury, for the county aforesaid, on the twenty-eighth day of February last, was read, and an order taken that the division be confirmed, agreeably to the decree of the said court, and the new township erected thereby be known by the name of Point township."	41	42	1786-06-22				t			1630	15					
 24331	4636	Ordinance							1979-12-24				t			\N						
-24332	2329	Election							2022-11-08				t			\N						
-24333	4230	Ordinance		9	2022				2022-07-27				t			\N						
+24332	2329	Election				Shall the Borough of Wheatland be merged into the City of Hermitage, effective January 1, 2024?			2022-11-08				t			\N						
+24333	4230	Ordinance		9	2022	Electing to enter into a joint agreement with the Borough of Wheatland, Mercer County, Pennsylvania ("Wheatland"), providing for the merger of Wheatland into Hermitage; authorizing a referendum by which the electors of the city and Wheatland shall approve or reject said merger; providing that if approved, said merger shall be effective as of January 1, 2024; further providing for the acquisition of the real and personal property of Wheatland; and providing for the disposition of Wheatland's remaining liabilities			2022-07-27				t			\N						
 24334	5799	Ordinance							2022-07-~01				t			\N						
 24335	4038	Ordinance							1911-07-05		1911-07-05		t			\N						
 24339	2312	Election							1926-11-02				t			\N						
@@ -7406,55 +7401,55 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24655	135045	Letters Patent							1680[-02-28J				t			\N						
 24656	135045	Minute	Privy Council				96	97	1702-04-17J				t			\N	PC 2/79					
 24657	48135	Letters Patent							1689-08-12J				t			\N						
-24658	48126	Letters Patent							1712[-~01-~10J				t			\N						
-24659	48126	Letters Patent							1712[-~01-~13J				t			\N						
-24660	48126	Letters Patent							1746-09-06J				t			\N						
-24661	48126	Letters Patent							1750[-03-09J				t			\N						
-24662	48126	Letters Patent							1718-08-04J				t			\N						
-24663	54479	Letters Patent							1668-09-22J				t			\N						
+24658	48126	Letters Patent				[Constituting part of the County of Burlington as the Township of Chesterfield]			1712[-01-10J				t			\N						
+24659	48126	Letters Patent				[Constituting part of the County of Burlington as the Township of Springfeild]			1712[-01-13J				t			\N						
+24660	48126	Letters Patent				[Constituting the Chief Burgess, recorder Burgesses and Commonality of the Borrough Town of Trenton]			1746-09-06J				t			\N						
+24661	48126	Letters Patent				[Constituting the North western part of the County of Middlesex as the Township of Windsor]			1750[-03-09J				t			\N						
+24662	48126	Letters Patent				[Constituting the Mayor, Recorder, Aldermen & Comonality of the City of Perth-Amboy]			1718-08-04J				t			\N						
+24663	54479	Letters Patent				[Granting a charter to the Towne and Freeholders of Bergen, and to the Villlages and Plantations thereunto belonging]			1668-09-22J				t			\N						
 24665	54479	Deed							1669-06-01J				t			\N						
-24666	48126	Letters Patent							1749-04-04J				t			\N						
-24667	48126	Letters Patent							1749-04-04J				t			\N						
+24666	48126	Letters Patent				[Constituting the North western part of the Northern Precinct of the County of Somerset as the Township of Bedminster]			1749-04-04J				t			\N						
+24667	48126	Letters Patent				[Constituting the Southermost part of the Northern Precinct of the County of Somerset as the Township of Bridgewater]			1749-04-04J				t			\N						
 24668	54475	Ordinance					765	771	1661-09-05V				t			\N	9			9	53851	53851
-24669	48126	Letters Patent							1773-12-08				t			\N						
-24670	48126	Letters Patent							1755-03-01				t			\N						
-24671	48126	Letters Patent							1775-06-22				t			\N						
-24672	48126	Letters Patent							1774-04-04				t			\N						
-24673	48126	Letters Patent							1772-09-26				t			\N						
-24674	48126	Letters Patent							1771-05-31				t			\N						
-24675	48126	Letters Patent							1771-09-12				t			\N						
-24676	48126	Letters Patent							1771-06-01				t			\N						
-24677	48126	Letters Patent							1770-05-09				t			\N						
-24678	48126	Letters Patent							1769-12-06				t			\N						
-24679	48126	Letters Patent							1767-03-07				t			\N						
-24680	48126	Letters Patent							1767-06-17				t			\N						
-24681	48126	Letters Patent							1765-10-29				t			\N						
-24682	48126	Letters Patent							1764-05-24				t			\N						
-24683	48126	Letters Patent							1765-03-05				t			\N						
-24684	48126	Letters Patent							1763-02-12				t			\N						
-24685	48126	Letters Patent							1763-02-23				t			\N						
-24686	48126	Letters Patent							1762-02-26				t			\N						
-24687	48126	Letters Patent							1762-02-25				t			\N						
-24688	48126	Letters Patent							1759-03-26				t			\N						
+24669	48126	Letters Patent				[Constituting the Town of Gloucester in the County of Gloucester as a Township by the name of the Town of Gloucester]			1773-12-08				t			\N						
+24670	48126	Letters Patent				[Constituting South Eastern Parts of the County of Hunterdon as the Township of Hopewell]			1755-03-01				t			\N						
+24671	48126	Letters Patent				[Constituting a portion of the County of Bergen as Harington Township]			1775-06-22				t			\N						
+24672	48126	Letters Patent				[Constituting the North East part of the Township of Great Eggharbour in the County of Gloucester as the Township of Galloway]			1774-04-04				t			\N						
+24673	48126	Letters Patent				[Constituting the South Western part of the Township of Fairfield in the County of Cumberland as the Township of Downes]			1772-09-26				t			\N						
+24674	48126	Letters Patent				[Constituting the Northermost part of the Western Precinct in the County of Somerset as the Township of Hillsborough]			1771-05-31				t			\N						
+24675	48126	Letters Patent				[Reissuance with interlined additions of letters patent constituting the Northermost part of the Western Precinct in the County of Somerset as the Township of Hillsborough]			1771-09-12				t			\N						
+24676	48126	Letters Patent				[Constituting the Northermost part of the Precinct of Saddle River in the County of Bergen as the Township of Franklin]			1771-06-01				t			\N						
+24677	48126	Letters Patent				[Constituting the Township of Mansfield in the County of Burlington as a Township by the name of the Township of Mansfield]			1770-05-09				t			\N						
+24678	48126	Letters Patent				[Constituting the South Eastern part of the Township of Pilesgrove in the County of Salem as the Township of Pittsgrove]			1769-12-06				t			\N						
+24679	48126	Letters Patent				[Constituting part of the Township of Greenwich in the County of Gloucester as the Township of Woolwich]			1767-03-07				t			\N						
+24680	48126	Letters Patent				[Constituting part of the County of Salem as Upper Alloways Creek Township]			1767-06-17				t			\N						
+24681	48126	Letters Patent				[Constituting part of the County of Salem as the Township of New Piles Grove]			1765-10-29				t			\N						
+24682	48126	Letters Patent				[Constituting inhabitants between the Townships of Piles Grove and Alloways Creek in the County of Salem as the Township of New Piles Grove]			1764-05-24				t			\N						
+24683	48126	Letters Patent				[Constituting part of the County of Hunterdon as the Township of Alexandria]			1765-03-05				t			\N						
+24684	48126	Letters Patent				[Altering, englarging, and adding to the charter of the Mayor Recorder Alderman & Commonality of the City of New Brunswick]			1763-02-12				t			\N						
+24685	48126	Letters Patent				[Constituting part of the Township of Oxford in Sussex County as a township by the name Knowlton]			1763-02-23				t			\N						
+24686	48126	Letters Patent				[Constituting the upper part of the Township of Wallpeck in Sussex County as a township by the name Sandyston]			1762-02-26				t			\N						
+24687	48126	Letters Patent				[Constituting the Easterly part of the Township of Newtown in Sussex County as a township by the name Hardyston]			1762-02-25				t			\N						
+24688	48126	Letters Patent				[Constituting the northern part of the County of Sussex as a township named Montague]			1759-03-26				t			\N						
 24689	1824	Minute							1761-05-13				t			\N						
 24690	1824	Minute							1761-09-15				t			\N						
-24691	48126	Letters Patent							1760-05-24				t			\N						
+24691	48126	Letters Patent				[Constituting the northerly part of Somerset county as a township by the name Bernardston, saving to the borough of Elisabeth their rights respecting town matters where the bounds of said borough incloses any part of the township]			1760-05-24				t			\N						
 24692	48126	Letters Patent							1753-~01-~01				t			\N						
-24693	48126	Letters Patent							1749[-03-03J				t			\N						
-24694	48126	Letters Patent							1749[-01-22J				t			\N						
-24695	48126	Letters Patent							1739[-02-08J				t			\N						
-24696	48126	Letters Patent							1733-05-07J				t			\N						
-24697	48126	Letters Patent							1730-12-30J				t			\N						
-24698	48126	Letters Patent							1730-07-15J				t			\N						
-24699	48126	Letters Patent							1723-12-02J				t			\N						
+24693	48126	Letters Patent				[Constituting the South western part of the Township of Shrewsbury in the County of Monmouth as the Township of Stafford]			1749[-03-03J				t			\N						
+24694	48126	Letters Patent				[Constituting the North East part of the Township of Greenwich in the County of Morris as the Township of Hardwicke]			1749[-01-22J				t			\N						
+24695	48126	Letters Patent				[Constituting the Mayor, Aldermen and Commonalty of the Free Borough and Town of Elizabeth]			1739[-02-08J				t			\N						
+24696	48126	Letters Patent				[Constituting the Town of Burlington as the Mayor, Recorder, Aldermen, and Commonality of the CIty of Burlington]			1733-05-07J				t			\N						
+24697	48126	Letters Patent				[Constituting the Town of New Brunswick as the Mayor, Recorder, Alderman and Commonalty of the City of New Brunswick]			1730-12-30J				t			\N						
+24698	48126	Letters Patent				[Constituting the Eastern part of the Township of Amewell in the County of Hunterdon as the Township of Reading]			1730-07-15J				t			\N						
+24699	48126	Letters Patent				[Constituting parts of the Townships of Chesterfield and Springfield in the County of Burlington as the Township of New Hanover]			1723-12-02J				t			\N						
 24700	48126	Letters Patent							1713[-01-14J				t			\N						
 24701	48126	Minute	Provincial Council						1713-12-22J				t			\N				13	491	491
 24702	48126	Minute	Provincial Council						1713[-01-22J				t			\N				13	504	504
 24703	48126	Minute	Provincial Council						1713[-01-26J				t			\N				13	505	505
 24704	48126	Minute	Provincial Council						1713[-01-28J				t			\N				13	507	508
 24706	48126	Minute	Provincial Council						1713[-03-17J				t			\N				13	552	552
-24707	48126	Letters Patent							1708-06-08J				t			\N						
-24708	48126	Letters Patent							1713-04-27J				t			\N						
+24707	48126	Letters Patent				[Constituting part of the County of Burlington as the Township of Amwell]			1708-06-08J				t			\N						
+24708	48126	Letters Patent				[Constituting the Towne of Newarke in the County of Essex as the trustees of the freeholders and inhabitants of the Township of Newarke]			1713-04-27J				t			\N						
 24709	7524	Minute							1755-03-11				t			\N						
 24710	1818	Minute					3	3	1716[-~03-~20J				t			\N						
 24711	7073	Ordinance		348		To annex lands now or formerly of Ronardson, Inc., lying in the Township of Rockaway and constituting part of Eagle Canyon Estates into the Township of Boonton.			1986-07-24				t	[as provided by law]		\N						
@@ -7468,12 +7463,12 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24720	7767	Ordinance							1997-03-21				t			\N						
 24721	1836	Election				Shall the Charter of Scotch Plains adopt, governed by the Council - Manager form of government, be amended under that plan to provide for the election of the Mayor directly by the voters of the Municipality?			1999-11-02				t			\N						
 24722	7476	Ordinance		19	1999	Requesting that the County Clerk of the County of Union print upon the Official Ballot to be used at the next ensuing general election a proposition amending the local charter to provide for a directly elected mayor.			1999-08-17				t	[upon adoption, approval and publication as required by law]		\N						
-24723	1829	Election							2004-11-02				t			\N						
+24723	1829	Election				[For or against the change of name of the Borough of South Belmar to the Borough of Lake Como]			2004-11-02				t			\N						
 24724	7272	Resolution		1	2005				2005-01-04				t			\N						
-24725	7058	Ordinance		928					1971-12-28				t			\N						
-24726	7137	Ordinance		786					1971-12-14				t			\N						
-24727	7241	Ordinance		521					1974-10-07		1974-10-07		t	[upon passage and publication according to law]	1974-11-14	\N						
-24728	7241	Ordinance		523					1975-02-03				t	[upon passage and publication according to law]	1975-03-06	\N						
+24725	7058	Ordinance		928		To partition lands and to relocate the boundary line of the Borough of Bergenfield and the Borough of Dumont, Bergen County, New Jersey.			1971-12-28				t	when passed and published as required by law by both the Borough of Bergenfield and the Borough of Dumont		\N						
+24726	7137	Ordinance		786		To partition lands and to relocate the boundary line of the Borough of Bergenfield and the Borough of Dumont, Bergen County, New Jersey.			1971-12-28		1971-12-28		t			\N						
+24727	7241	Ordinance		521		To annex certain lands in the Township of East Windsor to the Borough of Hightstown, in the County of Mercer, pursuant to N.J.S.A. 40:43-26.			1974-10-07		1974-10-07		t	[upon passage and publication according to law]	1974-11-14	\N						
+24728	7241	Ordinance		523		To annex certain lands in the Township of East Windsor to the Borough of Hightstown, in the County of Mercer, pursuant to N.J.S.A. 40:43-26.			1975-02-03				t	[upon passage and publication according to law]	1975-03-06	\N						
 24729	7241	Ordinance				To annex to the Borough of Hightstown, Mercer County, New Jersey, a tract of land containing 2.279 acres situate in the Township of East Windsor, Mercer County, New Jersey			1962-12-04		1962-12-04		t	[after final passage and publication according to law]		\N						
 24730	7241	Ordinance				To annex to the Borough of Hightstown, Mercer County, New Jersey, a tract of land containing 5250 square feet situate in the Township of East Windsor, Mercer County, New Jersey.			1968-11-06				t	[after final passage and publication according to law]	1968-11-14	\N						
 24731	7483	Ordinance		17	1989				1989-12-05				t	[upon final passage and publication according to law and the adoption by the Township of MEdford of the requisite reciprocal ordinance and resolution to complete the land exchange]	1989-12-14	\N						
@@ -7489,10 +7484,9 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24743	7245	Resolution							1975-12-06				t			\N						
 24745	7580	Resolution		294-6	1975				1975-06-17				t			\N						
 24746	7231	Ordinance							1970-03-~01				t			\N						
-24747	7421	Ordinance		6	1969				1969-12-09				t	[unless and until the said Township of Berkeley shall adopt a similar ordinance; immediately upon final passage and publication as required by law]		\N						
+24747	7421	Ordinance		6	1969	Altering the boundary line between the Township of Berkeley and the Borough of Pine Beach, in the County of Ocean and State of New Jersey.			1969-12-09				t	[unless and until the said Township of Berkeley shall adopt a similar ordinance; immediately upon final passage and publication as required by law]		\N						
 24748	3939	Minute					172	172	1931-09-14				t			\N	1924-1944					
-24749	7059	Ordinance		306					1969-12-12				t		1969-12-18	\N						
-24750	7814	Ordinance							1951-01-18				t			\N						
+24749	7059	Ordinance		306		To alter the boundary line between the Township of berkeley and the Borough of Pine Beach, in the County of Ocean and State of New Jersey.			1969-12-12				t	immediately upon final passage and publication as required by law	1969-12-18	\N						
 24751	7576	Ordinance							1942-04-14				t			\N						
 24752	7160	Ordinance							1942-04-14				t			\N						
 24753	7241	Ordinance							1953-02-03				t			\N						
@@ -7554,7 +7548,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24902	1832	Election				"For the adoption or the rejection by the Borough of West Paterson of the provisions of an act of one thousand nine hundred and eleven, entitled 'An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities government by boards of commissioners or improvement commissions in this State.'"			1928-02-07				f			\N						
 24903	7622	Resolution				[Official title of municipality hereafter "THE TOWN OF BLOOMFIELD"]			1928-02-06				t			\N						
 24904	1818	Election				"For the adoption or rejection by the Borough of Ramsey of the provisions of an act of one thousand nine hundred and eleven, entitled 'An act relating to, regulating and providing for the government of cities, town, townships, boroughs, villages and municipalities governed by boards of commissioners or improvement commissions in this State.'"			1928-04-24				f			\N						
-24905	7429	Election				[For the adoption or rejection of Commission Form of Government, commonly known as the "Walsh Act," by the City of Pleasantville]			1937-11-02				f			\N						
+24905	1817	Election				[For the adoption or rejection of Commission Form of Government, commonly known as the "Walsh Act," by the City of Pleasantville]			1937-11-02				f			\N						
 24906	1829	Election				[Upon the adoption or reject of the Act entitled, "AN ACT relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities government by boards of commissioners or improvement commissions in this State." by the Borough of Keyport]			1935-04-30				f			\N						
 24907	7368	Ordinance				To annex to the City of New Brunswick, a part of the Township of North Brunswick, Middlesex County, described as follows: bounded on the north side by the Lincoln Highway, on the west side by Howe's Lane on the south side by the Pennsylvania Railroad and on the east side by the city line of New Brunswick.			1929-05-07				t	immediately		\N						
 24908	7378	Resolution				[Consenting to the annexation]			1929-02-25				t			\N						
@@ -7585,7 +7579,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24933	7611	Resolution				[Consenting to the annexation of certain territory by the City of Newark]			1939-02-14				t			\N						
 24934	7611	Resolution				[For commissioners to proportion indebtedness]			1939-02-28				t			\N						
 24935	1823	Election				[For or against the adoption of the municipal manager form of government by the City of Newark]			1940-02-20				f			\N						
-24936	7256	Ordinance				[Annexing portions of streets from Ocean Township]			1939-07-24				t			\N						
+24936	7256	Ordinance				[Annexing portions of streets from Ocean Township]			1939-07-24				t		1939-07-28	\N						
 24937	7124	Resolution				Shortening the corporate title of the Township of Cranford in the County of Union			1940-03-19				t			\N						
 24938	1825	Election				[For or against the adoption of Subtitle 5 of the Title Municipalities and Counties of the Revised Statutes (40:79-1 et seq.) providing for Municipal Manager Form of Government by the City of Bayonne]			1940-10-15				f			\N						
 24939	7522	Resolution				[Name changed to "The Borough of Tenafly"]			1941-02-25				t			\N						
@@ -7613,7 +7607,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24961	7173	Resolution				[To request the Legislature enact a statute creating new boundary line]			1962-04-14				t			\N						
 24962	7465	Ordinance				Annexing certain described lands from the Township of Cranford, Union County, New Jersey, and designating the same to be a part of the Fourth Ward in the Borough of Roselle.			1968-08-26		1968-08-26		t	in the manner provided by law		\N						
 24963	7301	Ordinance				To annex to the Township of Lopatcong, County of Warren and State of New Jersey certain tracts and parcels of land hereinafter more particularly descri[bed] situated in the Township of Greenwich, County of Warren and State of New Jersey.			1965-08-02				t	after final passage and publication		\N						
-24966	7262	Election				"Shall the 'mayor-council Plan B' of the optional Municipal Charter Law, providing for nine councilmen to be elected at large, be adopted by the City of Jersey City?"			1951-12-11				f			\N						
+24966	1825	Election				"Shall the 'mayor-council Plan B' of the optional Municipal Charter Law, providing for nine councilmen to be elected at large, be adopted by the City of Jersey City?"			1951-12-11				f			\N						
 24967	7262	Resolution				[Calling a special election on December 11, 1951]			1951-11-20				t			\N						
 24968	7091	Resolution				[Council in opposition to merger with the Township of Levittown]			1961-11-28				t			\N						
 24969	7226	Resolution							1981-08-18				t			\N						
@@ -7624,10 +7618,558 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 24974	7828	Ordinance				Providing for the holding of a Special Election, for the purpose of deciding whether the Township of Union, in the County of Hudson, shall become incorporated as a town.			1898-06-06				t			\N						
 24975	1821	Election				[For or against the acceptance of Chapter 94 of 1907]			1907-04-30				t			\N						
 24976	1821	Election				[For the adoption or rejection by the Borough of Wildwood Crest of the Act of March 21, 1899]			1917-08-07				f			\N						
-24977	1831	Election				"Shall an act entitled 'An act to incorporate the borough of Forked River, in the County of Ocean,' be adopted?"			1923-05-01				f			\N						
+24977	1831	Election				"Shall an act entitled 'An act to incorporate the borough of Forked River, in the County of Ocean,' be adopted?"			1923-~05-~01				f			\N						
 24983	54479	Oath of Allegiance							1665[-02-19J				t			1665				1:1	49	50
 24984	54479	Oath of Allegiance							1667*-02-27J				t			1665				1:1	50	50
 24985	7782	Final Report	Consolidation Commission						2011-06-22			2013-01-01	t			\N						
 24986	7783	Final Report	Consolidation Commission						2011-06-22			2013-01-01	t			\N						
 24987	1827	Election							1892-05-10				t			\N						
 24988	1836	Election							1869-04-21				t			\N						
+25079	4019	Ordinance		395					2023-09-07				t			\N						
+25080	5467	Ordinance		302	2023				2023-09-05				t			\N						
+25081	4586	Agreement				Concerning assessment of properties			2023-05-15			2024-01-01	t			\N						
+25082	5554	Agreement				Concerning assessment of properties			2023-05-15			2024-01-01	t			\N						
+25083	5263	Ordinance		1	2023	Accepting transfer of a certain tract of land from Monroe Township to Shamokin Dam Borough and effectuating a change of boundaries between the municipalities			2023-10-19		2023-10-19		t			\N						
+25084	4704	Ordinance		2	2023	Transferring a certain tract of land from Monroe Township to Shamokin Dam Borough and effectuating a change of boundaries between the municipalities			2023-10-24				t			\N						
+25087	4169	Ordinance		4	2023	Memorializing a boundary line agreement between the two townships			2023-10-03				t			\N						
+25088	4462	Ordinance		1	2023	Memorializing a boundary line agreement between the two townships			2023-10-03				t			\N						
+25323	7047	Ordinance		283		Annexing certain portions of the property of Paul K. Pavlides and Lillian E. Pavlides into the Borough of Barrington			1973-05-08				t			\N						
+25324	7839	Ordinance		30	1996	Annexing territory of the Township of Hamilton to the Township of Washington generally identified as a portion of the Mercer Mobile Home Park			1996-12-05				t	[not specified]		\N						
+25325	7390	Ordinance							1939-07-03				t		1939-07-06	\N						
+25326	7203	Ordinance		3	2014				2014-02-27				t			\N						
+25327	135044	Minute	Privy Council			[Confirming a 1771 act of the Province of New York establishing the partition line with New Jersey]	296	297	1773-09-01				t			\N	PC 2/117					
+25328	135044	Minute	Privy Council			[Confirming a 1772 act of the Province of New Jersey establishing the partition line with New York]	297	297	1773-09-01				t			\N	PC 2/117					
+25329	135044	Minute	Privy Council			[Referring 1771 and 1772 acts of the Provinces of New York and New Jersey, respectively, concerning their partition line, to the Committee of Council for Plantation Affairs]	218		1773-06-09				t			\N	PC 2/117					
+25330	135044	Minute	Privy Council			[Report recommending laying the 1771 and 1772 acts of the Provinces of New York and New Jersey, respectively, concerning their partition line, before his Majesty for confirmation]	280	281	1773-08-26				t			\N	PC 2/117					
+25331	7750	Resolution							1991-12-10				t			\N						
+25332	7496	Ordinance		1	2024	Approving and adopting a revised charter, adopted by the New Jersey State Legislature			2024-03-11				t			\N						
+25333	7634	Resolution		1-26-95		Authorizing change of municipal name to Borough of Caldwell, in the County of Essex, pursuant to N.J.S.A. 40A:60-1			1995-01-10				t			\N						
+25334	48126	Minute	Provincial Council			"A Petition from the inhabitants of Lebannon to be erected into a Township by the Name of Tewksbury with the usual Privileges According to Law was read the Board Advise the Granting the said Patent."			1755-03-03				t			1665				1:16	511	511
+25336	48126	Minute	Provincial Council			"His Excellency laid before the Board A Patent for Erecting a Township in Hunterdon by the name of Hopewell which the Council advised his Excellency to grant"			1755-03-01				t			1665				1:16	508	508
+25337	48126	Letters Patent				[Inhabitants of Lebannon to be erected into a Township by the Name of Tewksbury]			1755-03-~03				t			\N						
+25338	48126	Minute	Provincial Council			"His Excellency was Pleased to lay before the Board a Petition signed by Francis Hingston and nineteen others, calling themselves “The Freeholders Inhabitants of the 'Township of Gloucester in the County of Gloucester' setting forth that they understand some of the Inhabitants of the town of Gloucester have surveyed off part of the said Township, and prayed that it may be annexed by Patent to the said Town of Gloucester and offering sundry Reasons against the said part of their Township being so severed, and praying that the said Patent may not be granted. The Council taking the same into Consideration and finding that the said Patent had been regularly applied for in the usual Form, that the said Petitioners or great part of them had been timely notified of the said Application, and that the said Patent had passed the Great Seal before the presenting of this Petition without any Opposition being made thereto, were of Opinion that his Excellency could not with Propriety pay any farther regard to the said Petition"			1773-12-22				t			1665				1:18	378	379
+25339	48126	Minute	Provincial Council			"His Excellency was Pleased to lay before the Board a Petition from sundry of the Inhabitants of the Town of Gloucester and part of the Township of Gloucester, setting forth-That there is no established Boundary of the said Town to be found on Record and that by the reputed Boundary of the said Town it is so small and the Inhabitants within the same so few as scarcely to afford a sufficient number of Freeholders to hold the necessary Town Offices.-And therefore praying that part of the said Township of Gloucester, as described in the said Petition may be annexed to the said Town of Gloucester by Patent. John Hinchman and Robert Friend Price Esqrs the Representatives of the County of Gloucester who attended for that purpose being heard in support of the said Petition, and it appearing to the Board to be proper that the Prayer of the said Petition should be granted, the Council advised his Excellency to cause a Patent to be issued pursuant to the said Prayer"			1773-12-08				t			1665				1:18	372	372
+25340	7645	Agreement							1695*-12-29QJ				t			\N						
+25341	7166	Agreement							1695*-12-29QJ				t			\N						
+25342	7688	Resolution		53	1993	[Redesignating the "Township Of GLEN RIDGE Borough" to the "Borough Of GLEN RIDGE."]			1993-05-10				t			\N						
+25343	1828	Election				[For or against the incorporation of the Borough of Metuchen]			1889-05-13				t			\N						
+25344	1829	Election							1893-03-28				t			\N						
+25345	7373	Resolution							1904-12-30				t			\N						
+25346	7373	Resolution							1926-03-02				t			\N						
+25347	1829	Election							1907-04-15				t			\N						
+25350	1823	Election							1961-~01-~01				t			\N						
+25352	1817	Election							1968-~01-~01				t			\N						
+25353	1820	Election							1986-~01-~01				t			\N						
+25354	1829	Election							1965-~01-~01				t			\N						
+25355	1831	Election							1982-~01-~01				t			\N						
+25356	1819	Election							1987-~01-~01				t			\N						
+25357	1823	Election							1954-~01-~01				t			\N						
+25358	1829	Election							1988-~01-~01				t			\N						
+25359	1831	Election							1969-~01-~01				t			\N						
+25360	1836	Election							1967-~01-~01				t			\N						
+25361	1826	Election							1983-~01-~01				t			\N						
+25362	1830	Election							1952-~01-~01				t			\N						
+25363	1829	Election							1951-~01-~01				t			\N						
+25364	1829	Election							1976-~01-~01				t			\N						
+25365	1834	Election							1953-~01-~01				t			\N						
+25366	1820	Election							1972-~01-~01				t			\N						
+25367	1836	Election							1972-~01-~01				t			\N						
+25368	1830	Election							1985-~01-~01				t			\N						
+25369	1827	Election							1976-~01-~01				t			\N						
+25370	1827	Election							1984-~01-~01				t			\N						
+25371	1819	Election							1977-~01-~01				t			\N						
+25372	1828	Election							1968-~01-~01				t			\N						
+25373	1817	Election							1982-~01-~01				t			\N						
+25374	1818	Election							1963-~01-~01				t			\N						
+25375	1818	Election							1985-~01-~01				t			\N						
+25376	1834	Election							1966-~01-~01				t			\N						
+25377	1818	Election							1957-~01-~01				t			\N						
+25378	1818	Election							1967-~01-~01				t			\N						
+25379	1820	Election							1965-~01-~01				t			\N						
+25380	1820	Election							1959-~01-~01				t			\N						
+25382	1827	Election							1968-~01-~01				t			\N						
+25383	1817	Election							1969-~01-~01				t			\N						
+25385	1826	Election							1970-~01-~01				t			\N						
+25386	1829	Election							1984-~01-~01				t			\N						
+25387	1823	Election							1954-~01-~01				t			\N						
+25388	1831	Election							1965-~01-~01				t			\N						
+25389	1831	Election							1968-~01-~01				t			\N						
+25391	1829	Election							1965-~01-~01				t			\N						
+25392	1831	Election							1968-~01-~01				t			\N						
+25393	1831	Election							1971-~01-~01				t			\N						
+25394	1831	Election							1963-~01-~01				t			\N						
+25395	1830	Election							1967-~01-~01				t			\N						
+25396	1817	Election							1973-~01-~01				t			\N						
+25397	1823	Election							1952-~01-~01				t			\N						
+25398	1818	Election							1970-~01-~01				t			\N						
+25400	1831	Election							1969-~01-~01				t			\N						
+25401	1830	Election							1969-~01-~01				t			\N						
+25402	1818	Election							1978-~01-~01				t			\N						
+25403	1829	Election							1970-~01-~01				t			\N						
+25404	1831	Election							1982-~01-~01				t			\N						
+25405	1823	Election							1963-~01-~01				t			\N						
+25406	1822	Election							1970-~01-~01				t			\N						
+25407	1818	Election							1951-~01-~01				t			\N						
+25408	1818	Election							1955-~01-~01				t			\N						
+25409	1829	Election							1969-~01-~01				t			\N						
+25410	1829	Election							1988-~01-~01				t			\N						
+25411	1823	Election							1972-~01-~01				t			\N						
+25412	1824	Election							1984-~01-~01				t			\N						
+25413	1823	Election							1951-~01-~01				t			\N						
+25414	1823	Election							1973-~01-~01				t			\N						
+25415	1830	Election							1955-~01-~01				t			\N						
+25416	1830	Election							1964-~01-~01				t			\N						
+25418	1828	Election							1976-~01-~01				t			\N						
+25419	1818	Election							1979-~01-~01				t			\N						
+25420	1834	Election							1954-~01-~01				t			\N						
+25421	1834	Election							1956-~01-~01				t			\N						
+25422	1821	Election							1963-~01-~01				t			\N						
+25423	1830	Election							1969-~01-~01				t			\N						
+25424	1832	Election							1955-~01-~01				t			\N						
+25426	1837	Election							1972-~01-~01				t			\N						
+25427	1818	Election							1960-~01-~01				t			\N						
+25428	1818	Election							1969-~01-~01				t			\N						
+25430	1821	Election							1980-~01-~01				t			\N						
+25431	1831	Election							1958-~01-~01				t			\N						
+25432	1817	Election							1976-~01-~01				t			\N						
+25434	1831	Election							1982-~01-~01				t			\N						
+25435	1828	Election							1961-~01-~01				t			\N						
+25436	1836	Election							1958-~01-~01				t			\N						
+25437	1825	Election							1985-~01-~01				t			\N						
+25438	1820	Election							1971-~01-~01				t			\N						
+25440	1834	Election							1955-~01-~01				t			\N						
+25441	1834	Election							1975-~01-~01				t			\N						
+25442	1825	Election							1969-~01-~01				t			\N						
+25443	1823	Election							1954-~01-~01				t			\N						
+25444	1832	Election							1957-~01-~01				t			\N						
+25445	1831	Election							1988-~01-~01				t			\N						
+25447	1822	Election							1951-~01-~01				t			\N						
+25448	1825	Election							1952-~01-~01				t			\N						
+25449	1819	Election							1953-~01-~01				t			\N						
+25454	1819	Election							1954-~01-~01				t			\N						
+25455	1829	Election							1955-~01-~01				t			\N						
+25457	1823	Election							1955-~01-~01				t			\N						
+25464	1836	Election							1959-~01-~01				t			\N						
+25469	1823	Election							1960-~01-~01				t			\N						
+25470	1823	Election							1962-~01-~01				t			\N						
+25472	1832	Election							1960-~01-~01				t			\N						
+25473	1823	Election							1961-~01-~01				t			\N						
+25474	1820	Election							1962-~01-~01				t			\N						
+25476	1823	Election							1962-~01-~01				t			\N						
+25478	1829	Election							1963-~01-~01				t			\N						
+25481	1829	Election							1966-~01-~01				t			\N						
+25483	1830	Election							1964-~01-~01				t			\N						
+25484	1831	Election							1966-~01-~01				t			\N						
+25486	1832	Election							1966-~01-~01				t			\N						
+25487	1832	Election							1966-~01-~01				t			\N						
+25488	1830	Election							1966-~01-~01				t			\N						
+25489	1819	Election							1968-~01-~01				t			\N						
+25490	1837	Election							1968-~01-~01				t			\N						
+25491	1828	Election							1967-~01-~01				t			\N						
+25492	1830	Election							1967-~01-~01				t			\N						
+25493	1818	Election							1969-~01-~01				t			\N						
+25494	1837	Election							1967-~01-~01				t			\N						
+25495	1822	Election							1969-~01-~01				t			\N						
+25496	1827	Election							1968-~01-~01				t			\N						
+25498	1818	Election							1969-~01-~01				t			\N						
+25499	1818	Election							1968-~01-~01				t			\N						
+25500	1830	Election							1969-~01-~01				t			\N						
+25501	1830	Election							1969-~01-~01				t			\N						
+25502	1824	Election							1969-~01-~01				t			\N						
+25504	1828	Election							1969-~01-~01				t			\N						
+25505	1828	Election							1969-~01-~01				t			\N						
+25506	1819	Election							1971-~01-~01				t			\N						
+25507	1830	Election							1970-~01-~01				t			\N						
+25508	1824	Election							1970-~01-~01				t			\N						
+25509	1819	Election							1970-~01-~01				t			\N						
+25510	1828	Election							1971-~01-~01				t			\N						
+25511	1830	Election							1970-~01-~01				t			\N						
+25512	1828	Election							1971-~01-~01				t			\N						
+25513	1820	Election							1972-~01-~01				t			\N						
+25514	1826	Election							1971-~01-~01				t			\N						
+25515	1820	Election							1971-~01-~01				t			\N						
+25516	1836	Election							1971-~01-~01				t			\N						
+25517	1831	Election							1973-~01-~01				t			\N						
+25518	1829	Election							1973-~01-~01				t			\N						
+25519	1818	Election							1973-~01-~01				t			\N						
+25521	1834	Election							1974-~01-~01				t			\N						
+25522	1819	Election							1973-~01-~01				t			\N						
+25524	1818	Election							1973-~01-~01				t			\N						
+25525	1819	Election							1973-~01-~01				t			\N						
+25526	1830	Election							1973-~01-~01				t			\N						
+25527	1837	Election							1973-~01-~01				t			\N						
+25528	1817	Election							1973-~01-~01				t			\N						
+25530	1837	Election							1974-~01-~01				t			\N						
+25531	1834	Election							1975-~01-~01				t			\N						
+25532	1823	Election							1975-~01-~01				t			\N						
+25533	1828	Election							1975-~01-~01				t			\N						
+25534	1817	Election							1975-~01-~01				t			\N						
+25535	1829	Election							1976-~01-~01				t			\N						
+25536	1821	Election							1977-~01-~01				t			\N						
+25537	1821	Election							1978-~01-~01				t			\N						
+25538	1818	Election							1977-~01-~01				t			\N						
+25539	1837	Election							1978-~01-~01				t			\N						
+25540	1819	Election							1978-~01-~01				t			\N						
+25541	1830	Election							1978-~01-~01				t			\N						
+25542	1823	Election							1979-~01-~01				t			\N						
+25543	1832	Election							1971-~01-~01				t			\N						
+25544	1820	Election							1980-~01-~01				t			\N						
+25545	1817	Election							1981-~01-~01				t			\N						
+25546	1824	Election							1980-~01-~01				t			\N						
+25547	1832	Election							1980-~01-~01				t			\N						
+25548	1830	Election							1980-~01-~01				t			\N						
+25549	1831	Election							1981-~01-~01				t			\N						
+25550	1825	Election							1981-~01-~01				t			\N						
+25551	1831	Election							1982-~01-~01				t			\N						
+25552	1819	Election							1981-~01-~01				t			\N						
+25553	1820	Election							1982-~01-~01				t			\N						
+25554	1826	Election							1981-~01-~01				t			\N						
+25555	1821	Election							1982-~01-~01				t			\N						
+25556	1824	Election							1982-~01-~01				t			\N						
+25557	1821	Election							1983-~01-~01				t			\N						
+25558	1818	Election							1983-~01-~01				t			\N						
+25559	1828	Election							1982-~01-~01				t			\N						
+25560	1828	Election							1982-~01-~01				t			\N						
+25561	1829	Election							1984-~01-~01				t			\N						
+25562	1824	Election							1984-~01-~01				t			\N						
+25563	1818	Election							1984-~01-~01				t			\N						
+25564	1817	Election							1984-~01-~01				t			\N						
+25565	1823	Election							1986-~01-~01				t			\N						
+25566	1823	Election							1988-~01-~01				t			\N						
+25567	1832	Election							1988-~01-~01				t			\N						
+25568	1829	Election							1989-~01-~01				t			\N						
+25569	1817	Election							1989-~01-~01				t			\N						
+25570	1819	Election							1989-~01-~01				t			\N						
+25571	1818	Election							1987-~01-~01				t			\N						
+25572	1829	Election							1990-~01-~01				t			\N						
+25573	1819	Election							1990-~01-~01				t			\N						
+25574	1837	Election							1990-~01-~01				t			\N						
+25576	1821	Election							1993-~01-~01				t			\N						
+25578	1836	Election							1995-~01-~01				t			\N						
+25579	1828	Election							1995-~01-~01				t			\N						
+25580	1835	Election							1995-~01-~01				t			\N						
+25581	1819	Election							1999-~01-~01				t			\N						
+25582	1831	Election							2002-~01-~01				t			\N						
+25583	1832	Election							2002-~01-~01				t			\N						
+25584	1830	Election							1989-~01-~01				t			\N						
+25585	1829	Election							1991-~01-~01				t			\N						
+25586	1831	Election							1988-~01-~01				t			\N						
+25587	1837	Election							1989-~01-~01				t			\N						
+25588	1827	Election							2003-~01-~01				t			\N						
+25589	1836	Election							2005-~01-~01				t			\N						
+25590	1821	Election							2005-~01-~01				t			\N						
+25591	1831	Election							2008-~01-~01				t			\N						
+25592	1835	Election							2009-~01-~01				t			\N						
+25593	1829	Election							2013-~01-~01				t			\N						
+25594	1825	Election	Charter Commission						1952-~01-~01				t			\N						
+25596	1830	Election	Charter Commission						1953-~01-~01				t			\N						
+25598	1827	Election	Charter Commission						1955-~01-~01				t			\N						
+25601	1823	Election	Charter Commission						1955-~01-~01				t			\N						
+25614	1832	Election	Charter Commission						1962-~01-~01				t			\N						
+25616	1823	Election	Charter Commission						1962-~01-~01				t			\N						
+25617	1828	Election	Charter Commission						1962-~01-~01				t			\N						
+25619	1828	Election	Charter Commission						1963-~01-~01				t			\N						
+25621	1831	Election	Charter Commission						1966-~01-~01				t			\N						
+25623	1830	Election	Charter Commission						1966-~01-~01				t			\N						
+25624	1819	Election	Charter Commission						1968-~01-~01				t			\N						
+25625	1837	Election	Charter Commission						1968-~01-~01				t			\N						
+25626	1828	Election	Charter Commission						1967-~01-~01				t			\N						
+25627	1830	Election	Charter Commission						1967-~01-~01				t			\N						
+25628	1832	Election	Charter Commission						1968-~01-~01				t			\N						
+25629	1822	Election	Charter Commission						1969-~01-~01				t			\N						
+25631	1818	Election	Charter Commission						1968-~01-~01				t			\N						
+25632	1830	Election	Charter Commission						1969-~01-~01				t			\N						
+25633	1830	Election	Charter Commission						1969-~01-~01				t			\N						
+25635	1828	Election	Charter Commission						1969-~01-~01				t			\N						
+25636	1819	Election	Charter Commission						1971-~01-~01				t			\N						
+25637	1830	Election	Charter Commission						1970-~01-~01				t			\N						
+25638	1824	Election	Charter Commission						1970-~01-~01				t			\N						
+25639	1819	Election	Charter Commission						1970-~01-~01				t			\N						
+25640	1830	Election	Charter Commission						1970-~01-~01				t			\N						
+25641	1826	Election	Charter Commission						1971-~01-~01				t			\N						
+25642	1820	Election	Charter Commission						1971-~01-~01				t			\N						
+25643	1836	Election	Charter Commission						1971-~01-~01				t			\N						
+25644	1830	Election	Charter Commission						1972-~01-~01				t			\N						
+25645	1832	Election	Charter Commission						1973-~01-~01				t			\N						
+25646	1834	Election	Charter Commission						1974-~01-~01				t			\N						
+25647	1819	Election	Charter Commission						1973-~01-~01				t			\N						
+25649	1830	Election	Charter Commission						1973-~01-~01				t			\N						
+25650	1817	Election	Charter Commission						1973-~01-~01				t			\N						
+25652	1837	Election	Charter Commission						1974-~01-~01				t			\N						
+25653	1834	Election	Charter Commission						1975-~01-~01				t			\N						
+25654	1828	Election	Charter Commission						1975-~01-~01				t			\N						
+25655	1819	Election	Charter Commission						1978-~01-~01				t			\N						
+25656	1830	Election	Charter Commission						1978-~01-~01				t			\N						
+25657	1823	Election	Charter Commission						1979-~01-~01				t			\N						
+25658	1832	Election	Charter Commission						1980-~01-~01				t			\N						
+25659	1830	Election	Charter Commission						1980-~01-~01				t			\N						
+25660	1825	Election	Charter Commission						1981-~01-~01				t			\N						
+25661	1819	Election	Charter Commission						1981-~01-~01				t			\N						
+25662	1821	Election	Charter Commission						1982-~01-~01				t			\N						
+25663	1821	Election	Charter Commission						1983-~01-~01				t			\N						
+25664	1823	Election	Charter Commission						1986-~01-~01				t			\N						
+25665	1829	Election	Charter Commission						1965-~01-~01				t			\N						
+25666	1823	Election	Charter Commission						1954-~01-~01				t			\N						
+25667	1836	Election	Charter Commission						1967-~01-~01				t			\N						
+25668	1830	Election	Charter Commission						1952-~01-~01				t			\N						
+25669	1834	Election	Charter Commission						1953-~01-~01				t			\N						
+25670	1836	Election	Charter Commission						1972-~01-~01				t			\N						
+25671	1819	Election	Charter Commission						1977-~01-~01				t			\N						
+25672	1817	Election	Charter Commission						1982-~01-~01				t			\N						
+25673	1818	Election	Charter Commission						1967-~01-~01				t			\N						
+25674	1820	Election	Charter Commission						1965-~01-~01				t			\N						
+25675	1820	Election	Charter Commission						1959-~01-~01				t			\N						
+25677	1827	Election	Charter Commission						1968-~01-~01				t			\N						
+25679	1823	Election	Charter Commission						1954-~01-~01				t			\N						
+25680	1831	Election	Charter Commission						1965-~01-~01				t			\N						
+25681	1829	Election	Charter Commission						1965-~01-~01				t			\N						
+25682	1831	Election	Charter Commission						1968-~01-~01				t			\N						
+25683	1818	Election	Charter Commission						1970-~01-~01				t			\N						
+25684	1831	Election	Charter Commission						1966-~01-~01				t			\N						
+25685	1830	Election	Charter Commission						1969-~01-~01				t			\N						
+25686	1818	Election	Charter Commission						1978-~01-~01				t			\N						
+25687	1829	Election	Charter Commission						1970-~01-~01				t			\N						
+25688	1823	Election	Charter Commission						1963-~01-~01				t			\N						
+25689	1829	Election	Charter Commission						1969-~01-~01				t			\N						
+25690	1823	Election	Charter Commission						1972-~01-~01				t			\N						
+25691	1823	Election	Charter Commission						1951-~01-~01				t			\N						
+25693	1818	Election	Charter Commission						1979-~01-~01				t			\N						
+25694	1834	Election	Charter Commission						1954-~01-~01				t			\N						
+25695	1830	Election	Charter Commission						1969-~01-~01				t			\N						
+25696	1832	Election	Charter Commission						1955-~01-~01				t			\N						
+25698	1837	Election	Charter Commission						1972-~01-~01				t			\N						
+25699	1830	Election	Charter Commission						1956-~01-~01				t			\N						
+25700	1821	Election	Charter Commission						1980-~01-~01				t			\N						
+25702	1836	Election	Charter Commission						1958-~01-~01				t			\N						
+25704	1834	Election	Charter Commission						1955-~01-~01				t			\N						
+25705	1834	Election	Charter Commission						1975-~01-~01				t			\N						
+25706	1825	Election	Charter Commission						1969-~01-~01				t			\N						
+25707	1823	Election	Charter Commission						1954-~01-~01				t			\N						
+25708	7246	Ordinance							1952-~01-~01				t			\N						
+25709	7406	Ordinance							1953-~01-~01				t			\N						
+25710	7102	Ordinance							1953-~01-~01				t			\N						
+25711	7167	Ordinance							1955-~01-~01				t			\N						
+25712	7440	Ordinance							1952-~01-~01				t			\N						
+25713	7375	Ordinance							1954-~01-~01				t			\N						
+25714	7417	Ordinance							1955-~01-~01				t			\N						
+25715	7184	Ordinance							1957-~01-~01				t			\N						
+25717	7574	Ordinance							1961-~01-~01				t			\N						
+25718	7050	Ordinance							1960-~01-~01				t			\N						
+25720	7390	Ordinance							1961-~01-~01				t			\N						
+25721	7724	Ordinance							1962-~01-~01				t			\N						
+25722	7587	Ordinance							1961-~01-~01				t			\N						
+25723	7141	Ordinance							1963-~01-~01				t			\N						
+25724	7730	Ordinance							1963-~01-~01				t			\N						
+25725	7352	Ordinance							1964-~01-~01				t			\N						
+25726	7460	Ordinance							1966-~01-~01				t			\N						
+25727	7419	Ordinance							1968-~01-~01				t			\N						
+25728	7424	Ordinance							1967-~01-~01				t			\N						
+25729	7442	Ordinance							1967-~01-~01				t			\N						
+25730	7568	Ordinance							1968-~01-~01				t			\N						
+25731	7081	Ordinance							1969-~01-~01				t			\N						
+25732	7280	Ordinance							1967-~01-~01				t			\N						
+25733	7261	Ordinance							1969-~01-~01				t			\N						
+25734	7285	Ordinance							1969-~01-~01				t			\N						
+25736	7368	Ordinance							1969-~01-~01				t			\N						
+25737	7130	Ordinance							1971-~01-~01				t			\N						
+25738	7134	Ordinance							1970-~01-~01				t			\N						
+25739	7178	Ordinance							1970-~01-~01				t			\N						
+25740	7360	Ordinance							1970-~01-~01				t			\N						
+25741	7117	Ordinance							1971-~01-~01				t			\N						
+25742	7202	Ordinance							1971-~01-~01				t			\N						
+25743	7476	Ordinance							1971-~01-~01				t			\N						
+25744	7082	Ordinance							1974-~01-~01				t			\N						
+25745	7091	Ordinance							1973-~01-~01				t			\N						
+25747	7194	Ordinance							1973-~01-~01				t			\N						
+25748	7219	Ordinance							1973-~01-~01				t			\N						
+25749	7301	Ordinance							1974-~01-~01				t			\N						
+25750	7382	Ordinance							1975-~01-~01				t			\N						
+25751	7502	Ordinance							1975-~01-~01				t			\N						
+25752	7326	Ordinance							1978-~01-~01				t			\N						
+25753	7342	Ordinance							1978-~01-~01				t			\N						
+25754	7737	Ordinance							1979-~01-~01				t			\N						
+25755	7451	Ordinance							1980-~01-~01				t			\N						
+25756	7467	Ordinance							1980-~01-~01				t			\N						
+25757	7561	Ordinance							1981-~01-~01				t			\N						
+25758	7148	Ordinance							1981-~01-~01				t			\N						
+25759	7302	Ordinance							1983-~01-~01				t			\N						
+25760	7541	Ordinance							1986-~01-~01				t			\N						
+25761	7611	Ordinance							1954-~01-~01				t			\N						
+25762	7072	Ordinance							1952-~01-~01				t			\N						
+25763	7082	Ordinance							1953-~01-~01				t			\N						
+25764	7124	Ordinance							1972-~01-~01				t			\N						
+25765	7151	Ordinance							1977-~01-~01				t			\N						
+25766	7153	Ordinance							1982-~01-~01				t			\N						
+25767	7195	Ordinance							1967-~01-~01				t			\N						
+25768	7214	Ordinance							1959-~01-~01				t			\N						
+25769	7219	Ordinance							1955-~01-~01				t			\N						
+25770	7219	Ordinance							1968-~01-~01				t			\N						
+25771	7704	Ordinance							1954-~01-~01				t			\N						
+25772	7259	Ordinance							1965-~01-~01				t			\N						
+25773	7263	Ordinance							1965-~01-~01				t			\N						
+25774	7295	Ordinance							1970-~01-~01				t			\N						
+25775	7297	Ordinance							1966-~01-~01				t			\N						
+25776	7308	Ordinance							1978-~01-~01				t			\N						
+25777	7309	Ordinance							1970-~01-~01				t			\N						
+25778	7320	Ordinance							1963-~01-~01				t			\N						
+25779	7737	Ordinance							1951-~01-~01				t			\N						
+25780	7382	Ordinance							1954-~01-~01				t			\N						
+25781	7407	Ordinance							1955-~01-~01				t			\N						
+25782	7412	Ordinance							1978-~01-~01				t			\N						
+25783	7431	Ordinance							1972-~01-~01				t			\N						
+25784	7479	Ordinance							1980-~01-~01				t			\N						
+25785	7493	Ordinance							1963-~01-~01				t			\N						
+25786	7545	Ordinance							1959-~01-~01				t			\N						
+25787	7551	Ordinance							1955-~01-~01				t			\N						
+25788	7551	Ordinance							1975-~01-~01				t			\N						
+25789	7246	Final Report	Charter Commission						1952-~01-~01				t			\N						
+25796	7293	Final Report	Charter Commission						1955-~01-~01				t			\N						
+25811	7761	Final Report	Charter Commission						1962-~01-~01				t			\N						
+25816	7080	Final Report	Charter Commission						1966-~01-~01				t			\N						
+25818	7460	Final Report	Charter Commission						1966-~01-~01				t			\N						
+25819	7166	Final Report	Charter Commission						1968-~01-~01				t			\N						
+25820	7419	Final Report	Charter Commission						1968-~01-~01				t			\N						
+25821	7424	Final Report	Charter Commission						1967-~01-~01				t			\N						
+25822	7442	Final Report	Charter Commission						1967-~01-~01				t			\N						
+25823	7568	Final Report	Charter Commission						1968-~01-~01				t			\N						
+25824	7081	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25826	7554	Final Report	Charter Commission						1968-~01-~01				t			\N						
+25827	7261	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25828	7285	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25830	7368	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25831	7130	Final Report	Charter Commission						1971-~01-~01				t			\N						
+25832	7133	Final Report	Charter Commission						1970-~01-~01				t			\N						
+25833	7134	Final Report	Charter Commission						1970-~01-~01				t			\N						
+25834	7178	Final Report	Charter Commission						1970-~01-~01				t			\N						
+25835	7360	Final Report	Charter Commission						1970-~01-~01				t			\N						
+25836	7117	Final Report	Charter Commission						1971-~01-~01				t			\N						
+25837	7202	Final Report	Charter Commission						1971-~01-~01				t			\N						
+25838	7476	Final Report	Charter Commission						1971-~01-~01				t			\N						
+25839	7355	Final Report	Charter Commission						1972-~01-~01				t			\N						
+25841	7082	Final Report	Charter Commission						1974-~01-~01				t			\N						
+25842	7091	Final Report	Charter Commission						1973-~01-~01				t			\N						
+25844	7361	Final Report	Charter Commission						1973-~01-~01				t			\N						
+25845	7194	Final Report	Charter Commission						1973-~01-~01				t			\N						
+25847	7301	Final Report	Charter Commission						1974-~01-~01				t			\N						
+25848	7382	Final Report	Charter Commission						1975-~01-~01				t			\N						
+25849	7502	Final Report	Charter Commission						1975-~01-~01				t			\N						
+25850	7326	Final Report	Charter Commission						1978-~01-~01				t			\N						
+25851	7342	Final Report	Charter Commission						1978-~01-~01				t			\N						
+25852	7737	Final Report	Charter Commission						1979-~01-~01				t			\N						
+25853	7451	Final Report	Charter Commission						1980-~01-~01				t			\N						
+25854	7467	Final Report	Charter Commission						1980-~01-~01				t			\N						
+25855	7561	Final Report	Charter Commission						1981-~01-~01				t			\N						
+25856	7148	Final Report	Charter Commission						1981-~01-~01				t			\N						
+25857	7580	Final Report	Charter Commission						1982-~01-~01				t			\N						
+25858	7302	Final Report	Charter Commission						1983-~01-~01				t			\N						
+25859	7541	Final Report	Charter Commission						1986-~01-~01				t			\N						
+25860	7044	Final Report	Charter Commission						1965-~01-~01				t			\N						
+25861	7611	Final Report	Charter Commission						1954-~01-~01				t			\N						
+25862	7060	Final Report	Charter Commission						1967-~01-~01				t			\N						
+25863	7072	Final Report	Charter Commission						1952-~01-~01				t			\N						
+25864	7082	Final Report	Charter Commission						1953-~01-~01				t			\N						
+25865	7124	Final Report	Charter Commission						1972-~01-~01				t			\N						
+25866	7151	Final Report	Charter Commission						1977-~01-~01				t			\N						
+25867	7153	Final Report	Charter Commission						1982-~01-~01				t			\N						
+25868	7195	Final Report	Charter Commission						1967-~01-~01				t			\N						
+25869	7202	Final Report	Charter Commission						1965-~01-~01				t			\N						
+25870	7214	Final Report	Charter Commission						1959-~01-~01				t			\N						
+25872	7219	Final Report	Charter Commission						1968-~01-~01				t			\N						
+25874	7704	Final Report	Charter Commission						1954-~01-~01				t			\N						
+25875	7259	Final Report	Charter Commission						1965-~01-~01				t			\N						
+25876	7263	Final Report	Charter Commission						1965-~01-~01				t			\N						
+25877	7270	Final Report	Charter Commission						1968-~01-~01				t			\N						
+25878	7295	Final Report	Charter Commission						1970-~01-~01				t			\N						
+25880	7306	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25881	7308	Final Report	Charter Commission						1978-~01-~01				t			\N						
+25882	7309	Final Report	Charter Commission						1970-~01-~01				t			\N						
+25883	7320	Final Report	Charter Commission						1963-~01-~01				t			\N						
+25884	7334	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25885	7337	Final Report	Charter Commission						1972-~01-~01				t			\N						
+25886	7737	Final Report	Charter Commission						1951-~01-~01				t			\N						
+25888	7376	Final Report	Charter Commission						1979-~01-~01				t			\N						
+25889	7382	Final Report	Charter Commission						1954-~01-~01				t			\N						
+25890	7770	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25891	7407	Final Report	Charter Commission						1955-~01-~01				t			\N						
+25893	7431	Final Report	Charter Commission						1972-~01-~01				t			\N						
+25895	7479	Final Report	Charter Commission						1980-~01-~01				t			\N						
+25897	7505	Final Report	Charter Commission						1958-~01-~01				t			\N						
+25899	7551	Final Report	Charter Commission						1955-~01-~01				t			\N						
+25900	7551	Final Report	Charter Commission						1975-~01-~01				t			\N						
+25901	7561	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25902	7845	Final Report	Charter Commission						1954-~01-~01				t			\N						
+25906	7622	Final Report	Charter Commission						1955-~01-~01				t			\N						
+25959	7350	Final Report	Charter Commission						1974-~01-~01				t			\N						
+25966	7161	Final Report	Charter Commission						1978-~01-~01				t			\N						
+25970	7522	Final Report	Charter Commission						1979-~01-~01				t			\N						
+25977	7226	Final Report	Charter Commission						1984-~01-~01				t			\N						
+25979	7404	Final Report	Charter Commission						1975-~01-~01				t			\N						
+25980	7392	Final Report	Charter Commission						1976-~01-~01				t			\N						
+25981	7161	Final Report	Charter Commission						1969-~01-~01				t			\N						
+25982	7203	Final Report	Charter Commission						1968-~01-~01				t			\N						
+26026	7050	Final Report	Charter Commission						1951-~01-~01				t			\N						
+26027	7124	Final Report	Charter Commission						1977-~01-~01				t			\N						
+26028	7658	Final Report	Charter Commission						1975-~01-~01				t			\N						
+26029	7147	Final Report	Charter Commission						1986-~01-~01				t			\N						
+26030	7155	Final Report	Charter Commission						1978-~01-~01				t			\N						
+26032	7166	Final Report	Charter Commission						1982-~01-~01				t			\N						
+26033	7184	Final Report	Charter Commission						1968-~01-~01				t			\N						
+26034	7254	Final Report	Charter Commission						1979-~01-~01				t			\N						
+26035	7262	Final Report	Charter Commission						1951-~01-~01				t			\N						
+26036	7285	Final Report	Charter Commission						1978-~01-~01				t			\N						
+26037	7737	Final Report	Charter Commission						1964-~01-~01				t			\N						
+26038	7406	Final Report	Charter Commission						1961-~01-~01				t			\N						
+26040	7467	Final Report	Charter Commission						1972-~01-~01				t			\N						
+26041	7489	Final Report	Charter Commission						1974-~01-~01				t			\N						
+26105	1818	Election	Charter Commission						1978-~01-~01				t			\N						
+26109	1818	Election	Charter Commission						1979-~01-~01				t			\N						
+26116	1835	Election	Charter Commission						1984-~01-~01				t			\N						
+26118	1818	Election	Charter Commission						1975-~01-~01				t			\N						
+26119	1821	Election	Charter Commission						1976-~01-~01				t			\N						
+26120	1818	Election	Charter Commission						1969-~01-~01				t			\N						
+26121	1820	Election	Charter Commission						1968-~01-~01				t			\N						
+26165	1825	Election	Charter Commission						1951-~01-~01				t			\N						
+26166	1836	Election	Charter Commission						1977-~01-~01				t			\N						
+26167	1831	Election	Charter Commission						1975-~01-~01				t			\N						
+26168	1827	Election	Charter Commission						1986-~01-~01				t			\N						
+26169	1836	Election	Charter Commission						1978-~01-~01				t			\N						
+26171	1819	Election	Charter Commission						1982-~01-~01				t			\N						
+26172	1834	Election	Charter Commission						1968-~01-~01				t			\N						
+26173	1829	Election	Charter Commission						1979-~01-~01				t			\N						
+26174	1825	Election	Charter Commission						1951-~01-~01				t			\N						
+26175	1830	Election	Charter Commission						1978-~01-~01				t			\N						
+26176	1823	Election	Charter Commission						1964-~01-~01				t			\N						
+26177	1830	Election	Charter Commission						1961-~01-~01				t			\N						
+26179	1830	Election	Charter Commission						1972-~01-~01				t			\N						
+26180	1818	Election	Charter Commission						1961-~01-~01				t			\N						
+26181	1817	Election	Charter Commission						1974-~01-~01				t			\N						
+26184	7622	Ordinance							1955-~01-~01				t			\N						
+26227	7161	Ordinance							1978-~01-~01				t			\N						
+26231	7522	Ordinance							1979-~01-~01				t			\N						
+26237	7226	Ordinance							1984-~01-~01				t			\N						
+26239	7404	Ordinance							1975-~01-~01				t			\N						
+26240	7161	Ordinance							1969-~01-~01				t			\N						
+26269	7124	Ordinance							1977-~01-~01				t			\N						
+26270	7658	Ordinance							1975-~01-~01				t			\N						
+26271	7147	Ordinance							1986-~01-~01				t			\N						
+26272	7155	Ordinance							1978-~01-~01				t			\N						
+26273	7161	Ordinance							1953-~01-~01				t			\N						
+26274	7166	Ordinance							1982-~01-~01				t			\N						
+26275	7184	Ordinance							1968-~01-~01				t			\N						
+26276	7254	Ordinance							1979-~01-~01				t			\N						
+26277	7262	Ordinance							1951-~01-~01				t			\N						
+26278	7285	Ordinance							1978-~01-~01				t			\N						
+26279	7737	Ordinance							1964-~01-~01				t			\N						
+26280	7406	Ordinance							1961-~01-~01				t			\N						
+26281	7441	Ordinance							1953-~01-~01				t			\N						
+26282	7467	Ordinance							1972-~01-~01				t			\N						
+26283	7489	Ordinance							1974-~01-~01				t			\N						
+26284	1818	Election							1970-~01-~01				t			\N						
+26285	1818	Election							1978-~01-~01				t			\N						
+26286	1829	Election				[For or against the incorporation of the borough of North Spring Lake]			1883-10-27				t			\N						
+26287	7810	Ordinance		37		[Tract formerly in the Borough of Spring Lake annexed to the Borough of South Belmar]			1927-05-16		1927-06-06		t	when passed and published according to law	1927-06-14	\N						
+26288	1829	Election							1881-04-27				t			\N						
+26289	1829	Election							1880-~04-~01				t			\N						
+26290	1823	Election							1895-~01-~01				t			\N						
+26327	7675	Ordinance		520					1973-12-03				t	twenty (20) days after publication, after final passage according to law		\N						
+26328	7673	Resolution							1991-12-17				t			\N						

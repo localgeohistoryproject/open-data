@@ -1,185 +1,187 @@
-lawgroupid	government	lawgrouplong	lawgroupfrom	lawgroupto	eventeffectivetype	lawgroupcourtname	lawgrouprecording	lawgroupsecretaryofstate	lawgroupplanningagency	lawgroupprocedure	lawgroupgovernmenttype	eventtype	lawgroupgroup	lawgroupsectionlead
-1	40	PA: Annexation Ordinance, City (1953)	1953	1974	61		\N	\N	\N		{City}	{2}		
-2	40	PA: Annexation Ordinance, Borough (1953 Act, 1953-1966)	1953	1966	61		\N	\N	\N		{Borough}	{2}		
-3	40	PA: Annexation Ordinance, Borough (1953 Act, 1966-1974)	1966	1974	61		\N	\N	\N		{Borough}	{2}		
-4	40	PA: Annexation Ordinance, Borough Owned (1966)	1966	1974	61		\N	\N	\N		{Borough}	{2}		
-5	40	PA: Annexation Ordinance, Borough Owned (1927)	1959	1966	61		\N	\N	\N		{Borough}	{2}		
-6	40	PA: Charter Amendment, Borough (1931-1966)	1931	1966	61		\N	\N	\N		{Borough}	{34,36}		
-7	40	PA: Dissolution, Borough (1927-1947)	1927	1947	61		\N	\N	\N		{Borough}	{9}		
-8	40	PA: General Law, City (1874)	1874	1931	61		\N	\N	\N		{City}	{49}		
-9	40	PA: Annexation Petition, City (1903)	1903	1974	61		\N	\N	\N		{City}	{2,9}		
-10	40	PA: Annexation Ordinance, Borough (1915)	1915	1927	61		\N	\N	\N		{Borough}	{2}		
-11	40	PA: Annexation Ordinance, Borough (1903)	1903	1915	61		\N	\N	\N		{Borough}	{2}		
-12	40	PA: Annexation Ordinance, Borough, Reinstated (1903)	1921	1927	61		\N	\N	\N		{Borough}	{2}		
-14	40	PA: Annexation Petition, Borough (1879)	1879	1915	61		\N	\N	\N		{Borough}	{2}		
-15	40	PA: Charter Amendment, Borough (1834)	1834	1915	61		\N	\N	\N		{Borough}	{5,9,34}		
-16	40	PA: General Law, Borough (1851)	1851	1915	61		\N	\N	\N		{Borough}	{49}		
-17	40	PA: General Law, Borough (1915)	1915	1927	61		\N	\N	\N		{Borough}	{49}		
-18	40	PA: City (1931)	1931	2016	61		\N	\N	\N		{City}	{31}		
-19	40	PA: First Class Township (1931)	1931	2020	61		\N	\N	\N		{Township}	{21}		
-22	40	PA: Annexation Ordinance, Borough (1966)	1966	1974	61		\N	\N	\N		{Borough}	{2}		
-24	40	PA: Annexation Petition, Borough (1966)	1966	1974	61		\N	\N	\N		{Borough}	{2}		
-26	40	PA: Detachment, Borough (1966)	1966	1974	61		\N	\N	\N		{Borough}	{2}		
-28	40	PA: Charter Amendment, Borough (1966)	1966	2012	61		\N	\N	\N		{Borough}	{9,34}		
-29	40	PA: Name, Borough, Conform (1966)	1966	2012	61		\N	\N	\N		{Borough}	{34}		
-31	40	PA: Boundary, Borough (1966)	1966	2014	61		\N	\N	\N		{Borough}	{4}		
-34	40	PA: General Law, Borough (1927)	1927	1966	61		\N	\N	\N		{Borough}	{49}		
-35	40	PA: Annexation Ordinance, Borough (1927-1937)	1927	1937	61		\N	\N	\N		{Borough}	{2}		
-36	40	PA: Detachment, Borough (1947-1966)	1947	1966	61		\N	\N	\N		{Borough}	{2}		
-38	40	PA: Detachment, Borough, to Township (1927-1947)	1927	1947	61		\N	\N	\N		{Borough}	{2}		
-39	40	PA: Annexation Petition, Borough, Multi-County (1927)	1927	1966	61		\N	\N	\N		{Borough}	{2}		
-40	40	PA: Annexation Ordinance, Borough (1937-1947)	1937	1947	61		\N	\N	\N		{Borough}	{2}		
-41	40	PA: Annexation Ordinance, Borough (1947-1966)	1947	1966	61		\N	\N	\N		{Borough}	{2}		
-43	40	PA: Annexation Petition, Borough (1927)	1927	1966	61		\N	\N	\N		{Borough}	{2}		
-44	40	PA: Consolidation Agreement, Borough (1966)	1966	1994	61		\N	\N	\N		{Borough}	{9}		
-47	40	PA: Annexation Ordinance, Borough, from Township (1st) (1947-1966)	1947	1966	61		\N	\N	\N		{Borough}	{2}		
-52	40	PA: Home Rule (1996)	1996	9999	61		\N	\N	\N		{Borough,City,County,Town,Township}	{23,24}		
-53	40	PA: Borough, by Act (1851)	1851	1874	61		\N	\N	\N		{Borough}	{30}		
-56	40	PA: Annexation Petition, Borough (1915)	1915	1927	61		\N	\N	\N		{Borough}	{2}		
-58	40	PA: Detachment, Borough, to Township (1915)	1915	1927	61		\N	\N	\N		{Borough}	{2}		
-60	40	PA: Consolidation, Borough (1915)	1915	1927	61		\N	\N	\N		{Borough}	{9}		
-61	40	PA: Consolidation, Borough (1927)	1927	1947	61		\N	\N	\N		{Borough}	{9}		
-62	40	PA: Consolidation Agreement, Borough (1947-1966)	1947	1966	61		\N	\N	\N		{Borough}	{9}		
-64	40	PA: Consolidation, Borough (1893)	1893	1915	61		\N	\N	\N		{Borough}	{9}		
-65	40	PA: County Classification (1919)	1919	1929	61		\N	\N	\N		{County}	{11}		
-66	40	PA: County Classification (1929-1931)	1929	1931	61		\N	\N	\N		{County}	{11}		
-67	40	PA: County Classification (1931-1951)	1931	1951	61		\N	\N	\N		{County}	{11}		
-68	40	PA: County Classification (1951-1955)	1951	1955	61		\N	\N	\N		{County}	{11}		
-69	40	PA: County Classification (1955)	1955	9999	61		\N	\N	\N		{County}	{11}		
-70	40	PA: Annexation Resolution, City (3rd) (1913)	1913	1923	61		\N	\N	\N		{City}	{2}		
-71	40	PA: Annexation Referendum, City (3rd) (1923)	1923	1929	61		\N	\N	\N		{City}	{2}		
-73	40	PA: Annexation Ordinance, City (3rd), from Township (1929)	1929	1931	61		\N	\N	\N		{City}	{2}		
-75	40	PA: Annexation Resolution, City (3rd), from Township (1929)	1929	1931	61		\N	\N	\N		{City}	{2}		
-78	40	PA: Annexation Ordinance, City (2nd) Park (1901)	1901	1974	61		\N	\N	\N		{City}	{2}		
-80	40	PA: Wards, City (1874)	1874	1974	61		\N	\N	\N		{City}	{54}		
-82	40	PA: Boundary Dispute (1893)	1893	1978	61		\N	\N	\N		{Borough,City,County,Town,Township}	{4}		
-83	40	PA: Annexation Petition, Township (1834)	1834	1917	61		\N	\N	\N		{Township}	{2}		
-84	40	PA: Boundary, Township (1834)	1834	1893	61		\N	\N	\N		{Township}	{4}		
-85	40	PA: Township, without Commission (1905)	1905	1917	61		\N	\N	\N		{Township}	{36}		
-88	40	PA: Township (1803)	1803	1834	61		\N	\N	\N		{Township}	{2,4,36}		
-91	40	PA: Annexation Ordinance, City (3rd), from Township or whole Borough (1931)	1931	1974	61		\N	\N	\N		{City}	{2}		
-92	40	PA: Annexation Ordinance, City (3rd), from part of Borough (1931)	1931	1974	61		\N	\N	\N		{City}	{2}		
-93	40	PA: Annexation Resolution, City (3rd) (1931)	1931	1974	61		\N	\N	\N		{City}	{2}		
-94	40	PA: Boundary, Borough (1927)	1927	1966	61		\N	\N	\N		{Borough}	{4}		
-95	40	PA: Annexation Ordinance, Borough (1851-1871)	1851	1871	61		\N	\N	\N		{Borough}	{2}		
-96	40	PA: Annexation Ordinance, Borough (1871-1903)	1871	1903	61		\N	\N	\N		{Borough}	{2}		
-97	40	PA: Home Rule (1972)	1972	1996	61		\N	\N	\N		{Borough,City,County,Town,Township}	{23,24}		
-98	40	PA: Optional Plan (1972)	1972	1996	61		\N	\N	\N		{Borough,City,County,Town,Township}	{23,24}		
-100	40	PA: Dissolution (1994)	1994	9999	61		\N	\N	\N		{Borough,City,County,Town,Township}	{9}		
-102	40	PA: Annexation Referendum (1968)	1968	9999	61		\N	\N	\N		{Borough,City,County,Town,Township}	{2}		
-103	40	PA: Optional Plan (1996)	1996	9999	61		\N	\N	\N		{Borough,City,County,Town,Township}	{23,24}		
-104	40	PA: First Class Township (1917)	1917	1931	61		\N	\N	\N		{Township}	{21}		
-105	40	PA: Township Classification (1899)	1899	1917	61		\N	\N	\N		{Township}	{21,48}		
-106	40	PA: Annexation Petition, Boroughs (1883)	1883	1915	61		\N	\N	\N		{Borough}	{2}		
-107	40	PA: Annexation Resolution, City (3rd) (1889)	1889	1913	61		\N	\N	\N		{City}	{2}		
-108	40	PA: Boundary, Township (2nd) (1933)	1933	2022	61		\N	\N	\N		{Township}	{4}		
-109	40	PA: Boundary Ordinance, Boroughs (1927)	1927	1966	61		\N	\N	\N		{Borough}	{4}		
-110	40	PA: Annexation Petition, from Township (1st), Allegheny County (1939)	1939	1951	61		\N	\N	\N		{Township}	{2}		
-111	40	PA: Boundary, Township (1st) (1931)	1931	2022	61		\N	\N	\N		{Township}	{4}		
-112	40	PA: Boundary, City (3rd) (1931)	1931	2016	61		\N	\N	\N		{City}	{4}		
-113	40	PA: Annexation Ordinance, City (3rd) (1889-1901)	1889	1901	61		\N	\N	\N		{City}	{2}		
-114	40	PA: Annexation Ordinance, City (3rd) (1901-1913)	1901	1913	61		\N	\N	\N		{City}	{2}		
-115	40	PA: Annexation Ordinance, City (3rd) (1913)	1913	1923	61		\N	\N	\N		{City}	{2}		
-116	40	PA: Annexation Ordinance, City (3rd) River (1891)	1891	1907	61		\N	\N	\N		{City}	{2}		
-117	40	PA: Borough (1966)	1966	2014	61		\N	\N	\N		{Borough}	{30}		
-118	40	PA: Borough (1927)	1927	1966	61		\N	\N	\N		{Borough}	{30}		
-119	40	PA: Borough (1834-1895)	1834	1895	61		\N	\N	\N		{Borough}	{30}		
-120	40	PA: Borough (1915)	1915	1927	61		\N	\N	\N		{Borough}	{30}		
-122	40	PA: Township, Division, with Commission (1917)	1917	9999	61		\N	\N	\N		{Township}	{36}		
-123	40	PA: Township, Division (1857-1917)	1857	1917	61		\N	\N	\N		{Township}	{36}		
-124	40	PA: Township, from Multiple (1857-1917)	1857	1917	61		\N	\N	\N		{Township}	{36}		
-129	40	PA: Boundary, County (1876)	1876	1905	61		\N	\N	\N		{County}	{4}		
-130	40	PA: Boundary, County (1905)	1905	9999	61		\N	\N	\N		{County}	{4}		
-131	40	PA: Boundary, County (1929)	1929	1955	61		\N	\N	\N		{County}	{4}		
-133	40	PA: Boundary, County (1955)	1955	9999	61		\N	\N	\N		{County}	{4}		
-134	40	PA: Annexation Petition, Borough (1834)	1834	1915	61		\N	\N	\N		{Borough}	{2,4}		
-135	40	PA: Township, Division, without Commission (1917)	1917	9999	61		\N	\N	\N		{Township}	{36}		
-137	40	PA: Name, Borough (1915)	1915	1919	61		\N	\N	\N		{Borough}	{34}		
-138	40	PA: Dissolution (1915)	1915	1927	61		\N	\N	\N		{Borough}	{9}		
-139	40	PA: Charter Amendment, Borough Burgess (1871)	1871	1893	61		\N	\N	\N		{Borough}	{6}		
-140	40	PA: Annexation Ordinance, City (3rd) Owned (1957)	1957	1974	61		\N	\N	\N		{City}	{2}		
-141	40	PA: Optional Charter, City (3rd) (1957)	1957	1972	61		\N	\N	\N		{City}	{24}		
-142	40	PA: Reversion, from City (3rd) Optional Charter (1957)	1957	1972	61		\N	\N	\N		{City}	{49}		
-144	32	NJ: Annexation Referendum, Borough (1878)	1888	1897	61		\N	\N	\N		{Borough}	{2}		
-146	32	NJ: Annexation, City, Adjustment of Indebtedness	1897	9999	61		\N	\N	\N		{City}	{2}		
-148	32	NJ: Annexation Ordinance, Portion of Road (40:43-39.1 to 39.2)	1939	1979	61		\N	\N	\N		{All}	{2}		
-149	32	NJ: Annexation Ordinance (40:43-26 to 36)	1917	1979	61		\N	\N	\N		{All}	{2}		
-152	32	NJ: Annexation Ordinance, Borough (1878)	1891	1897	61		\N	\N	\N		{Borough}	{2}		
-155	32	NJ: Annexation Ordinance, Portion of Road (40A:7-26 to 27)	1979	9999	61		\N	\N	\N		{All}	{2}		
-156	32	NJ: Annexation Ordinance (40A:7-12 to 23)	1979	9999	61		\N	\N	\N		{All}	{2}		
-157	32	NJ: Annexation Ordinance, Borough (Seaside)	1888	1889	61		\N	\N	\N		{Borough}	{2}		
-158	32	NJ: Annexation Referendum, Borough (1890)	1894	1896	61		\N	\N	\N		{Borough}	{2}		
-160	32	NJ: Annexation Ordinance, Municipal-Owned Vacant Land (40:43-38)	1920	1979	61		\N	\N	\N		{All}	{2}		
-166	32	NJ: Boundary, Municipal (40A:13-10 to 16)	1979	9999	61		\N	\N	\N		{All}	{4}		
-169	32	NJ: Boundary, Non-Navigable Stream (40:7A-1 to 3)	1957	1979	61		\N	\N	\N		{All}	{4}		
-170	32	NJ: Boundary, Municipal (40:43-67 to 71)	1917	1979	61		\N	\N	\N		{All}	{4}		
-171	32	NJ: Boundary, Municipal (40:18-14 to 21)	1798	1979	61		\N	\N	\N		{All}	{4}		
-174	32	NJ: Dissolution, Borough Commission	1887	1896	61		\N	\N	\N		{Borough}	{9}		
-175	32	NJ: Dissolution, Borough (1878 Act) (1895)	1895	1897	61		\N	\N	\N		{Borough}	{9}		
-177	32	NJ: Dissolution (40:43-66.1 to 66.34)	1939	1978	61		\N	\N	\N		{All}	{9}		
-181	32	NJ: Dissolution, Sparsely-populated Municipality (40:43-66.78 to 66.84)	1996	9999	61		\N	\N	\N		{All}	{9}		
-182	32	NJ: Dissolution (40:43-66.35 to 66.77)	1978	9999	61		\N	\N	\N		{All}	{9}		
-184	32	NJ: Dissolution, Non-cities within county to city (40:43-66)	1923	1939	61		\N	\N	\N		{All}	{9}		
-186	32	NJ: Separation, Village (1904)	1904	9999	61		\N	\N	\N		{Village}	{10}		
-190	32	NJ: Separation, Borough Commission	1894	1896	61		\N	\N	\N		{Borough}	{10}		
-195	32	NJ: City, Consolidation (1908)	1908	9999	61		\N	\N	\N		{City}	{31}		
-196	32	NJ: City (1899)	1899	9999	61		\N	\N	\N		{City}	{31}		
-197	32	NJ: City (1895, Unconstitutional)	1895	1897	61		\N	\N	\N		{City}	{31}		
-200	32	NJ: Borough, Seaside (1878)	1878	1889	61		\N	\N	\N		{Borough}	{30}		
-201	32	NJ: Borough (1891)	1891	1896	61		\N	\N	\N		{Borough}	{30}		
-203	32	NJ: Borough (1890)	1890	1896	61		\N	\N	\N		{Borough}	{30}		
-205	32	NJ: Borough (1878)	1878	1896	61		\N	\N	\N		{Borough}	{30}		
-206	32	NJ: Name (40:43-4 to 7)	1917	9999	61		\N	\N	\N		{All}	{34}		
-207	32	NJ: Name, Town & Village (1887)	1887	9999	61		\N	\N	\N		{All}	{34}		
-208	32	NJ: Name, Shortened, City (1911)	1911	9999	61		\N	\N	\N		{City}	{34}		
-209	32	NJ: Name, Borough (1902-1918)	1902	1918	61		\N	\N	\N		{Borough}	{34}		
-210	32	NJ: Name, Borough (1897-1902)	1897	1902	61		\N	\N	\N		{Borough}	{34}		
-212	32	NJ: Name, Shortened (40:43-8 to 9)	1917	9999	61		\N	\N	\N		{All}	{34}		
-214	32	NJ: Town (1884)	1884	1899	61		\N	\N	\N		{Town}	{35}		
-216	32	NJ: Town (1895)	1895	9999	61		\N	\N	\N		{Town}	{35}		
-218	32	NJ: Town (1892)	1892	1895	61		\N	\N	\N		{Town}	{35}		
-226	32	NJ: General Law, Borough (1891)	1891	1896	61		\N	\N	\N		{Borough}	{49}		
-233	32	NJ: Commission Form (1911-1914)	1911	1914	61		\N	\N	\N		{All}	{55}		
-234	32	NJ: Commission Form (1914-)	1914	9999	61		\N	\N	\N		{All}	{55}		
-275	32	NJ: Municipal Manager Form (1923)	1923	9999	61		\N	\N	\N		{All}	{60}		
-276	32	NJ: Borough Commission (1882)	1882	1896	61		\N	\N	\N		{Borough}	{30}		
-277	32	NJ: Village (1891)	1891	1896	61		\N	\N	\N		{Village}	{63}		
-292	40	PA: Annexation Ordinance, City (1874)	1874	1974	61		\N	\N	\N		{City}	{2}		
-293	40	PA: Annexation Ordinance, City (3rd) Park (1901-1913)	1901	1913	61		\N	\N	\N		{City}	{2}		
-294	40	PA: Annexation Ordinance, City (3rd) Park (1913-1931)	1913	1931	61		\N	\N	\N		{City}	{2}		
-295	40	PA: Dissolution, Borough (1947-1966)	1947	1966	61		\N	\N	\N		{Borough}	{9}		
-414	40	PA: Annexation Ordinance, City (2nd) (1923)	1923	1974	61		\N	\N	\N		{City}	{2,9}		
-415	40	PA: School Annexation (1867)	1867	1911	61		\N	\N	\N		{All}	{91}		
-417	40	PA: School (1855)	1855	1911	61		\N	\N	\N		{All}	{89}		
-419	40	PA: Boundary Alteration, Township (1917)	1917	1933	61		\N	\N	\N		{Township}	{2,4}		
-420	40	PA: Boundary Dispute, Township (1917)	1917	1933	61		\N	\N	\N		{Township}	{4}		
-421	40	PA: Second Class Township (1917)	1917	1933	61		\N	\N	\N		{Township}	{48}		
-422	40	PA: Annexation Petition, City (2nd A) (1939)	1939	1974	61		\N	\N	\N		{City}	{2,9}		
-429	40	PA: Boundary Ordinance (2022)	2022	9999	61		\N	\N	\N		{All}	{2,4}		
-431	40	PA: School Dissolution, No Teacher (1937)	1937	1939	61		\N	\N	\N		{All}	{90}		
-437	40	PA: Township (1834-1857)	1834	1857	61		\N	\N	\N		{Township}	{36}		
-438	40	PA: Annexation Ordinance, Township (1953)	1953	1974	61		\N	\N	\N		{Township}	{2}		
-439	40	PA: Borough (1895-1915)	1895	1915	61		\N	\N	\N		{Borough}	{30}		
-440	40	PA: Township (1690)	1690	1803	61		\N	\N	\N		{Township}	{36}		
-441	40	PA: City (1874)	1874	1889	61		\N	\N	\N		{City}	{31}		
-442	40	PA: City (1889)	1889	1913	61		\N	\N	\N		{City}	{31}		
-443	40	PA: City (1913)	1913	1931	61		\N	\N	\N		{City}	{31}		
-444	40	PA: Boundary Dispute, Borough (1915)	1915	1927	61		\N	\N	\N		{Borough}	{4}		
-445	40	PA: Borough, Division (1889)	1889	1915	61		\N	\N	\N		{Borough}	{30}		
-446	40	PA: Boundary Ordinance, Boroughs (1911)	1911	1915	61		\N	\N	\N		{Borough}	{4}		
-447	40	PA: Boundary Ordinance, Boroughs (1915)	1915	1927	61		\N	\N	\N		{Borough}	{4}		
-448	40	PA: Annexation Resolution, from Township (1st) (1937)	1937	1974	61		\N	\N	\N		{Borough,City}	{2}		
-449	40	PA: Annexation Petition, Borough, Multi-County (1874)	1874	1915	61		\N	\N	\N		{Borough}	{2}		
-450	40	PA: Consolidation, Township (1959)	1959	1974	61		\N	\N	\N		{Township}	{9}		
-451	40	PA: Annexation Petition, County (1915)	1915	1929	61		\N	\N	\N		{County}	{2}		
-452	40	PA: Boundary, Borough & Township (1901)	1901	1917	61		\N	\N	\N		{All}	{4}		
-453	40	PA: Consolidation, City (1906)	1906	1994	61		\N	\N	\N		{City}	{9}		
-454	40	PA: County (1878)	1878	1895	61		\N	\N	\N		{County}	{33}		
-455	40	PA: Township, New County (1879)	1879	1917	61		\N	\N	\N		{Township}	{36}		
-456	40	PA: Consolidation, City (1917)	1917	1931	61		\N	\N	\N		{City}	{9}		
-457	40	PA: Proprietary Charter (1680)	1680	1776	61		\N	\N	\N		{Borough,City}	{30,31}		
-458	32	NJ: Reversion, Commission Form	1911	9999	61		\N	\N	\N		{All}	{49}		
-459	32	NJ: Reversion, Municipal Manager Form	1931	9999	61		\N	\N	\N		{All}	{49}		
-461	32	NJ: Village (1917)	1917	1960	61		\N	\N	\N		{Village}	{63}		
-462	32	NJ: Boundaries (1760)	1760	1798	61		\N	\N	\N		{County,Township}	{4}		
-463	32	NJ: City, under 12K (1899)	1899	9999	61		\N	\N	\N		{City}	{49}		
+lawgroupid	government	lawgrouplong	lawgroupfrom	lawgroupto	eventeffectivetype	lawgroupcourtname	lawgrouprecording	lawgroupsecretaryofstate	lawgroupplanningagency	lawgroupprocedure	lawgroupgroup	lawgroupsectionlead
+1	40	PA: Annexation Ordinance, City (1953)	1953	1974	61		\N	\N	\N			
+2	40	PA: Annexation Ordinance, Borough (1953 Act, 1953-1966)	1953	1966	61		\N	\N	\N			
+3	40	PA: Annexation Ordinance, Borough (1953 Act, 1966-1974)	1966	1974	61		\N	\N	\N			
+4	40	PA: Annexation Ordinance, Borough Owned (1966)	1966	1974	61		\N	\N	\N			
+5	40	PA: Annexation Ordinance, Borough Owned (1927)	1959	1966	61		\N	\N	\N			
+6	40	PA: Charter Amendment, Borough (1931-1966)	1931	1966	61		\N	\N	\N			
+7	40	PA: Dissolution, Borough (1927-1947)	1927	1947	61		\N	\N	\N			
+8	40	PA: General Law, City (1874)	1874	1931	61		\N	\N	\N			
+9	40	PA: Annexation Petition, City (1903)	1903	1974	61		\N	\N	\N			
+10	40	PA: Annexation Ordinance, Borough (1915)	1915	1927	61		\N	\N	\N			
+11	40	PA: Annexation Ordinance, Borough (1903)	1903	1915	61		\N	\N	\N			
+12	40	PA: Annexation Ordinance, Borough, Reinstated (1903)	1921	1927	61		\N	\N	\N			
+14	40	PA: Annexation Petition, Borough (1879)	1879	1915	61		\N	\N	\N			
+15	40	PA: Charter Amendment, Borough (1834)	1834	1915	61		\N	\N	\N			
+16	40	PA: General Law, Borough (1851)	1851	1915	61		\N	\N	\N			
+17	40	PA: General Law, Borough (1915)	1915	1927	61		\N	\N	\N			
+18	40	PA: City (1931)	1931	2016	61		\N	\N	\N			
+19	40	PA: First Class Township (1931)	1931	2020	61		\N	\N	\N			
+22	40	PA: Annexation Ordinance, Borough (1966)	1966	1974	61		\N	\N	\N			
+24	40	PA: Annexation Petition, Borough (1966)	1966	1974	61		\N	\N	\N			
+26	40	PA: Detachment, Borough (1966)	1966	1974	61		\N	\N	\N			
+28	40	PA: Charter Amendment, Borough (1966)	1966	2012	61		\N	\N	\N			
+29	40	PA: Name, Borough, Conform (1966)	1966	2012	61		\N	\N	\N			
+31	40	PA: Boundary, Borough (1966)	1966	2014	61		\N	\N	\N			
+34	40	PA: General Law, Borough (1927)	1927	1966	61		\N	\N	\N			
+35	40	PA: Annexation Ordinance, Borough (1927-1937)	1927	1937	61		\N	\N	\N			
+36	40	PA: Detachment, Borough (1947-1966)	1947	1966	61		\N	\N	\N			
+38	40	PA: Detachment, Borough, to Township (1927-1947)	1927	1947	61		\N	\N	\N			
+39	40	PA: Annexation Petition, Borough, Multi-County (1927)	1927	1966	61		\N	\N	\N			
+40	40	PA: Annexation Ordinance, Borough (1937-1947)	1937	1947	61		\N	\N	\N			
+41	40	PA: Annexation Ordinance, Borough (1947-1966)	1947	1966	61		\N	\N	\N			
+43	40	PA: Annexation Petition, Borough (1927)	1927	1966	61		\N	\N	\N			
+44	40	PA: Consolidation Agreement, Borough (1966)	1966	1994	61		\N	\N	\N			
+47	40	PA: Annexation Ordinance, Borough, from Township (1st) (1947-1966)	1947	1966	61		\N	\N	\N			
+52	40	PA: Home Rule (1996)	1996	9999	61		\N	\N	\N			
+53	40	PA: Borough, by Act (1851)	1851	1874	61		\N	\N	\N			
+56	40	PA: Annexation Petition, Borough (1915)	1915	1927	61		\N	\N	\N			
+58	40	PA: Detachment, Borough, to Township (1915)	1915	1927	61		\N	\N	\N			
+60	40	PA: Consolidation, Borough (1915)	1915	1927	61		\N	\N	\N			
+61	40	PA: Consolidation, Borough (1927)	1927	1947	61		\N	\N	\N			
+62	40	PA: Consolidation Agreement, Borough (1947-1966)	1947	1966	61		\N	\N	\N			
+64	40	PA: Consolidation, Borough (1893)	1893	1915	61		\N	\N	\N			
+65	40	PA: County Classification (1919)	1919	1929	61		\N	\N	\N			
+66	40	PA: County Classification (1929-1931)	1929	1931	61		\N	\N	\N			
+67	40	PA: County Classification (1931-1951)	1931	1951	61		\N	\N	\N			
+68	40	PA: County Classification (1951-1955)	1951	1955	61		\N	\N	\N			
+69	40	PA: County Classification (1955)	1955	9999	61		\N	\N	\N			
+70	40	PA: Annexation Resolution, City (3rd) (1913)	1913	1923	61		\N	\N	\N			
+71	40	PA: Annexation Referendum, City (3rd) (1923)	1923	1929	61		\N	\N	\N			
+73	40	PA: Annexation Ordinance, City (3rd), from Township (1929)	1929	1931	61		\N	\N	\N			
+75	40	PA: Annexation Resolution, City (3rd), from Township (1929)	1929	1931	61		\N	\N	\N			
+78	40	PA: Annexation Ordinance, City (2nd) Park (1901)	1901	1974	61		\N	\N	\N			
+80	40	PA: Wards, City (1874)	1874	1974	61		\N	\N	\N			
+82	40	PA: Boundary Dispute (1893)	1893	1978	61		\N	\N	\N			
+83	40	PA: Annexation Petition, Township (1834)	1834	1917	61		\N	\N	\N			
+84	40	PA: Boundary, Township (1834)	1834	1893	61		\N	\N	\N			
+85	40	PA: Township, without Commission (1905)	1905	1917	61		\N	\N	\N			
+88	40	PA: Township (1803)	1803	1834	61		\N	\N	\N			
+91	40	PA: Annexation Ordinance, City (3rd), from Township or whole Borough (1931)	1931	1974	61		\N	\N	\N			
+92	40	PA: Annexation Ordinance, City (3rd), from part of Borough (1931)	1931	1974	61		\N	\N	\N			
+93	40	PA: Annexation Resolution, City (3rd) (1931)	1931	1974	61		\N	\N	\N			
+94	40	PA: Boundary, Borough (1927)	1927	1966	61		\N	\N	\N			
+95	40	PA: Annexation Ordinance, Borough (1851-1871)	1851	1871	61		\N	\N	\N			
+96	40	PA: Annexation Ordinance, Borough (1871-1903)	1871	1903	61		\N	\N	\N			
+97	40	PA: Home Rule (1972)	1972	1996	61		\N	\N	\N			
+98	40	PA: Optional Plan (1972)	1972	1996	61		\N	\N	\N			
+100	40	PA: Dissolution (1994)	1994	9999	61		\N	\N	\N			
+102	40	PA: Annexation Referendum (1968)	1968	9999	61		\N	\N	\N			
+103	40	PA: Optional Plan (1996)	1996	9999	61		\N	\N	\N			
+104	40	PA: First Class Township (1917)	1917	1931	61		\N	\N	\N			
+105	40	PA: Township Classification (1899)	1899	1917	61		\N	\N	\N			
+106	40	PA: Annexation Petition, Boroughs (1883)	1883	1915	61		\N	\N	\N			
+107	40	PA: Annexation Resolution, City (3rd) (1889)	1889	1913	61		\N	\N	\N			
+108	40	PA: Boundary, Township (2nd) (1933)	1933	2022	61		\N	\N	\N			
+109	40	PA: Boundary Ordinance, Boroughs (1927)	1927	1966	61		\N	\N	\N			
+110	40	PA: Annexation Petition, from Township (1st), Allegheny County (1939)	1939	1951	61		\N	\N	\N			
+111	40	PA: Boundary, Township (1st) (1931)	1931	2022	61		\N	\N	\N			
+112	40	PA: Boundary, City (3rd) (1931)	1931	2016	61		\N	\N	\N			
+113	40	PA: Annexation Ordinance, City (3rd) (1889-1901)	1889	1901	61		\N	\N	\N			
+114	40	PA: Annexation Ordinance, City (3rd) (1901-1913)	1901	1913	61		\N	\N	\N			
+115	40	PA: Annexation Ordinance, City (3rd) (1913)	1913	1923	61		\N	\N	\N			
+116	40	PA: Annexation Ordinance, City (3rd) River (1891)	1891	1907	61		\N	\N	\N			
+117	40	PA: Borough (1966)	1966	2014	61		\N	\N	\N			
+118	40	PA: Borough (1927)	1927	1966	61		\N	\N	\N			
+119	40	PA: Borough (1834-1895)	1834	1895	61		\N	\N	\N			
+120	40	PA: Borough (1915)	1915	1927	61		\N	\N	\N			
+122	40	PA: Township, Division, with Commission (1917)	1917	9999	61		\N	\N	\N			
+123	40	PA: Township, Division (1857-1917)	1857	1917	61		\N	\N	\N			
+124	40	PA: Township, from Multiple (1857-1917)	1857	1917	61		\N	\N	\N			
+129	40	PA: Boundary, County (1876)	1876	1905	61		\N	\N	\N			
+130	40	PA: Boundary, County (1905)	1905	9999	61		\N	\N	\N			
+131	40	PA: Boundary, County (1929)	1929	1955	61		\N	\N	\N			
+133	40	PA: Boundary, County (1955)	1955	9999	61		\N	\N	\N			
+134	40	PA: Annexation Petition, Borough (1834)	1834	1915	61		\N	\N	\N			
+135	40	PA: Township, Division, without Commission (1917)	1917	9999	61		\N	\N	\N			
+137	40	PA: Name, Borough (1915)	1915	1919	61		\N	\N	\N			
+138	40	PA: Dissolution (1915)	1915	1927	61		\N	\N	\N			
+139	40	PA: Charter Amendment, Borough Burgess (1871)	1871	1893	61		\N	\N	\N			
+140	40	PA: Annexation Ordinance, City (3rd) Owned (1957)	1957	1974	61		\N	\N	\N			
+141	40	PA: Optional Charter, City (3rd) (1957)	1957	1972	61		\N	\N	\N			
+142	40	PA: Reversion, from City (3rd) Optional Charter (1957)	1957	1972	61		\N	\N	\N			
+144	32	NJ: Annexation Referendum, Borough (1878)	1888	1897	61		\N	\N	\N			
+146	32	NJ: Annexation, City, Adjustment of Indebtedness	1897	9999	61		\N	\N	\N			
+148	32	NJ: Annexation Ordinance, Portion of Road (40:43-39.1 to 39.2)	1939	1979	61		\N	\N	\N			
+149	32	NJ: Annexation Ordinance (40:43-26 to 36)	1917	1979	61		\N	\N	\N			
+152	32	NJ: Annexation Ordinance, Borough (1878)	1891	1897	61		\N	\N	\N			
+155	32	NJ: Annexation Ordinance, Portion of Road (40A:7-26 to 27)	1979	9999	61		\N	\N	\N			
+156	32	NJ: Annexation Ordinance (40A:7-12 to 23)	1979	9999	61		\N	\N	\N			
+157	32	NJ: Annexation Ordinance, Borough (Seaside)	1888	1889	61		\N	\N	\N			
+158	32	NJ: Annexation Referendum, Borough (1890)	1894	1896	61		\N	\N	\N			
+160	32	NJ: Annexation Ordinance, Municipal-Owned Vacant Land (40:43-38)	1920	1979	61		\N	\N	\N			
+166	32	NJ: Boundary, Municipal (40A:13-10 to 16)	1979	9999	61		\N	\N	\N			
+169	32	NJ: Boundary, Non-Navigable Stream (40:7A-1 to 3)	1957	1979	61		\N	\N	\N			
+170	32	NJ: Boundary, Municipal (40:43-67 to 71)	1917	1979	61		\N	\N	\N			
+171	32	NJ: Boundary, Municipal (40:18-14 to 21)	1798	1979	61		\N	\N	\N			
+174	32	NJ: Dissolution, Borough Commission	1887	1896	61		\N	\N	\N			
+175	32	NJ: Dissolution, Borough (1878 Act) (1895)	1895	1897	61		\N	\N	\N			
+176	32	NJ: Dissolution, Borough (1878 Act)	1878	1895	61		\N	\N	\N			
+177	32	NJ: Dissolution (40:43-66.1 to 66.34)	1939	1978	61		\N	\N	\N			
+181	32	NJ: Dissolution, Sparsely-populated Municipality (40:43-66.78 to 66.84)	1996	9999	61		\N	\N	\N			
+182	32	NJ: Dissolution (40:43-66.35 to 66.77)	1978	9999	61		\N	\N	\N			
+184	32	NJ: Dissolution, Non-cities within county to city (40:43-66)	1923	1939	61		\N	\N	\N			
+186	32	NJ: Separation, Village (1904)	1904	9999	61		\N	\N	\N			
+190	32	NJ: Separation, Borough Commission	1894	1896	61		\N	\N	\N			
+195	32	NJ: City, Consolidation (1908)	1908	9999	61		\N	\N	\N			
+196	32	NJ: City (1899)	1899	9999	61		\N	\N	\N			
+197	32	NJ: City (1895, Unconstitutional)	1895	1897	61		\N	\N	\N			
+200	32	NJ: Borough, Seaside (1878)	1878	1889	61		\N	\N	\N			
+201	32	NJ: Borough (1891)	1891	1896	61		\N	\N	\N			
+203	32	NJ: Borough (1890)	1890	1896	61		\N	\N	\N			
+205	32	NJ: Borough (1878)	1878	1896	61		\N	\N	\N			
+206	32	NJ: Name (40:43-4 to 7)	1917	9999	61		\N	\N	\N			
+207	32	NJ: Name, Town & Village (1887)	1887	9999	61		\N	\N	\N			
+208	32	NJ: Name, Shortened, City (1911)	1911	9999	61		\N	\N	\N			
+209	32	NJ: Name, Borough (1902-1918)	1902	1918	61		\N	\N	\N			
+210	32	NJ: Name, Borough (1897-1902)	1897	1902	61		\N	\N	\N			
+212	32	NJ: Name, Shortened (40:43-8 to 9)	1917	9999	61		\N	\N	\N			
+214	32	NJ: Town (1884)	1884	1899	61		\N	\N	\N			
+216	32	NJ: Town (1895)	1895	9999	61		\N	\N	\N			
+218	32	NJ: Town (1892)	1892	1895	61		\N	\N	\N			
+226	32	NJ: General Law, Borough (1891)	1891	1896	61		\N	\N	\N			
+233	32	NJ: Commission Form (1911-1914)	1911	1914	61		\N	\N	\N			
+234	32	NJ: Commission Form (1914-)	1914	9999	61		\N	\N	\N			
+275	32	NJ: Municipal Manager Form (1923)	1923	9999	61		\N	\N	\N			
+276	32	NJ: Borough Commission (1882)	1882	1896	61		\N	\N	\N			
+277	32	NJ: Village (1891)	1891	1896	61		\N	\N	\N			
+292	40	PA: Annexation Ordinance, City (1874)	1874	1974	61		\N	\N	\N			
+293	40	PA: Annexation Ordinance, City (3rd) Park (1901-1913)	1901	1913	61		\N	\N	\N			
+294	40	PA: Annexation Ordinance, City (3rd) Park (1913-1931)	1913	1931	61		\N	\N	\N			
+295	40	PA: Dissolution, Borough (1947-1966)	1947	1966	61		\N	\N	\N			
+414	40	PA: Annexation Ordinance, City (2nd) (1923)	1923	1974	61		\N	\N	\N			
+415	40	PA: School Annexation (1867)	1867	1911	61		\N	\N	\N			
+417	40	PA: School (1855)	1855	1911	61		\N	\N	\N			
+419	40	PA: Boundary Alteration, Township (1917)	1917	1933	61		\N	\N	\N			
+420	40	PA: Boundary Dispute, Township (1917)	1917	1933	61		\N	\N	\N			
+421	40	PA: Second Class Township (1917)	1917	1933	61		\N	\N	\N			
+422	40	PA: Annexation Petition, City (2nd A) (1939)	1939	1974	61		\N	\N	\N			
+429	40	PA: Boundary Ordinance (2022)	2022	9999	61		\N	\N	\N			
+431	40	PA: School Dissolution, No Teacher (1937)	1937	1939	61		\N	\N	\N			
+437	40	PA: Township (1834-1857)	1834	1857	61		\N	\N	\N			
+438	40	PA: Annexation Ordinance, Township (1953)	1953	1974	61		\N	\N	\N			
+439	40	PA: Borough (1895-1915)	1895	1915	61		\N	\N	\N			
+440	40	PA: Township (1690)	1690	1803	61		\N	\N	\N			
+441	40	PA: City (1874)	1874	1889	61		\N	\N	\N			
+442	40	PA: City (1889)	1889	1913	61		\N	\N	\N			
+443	40	PA: City (1913)	1913	1931	61		\N	\N	\N			
+444	40	PA: Boundary Dispute, Borough (1915)	1915	1927	61		\N	\N	\N			
+445	40	PA: Borough, Division (1889)	1889	1915	61		\N	\N	\N			
+446	40	PA: Boundary Ordinance, Boroughs (1911)	1911	1915	61		\N	\N	\N			
+447	40	PA: Boundary Ordinance, Boroughs (1915)	1915	1927	61		\N	\N	\N			
+448	40	PA: Annexation Resolution, from Township (1st) (1937)	1937	1974	61		\N	\N	\N			
+449	40	PA: Annexation Petition, Borough, Multi-County (1874)	1874	1915	61		\N	\N	\N			
+450	40	PA: Consolidation, Township (1959)	1959	1974	61		\N	\N	\N			
+451	40	PA: Annexation Petition, County (1915)	1915	1929	61		\N	\N	\N			
+452	40	PA: Boundary, Borough & Township (1901)	1901	1917	61		\N	\N	\N			
+453	40	PA: Consolidation, City (1906)	1906	1994	61		\N	\N	\N			
+454	40	PA: County (1878)	1878	1895	61		\N	\N	\N			
+455	40	PA: Township, New County (1879)	1879	1917	61		\N	\N	\N			
+456	40	PA: Consolidation, City (1917)	1917	1931	61		\N	\N	\N			
+457	40	PA: Proprietary Charter (1680)	1680	1776	61		\N	\N	\N			
+458	32	NJ: Reversion, Commission Form	1911	9999	61		\N	\N	\N			
+459	32	NJ: Reversion, Municipal Manager Form	1931	9999	61		\N	\N	\N			
+461	32	NJ: Village (1917)	1917	1960	61		\N	\N	\N			
+462	32	NJ: Boundaries (1760)	1760	1798	61		\N	\N	\N			
+463	32	NJ: City, under 12K (1899)	1899	9999	61		\N	\N	\N			
+467	32	NJ: Name, Borough (1988-)	1988	9999	61		\N	\N	\N			

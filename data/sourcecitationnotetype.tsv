@@ -1,0 +1,382 @@
+sourcecitationnotetypeid	source	sourcecitationnotetypeisdetail	sourcecitationnotetypetext
+2	887	t	ABBR_NAME
+11	18	t	Acreage
+13	18	t	Acres
+16	10	t	Action
+17	13	t	Action
+18	18	t	Action
+19	391	t	Action
+20	739	t	Action
+21	740	t	Action
+23	739	t	Action Footnotes
+39	132	t	Annexed Acres
+40	132	t	Annexed Square Miles
+46	132	t	Approximate Date of Annexation
+47	132	t	Approximate Land Area Involved
+48	18	t	Area 1 County
+49	18	t	Area 1 MCD
+50	18	t	Area 2 County
+51	18	t	Area 2 MCD
+52	18	t	Area 3 County
+53	18	t	Area 3 MCD
+54	18	t	Area 4 County
+55	18	t	Area 4 MCD
+58	886	t	AREA_SQMI
+59	887	t	AREA_SQMI
+60	263	t	Asterisk meaning
+61	126	t	Authority
+63	18	t	Authorization Type
+64	18	t	BAS ID
+68	889	t	Became First Class Twp. [Day]
+69	889	t	Became First Class Twp. [Footnotes] [1st]
+70	889	t	Became First Class Twp. [Month]
+71	889	t	Became First Class Twp. [Year]
+72	889	t	Became First Class Twp. [Year] [Alternate 1]
+74	18	t	Cert
+76	886	t	CHANGE
+77	887	t	CHANGE
+79	738	t	Charter Commission Initiated by
+83	885	t	CITATION
+84	886	t	CITATION
+85	887	t	CITATION
+93	886	t	CNTY_TYPE
+95	24	t	Code
+110	132	t	County
+111	889	t	County
+131	18	t	County FIPS Code
+132	18	t	County Name
+133	885	t	CREATION_OR_CHANGE
+134	886	t	CROSS_REF
+135	738	t	Current Form of Government
+136	885	t	DATASET
+137	126	t	Date
+138	132	t	Date
+139	507	t	Date
+140	508	t	Date
+141	739	t	Date
+142	740	t	Date
+145	496	t	DATE
+151	263	t	Date of accepting the Common School Law of 1834
+152	132	t	DATE OF ANNEXATION
+155	516	t	Date of Election
+157	257	t	Date of GSC Election [Month]
+158	257	t	Date of GSC Election [Year]
+162	393	t	Date of Incorporation [Day]
+166	393	t	Date of Incorporation [Month]
+169	393	t	Date of Incorporation [Year]
+172	257	t	Date of Vote [Month]
+173	257	t	Date of Vote [Year]
+174	739	t	Date/Page Footnotes
+179	24	t	Date Submitted
+185	10	t	Description
+186	13	t	Description
+187	391	t	Description
+189	24	t	Description of Change
+191	496	t	DISTRICT [NAME]
+192	496	t	DISTRICT [NO.]
+193	496	t	DOCUMENTATION [REFERENCE]
+194	496	t	DOCUMENTATION [SOURCE]
+196	516	t	Effective
+200	10	t	Effective Date
+201	13	t	Effective Date
+202	18	t	Effective Date
+203	24	t	Effective Date
+204	391	t	Effective Date
+206	738	t	Effective Date of Adoption
+208	24	t	Effective_Day
+209	24	t	Effective_Month
+210	24	t	Effective_Year
+211	885	t	END_DATE
+212	886	t	END_DATE
+213	887	t	END_DATE
+214	885	t	END_N
+215	886	t	END_N
+216	887	t	END_N
+221	18	t	Entity FIPS Code
+222	740	t	Entry Comment
+223	132	t	Entry Date
+224	58	t	Erected
+225	507	t	Event
+226	508	t	Event
+227	507	t	Event Text
+228	508	t	Event Text
+229	10	t	Extent
+230	13	t	Extent
+231	391	t	Extent
+240	885	t	FIPS
+241	886	t	FIPS
+244	18	t	FIPS County Code
+245	18	t	FIPS Place Code
+247	126	t	Footnote
+248	192	t	Footnote
+249	263	t	Footnote
+250	507	t	Footnote
+251	508	t	Footnote
+254	168	t	FOOTNOTE
+255	32	t	Footnote 1
+256	32	t	Footnote 2
+263	6	t	Footnote Part
+264	8	t	Footnote Part
+265	11	t	Footnote Part
+266	14	t	Footnote Part
+267	16	t	Footnote Part
+268	17	t	Footnote Part
+269	19	t	Footnote Part
+270	14	t	Footnote Part Group
+271	491	t	Footnote Text
+272	507	t	Footnote Text
+273	508	t	Footnote Text
+280	58	t	Formed From
+281	168	t	FORMED FROM
+287	10	t	From Affected
+288	13	t	From Affected
+289	391	t	From Affected
+290	10	t	From Government
+291	13	t	From Government
+292	391	t	From Government
+294	18	t	GCATOID
+297	18	t	GEOID
+298	257	t	GSC Recommendation
+301	885	t	ID
+302	886	t	ID
+303	887	t	ID
+308	886	t	ID_NUM
+309	887	t	ID_NUM
+312	889	t	Incorporated as a Twp. [Day]
+313	889	t	Incorporated as a Twp. [Day] [Alternate 1]
+314	889	t	Incorporated as a Twp. [Day] [Alternate 2]
+315	889	t	Incorporated as a Twp. [Footnotes] [1st]
+316	889	t	Incorporated as a Twp. [Footnotes] [Alternate 1, 1st]
+317	889	t	Incorporated as a Twp. From
+318	889	t	Incorporated as a Twp. [Month]
+319	889	t	Incorporated as a Twp. [Month] [Alternate 1]
+320	889	t	Incorporated as a Twp. [Month] [Alternate 2]
+321	889	t	Incorporated as a Twp. [Year]
+322	889	t	Incorporated as a Twp. [Year] [Alternate 1]
+323	889	t	Incorporated as a Twp. [Year] [Alternate 2]
+324	889	t	Incorporated [Day]
+326	889	t	Incorporated [Day] [Alternate 1]
+327	889	t	Incorporated [Day] [Alternate 2]
+328	889	t	Incorporated [Footnotes] [1st]
+329	889	t	Incorporated [Footnotes] [2nd]
+330	889	t	Incorporated [Footnotes] [3rd]
+331	889	t	Incorporated [Footnotes] [Alternate 1, 1st]
+332	889	t	Incorporated [Footnotes] [Alternate 1, 2nd]
+333	889	t	Incorporated [Footnotes] [Alternate 1, 3rd]
+334	889	t	Incorporated [Footnotes] [Alternate 2, 1st]
+335	889	t	Incorporated From
+336	889	t	Incorporated [Month]
+338	889	t	Incorporated [Month] [Alternate 1]
+339	889	t	Incorporated [Month] [Alternate 2]
+340	889	t	Incorporated [Year]
+342	889	t	Incorporated [Year] [Alternate 1]
+343	889	t	Incorporated [Year] [Alternate 2]
+346	18	t	Keying Date
+348	132	t	LAND AREA
+352	18	t	Line
+353	168	t	LINE OF DESCENT, ETC.
+356	18	t	Local Effective Date
+357	18	t	Local Effective Number
+362	168	t	LOCATION NOW-OTHER DATA
+363	168	t	LOCATION WHEN FORMED
+365	739	t	Map Extent
+366	740	t	Map Extent
+368	18	t	Miles
+374	132	t	MUNICIPALITY ANNEXED FROM
+377	168	t	NAME
+378	496	t	NAME
+379	886	t	NAME
+380	887	t	NAME
+381	889	t	Name of Borough
+382	889	t	Name of City
+383	889	t	Name of Township
+384	886	t	NAME_START
+385	887	t	NAME_START
+386	10	t	Note
+387	13	t	Note
+388	391	t	Note
+389	393	t	Note
+390	516	t	Note
+396	18	t	Number
+413	132	t	Ordinance Approval Date
+418	740	t	Original Bulletin Page
+423	393	t	Other
+424	496	t	PAGE
+438	126	t	Political Divisions
+439	10	t	Population
+440	13	t	Population
+441	391	t	Population
+452	889	t	Prior Status
+455	738	t	Proposal of Charter Commission
+456	739	t	Proposed Action
+469	132	t	Referendum
+470	738	t	Referendum Initiated By
+473	496	t	REMARKS
+476	257	t	Result
+478	257	t	Result [GSC]
+479	738	t	Result of Referendum
+483	263	t	School District
+484	18	t	Secondary Effective Date
+485	18	t	Secondary Effective Number
+486	10	t	Sent To
+487	13	t	Sent To
+488	391	t	Sent To
+490	496	t	SESSION
+491	496	t	SESSION [NO.]
+492	889	t	Settled
+506	24	t	Source of Change
+515	885	t	START_DATE
+516	886	t	START_DATE
+517	887	t	START_DATE
+518	885	t	START_N
+519	886	t	START_N
+520	887	t	START_N
+522	18	t	State
+523	24	t	State
+524	885	t	STATE
+525	18	t	State Cert Flag
+528	18	t	State Effective Date
+529	18	t	State Effective Number
+530	18	t	State FIPS
+531	18	t	State Name
+532	886	t	STATE_TERR
+533	18	t	State USPS
+537	740	t	Statute Chapter
+538	739	t	Statute/Footnote Page(s)
+539	740	t	Statute Page
+544	887	t	TERR_TYPE
+546	1	t	Text
+547	2	t	Text
+548	3	t	Text
+549	4	t	Text
+550	5	t	Text
+551	6	t	Text
+552	8	t	Text
+553	11	t	Text
+554	14	t	Text
+555	16	t	Text
+556	17	t	Text
+557	19	t	Text
+558	21	t	Text
+559	22	t	Text
+560	32	t	Text
+561	33	t	Text
+562	34	t	Text
+563	37	t	Text
+564	38	t	Text
+565	39	t	Text
+566	41	t	Text
+567	52	t	Text
+568	59	t	Text
+569	60	t	Text
+570	63	t	Text
+571	80	t	Text
+572	83	t	Text
+573	84	t	Text
+574	85	t	Text
+575	87	t	Text
+576	89	t	Text
+577	90	t	Text
+578	92	t	Text
+579	110	t	Text
+580	111	t	Text
+581	112	t	Text
+582	122	t	Text
+583	125	t	Text
+584	129	t	Text
+585	139	t	Text
+586	145	t	Text
+587	147	t	Text
+588	148	t	Text
+589	154	t	Text
+590	158	t	Text
+591	164	t	Text
+592	165	t	Text
+593	168	t	Text
+594	190	t	Text
+595	192	t	Text
+596	200	t	Text
+597	206	t	Text
+598	216	t	Text
+599	219	t	Text
+600	223	t	Text
+601	261	t	Text
+602	263	t	Text
+603	264	t	Text
+604	321	t	Text
+605	330	t	Text
+606	344	t	Text
+607	357	t	Text
+608	380	t	Text
+609	381	t	Text
+610	385	t	Text
+611	386	t	Text
+612	397	t	Text
+613	399	t	Text
+614	410	t	Text
+615	429	t	Text
+616	451	t	Text
+617	452	t	Text
+618	453	t	Text
+619	454	t	Text
+620	455	t	Text
+621	456	t	Text
+622	457	t	Text
+623	458	t	Text
+624	459	t	Text
+625	460	t	Text
+626	461	t	Text
+627	462	t	Text
+628	468	t	Text
+629	489	t	Text
+630	491	t	Text
+631	492	t	Text
+632	503	t	Text
+633	723	t	Text
+634	735	t	Text
+635	739	t	Text
+636	899	t	Text
+637	901	t	Text
+639	957	t	Text
+640	984	t	Text
+641	987	t	Text
+644	1144	t	Text
+645	1146	t	Text
+646	1149	t	Text
+647	1151	t	Text
+648	1154	t	Text
+650	1531	t	Text
+651	1539	t	Text
+652	1573	t	Text
+653	1579	t	Text
+654	1633	t	Text
+655	1666	t	Text
+657	10	t	To Affected
+658	13	t	To Affected
+659	391	t	To Affected
+660	10	t	To Government
+661	13	t	To Government
+662	391	t	To Government
+663	132	t	Total to Date Acres
+664	132	t	Total To Date Square Miles
+666	889	t	Town Laid Out or Settled
+668	132	t	Township
+669	168	t	TOWNSHIP
+678	10	t	Type
+679	13	t	Type
+680	18	t	Type
+681	132	t	Type
+682	391	t	Type
+687	889	t	Type/Class
+689	24	t	Type of Change
+691	885	t	VERSION
+692	886	t	VERSION
+693	887	t	VERSION
+697	516	t	Vote Against
+698	516	t	Vote For
+699	126	t	Ward Change
+706	126	t	Year
+707	738	t	Year
+708	739	t	Year
+709	740	t	Year
+719	168	t	Y'R

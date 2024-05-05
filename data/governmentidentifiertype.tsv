@@ -1,76 +1,76 @@
-governmentidentifiertypeid	governmentidentifiertypetype	governmentidentifiertypeshort	source	isinteger	governmentidentifiertypeurl	governmentidentifiertypeprefixlength	governmentidentifiertypelength	governmentidentifiertypeslug	governmentidentifiertypeprefixdelimiter	governmentidentifiertypenote
-1	geologic	USGS GNIS: Civil	\N	t	https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/<Identifier>	[0,1)	[1,8)	usgs		
-2	geologic	USGS GNIS: Populated Place	\N	t	https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/<Identifier>	[0,1)	[1,8)	usgs		
-3	census	US Census Bureau FIPS: State	\N	t		[0,1)	[2,3)	us-census		
-4	census	US Census Bureau FIPS: County	\N	t		[2,3)	[3,4)	us-census		
-5	census	US Census Bureau FIPS: County Subdivision	\N	t		[5,6)	[5,6)	us-census		
-6	census	US Census Bureau FIPS: Place	\N	t		[2,3)	[5,6)	us-census		
-9	state	New Jersey: County	\N	t		[0,1)	[1,3)	nj		
-10	state	New Jersey: Municipality	\N	t		[1,3)	[2,3)	nj		
-11	state	Pennsylvania DCED: County	\N	t		[0,1)	[2,3)	pa		
-12	state	Pennsylvania DCED: Municipality	\N	t		[2,3)	[4,5)	pa		
-13	other	ISO: 3166-1 alpha-2	\N	f		[0,1)	[2,3)	iso		
-14	other	ISO: 3166-1 alpha-3	\N	f		[0,1)	[3,4)	iso		
-16	cadastral	Adams County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-adams-county		
-17	cadastral	Armstrong County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-armstrong-county		
-18	cadastral	Beaver County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-beaver-county		
-19	county	Bedford County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-bedford-county		
-20	cadastral	Blair County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-blair-county		
-21	cadastral	Bucks County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-bucks-county		
-22	cadastral	York County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-york-county		
-23	cadastral	Berks County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-berks-county		
-27	cadastral	New Castle County, Delaware	\N	t		[0,1)	[2,3)	de-new-castle-county		
-28	other	ISO: 3166-2	\N	f		[2,3)	[1,4)	iso	-	
-29	cadastral	Bradford County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-bradford-county		
-30	cadastral	Butler County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-butler-county		
-31	cadastral	Cambria County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-cambria-county		
-32	cadastral	Chester County, Pennsylvania	\N	t		[0,1)	[1,3)	pa-chester-county		
-33	cadastral	Clarion County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-clarion-county		
-34	cadastral	Clearfield County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-clearfield-county		
-35	cadastral	Columbia County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-columbia-county		
-36	cadastral	Crawford County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-crawford-county		
-37	cadastral	Dauphin County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-dauphin-county		
-38	cadastral	Delaware County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-delaware-county		
-39	cadastral	Elk County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-elk-county		
-40	cadastral	Erie County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-erie-county		
-41	cadastral	Fayette County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-fayette-county		
-42	cadastral	Forest County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-forest-county		
-43	cadastral	Greene County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-greene-county		
-44	cadastral	Huntingdon County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-huntingdon-county		
-45	cadastral	Indiana County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-indiana-county		Not verified
-46	cadastral	Lancaster County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-lancaster-county		
-47	cadastral	Luzerne County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-luzerne-county		
-48	cadastral	Lycoming County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-lycoming-county		
-49	cadastral	Monroe County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-monroe-county		
-50	cadastral	Montgomery County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-montgomery-county		
-51	cadastral	Montour County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-montour-county		Unable to verify
-52	cadastral	Northampton County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-northampton-county		
-53	cadastral	Perry County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-perry-county		
-54	cadastral	Schuylkill County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-schuylkill-county		
-55	cadastral	Somerset County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-somerset-county		
-56	cadastral	Tioga County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-tioga-county		
-57	cadastral	Union County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-union-county		
-58	cadastral	Washington County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-washington-county		
-60	cadastral	Wayne County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-wayne-county		
-61	cadastral	Westmoreland County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-westmoreland-county		
-62	county	Lehigh County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-lehigh-county		
-63	cadastral	Carbon County, Pennsylvania	\N	t		[0,1)	[1,3)	pa-carbon-county		
-64	cadastral	Centre County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-centre-county		
-65	cadastral	Cumberland County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-cumberland-county		
-66	cadastral	Franklin County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-franklin-county		
-67	cadastral	Fulton County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-fulton-county		
-68	cadastral	Jefferson County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-jefferson-county		Not verified
-69	cadastral	Juniata County, Pennsylvania	\N	t		[0,1)	[1,3)	pa-juniata-county		
-70	cadastral	Lawrence County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-lawrence-county		Awaiting response from county about S.N.P.J.
-71	cadastral	Mercer County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-mercer-county		
-72	cadastral	Mifflin County, Pennsylvania	\N	f		[0,1)	[2,4)	pa-mifflin-county		
-73	cadastral	Snyder County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-snyder-county		
-74	county	Susquehanna County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-susquehanna-county		
-75	county	Warren County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-warren-county		
-76	cadastral	Wyoming County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-wyoming-county		
-78	cadastral	Sullivan County, Pennsylvania	\N	t		[0,1)	[2,3)	pa-sullivan-county		
-79	cadastral	Cameron County, Pennsylvania	\N	t		[0,1)	[1,2)	pa-cameron-county		
-80	county	Allegheny County, Pennsylvania	\N	t		[0,1)	[3,4)	pa-allegheny-county		For cities, pulls MUNICODE from both municipalities and parcel layers
-81	state	New York SWIS (Dominant)	\N	t		[0,1)	[6,7)	ny-swis-dominant		
-84	other	Wikidata	\N	t	https://www.wikidata.org/wiki/<Identifier>?uselang=<Language>	[0,1)	[1,11)	wikidata		
-85	census	US Census Bureau FIPS: Unified School District	\N	t		[2,3)	[5,6)	us-census		
+governmentidentifiertypeid	governmentidentifiertypetype	governmentidentifiertypeshort	source	isinteger	governmentidentifiertypeurl	governmentidentifiertypeprefixlengthfrom	governmentidentifiertypeprefixlengthto	governmentidentifiertypelengthfrom	governmentidentifiertypelengthto	governmentidentifiertypeslug	governmentidentifiertypeprefixdelimiter	governmentidentifiertypenote
+1	geologic	USGS GNIS: Civil	\N	t	https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/<Identifier>	0	0	1	7	usgs		
+2	geologic	USGS GNIS: Populated Place	\N	t	https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/<Identifier>	0	0	1	7	usgs		
+3	census	US Census Bureau FIPS: State	\N	t		0	0	2	2	us-census		
+4	census	US Census Bureau FIPS: County	\N	t		2	2	3	3	us-census		
+5	census	US Census Bureau FIPS: County Subdivision	\N	t		5	5	5	5	us-census		
+6	census	US Census Bureau FIPS: Place	\N	t		2	2	5	5	us-census		
+9	state	New Jersey: County	\N	t		0	0	1	2	nj		
+10	state	New Jersey: Municipality	\N	t		1	2	2	2	nj		
+11	state	Pennsylvania DCED: County	\N	t		0	0	2	2	pa		
+12	state	Pennsylvania DCED: Municipality	\N	t		2	2	4	4	pa		
+13	other	ISO: 3166-1 alpha-2	\N	f		0	0	2	2	iso		
+14	other	ISO: 3166-1 alpha-3	\N	f		0	0	3	3	iso		
+16	cadastral	Adams County, Pennsylvania	\N	t		0	0	2	2	pa-adams-county		
+17	cadastral	Armstrong County, Pennsylvania	\N	t		0	0	2	2	pa-armstrong-county		
+18	cadastral	Beaver County, Pennsylvania	\N	t		0	0	2	2	pa-beaver-county		
+19	county	Bedford County, Pennsylvania	\N	t		0	0	3	3	pa-bedford-county		
+20	cadastral	Blair County, Pennsylvania	\N	t		0	0	2	2	pa-blair-county		
+21	cadastral	Bucks County, Pennsylvania	\N	t		0	0	2	2	pa-bucks-county		
+22	cadastral	York County, Pennsylvania	\N	t		0	0	2	2	pa-york-county		
+23	cadastral	Berks County, Pennsylvania	\N	t		0	0	2	2	pa-berks-county		
+27	cadastral	New Castle County, Delaware	\N	t		0	0	2	2	de-new-castle-county		
+28	other	ISO: 3166-2	\N	f		2	2	1	3	iso	-	
+29	cadastral	Bradford County, Pennsylvania	\N	t		0	0	2	2	pa-bradford-county		
+30	cadastral	Butler County, Pennsylvania	\N	t		0	0	3	3	pa-butler-county		
+31	cadastral	Cambria County, Pennsylvania	\N	t		0	0	2	2	pa-cambria-county		
+32	cadastral	Chester County, Pennsylvania	\N	t		0	0	1	2	pa-chester-county		
+33	cadastral	Clarion County, Pennsylvania	\N	t		0	0	2	2	pa-clarion-county		
+34	cadastral	Clearfield County, Pennsylvania	\N	t		0	0	3	3	pa-clearfield-county		
+35	cadastral	Columbia County, Pennsylvania	\N	t		0	0	2	2	pa-columbia-county		
+36	cadastral	Crawford County, Pennsylvania	\N	t		0	0	2	2	pa-crawford-county		
+37	cadastral	Dauphin County, Pennsylvania	\N	t		0	0	2	2	pa-dauphin-county		
+38	cadastral	Delaware County, Pennsylvania	\N	t		0	0	2	2	pa-delaware-county		
+39	cadastral	Elk County, Pennsylvania	\N	t		0	0	2	2	pa-elk-county		
+40	cadastral	Erie County, Pennsylvania	\N	t		0	0	2	2	pa-erie-county		
+41	cadastral	Fayette County, Pennsylvania	\N	t		0	0	2	2	pa-fayette-county		
+42	cadastral	Forest County, Pennsylvania	\N	t		0	0	2	2	pa-forest-county		
+43	cadastral	Greene County, Pennsylvania	\N	t		0	0	2	2	pa-greene-county		
+44	cadastral	Huntingdon County, Pennsylvania	\N	t		0	0	2	2	pa-huntingdon-county		
+45	cadastral	Indiana County, Pennsylvania	\N	t		0	0	2	2	pa-indiana-county		Not verified
+46	cadastral	Lancaster County, Pennsylvania	\N	t		0	0	3	3	pa-lancaster-county		
+47	cadastral	Luzerne County, Pennsylvania	\N	t		0	0	2	2	pa-luzerne-county		
+48	cadastral	Lycoming County, Pennsylvania	\N	t		0	0	2	2	pa-lycoming-county		
+49	cadastral	Monroe County, Pennsylvania	\N	t		0	0	2	2	pa-monroe-county		
+50	cadastral	Montgomery County, Pennsylvania	\N	t		0	0	2	2	pa-montgomery-county		
+51	cadastral	Montour County, Pennsylvania	\N	t		0	0	2	2	pa-montour-county		Unable to verify
+52	cadastral	Northampton County, Pennsylvania	\N	t		0	0	2	2	pa-northampton-county		
+53	cadastral	Perry County, Pennsylvania	\N	t		0	0	3	3	pa-perry-county		
+54	cadastral	Schuylkill County, Pennsylvania	\N	t		0	0	2	2	pa-schuylkill-county		
+55	cadastral	Somerset County, Pennsylvania	\N	t		0	0	2	2	pa-somerset-county		
+56	cadastral	Tioga County, Pennsylvania	\N	t		0	0	2	2	pa-tioga-county		
+57	cadastral	Union County, Pennsylvania	\N	t		0	0	3	3	pa-union-county		
+58	cadastral	Washington County, Pennsylvania	\N	t		0	0	3	3	pa-washington-county		
+60	cadastral	Wayne County, Pennsylvania	\N	t		0	0	2	2	pa-wayne-county		
+61	cadastral	Westmoreland County, Pennsylvania	\N	t		0	0	2	2	pa-westmoreland-county		
+62	county	Lehigh County, Pennsylvania	\N	t		0	0	2	2	pa-lehigh-county		
+63	cadastral	Carbon County, Pennsylvania	\N	t		0	0	1	2	pa-carbon-county		
+64	cadastral	Centre County, Pennsylvania	\N	t		0	0	2	2	pa-centre-county		
+65	cadastral	Cumberland County, Pennsylvania	\N	t		0	0	2	2	pa-cumberland-county		
+66	cadastral	Franklin County, Pennsylvania	\N	t		0	0	2	2	pa-franklin-county		
+67	cadastral	Fulton County, Pennsylvania	\N	t		0	0	2	2	pa-fulton-county		
+68	cadastral	Jefferson County, Pennsylvania	\N	t		0	0	2	2	pa-jefferson-county		Not verified
+69	cadastral	Juniata County, Pennsylvania	\N	t		0	0	1	2	pa-juniata-county		
+70	cadastral	Lawrence County, Pennsylvania	\N	t		0	0	2	2	pa-lawrence-county		Awaiting response from county about S.N.P.J.
+71	cadastral	Mercer County, Pennsylvania	\N	t		0	0	2	2	pa-mercer-county		
+72	cadastral	Mifflin County, Pennsylvania	\N	f		0	0	2	3	pa-mifflin-county		
+73	cadastral	Snyder County, Pennsylvania	\N	t		0	0	2	2	pa-snyder-county		
+74	county	Susquehanna County, Pennsylvania	\N	t		0	0	2	2	pa-susquehanna-county		
+75	county	Warren County, Pennsylvania	\N	t		0	0	2	2	pa-warren-county		
+76	cadastral	Wyoming County, Pennsylvania	\N	t		0	0	2	2	pa-wyoming-county		
+78	cadastral	Sullivan County, Pennsylvania	\N	t		0	0	2	2	pa-sullivan-county		
+79	cadastral	Cameron County, Pennsylvania	\N	t		0	0	1	1	pa-cameron-county		
+80	county	Allegheny County, Pennsylvania	\N	t		0	0	3	3	pa-allegheny-county		For cities, pulls MUNICODE from both municipalities and parcel layers
+81	state	New York SWIS (Dominant)	\N	t		0	0	6	6	ny-swis-dominant		
+84	other	Wikidata	\N	t	https://www.wikidata.org/wiki/<Identifier>?uselang=<Language>	0	0	1	10	wikidata		
+85	census	US Census Bureau FIPS: Unified School District	\N	t		2	2	5	5	us-census		

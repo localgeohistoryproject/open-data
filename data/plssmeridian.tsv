@@ -115,3 +115,11 @@ plssmeridianid	plssmeridianshort	plssmeridianlong	plssmeridianisspecialsurvey	pl
 142	TRI	Triange Tract	f	f
 143	CT	Connecticut Tract	f	f
 144	MYT	Mill Yard Tract	f	f
+145	CAN 1	1st Meridian (Dominion Land Survey)	f	f
+146	CAN 2	2nd Meridian (Dominion Land Survey)	f	f
+147	CAN 3	3rd Meridian (Dominion Land Survey)	f	f
+148	CAN 4	4th Meridian (Dominion Land Survey)	f	f
+149	CAN 5	5th Meridian (Dominion Land Survey)	f	f
+150	CAN 6	6th Meridian (Dominion Land Survey)	f	f
+151	CAN 7	7th Meridian (Dominion Land Survey)	f	f
+152	CAN C	Coast Meridian (Dominion Land Survey)	f	f

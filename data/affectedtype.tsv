@@ -18,5 +18,6 @@ affectedtypeid	affectedtypelong	affectedtypeshort	affectedtypecreationdissolutio
 18	Only a portion of the government is affected, without altering its boundaries or name.	Part		both	f	8
 19	Only a portion of the government is affected, without altering its boundaries or name, but affects the entirety of that portion that overlaps the next highest level of government.	Overlap		both	f	8
 20	The territory of the government is decreased, but affects the entirety of that portion that overlaps the next highest level of government.	*Reduction	alter	from	f	11
-21	The government becomes dependent on another government, or drops to another level of government.	Subordination	subordinate	both	f	\N
-23	Not used in the data itself, but may be presented in reports as a placeholder for incomplete information.	Missing	other	both	t	\N
+21	The government becomes dependent on another government, or drops to another level of government.	Subordination	subordinate	both	f	21
+23	Not used in the data itself, but may be presented in reports as a placeholder for incomplete information.	Missing	other	both	t	23
+24	A government vested with limited powers was created.	Proto-Creation		to	f	24

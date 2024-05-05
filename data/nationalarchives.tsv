@@ -1938,7 +1938,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 4451	10	1837	Warren	County	17500375	708	708	f	
 4452	10	1826	Hunterdon	County	17500374	1841	1843	f	
 4453	10	1831	Ocean	County	17500375	207	207	f	
-4456	7	48706	Panama Canal	Zone	75639631	1	1	f	1950
 4461	7	3248	Abbott		5838167	1	1	f	1940
 4462	7	1247	Aberdeen		16684159	1	1	f	1950
 4479	7	6010	Abington		5837667	1	1	f	1940
@@ -1981,7 +1980,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 4683	7	3288	Amity		5836827	1	1	f	1940
 4684	7	3287	Amity		5837439	1	1	f	1940
 4691	7	3289	Amwell		5838437	1	1	f	1940
-4704	7	48706	Ancon		5838606	1	1	f	1940
 4731	7	3291	Annin		5837919	1	1	f	1940
 4733	7	3292	Annville		5837769	1	1	f	1940
 4744	7	3294	Anthony		5837871	1	1	f	1940
@@ -2026,7 +2024,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 4934	7	3328	Avoca		5837816	1	1	f	1940
 4935	7	3328	Avoca		36433208	1	1	f	1950
 4943	7	3331	Ayr		5837525	1	1	f	1940
-4957	7	48706	Balboa		5838607	1	1	f	1940
 4958	7	3333	Bald Eagle		5837234	1	1	f	1940
 4967	7	1238	Baltimore		18559587	1	1	f	1950
 4969	7	1238	Baltimore	County	12549417	1	1	f	1950
@@ -2387,7 +2384,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 6563	7	3675	Collingdale		36432954	1	1	f	1950
 6564	7	1820	Collingswood		5835113	1	1	f	1940
 6565	7	7119	Collingswood		23853137	1	1	f	1950
-6573	7	48706	Colon Naval Radio Reservation		5838621	1	1	f	1940
 6590	7	3677	Columbia		5836905	1	1	f	1940
 6591	7	3676	Columbia		5837707	1	1	f	1940
 6592	7	3676	Columbia		36433160	1	1	f	1950
@@ -2429,7 +2425,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 6724	7	1921	Corning		24519700	1	1	f	1950
 6725	7	3718	Cornplanter		5838389	1	1	f	1940
 6727	7	5729	Cornwall		5837772	1	1	f	1940
-6730	7	48706	Corozal		5838608	1	1	f	1940
 6736	7	3720	Corry		5837442	1	1	f	1940
 6737	7	3720	Corry		36432986	1	1	f	1950
 6750	7	3722	Corydon		5837922	1	1	f	1940
@@ -2448,7 +2443,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 6810	7	2306	Crawford	County	36432912	1	1	f	1950
 6815	7	3735	Crescent		5836688	1	1	f	1940
 6817	7	3737	Cresson		5837018	1	1	f	1940
-6829	7	48706	Cristobal		5838622	1	1	f	1940
 6837	7	3739	Cromwell		5837566	1	1	f	1940
 6849	7	3740	Cross Creek		5838447	1	1	f	1940
 6859	7	3742	Croyle		5837019	1	1	f	1940
@@ -2747,11 +2741,8 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 8014	7	4019	Forks		5838078	1	1	f	1940
 8015	7	4020	Forks		5838299	1	1	f	1940
 8016	7	4021	Forkston		5838548	1	1	f	1940
-8025	7	48706	Fort Clayton		5838609	1	1	f	1940
-8027	7	48706	Fort de Lesseps		5838610	1	1	f	1940
 8038	7	7181	Fort Lee		5835056	1	1	f	1940
 8039	7	7181	Fort Lee		23853047	1	1	f	1950
-8063	7	48706	Fort William Davis Military Reservation		5838623	1	1	f	1940
 8067	7	4023	Forty Fort		5837831	1	1	f	1940
 8068	7	4023	Forty Fort		36433219	1	1	f	1950
 8069	7	4024	Forward		5836693	1	1	f	1940
@@ -2808,7 +2799,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 8199	7	4069	Freeport		5837543	1	1	f	1940
 8208	7	4072	French Creek		5837944	1	1	f	1940
 8209	7	4073	Frenchcreek		5838392	1	1	f	1940
-8212	7	48706	Frijoles		5838611	1	1	f	1940
 8228	7	4075	Fulton		5837721	1	1	f	1940
 8235	7	2315	Fulton	County	36433016	1	1	f	1950
 8242	7	4076	Gaines		5838349	1	1	f	1940
@@ -2823,7 +2813,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 8309	7	7196	Garwood		5835305	1	1	f	1940
 8310	7	7196	Garwood		23928620	1	1	f	1950
 8317	7	4083	Gaskill		5837629	1	1	f	1940
-8327	7	48706	Gatun		5838624	1	1	f	1940
 8328	7	6195	Gearhart		5838103	1	1	f	1940
 8335	7	4086	Genesee		5838173	1	1	f	1940
 8345	7	2089	Geneva		5835905	1	1	f	1940
@@ -3513,7 +3502,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 11488	7	2331	Monroe	County	36433281	1	1	f	1950
 11495	7	1823	Montclair		5835153	1	1	f	1940
 11496	7	7737	Montclair		23853214	1	1	f	1950
-11497	7	48706	Monte Lirio		5838625	1	1	f	1940
 11504	7	4716	Montgomery		5837515	1	1	f	1940
 11505	7	4714	Montgomery		5837611	1	1	f	1940
 11506	7	4715	Montgomery		5838032	1	1	f	1940
@@ -3546,7 +3534,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 11627	7	7357	Mount Ephraim		5835121	1	1	f	1940
 11630	7	7358	Mount Holly		5835100	1	1	f	1940
 11631	7	7358	Mount Holly		23853122	1	1	f	1950
-11632	7	48706	Mount Hope		5838626	1	1	f	1940
 11633	7	4740	Mount Joy		5836677	1	1	f	1940
 11634	7	4741	Mount Joy		5837729	1	1	f	1940
 11635	7	1930	Mount Kisco		24737325	1	1	f	1950
@@ -3763,11 +3750,9 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 12552	7	4943	Palmyra		5838161	1	1	f	1940
 12553	7	4942	Palmyra		5838494	1	1	f	1940
 12554	7	4941	Palmyra		36433188	1	1	f	1950
-12558	7	48706	Palo Seco Leper Colony		5838612	1	1	f	1940
 12574	7	4945	Paradise		5837730	1	1	f	1940
 12575	7	4946	Paradise		5837997	1	1	f	1940
 12576	7	4947	Paradise		5838586	1	1	f	1940
-12578	7	48706	Paraiso		5838613	1	1	f	1940
 12579	7	7404	Paramus		5835072	1	1	f	1940
 12580	7	7404	Paramus		23853079	1	1	f	1950
 12598	7	7405	Park Ridge		5835073	1	1	f	1940
@@ -3791,7 +3776,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 12648	7	7409	Paulsboro		23853239	1	1	f	1950
 12649	7	4958	Paupack		5838495	1	1	f	1940
 12670	7	4961	Peach Bottom		5838587	1	1	f	1940
-12677	7	48706	Pedro Miguel		5838614	1	1	f	1940
 12682	7	1930	Pelham		5835876	1	1	f	1940
 12690	7	4962	Pen Argyl		5838090	1	1	f	1940
 12691	7	4962	Pen Argyl		36433337	1	1	f	1950
@@ -3975,7 +3959,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 13313	7	7446	Red Bank		23853364	1	1	f	1950
 13318	7	5118	Red Lion		5838589	1	1	f	1940
 13319	7	5118	Red Lion		40037751	1	1	f	1950
-13325	7	48706	Red Tank		5838615	1	1	f	1940
 13329	7	5119	Redbank		5836751	1	1	f	1940
 13330	7	5120	Redbank		5837191	1	1	f	1940
 13338	7	5121	Redstone		5837482	1	1	f	1940
@@ -4301,7 +4284,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 14689	7	5440	Summerhill		5837311	1	1	f	1940
 14694	7	1836	Summit		5835314	1	1	f	1940
 14695	7	7515	Summit		23928640	1	1	f	1950
-14696	7	48706	Summit		5838616	1	1	f	1940
 14697	7	5446	Summit		5837002	1	1	f	1940
 14698	7	5444	Summit		5837312	1	1	f	1940
 14699	7	5443	Summit		5837457	1	1	f	1940
@@ -4831,8 +4813,6 @@ nationalarchivesid	source	government	nationalarchivesgovernmentname	nationalarch
 18414	7	2100	Columbiana	County	5835955	1	1	f	1940
 18449	7	2135	Mahoning	County	5836102	1	1	f	1940
 18477	7	2163	Trumbull	County	5836213	1	1	f	1940
-18601	7	48706	Balboa County		5838617	1	1	f	1940
-18602	7	48706	Canal Zone		5838619	1	1	f	1940
 18603	7	2287	Adams	County	5836684	1	1	f	1940
 18604	7	2288	Allegheny	County	5836726	1	1	f	1940
 18605	7	2289	Armstrong	County	5836759	1	1	f	1940
