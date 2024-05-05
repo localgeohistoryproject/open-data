@@ -12,6 +12,7 @@ tribunaltypeid	tribunaltypelevel	tribunaltypeshort	tribunaltypelong	tribunaltype
 13	3	Orp.Ct.	Orphans' Court		Clerk	f		Orphans'
 14	3	Q.Sess.	Court of Quarter Sessions of the Peace		Clerk of Courts	t		Quarter Sessions
 15	3	Reg.Wl.	Register of Wills		Register of Wills	t		Wills
+17	2	Ch.	Court of Chancery		Clerk	f		Chancery
 18	2	Err.&App.	Court of Errors and Appeals		Clerk	f		Errors and Appeals
 19	2	Super.App.Div.	Superior Court	Appellate Division	Clerk	f		Superior Appellate
 20	2	Sup.	Supreme Court		Clerk	f		Supreme

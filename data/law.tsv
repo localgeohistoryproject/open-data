@@ -112,7 +112,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 116	359	1846	86	73		Regulating election districts	1846-03-07				f					\N
 117	359	1848	34	33		To incorporate the village of Coudersport into a borough	1848-02-07				f					\N
 118	359	1840	146	59		For the better ascertaining and establishing the boundary line between the counties of Jefferson, Warren, M'Kean and Clearfield, and for other purposes	1840-03-17				f					\N
-119	447	6	214	481		For erecting the southern suburbs of the City of Philadelphia into the District of Southwark, for making the streets and roads already laid out therein public roads and highways, and for regulating such other streets and roads as the inhabitants may hereafter lay out, and for other uses and purposes therein mentioned	1762-03-26				f					\N
+119	447	6	214	481	2 Geo. 3	For erecting the southern suburbs of the City of Philadelphia into the District of Southwark, for making the streets and roads already laid out therein public roads and highways, and for regulating such other streets and roads as the inhabitants may hereafter lay out, and for other uses and purposes therein mentioned	1762-03-26				f					\N
 120	359	1858	346	384		In regard to the name of Nelson Township, Tioga countty	1858-04-20				f					\N
 121	359	1850	1051	474		To incorporate the village of Conshohocken, in the Townships of Plymouth and Whitemarsh, in Montgomery County, to be called the Borough of Conshohocken ; and relative to the Borough of Mauch Chunk	1850-05-15				f					\N
 122	359	1850	113	99		Regulating certain election districts	1850-02-28				f					\N
@@ -440,7 +440,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 454	359	1843	85	41		Erecting parts of Northampton and Monroe counties, into a separate county, to be called Carbon	1843-03-13				f					\N
 455	447	13	337	1443		For dividing the county of Chester, and to erect part thereof into a separate county	1789-09-26				f					\N
 456	359	1861	794	708		To change the name of Jones township, in Elk county	1860-03-21				f					\N
-457	447	5	105	387		For explaining and ascertaining the boundary line between the Counties of York and Cumberland, in the Province of Pennsylvania	1750*-02-09J		1753-05-10		f					\N
+457	447	5	105	387	24 Geo. 2	For explaining and ascertaining the boundary line between the Counties of York and Cumberland, in the Province of Pennsylvania	1750*-02-09J		1753-05-10		f					\N
 458	359	1827-1828	183	85		To alter an act, entitled An act for erecting the town of Easton, in the county of Northampton, into a borough, and for other purposes therein mentioned	1828-03-19				f					\N
 459	359	1895	275	188		Dividing the cities of this State into three classes with respect to their population, and designating the mode of ascertaining and changing the classification thereof in accordance therewith	1895-06-25				f					\N
 460	359	1872	1017	965		To repeal the third section of an act, entitled "An act to incorporate the city of Lock Haven," approved the twenty-eighth day of March, Anno Domini one thousand eight hundred and seventy	1872-04-09				f					\N
@@ -510,7 +510,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 526	359	1851	302	211		To change the name of the borough of West Philadelphia to the District of West Philadelphia, and relative to highways in the Districts of Kensington and Richmond, in the county of Philadelphia	1851-04-03				f					\N
 527	359	1854	155	121		A supplement to an act entitled "An act to appoint commissioners to run and mark the county lines between Bedford, Fulton and Huntingdon, passed the twentieth day of April, Anno Domini, one thousand eight hundred and fifty-three	1854-03-06				f					\N
 528	359	1840	52	17		To incorporate the town of Horacetown, in Tioga county, into a borough, to be called the borough of Horacetown, and for other purposes	1840-02-19				f					\N
-529	447	5	87	380		For erecting part of the Province of Pennsylvania, westward of [the] Susquehanna and northward and westward of the County of York, into a county	1749*-01-27J		1751-05-13J		f					\N
+529	447	5	87	380	23 Geo. 2	For erecting part of the Province of Pennsylvania, westward of [the] Susquehanna and northward and westward of the County of York, into a county	1749*-01-27J		1751-05-13J		f					\N
 530	359	1849	64	60		For recording the plot and survey of certain lands in Elk county	1849-02-14				f					\N
 531	359	1860	741	623		Relating to the erection of a new township out of parts of Pine and West Deer townships, in Allegheny county	1860-04-02				f					\N
 532	359	1863	404	400		A Supplement to an act, entitled "An Act to establish the Union School District of Chester and Delaware counties"	1863-04-14				f					\N
@@ -547,7 +547,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 564	359	1852	51	48		Appointing commissioners to run and mark the boundary line between Lancaster and Lebanon counties	1852-02-13				f					\N
 565	359	1840	666	251		Regulating Election Districts, and for other purposes	1840-06-13				f					\N
 566	359	1855	177	193		To ascertain and fix the dividing line between the counties of Berks and Schuylkill, and to legalize in part the report of commissioners appointed to ascertain and fix the dividing line between the counties of Berks and Schuylkill, under the provisions of an act of assembly, approved on the fifteenth day of April, Anno Domini one thousand eight hundred and fifty, and the supplement thereto, approved April twenty-fifth, Anno Domini one thousand eight hundred and fifty-four	1855-04-05				f					\N
-567	447	5	70	377		For erecting part of the Province of Pennsylvania westward of Susquehanna and southeastward of the south mountain into a county	1749-08-19J		1750-08-02J		f					\N
+567	447	5	70	377	23 Geo. 2	For erecting part of the Province of Pennsylvania westward of Susquehanna and southeastward of the south mountain into a county	1749-08-19J		1750-08-02J		f					\N
 568	359	1848	303	249		To incorporate the village of West Elizabeth, in the county of Allegheny, into a borough	1848-03-30				f					\N
 569	359	1853	57	53		Authorizing the Governor to incorporate the Strasburg and Willow Street turnpike road company; relative to the Lafayette railroad company; and to the collection of taxes in Warwick township, Lancaster county	1853-02-09				f					\N
 570	359	1842	217	78		To authorize the Governor to incorporate a company for making an artificial road from the Monongahela and Coal Hill Turnpike Road, near the top of Coal Hill, in the county of Allegheny, to Beallville, in Washington county, and for other purposes	1842-04-04				f					\N
@@ -654,7 +654,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 678	359	1848	250	210		To provide for the repairs of the meadow banks upon the Delaware front, in the county of Philadelphia, above the city of Philadelphia, and extending the limits of Richmond district	1848-03-25				f					\N
 679	358	1818-1819	209	134		To incorporate the town of Stoystown in the county of Somerset	1819-03-29				f					\N
 680	358	1819-1820	184	125		To revive the act incorporating the borough of Greencastle, in the county of Franklin, and to incorporate the town of Greersburg, and the Beaver Falls Water Company, in the county of Beaver, and for other purposes	1820-03-28				f					\N
-681	447	5	140	393		For erecting the northwest part of Bucks into a separate county	1752-03-11J11		1753-05-10		f					\N
+681	447	5	140	393	25 Geo. 2	For erecting the northwest part of Bucks into a separate county	1752-03-11J11		1753-05-10		f					\N
 682	359	1855	83	93		Authorizing the commissioners of Jefferson county to employ an artist to make out a draft of the borough of Brookville	1855-03-15				f					\N
 683	359	1857	36	47		To incorporate the town of Ashland, partly in Schuylkill and partly in Columbia county, into a borough	1857-02-13				f					\N
 684	361	1840	723	19		Authorizing the Commissioners of the county of Clinton to borrow a sum of money, and for other purposes	1840-04-09				f					\N
@@ -790,7 +790,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 821	359	2004	1618	207		Amending Titles 18 (Crimes and Offenses), 23 (Domestic Relations), 34 (Game), 42 (Judiciary and Judicial Procedure), 53 (Municipalities Generally), 68 (Real and Personal Property), 71 (State Government), 74 (Transportation) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, changing the name of "district justice" to "magisterial district judge" and replacing references to "justice of the peace" with "magisterial district judge"	2004-11-30				f					\N
 822	359	1827-1828	100	53		To erect the town of Pottsville, in the county of Schuylkill, into a borough, and supplementary to the act incorporating the borough of Lewistown	1828-02-19				f					\N
 823	359	1843	23	12		To authorize the citizens of Springhill, George and German townships, in the county of Fayette, to determine by ballot whether there shall be a new township erected out of parts of said townships	1843-02-25				f					\N
-824	447	5	133	392		For erecting part of the counties of Philadelphia, Chester and Lancaster into a separate county	1752-03-11J11		1753-05-10		f					\N
+824	447	5	133	392	25 Geo. 2	For erecting part of the counties of Philadelphia, Chester and Lancaster into a separate county	1752-03-11J11		1753-05-10		f					\N
 825	359	1871	794	725		Increasing the number of school directors in the borough of Pottstown, county of Montgomery, forming an additional ward in said borough, for regulating the police of said borough, and for other purposes.	1871-05-12				f					\N
 826	359	1852	566	339		Supplementary to the act incorporating the borough of Manheim, in Lancaster county; relating to licenses in the borough of West Chester; to the public common of the borough of Hanover; to the Germantown water company; to an election district in Lebanon county; and to Jarvis street in the district of Southwark	1852-05-04				f					\N
 827	359	1831-1832	237	109		To erect the towns of Lewisberry, Martinsburg and Claysville, into boroughs	1832-04-02				f					\N
@@ -1032,7 +1032,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1081	359	1867	846	775		A further supplement to the acts incorporating the city of Pittsburg, extending its boundaries, enlarging its corporate powers and perfecting its municipal organization, and submitting the proposed consolidation to a vote of the people	1867-04-06				f					\N
 1082	359	1843	312	150		Erecting parts of Jefferson, Clearfield and M'Kean counties into a separate county, to be called Elk	1843-04-18				f					\N
 1083	359	1845	476	315		To extend the boundaries of the borough of Kittanning, in Armstrong county, and for other purposes	1845-04-16				f					\N
-1084	447	4	131	306		For erecting the upper parts of the province of Pennsylvania lying towards Susquehanna, Conestogoe, Donegal, &c., into a county	1729-05-10J				f					\N
+1084	447	4	131	306	2 Geo. 2	For erecting the upper parts of the province of Pennsylvania lying towards Susquehanna, Conestogoe, Donegal, &c., into a county	1729-05-10J				f					\N
 1085	359	1870	363	351		To alter and enlarge the boundaries of the county of Elk	1870-03-09				f					\N
 1086	359	1853	672	375		To incorporate the Woodbury and Broad Top Turnpike or Plank Road company; relative to sale of a school house in Fulton county; extending the provisions of the second section of the act regulating boroughs to the borough of Pine Grove, Schuylkill county; extending the provisions of the act to encourage manufacturing operations to the manufacture of flour and meal, in the counties of Philadelphia and Beaver; to the will of Jacob Moyer, deceased, of Bedford county; to prohibit the keeping of bagatelle rooms in Allegheny county; relative to the mill dam of M. M'Cullough, of Allegheny county; authorizing the Pennsylvania Railroad company to construct a line of telegraph along their railroad; and refunding certain money to Wunderlich and Nead, of Franklin county	1853-05-11				f					\N
 1087	359	1998	301	50		Amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, further providing for automatic certification, for definitions, for applicability, for ordinances on lease rental debt, for small borrowing for capital purposes and for management of funds; authorizing school districts to impose an earned income and net profits tax; providing for the levying, assessment and collection of an amusement or admissions tax, a sign tax, a motor vehicle transfer tax and a mercantile tax; providing for the utilization of earned income and net profits tax revenues; authorizing political subdivisions to exclude from taxation a portion of the assessed value of homestead property and farmstead property; providing limitations on exclusions for homestead and farmstead property; establishing a process for administering exclusions for homestead and farmstead property; providing for the rights and privileges of taxpayers with respect to certain taxes levied by political subdivisions; making an appropriation; making repeals; and making editorial changes	1998-05-05				f					\N
@@ -1287,10 +1287,10 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1347	727	93	628	257		For the improvement of Bound Brook.	1869-03-24				f					\N
 1349	727	17	784	388		To incorporate a Part of the Township of Trenton, in the County of Hunterdon.	1792-11-13				f					\N
 1350	727	69	229	0		To incorporate the city of New Brunswick.	1845-04-04				f					\N
-1353	980	1763	258	378	4 Geo. 3	For the better and more effectual ascertaining the Boundaries between the Counties of Salem and Cumberland.	1763-12-07				f					\N
+1353	980		258	378	4 Geo. 3	For the better and more effectual ascertaining the Boundaries between the Counties of Salem and Cumberland.	1763-12-07				f					\N
 1354	727	71	86	0		To extend the northern boundary line of the township of Millstone, in the county of Monmouth.	1847-02-24				f					\N
 1356	727	9	150	74		For incorporating the Town and Port of Burlington.	1784-12-21				f					\N
-1357	983	1700	574	5	12 Will. 3	For the Inhabitants below Salem, to be at present under Salem jurisdiction.	1700-05-~25J				f					\N
+1357	983		574	5	12 Will. 3	For the Inhabitants below Salem, to be at present under Salem jurisdiction.	1700-05-~25J				f					\N
 1358	727	109	58	50		Enabling a change of name of certain municipalities incorporated as commissions.	1885-03-09				f					\N
 1360	979	2	20	117	26 Geo. 2	For erecting the upper Parts of Morris County, in New-Jersey, into a separate County, to be called the County of Sussex, and for building a Court-House and Gaol in each of the said Counties.	1753-06-08				f					\N
 1361	727	75	369	0		Relative to the boundaries of the county of Middlesex.	1851-03-18				f					\N
@@ -1346,18 +1346,18 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1421	727	143	113	61		To incorporate the borough of Waldwick, in the county of Bergen.	1919-04-07				f					\N
 1422	727	120	339	198		Relating to boroughs and borough commissions.	1896-04-21				f					\N
 1425	727	7	4	2		To divide the Township of Hardwick, in the County of Sussex.	1782-11-11				f					\N
-1427	983	1697	556	6	9 Will. 3	For Fairfield elected into a Township.	1697-05-~12J				f					\N
+1427	983		556	6	9 Will. 3	For Fairfield elected into a Township.	1697-05-~12J				f					\N
 1428	727	119	898	167		To change the boundary line between the city of Burlington and the township of Burlington, and to set off to said township part of said city.	1895-03-18				f					\N
 1429	727	74	286	0		For erecting the town of Fieldsborough, in the county of Burlington, into a borough.	1850-03-07				f					\N
 1432	727	150	156	100		Fixing the boundaries of Margate City in the county of Atlantic.	1926-03-23				f					\N
-1435	983	1693	515	3	5 W. & M.	For the Town of Salem.	1693-10-18J				f					\N
+1435	983		515	3	5 W. & M.	For the Town of Salem.	1693-10-18J				f					\N
 1436	727	37:2:Private	7	0		For incorporating the town of Princeton.	1813-02-11				f					\N
 1437	727	17	790	393		To divide the Township of Hardyston in the County of Sussex.	1792-11-19				f					\N
 1438	727	69	47	0		To establish a new township in the county of Cumberland, to be called the township of Bridgeton.	1845-02-18	1845-03-03			f					\N
 1439	727	141	544	190		To incorporate the borough of Barrington, in the county of Camden.	1917-03-27				f					\N
 1440	730	198:1	967	0		[Amending the Constitution of the State of New Jersey to abolish County Courts]	1978-11-07	1978-12-07			f					\N
 1441	727	135	202	139		To incorporate the borough of Mantoloking, in the county of Ocean.	1911-04-10				f					\N
-1442	983	1692	507	2	4 W. & M.	[To appoint Cape May a county.]	1692-11-12J				f					\N
+1442	983		507	2	4 W. & M.	[To appoint Cape May a county.]	1692-11-12J				f					\N
 1443	732	147	587	5		Chapter 207, Laws of 1922, approved March 11, 1922, entitled "An act to incorporate the Borough of Franklin Lakes in the County of Bergen" was adopted April 11, 1922					f					\N
 1444	732	187	1167	1		At the General Election of November 5, 1963 the name of the Township of Caldwell in the County of Essex was changed to the Township of Fairfield.	1963-11-14				f					\N
 1445	727	147	122	58		To incorporate the borough of Rockleigh, in the county of Bergen.	1923-03-13				f					\N
@@ -1375,7 +1375,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1458	727	68	122	0		To incorporate the City of Perth Amboy.	1844-02-27				f					\N
 1459	732	160	1009	2		At a Special Election held in the Township of Long Beach, Ocean County, on March 3, 1936, a general act pertaining to municipalities approved April 25, 1911, was adopted.	1936-03-09				f					\N
 1460	727	135	41	28		To ratify, confirm and continue the incorporation of the borough of Collingswood, in the county of Camden, and to fix the boundaries and corporate name thereof.	1911-03-15				f					\N
-1462	983	1694	530	5	6 W. & M.	For Boundaries of Burlington County.	1694-05-17J				f					\N
+1462	983		530	5	6 W. & M.	For Boundaries of Burlington County.	1694-05-17J				f					\N
 1463	732	170	1155	1		"The Borough of Jersey Homesteads" changed to "The Borough of Roosevelt."	1945-11-09				f					\N
 1464	732	140	775	1		"The Mayor and Council of the Borough of Midland Park" changed to "The Borough of Midland Park," May 25, 1915.					f					\N
 1465	727	148	160	84		To incorporate the borough of Newfield, in the county of Gloucester.	1924-03-08				f					\N
@@ -1446,7 +1446,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1536	727	146	304	179		To incorporate the borough of New Milford, in the county of Bergen.	1922-03-11				f					\N
 1537	727	149	57	12		To incorporate the borough of Pine Beach in the county of Ocean.	1925-02-26				f					\N
 1538	727	172	1351	346		To incorporate "Buena," in the township of Buena Vista, in the county of Atlantic, as a borough, and fixing the boundaries thereof.	1948-09-01				f					\N
-1540	983	1694	531	7	6 W. & M.	For Boundaries of Salem County.	1694-05-17J				f					\N
+1540	983		531	7	6 W. & M.	For Boundaries of Salem County.	1694-05-17J				f					\N
 1541	727	65	92	0		To alter a part of the boundary line between the townships of Westfield and New Providence, in the county of Essex.	1841-03-10				f					\N
 1542	727	213:2	2481	339		Concerning initiative and referendum in certain municipalities and amending various  parts of the statutory law. 	2010-01-18	2009-11-03			f					\N
 1543	727	87	306	170		To create from the town of Bergen, in the county of Hudson, a new township to be called the township of Greenville.	1863-03-18	1863-04-14			f					\N
@@ -1489,7 +1489,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1581	727	108	90	59		To amend an act entitled "An act concerning certain townships in this state," approved March twenty-third, one thousand eight hundred and eighty-three.	1884-03-25				f					\N
 1582	727	124	14	3		To incorporate the town of Bloomfield, in the county of Essex.	1900-02-26				f					\N
 1583	727	109	410	19		To set off a new township in the county of Cumberland, to be called the township of Lawrence.	1885-02-17				f					\N
-1584	983	1693	514	1	5 W. & M.	For nullifying the last Act for the Division between Burlington and Gloucester Counties.	1693-10-18J				f					\N
+1584	983		514	1	5 W. & M.	For nullifying the last Act for the Division between Burlington and Gloucester Counties.	1693-10-18J				f					\N
 1585	727	30	523	185		To erect and set off a new township form the townships of Hanover and Morris, in the county of Morris.	1806-02-12	1806-03-10			f					\N
 1586	727	91	917	417		To annex the township of Pittsgrove, in the county of Salem, to the county of Cumberland.	1867-04-10				f					\N
 1587	727	98	205	88		To set off a part of the townships of Shrewsbury and Ocean, in the county of Monmouth, to the township of Eatontown.	1874-02-26				f					\N
@@ -1622,7 +1622,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1721	727	147	56	27		To incorporate the borough of Hillsdale, in the county of Bergen.	1923-03-02				f					\N
 1722	727	114	58	45		For the formation and government of boroughs.	1890-03-12				f					\N
 1723	727	142	277	122		To incorporate the borough of Ringwood, in the county of Passaic.	1918-02-23				f					\N
-1724	727	82	160	64			1858-02-26				f					\N
+1724	727	82	160	64		To extend the provisions of the act entitled "An act to prevent horses, cattle, sheep, and swine from running at large in the townships of Hackensack and Harrington, in the county of Bergen, approved February twelfth, eighteen hundred and fifty-two," to the village of Plainfield, being partly in the township of Plainfield, in the county of Union, and partly in the township of Warren, in the county of Somerset, and to the township of Hohokus in the county of Bergen.	1858-02-26				f					\N
 1725	727	68	221	0		To annex a part of the township of Franklin, in the county of Bergen, to the township of Washington, in said county.	1844-03-13				f					\N
 1726	727	152	36	23		To annex to the borough of Rumson in the county of Monmouth, a part of the township of Shrewsbury in the county of Monmouth.	1928-03-06				f					\N
 1727	727	83	90	50		To establish a new township in the county of Camden, to be called the township of Monroe.	1859-03-03				f					\N
@@ -1688,7 +1688,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 1790	732	155	1397	1		At a special election held in Hillboro Township, in the County of Somerset, on April 18, 1929, "An act to incorporate the Borough of Manville in the County of Somerset," was adopted.	1930-09-11				f					\N
 1791	727	60	138	0		To set off a new township in the county of Gloucester, to be called "The Township of Washington."	1836-02-17				f					\N
 1792	727	144	228	106		To incorporate the "Borough of Eatontown," in the county of Monmouth.	1920-04-06				f					\N
-1793	983	1701	581	4	13 Will. 3	To supply and enforce the observance of the late Tax Act.	1701-05-~12J				f					\N
+1793	983		581	4	13 Will. 3	To supply and enforce the observance of the late Tax Act.	1701-05-~12J				f					\N
 1794	727	122	150	93		For the incorporation of the township of Kearney, in the county of Hudson, into the town of Kearny.	1898-03-23				f					\N
 1795	727	73	21	0		To set off from the township of Franklin, in the county of Bergen, a new township, to be called the township of Hohokus.	1849-02-05	1849-04-09			f					\N
 1796	727	122	50	29		To incorporate the new borough of Longport, in the county of Atlantic, and fix the boundaries thereof.	1898-03-07				f					\N
@@ -1904,7 +1904,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2026	727	115	535	2		To annex to the village of South Orange, in the county of Essex, a part of the present township of South Orange.	1891-02-10				f					\N
 2027	727	40:2:Public	3	0		To change the Corporate name of The Township of Maidenhead, in the county of Hunterdon.	1816-01-24				f					\N
 2028	727	58	113	0		To establish a new township in the county of Bergen.	1834-02-25	1834-03-10			f					\N
-2029	983	1694	534	13	6 W. & M.	For regulating Bounds of Cape May County, and for Egg Harbour Inhabitants to belong to Gloucester County.	1694-05-17J				f					\N
+2029	983		534	13	6 W. & M.	For regulating Bounds of Cape May County, and for Egg Harbour Inhabitants to belong to Gloucester County.	1694-05-17J				f					\N
 2031	727	100	487	50		To divide the township of Franklin, in the county of Bergen.	1876-03-30				f					\N
 2032	727	70	81	0		To divide the township of Amwell, in the county of Hunterdon	1846-02-27	1846-04-06			f					\N
 2033	727	122	402	169		To incorporate a borough in the county of Hunterdon, to be called the borough of Stockton.	1898-04-14				f					\N
@@ -2031,6 +2031,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2160	727	76	226	102		To set off a part of the township of Hohokus, in the county of Bergen, and to annex the same to the township of Washington, in said county of Bergen.	1852-03-17	1852-04-05			f					\N
 2161	727	132	196	127		To change the second and a portion of the third original boundary lines of the borough of Rockaway, in the county of Morris and State of New Jersey, so as to annex to and include within the limits and boundary of the said borough of Rockaway a certain portion of the township of Rockaway, in the county of Morris.	1908-04-09				f					\N
 2162	732	144	1019	4		Chapter 221, Laws of 1911, approved April 25, 1911, entitled "An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipaltiies, in this State," was adopted by the [...] Borough of Avon-by-the-Sea, [...] September 9, 1919					f					\N
+2163	727	106	192	136		A Further Supplement to the act entitled "An act for the formation of borough governments," approved April fifth, one thousand eight hundred and seventy-eight; and also an act to amend a supplement to said borough act, approved March fifteenth, one thousand eight hundred and eighty-one.	1882-03-27				f					\N
 2164	727	84	234	99		To authorize the inhabitants of the village of Carlstadt, in the county of Bergen, to improve the sidewalks of the streets of said village.	1860-03-12				f					\N
 2165	727	203:2	880	149		Concerning the fixing of a certain municipal boundary line between the township of Warren and the borough of Watchung, both in the county of Somerset, and the township of Berkeley Heights, in the county of Union, and changing the boundaries between Somerset county and Union county.	1989-08-09				f					\N
 2166	727	140	382	180		To annex a portion of the township of Delaware, in the county of Camden, to the borough of Haddonfield, in said county of Camden.	1916-03-17				f					\N
@@ -2261,7 +2262,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2401	727	99:Public	206	78		To revise the Charter of the City of Cape May.	1875-03-03	1875-03-08			f					\N
 2402	727	95	1255	489		To establish the Line between the Counties of Middlesex and Union.	1871-04-05				f					\N
 2403	727	84	97	43		A supplement to the act entitled, "An act to create the county of Union."	1860-02-16	1860-04-09			f					\N
-2404	727	32	90	24		To set off a part of the borough of Elizabeth in the county of Essex, and to incorporate the same into a separate township to be called the township of Union.	1808-11-23				f					\N
+2404	727	33	90	24		To set off a part of the borough of Elizabeth in the county of Essex, and to incorporate the same into a separate township to be called the township of Union.	1808-11-23				f					\N
 2405	727	118	591	77		To set over a part of Elk township, in Gloucester county, to become a part of Clayton township.	1894-04-24				f					\N
 2406	727	95	1185	450		To straighten the boundary lines between the townships of Oxford and Washington, in the county of Warren.	1871-04-04				f					\N
 2407	727	63	67	0		To set off the township of Belleville, in the county of Essex.	1839-02-23	1839-04-08			f					\N
@@ -2336,7 +2337,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2479	727	112	50	37		A Further Supplement to an act entitled "An act for the formation of borough govermnents," approved April fifth, one thousand eight hundred and seventy-eight.	1888-02-15				f					\N
 2480	727	123	358	161		To set off territory from the township of Chatham, in the county of Morris, and annex the same to the borough of Madison, in said county.	1899-03-24				f					\N
 2481	727	28	244	99		To incorporate parts of the Townships of Roxbury and Pequanack, in the County of Morris, into a separate Township, to be called the Township of Jefferson.	1804-02-11				f					\N
-2482	727	55	12	0		To annex part of the township of Gloucester, in the county of Gloucester, to the township of Gloucester-town, and to change the name thereof.	1831-11-15				f					\N
+2482	727	56	12	0		To annex part of the township of Gloucester, in the county of Gloucester, to the township of Gloucester-town, and to change the name thereof.	1831-11-15				f					\N
 2483	727	133	33	16		To extend the territorial boundaries of the borough of Atlantic Highlands, in the county of Monmouth, by the annexation of a portion of the township of Middletown, in said county.	1909-03-16				f					\N
 2484	727	115	543	222		To set off a part of the township of Atlantic, in the county of Monmouth, and annex such portion so set off to the township of Shrewsbury, in the county of Monmouth.	1891-04-14				f					\N
 2485	727	127	372	190		To incorporate the municipality heretofore known as the Long Branch commission, in the county of Monmouth, as a city to be known as Long Branch, and to fix the boundaries thereof.	1903-04-08				f					\N
@@ -2424,7 +2425,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2573	727	150	140	91		Annexing to the borough of Haddonfield, in the county of Camden, a part of Centre township, in the county of Camden.	1926-03-23				f					\N
 2574	727	130	317	172		To consolidate with and annex to the city of Camden, the territory embraced within the borough of Woodlynne, in the county of Camden, provided a majority of the votes cast in said borough upon the question of such annexation and consolidation shall be in favor thereof, and the mayor and common council of said city shall consent thereto.	1906-04-30				f					\N
 2575	727	88	597	341		To establish a new township in the county of Burlington, to be called the township of Bass River.	1864-03-30				f					\N
-2576	727	55	17	0		To establish a new township in the county of Gloucester, to be called the township of Camden.	1831-11-28	1832-03-01			f					\N
+2576	727	56	17	0		To establish a new township in the county of Gloucester, to be called the township of Camden.	1831-11-28	1832-03-01			f					\N
 2577	727	142	270	120		To incorporate the borough of Bloomingdale, in the county of Passaic.	1918-02-23				f					\N
 2578	727	78	278	112		To incorporate Atlantic City.	1854-03-03	1854-05-01			f					\N
 2579	727	150	129	82		To incorporate the borough of Mount Ephraim, in the county of Camden.	1926-03-23				f					\N
@@ -2439,7 +2440,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2590	732	158	923	1		"The Mayor and Council of the Borough of Glen Rock" has changed its name to "Borough of Glen Rock."	1934-04-26				f					\N
 2591	727	128	17	4		To incorporate the township of Fredon, in the county of Sussex.	1904-02-24				f					\N
 2592	727	197:1	506	103		To provide a special charter for the city of Ocean City in the county of Cape May	1976-10-07				f					\N
-2595	983	1693	328	4	5 W. & M.	For dividing each County into Township.	1693-10-31J				f					\N
+2595	983		328	4	5 W. & M.	For dividing each County into Township.	1693-10-31J				f					\N
 2596	727	81	244	82		To create the county of Union.	1857-03-19				f					\N
 2597	727	105	375	40		To transfer certain portions of the townships of Frelinghuysen and Hardwick, in the county of Warren, to the township of Blairstown, in the county of Warren.	1881-02-28				f					\N
 2598	727	18	878	443		To set off Part of the Township of Elizabeth, in the County of Essex, into a separate Township.	1794-01-27				f					\N
@@ -2458,7 +2459,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2614	727	152	48	30		To ratify, confirm and continue the incorporation of the borough of Millstone, in the county of Somerset, and to fix the boundaries and corporate name thereof.	1928-03-12				f					\N
 2615	727	199:1	540	82		To amend the "Optional Municipal Charter Law," approved June 8, 1950 (P. L. 1950, c. 210).	1980-08-10				f					\N
 2616	727	98	412	351		A supplement to an act to revise the charter of the Borough of Princeton.	1874-03-21				f					\N
-2617	727	33	129	0		To erect and set off a new township from the township of Springfield in the county of Essex.	1809-11-08	1810-03-26			f					\N
+2617	727	34	133	0		To erect and set off a new township from the township of Springfield in the county of Essex.	1809-11-08	1810-03-26			f					\N
 2619	727	121	45	29		To create a new township in the county of Bergen, to be called the township of Overpeck.	1897-03-23				f					\N
 2621	727	137	733	332		To establish a new township in the county of Warren to be called the township of White.	1913-04-09				f					\N
 2622	727	90	188	85		To incorporate the town of Hammonton, in the township of Mullica, in the county of Atlantic.	1866-03-05				f					\N
@@ -2467,7 +2468,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2625	727	159	298	111		To fix and establish a new boundary line between the township of Walpack and the township of Stillwater, in the county of Sussex	1935-03-25				f					\N
 2626	727	72	48	0		To set off from the township of Freehold, in the county of Monmouth, a new township, to be called the township of Marlborough.	1848-02-17				f					\N
 2627	727	95	1094	424		To re-organize the local government of Jersey City.	1871-03-31				f					\N
-2628	983	1682	229	4	35 Car. 2	To divide the Province into four Counties.	1682*-03-07J				f					\N
+2628	983		229	4	35 Car. 2	To divide the Province into four Counties.	1682*-03-07J				f					\N
 2629	727	64	65	0		To create the county of Hudson.	1840-02-22	1840-04-13			f					\N
 2630	727	143	418	189		To incorporate the borough of Gibbsboro, in the county of Camden. 	1919-04-15				f					\N
 2632	727	82	109	54		To incorporate the city of Salem.	1858-02-25				f					\N
@@ -2482,7 +2483,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2644	727	138	438	217		To ratify, confirm and continue the incorporation of the borough of Dunellen, in the county of Middlesex, and to fix the boundaries and corporate name thereof.	1914-04-15				f					\N
 2645	727	93	1161	476		To incorporate Dover.	1869-04-01				f					\N
 2647	727	25	44	21		To alter and amend the Charter of the City of New-Brunswick.	1801-02-23				f					\N
-2648	980	1767	299	460	7 Geo. 3	To divide the Town of Shrewsbury, and annex parts thereof to the Towns of Freehold and Upperfreehold.	1767-06-24	1768-03-01			f					\N
+2648	980		299	460	7 Geo. 3	To divide the Town of Shrewsbury, and annex parts thereof to the Towns of Freehold and Upperfreehold.	1767-06-24	1768-03-01			f					\N
 2649	727	115	33	22		For the formation and government of villages.	1891-02-23				f					\N
 2650	727	151	502	273		To incorporate the borough of Berlin, in the county of Camden.	1927-03-29				f					\N
 2651	727	99:Public	334	193		To incorporate the Borough of Haddonfield, Camden county, New Jersey.	1875-03-24				f					\N
@@ -2536,7 +2537,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2704	727	150	54	29		To incorporate the borough of Morris Plains, in the county of Morris.	1926-03-15				f					\N
 2705	727	196:2	1420	372		Amending the "Optional Municipal Charter Law," approved June 8, 1950 (P. L. 1950, c. 210).	1976-03-03				f					\N
 2706	727	75	390	0		A further supplement to an act entitled, "An act to erect a part of the county of Monmouth into a new county, to be called the county of Ocean," approved February fifteenth, eighteen hundred and fifty.	1851-03-18				f					\N
-2707	983	1676	382	1	29 Car. 2		1676[-03-03J				f					\N
+2707	983		382	1	29 Car. 2	[Confirming an agreement dated March 2, 1676, granting certain privileges for a town to be built, whereby they have liberty to choose magistrates and officers]	1676[-03-03J				f					\N
 2709	727	127	77	54		To incorporate the borough of Garwood, in the county of Union.	1903-03-19				f					\N
 2710	727	196:1	555	121		To relocate, fix and establish a portion of the boundary line between the borough of Hillsdale and the township of Washington in the county of Bergen	1974-10-10				f					\N
 2711	727	127	155	99		To consolidate with and annex to the city of Newark, in the county of Essex, the territory embraced within the town of Irvington, in the county of Essex, provided a majority of the votes cast in said city and in said town upon the question of such annexation and consolidation shall be in favor thereof, and to provide for the submission of the said question to the voters of said city and of said town.	1903-04-01				f					\N
@@ -2547,6 +2548,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2717	727	91	162	97		To divide the township of Ocean, in the county of Monmouth.	1867-03-06				f					\N
 2718	727	89	778	431		To incorporate the town of Clinton, in the townships of Clinton, Franklin, and Union, in the county of Hunterdon.	1865-04-05				f					\N
 2719	732	150	869	1		An ordinance of the town of Montclair, county of Essex, annexing certain land of the borough of Glen Ridge to the town of Montclair, was adopted by the commissioners of the town of Montclair, November 17, 1925.					f					\N
+2720	727	105	108	94		Supplement to an act entitled "An act for the formation of borough governments," approved April fifth, anno domini one thousand eight hundred and seventy-eight.	1881-03-15				f					\N
 2721	727	81	477	183		A Supplement to an act entitled "An act to provide for ascertaining the boundaries between the county of Ocean and the counties of Burlington and Monmouth," approved March seventeenth, eighteen hundred and fifty-four.	1857-03-20				f					\N
 2722	727	135	247	167		To annex a portion of the borough of Westwood, in the county of Bergen, to the borough of Emerson.	1911-04-15				f					\N
 2723	727	93	595	241		To alter the boundary line between the city of Newark and the township of Clinton, in the county of Essex.	1869-03-24				f					\N
@@ -2558,22 +2560,22 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2730	727	127	247	162		To incorporate the borough of Demarest, in the county of Bergen.	1903-04-08				f					\N
 2731	727	92	103	44		To incorporate "Gloucester City," Camden county, New Jersey.	1868-02-25				f					\N
 2732	727	46:Public	5	0		To establish a new township in the county of Salem, to be called the township of Centreville.	1821-11-19	1822-03-01			f					\N
-2733	727	91	859	380			1867-04-09				f					\N
+2733	727	91	859	380		To incorporate the City of Plainfield.	1867-04-09				f					\N
 2734	727	98	648	496		To revise and amend the charter of the Town of Union, in the County of Hudson, and State of New Jersey.	1874-03-27				f					\N
 2735	727	85	109	55		To establish a new township in the county of Union, to be called the township of Linden.	1861-03-04				f					\N
 2736	732	172	2093	2		At a special election held in the City of Garfield in the County of Bergen on December 19, 1947, the question "Shall subtitle 5 of the Title Municipalities and Counties of the Revised Statutes providing for the municipal manager form of government in the City of Garfield," was defeated.	1947-12-23				f					\N
 2737	727	111	45	31		Supplement to an act entitled "An act for the formation of Borough Commissions," approved March seventh, anno domini one thousand eight hundred and eighty-two.	1887-03-23				f					\N
 2738	727	138	38	25		To incorporate the borough of Ocean Grove, in the county of Monmouth.	1914-03-18				f					\N
 2739	727	115	550	273		To establish a new township in the county of Gloucester, to be known as the township of Elk.	1891-04-17				f					\N
-2740	727	32	18	3			1807-12-03				f					\N
+2740	727	32	18	3		To preserve and support the jurisdiction of this state.	1807-12-03				f					\N
 2741	727	138	110	72		To annex a portion of the township of Morris, in the county of Morris, to the town of Morristown, in said county.	1914-03-26				f					\N
 2742	732	159	1279	1		At a special election held on March 19, 1935, in the city of Trenton, Mercer County, "An act relating to, regulating and providing for the government of municipalities, except counties, by a Municipal Council and a Municipal Manager," approved March 19, 1923, being Chapter 113 of the Laws of 1923, was adopted.	1935-03-22				f					\N
 2743	727	126	618	186		To incorporate the borough of Oakland, in the county of Bergen.	1902-04-08				f					\N
 2744	727	204:2	2402	430		Concerning optional municipal plans of government and amending P.L.1950, c.210 and P.L.1981, c.465.	1992-01-18				f					\N
-2745	734	1846	171	10	6		1846-04-10				f					\N
+2745	734	1846	171	10	6	To define the boundary lines of Salem, Cumberland and Cape May.	1846-04-10				f					\N
 2746	727	134	301	183		To incorporate the township of Riverside, in the county of Burlington and State of New Jersey, as a city.	1910-04-09				f					\N
 2747	727	133	153	103		To incorporate the borough of Westville, in the county of Gloucester.	1909-04-15				f					\N
-2748	983	1688	305	3	4 Jac. 2	For dividing the County of Middlesex, into two Counties.	1688-05-22J				f					\N
+2748	983		305	3	4 Jac. 2	For dividing the County of Middlesex, into two Counties.	1688-05-22J				f					\N
 2749	727	201:2	1690	399		To amend the charter of the town of Hammonton in the county of Atlantic.	1986-01-06				f					\N
 2750	727	163	107	64		To extend the territorial boundaries of the borough of Keyport, in the county of Monmouth, by the annexation of lands lying under the waters of Raritan bay, bordering on said borough in said county.	1939-05-24				f					\N
 2751	727	166	565	194		A Supplement to "An act to incorporate and erect the township of Winfield, in the county of Union, the territory of which shall comprise a part of the city of Linden and a part of the township of Clark, both in the county of Union," passed August sixth, one thousand nine hundred and forty-one (P. L. 1941, c. 360).	1942-05-13				f					\N
@@ -2655,7 +2657,7 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2838	727	128	19	5		To incorporate the borough of West Caldwell.	1904-02-24				f					\N
 2839	727	201:2	1349	327		To provide a special charter for the township of Hardyston in the county of Sussex.	1985-09-18				f					\N
 2843	727	146	329	195		To incorporate the borough of Old Bridge, in the county of Middlesex.	1922-03-11				f					\N
-2844	983	1692	513	8	4 W. & M.	For the Bounds between Burlington and Gloucester Counties.	1692-11-12J				f					\N
+2844	983		513	8	4 W. & M.	For the Bounds between Burlington and Gloucester Counties.	1692-11-12J				f					\N
 2846	727	95	1429	537		A Further Supplement to an act entitled "An act to divide the township of North Bergen in the county of Hudson," passed February twenty-eighth, one thousand eight hundred and sixty-one, erecting the township of West Hoboken.	1871-04-06				f					\N
 2847	727	47:Public	35	0		A further supplement to an act entitled, "An act for dividing and ascertaining the boundaries of all the counties in this province," passed the twenty-first day of January, one thousand seven hundred and nine.	1822-11-28				f					\N
 2848	727	96	803	344		A Supplement to an act entitled "An Act to incorporate the town of Boonton," approved March eighteenth, eighteen hundred and sixty-seven	1872-03-26				f					\N
@@ -2673,12 +2675,13 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 2865	727	8	6	5		To annex the several Islands, situate in the River Delaware, belonging to this State, to the respective Counties and Townships to which they lie nearest.	1783-11-26				f					\N
 2868	727	121	349	180		To incorporate the borough of West Cape May and fix the boundaries thereof.	1897-05-04				f					\N
 2869	727	106	48	47		For the formation of borough commissions.	1882-03-07				f					\N
-2870	983	1693	524	13	5 W. & M.	For settling the Town of Burlington.	1693-10-18J				f					\N
+2870	983		524	13	5 W. & M.	For settling the Town of Burlington.	1693-10-18J				f					\N
 2871	727	148	79	43		Annexing to the borough of Keansburg in the county of Monmouth, parts of the township of Middletown in the county of Monmouth and of the township of Raritan in the county of Monmouth.	1924-03-04				f					\N
 2872	727	122	39	20		To incorporate the town of Irvington, in the county of Essex.	1898-03-02				f					\N
 2873	727	9	143	73		For erecting the North-Ward of Perth-Amboy, and a Part of the Township of Woodbridge, in the County of Middlesex, into a City; and for incorporating the same by the Name and Title of the City of Perth-Amboy.	1784-12-21				f					\N
 2883	359	1867	1278	1210		Annexing certain farms in Dyberry township, to the Borough of Bethany, in Wayne county, for school purposes	1867-04-15				f					\N
 2885	359	1865	527	509		To form an independent school district out of parts of Pike and Monroe counties, at the village of Bushkill	1865-03-21				f					\N
+5182	472	4	708	126		Giving the consent of Congress to an agreement or compact entered into between the state of New York and the state of New Jersey, respecting the territorial limits and jurisdiction of said states.	1834-06-28				f					\N
 5381	359	1860	151	164		To change the time of holding the Borough Election in the borough of New Alexandria, in the county of Westmoreland	1860-03-12				f					\N
 5382	359	1867	573	542		Relating to the filing of liens and collection of taxes, in the borough of Petersburg	1867-03-26				f					\N
 5383	472	39	391	260		Making appropriations for the construction, repair, and preservation of certain public works on rivers and harbors, and for other purposes.	1916-07-27				f					\N
@@ -2742,15 +2745,21 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 11447	979	1	12	8	8 Ann.	For dividing and ascertaining the Boundaries of all the Counties in this Province.	1709*-01-21J				f					\N
 11448	979	1	40	20	12 & 13 Ann.	For settling the Bounds between the Counties of Somerset, Middlesex and Monmouth.	1713*-03-15J				f					\N
 11449	979	1	41	21	12 & 13 Ann.	For erecting the upper Parts of the Western Division of New Jersey into a County.	1713*-03-11J				f					\N
+11452	980		356	546	12 Geo. 3	To extend the Jurisdiction of the several Counties in this Colony, which are divided by Rivers, Creeks and Bays	1771-12-21				f					\N
+11453	980		368	564	12 Geo. 3	For establishing the Boundary or Partition Line between the Colonies of New-York and Nova-Caesarea or New-Jersey, and for confirming the Titles and Possessions.	1772-09-26	1773-09-01	1773-09-01		f					\N
 11454	727	7	45	20		To ratify and confirm an Agreement made between Commissioners appointed by the Legislature of the State of Pennsylvania, and Commissioners appointed by the Legislature of the State of New-Jersey, for the Purpose of settling the Jurisdiction of the River Delaware, and Islands within the same.	1783-05-27				f					\N
 11455	727	10	258	130		To ratify and confirm an Agreement made between the Commissioners appointed by the Legislature of the State of Pennsylvania, and the Commissioners appointed by the Legislature of the State of New-Jersey, for the Purpose of agreeing upon, and accurately describing which of the Islands, Eylots and insulated dry Land, mentioned in the Agreement between the two States, bearing Date on the twenty-sixth Day of April, Seventeen Hundred and Eighty-three, belong to each of the said States according to the Purport of that Agreement.	1786-03-16				f					\N
-11456	983	1694	530	6	6 W. & M.	For Boundaries of Gloucester County.	1694-05-17J				f					\N
-13681	395	1	330	0		[Division of counties empowered]	1690-02-09QJ				f					\N
-13682	1129	1	303	1		Charter of the Province of Pennsylvania	1680[-03-04J				f					\N
+11456	983		530	6	6 W. & M.	For Boundaries of Gloucester County.	1694-05-17J				f					\N
+11457	727	30	679	113		To amend the charter granted for the incorporation of the freeholders, inhabitants of the township of Bergen.	1806-03-12				f					\N
+11458	727	31	751	144		Concerning the eastern boundary of the state of New-Jersey.	1806-11-21				f					\N
+13681	395	1	330	0	2 W. & M.	[Division of counties empowered]	1690-02-09QJ				f					\N
+13682	1129	1	303	1	33 Car. 2	Charter of the Province of Pennsylvania	1680[-03-04J				f					\N
 14520	359	1830-1831	133	83		A Supplement To an act, entitled An act appointing commissioners to run the lines of the counties of Lycoming, Bradford and Tioga	1831-03-14				f					\N
 14521	359	1835-1836	507	160		Authorizing the laying out of certain State Roads, and for other purposes	1836-05-25				f					\N
+14522	395	1	126	0	1 Jac. 2		1685-02-01QJ				f					\N
 14523	447	11	595	1164		To provide further regulations whereby to secure fair and equal proceedings in the Land Office and in [the] surveying of lands	1785-04-08				f					\N
 14524	447	14	238	1624			1792-04-03				f					\N
+19732	983		96	0	27 Car. 2	[Creating courts and counties]	1675-11-13J				f					\N
 22248	359	1860	155	170		Authorizing the Electors of Hickory township, in Lawrence county, to elect one additional Supervisor	1860-03-13				f					\N
 22249	359	1851	191	143		Relative to election districts in certain counties, and relative to tavern licenses in the counties of Juniata and Sullivan.	1851-03-18				f					\N
 22250	359	1867	256	237		To authorize the election of additional officers in the township of Madison, Perry county	1867-02-26				f					\N
@@ -2811,10 +2820,10 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 26136	359	1862	483	474		To repeal an act, entitled "An act relative to the School District of the borough of Shelocta, in the county of Indiana," approved the twenty-ninth day of March, Anno Domini one thousand eight hundred and sixty-one	1862-04-11				f					\N
 26138	727	2018	1055	76		Revising the special charter for the City of Plainfield and\n2 amending and supplementing P.L.1968, c.159.	2018-08-10				f					\N
 26139	359	1851	87	68		Relating to supervisors, changing the road laws in certain counties, regulating certain election districts, and increasing the number of commissioners in the district of Penn, in Philadelphia county	1851-02-18				f					\N
-26140	1529	2	109	1			1682-07-15J				f					\N
-26141	1529	2	110	1			1683-06-23J				f					\N
-26142	1529	2	110	2			1683-06-23J				f					\N
-26166	1529	2	122	1			1768-11-05				f					\N
+26140	1529	2	109	1	34 Car. 2		1682-07-15J				f					\N
+26141	1529	2	110	1	35 Car. 2		1683-06-23J				f					\N
+26142	1529	2	110	2	35 Car. 2		1683-06-23J				f					\N
+26166	1529	2	122	1	9 Geo. 3		1768-11-05				f					\N
 26167	359	1844	42	25		Directing the at the borough of Clearfield, in the county of Clearfield, shall be a separate election district	1844-02-13				f					\N
 26169	359	1853	174	128		Authorizing Robert Barber and John R. Stratton, to sell certain real estate in Clarion county; relative to the Shermansville and Ohio Line plank road company; to an election district in Washington county; to the Easion and Wilkesbarre turnpike road company; to an election district in Huntingdon county; to the title of a certain school-house property in Chester county; to the high constable of the borough of Youngsville, Warren county	1853-03-11				f					\N
 26170	359	1872	740	697		A Supplement to an act, entitled "An Act to incorporate the city of Wilkes Barre"	1872-04-02				f					\N
@@ -2862,12 +2871,12 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 27990	359	1866	669	656		To erect an independent school district from portions of the township of Rostraver, in the county of Westmoreland, and Washington township, in the county of Fayette	1866-04-11				f					\N
 27991	359	1873	534	562		A Supplement to an act, entitled "An Act to erect an independent school district from portions of the township of Rostraver, in the county of Westmoreland, and Washington township, in the county of Fayette," approved the eleventh day of April, Anno Domini one thousand eight hundred and sixty-six, changing the boundary line	1873-04-04				f					\N
 27992	359	1921	1023	369		To amend sections one hundred one, one hundred sixteen as amended, one hundred seventeen, two hundred twelve as amended, and three hundred one as amended, of an act, approved the eighteenth day of May, one thousand nine hundred and eleven (Pamphlet Laws, three hundred and nine), entitled "An act to establish a public school system in the Commonwealth of Pennsylvania, together with the provisions by which it shall be administered, and prescribing penalties for the violation thereof; providing revenue to establish and maintain the same, and the method of collecting such revenue; and repealing all laws, general, special, or local, or any parts thereof, that are or may be inconsistent therewith"; and providing for the creation of union school districts and the government thereof, by adding to article one, sections one hundred twenty-seven, one hundred twenty-eight, one hundred twenty-nine, and one hundred thirty	1921-05-20				f					\N
-28026	447	3	298	255		For establishing courts of judicature in this Province	1722-05-22J				f					\N
-28028	983	1	502	0			1685-09-25QJ				f					\N
-28029	983	1	443	2			1682-05-~02J				f					\N
-28030	980	1	35	75	12 & 13 Ann.	For confirming of a Patent for the Township of Bergen.	1713*-03-17J				f					\N
+28026	447	3	298	255	8 Geo.	For establishing courts of judicature in this Province	1722-05-22J				f					\N
+28028	983		504	0	1 Jac. 2	[Justices for Tenths and Cape May chosen]	1685-09-25QJ				f					\N
+28029	983		443	2	34 Car. 2	[Justices chosen for jurisdictions of Burlington and Salem]	1682-05-~02J				f					\N
+28030	980		35	75	12 & 13 Ann.	For confirming of a Patent for the Township of Bergen.	1713*-03-17J				f					\N
 28038	727	104	393	33		A Supplement to "An act to provide for establishing an marking the boundary line between the counties of Passaic and Bergen," approved April fourth, one thousand eight hundred and seventy-eight.	1880-02-19				f					\N
-28039	983	1694	532	10	6 W. & M.	For the Inhabitants above St. Pink, to belong to Burlington County for present.	1694-05-17J				f					\N
+28039	983		532	10	6 W. & M.	For the Inhabitants above St. Pink, to belong to Burlington County for present.	1694-05-17J				f					\N
 28858	727	141	146	79		To amend an act entitled "An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, village and municipalities governed by boards of commissioners, or improvement commissions in this State," which act was approved April twenty-fifth, one thousand nine hundred and eleven, the title of which act was amended to read as above set forth by an act approved April second, one thousand nine hundred and twelve.	1917-03-20				f					\N
 28859	727	147	275	130		To amend an act entitled "An act to amend an act entitled 'An act relating to, regulating and providing for the government of cities, towns, townships, boroughs, villages and municipalities governed by boards of commissioners, or improvement commissions in this State,' which act was approved April the twenty-fifth, one thousand nine hundred and eleven, the title of which was amended to read as above set forth by an act approved April the second, one thousand nine hundred and twelve," which act was approved March twentieth, one thousand nine hundred and seventeen.	1923-03-20				f					\N
 28860	727	155	385	175		A Supplement to an act entitled "An act relating to, regulating and providing for the government of municipalities, except counties, by a municipal council and a municipal manager," approved March nineteenth, one thousand nine hundred and twenty-three.	1931-04-21				f					\N
@@ -2879,3 +2888,8 @@ lawid	source	lawvolume	lawpage	lawnumberchapter	lawtype	lawtitle	lawapproved	law
 28866	727	123	96	52		Relating to and providing for the government of cities of this state containing a population of less than twelve thousand inhabitants.	1899-03-21				f					\N
 28911	727	92	1005	435		To incorporate the borough of Riverside, in the county of Burlington.	1868-04-15	1868-05-05			f					\N
 28912	727	93	817	260		To repeal "An Act to incorporate the Borough of Riverside, in the county of Burlington," approved April fifteenth, eighteen hundred and sixty-eight.	1869-03-30	1869-03-30			f					\N
+29481	727	80	233	117		To erect an election district in the township of Newton, in the county of Camden.	1856-03-11	1856-03-11			f					\N
+29482	727	58	118	0		To ratify and confirm an agreement made between the commissioners appointed by the Governor of the state of New-York, and the commissioners appointed by the Governor of the state of New-Jersey, respecting the territorial limits and jurisdiction between the said states.	1834-02-26				f					\N
+29484	727	202:2	1706	379		Providing for the borough form of government, repealing parts of the statutory law and adding chapter 60 to Title 40A of the New Jersey Statutes	1988-01-08	1988-01-01			f					\N
+29485	727	2023	0	287			2024-01-16				f					\N
+29487	727	95	1371	525		For the improvement of the township of Kearney, in the county of Hudson, and to increase the powers of the township committee in said township.	1871-04-06				f					\N

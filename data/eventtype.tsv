@@ -47,7 +47,7 @@ eventtypeid	eventtypelong	eventtypeshort	eventtypeborders	eventtypeinclude	event
 66	An existing county is reorganized under an optional form of government.	Optional Form (County)	structurecounty	t	y	Form
 67	A new government is created or an existing government is reorganized as a hundred, either in name or form of government.	New Hundred	yes	t	t	Creation
 68	The charter of a government is amended with respect to the ability to alter its territory in a delimited tract.	Charter Amendment (Annexation-Specific)	yes	t	n	Form
-69	The charter of a government is amended with respect to the ability to alter its territory, without delimiting the tract involved. This also includes intergovernment agreements concerning annexation.	Charter Amendment (Annexation-General)	yes	t	n	Form
+69	The charter of a government is amended with respect to the ability to alter its territory, without delimiting the tract involved. This also includes intergovernmental agreements concerning annexation.	Charter Amendment (Annexation-General)	yes	t	n	Form
 70	The charter of a government is amended to require or permit the adoption of an official plat or boundary description.	Charter Amendment (Plat Recording)	yes	t	n	Form
 71	The name of an unincorporated place is changed.	Unincorporated Place Name	no	t	n	Name
 72	A new government is created or an existing government is reorganized as a state, either in name or form of government.	New State	yesstate	t	y	Creation
@@ -81,8 +81,8 @@ eventtypeid	eventtypelong	eventtypeshort	eventtypeborders	eventtypeinclude	event
 105	Preclearance requirements under Section 5 of the Voting Rights Act of 1965 are commenced for a government.	Voting Rights Act Preclearance Inclusion	structure	f	n	Voting Rights
 106	Limited preclearance requirements by court order under Section 3 of the Voting Rights Act of 1965 are commenced for a government.	Voting Rights Act Conditional Inclusion	structure	f	n	Voting Rights
 107	Preclearance requirements under Sections 3 or 5 of the Voting Rights Act of 1965 are ended for a government.	Voting Rights Act Preclearance Exclusion	structure	f	n	Voting Rights
-108	An existing municipality is reorganized under the selectman-manager form.	Selectman-Manager Form	structure	t	y	Form
-109	An existing municipality is reorganized under the selectman-administrator form.	Selectman-Administrator Form	structure	t	y	Form
+108	An existing municipality is reorganized under the select board-manager form.	Select Board-Manager Form	structure	t	y	Form
+109	An existing municipality is reorganized under the select board-administrator form.	Select Board-Administrator Form	structure	t	y	Form
 110	One or more parishes are created, altered, or dissolved.	Parishes	ignore	f	n	Other
 111	Title is extinguished by or in favor of another sovereign state.	State Land Cession	structure	t	n	Boundaries
 112	An existing government loses its form of government and powers, but remains in existence solely as a geographic unit.	Inactive Form	structure	t	n	Form
@@ -91,3 +91,4 @@ eventtypeid	eventtypelong	eventtypeshort	eventtypeborders	eventtypeinclude	event
 115	The charter of a government is amended with respect to the ability to create a new village within its territory.	Charter Amendment (New Village)	yes	t	n	Form
 116	The charter of a government is amended with respect to the conduct of elections.	Charter Amendment (Elections)	structure	t	n	Form
 117	The event type is a placeholder for an event record that acts as a placeholder, and does not describe an actual geohistory event.	Non-Event	ignore	f	n	Placeholder
+118	Two or more governments enter an agreement with respect to tax assessment or maintenance of public works along a mutual boundary without altering or clarifying the boundary.	Intergovernmental Agreement	ignore	f	n	Other

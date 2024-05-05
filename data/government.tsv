@@ -1400,7 +1400,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 4509	Longswamp	Township		f		4	2292				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 4510	Lorain	Borough		f		4	2297				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 4511	Loretto	Borough		f		4	2297				\N	\N			f	\N	\N	\N	f		\N		1	en			111
-4512	Lower Allen	Township		f		4	2307				\N	\N			f	\N	\N	\N	f		\N		1	en			8
+4512	Lower Allen	Township		f		4	2307				\N	\N			f	\N	\N	\N	f		\N		2	en			8
 4513	Lower Alsace	Township		f		4	2292				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 4514	Lower Augusta	Township		f		4	2335				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 4515	Lower Burrell	City		f		4	2351				\N	\N			f	\N	\N	\N	f		\N		1	en			5
@@ -1596,7 +1596,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 4705	Monroe	Township		f		4	2089				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 4706	Monroe	Township		f		4	2294				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4707	Monroe	Township		f		4	2320				\N	\N			t	\N	\N	\N	f		\N		2	en			9
-4708	Monroe	Township		f		4	2307				\N	\N			t	\N	\N	\N	f		\N		1	en			9
+4708	Monroe	Township		f		4	2307				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 4709	Monroe	Township		f		4	2302				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4710	Monroe	Township		f		4	2291				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4711	Monroeville	Borough		f	Municipality	4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			93
@@ -2686,7 +2686,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5796	Wharton	Township		f		4	2339				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5797	Wharton	Township		f		4	2312				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5798	Wheatfield	Township		f		4	2336				\N	\N			t	\N	\N	\N	f		\N		1	en			9
-5799	Wheatland	Borough		f		4	2329				\N	\N			f	\N	\N	\N	f		\N		2	en			93
+5799	Wheatland	Borough	defunct	f		4	2329				\N	\N			f	\N	\N	\N	f		\N		2	en			93
 5800	Whitaker	Borough		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5801	White	Township		f		4	2290				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5802	White	Township		f		4	2318				\N	\N			t	\N	\N	\N	f		\N		1	en			9
@@ -2905,7 +2905,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 6016	Allegheny	Borough	defunct	f		4	2288				\N	\N			f	\N	\N	\N	f		6017		7	en			\N
 6017	Allegheny	City	defunct	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6018	Allegheny	Township	defunct	f		4	2289				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-6019	Allen	Township	defunct	f		4	2307				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+6019	Allen	Township	defunct	f		4	2307				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 6020	Allen	Township	defunct	f		4	2349				\N	\N			t	\N	\N	\N	f		3279		7	en			\N
 6021	Allentown	Borough	defunct	f		4	2325				\N	\N			t	\N	\N	\N	f		3280		7	en			\N
 6022	Allentown	Borough	defunct	f		4	2288				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
@@ -2979,7 +2979,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 6092	Chester	Borough	defunct	f		4	2309				\N	\N			f	\N	\N	\N	f		3609		7	en			\N
 6093	Chichester	Township	defunct	f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6094	Chillisquaque	Township	defunct	f		4	2335				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-6095	Chinclelcamousche	Township	defunct	f		4	2303				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+6095	Chinclelcamousche	Township	defunct	f		4	2303				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6096	Christy Park	Borough	defunct	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6097	Clairton	Borough	defunct	f		4	2288				\N	\N			f	\N	\N	\N	f		3621		7	en			\N
 6098	Clairton	City	defunct	f		4	2288				\N	\N			f	\N	\N	\N	f		3621		7	en			\N
@@ -3764,13 +3764,13 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7038	Asbury Park	City		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7039	Atlantic City	City		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7040	Atlantic Highlands	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7041	Audubon	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7042	Audubon Park	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7041	Audubon	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
+7042	Audubon Park	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7043	Avalon	Borough		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7044	Avon-by-the-Sea	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7045	Barnegat	Township		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7046	Barnegat Light	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7047	Barrington	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7047	Barrington	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7048	Bass River	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7049	Bay Head	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7050	Bayonne	City		f		4	1825				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3778,7 +3778,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7052	Beachwood	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7053	Bedminster	Township		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7054	Belleville	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7055	Bellmawr	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7055	Bellmawr	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7056	Belmar	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7057	Belvidere	Town		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7058	Bergenfield	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3804,27 +3804,27 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7078	Branchburg	Township		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7079	Branchville	Borough		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7080	Brick	Township		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7081	Bridgeton	City		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7081	Bridgeton	City		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7082	Bridgewater	Township		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7083	Brielle	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7084	Brigantine	City		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7086	Brooklawn	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7086	Brooklawn	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7088	Buena	Borough		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7089	Buena Vista	Township		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7090	Burlington	City		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7091	Burlington	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7092	Butler	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7093	Byram	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7094	Caldwell	Borough		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7094	Caldwell	Borough		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7095	Califon	Borough		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7096	Camden	City		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7096	Camden	City		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7097	Cape May	City		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7098	Cape May Point	Borough		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7099	Carlstadt	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7100	Carneys Point	Township		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7101	Carteret	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7102	Cedar Grove	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7103	Chatham	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7103	Chatham	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7104	Chatham	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7105	Cherry Hill	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7106	Chesilhurst	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
@@ -3840,15 +3840,15 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7116	Clinton	Town		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7117	Clinton	Township		f		4	1826				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7118	Closter	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7119	Collingswood	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7119	Collingswood	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7120	Colts Neck	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7121	Commercial	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7121	Commercial	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7122	Corbin City	City		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7123	Cranbury	Township		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7124	Cranford	Township		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7125	Cresskill	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7126	Deal	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7127	Deerfield	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7127	Deerfield	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7128	Delanco	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7129	Delaware	Township		f		4	1826				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7130	Delran	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3857,7 +3857,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7133	Denville	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7134	Deptford	Township		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7135	Dover	Town		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7136	Downe	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7136	Downe	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7137	Dumont	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7138	Dunellen	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7139	Eagleswood	Township		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3878,18 +3878,18 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7154	Egg Harbor	Township		f		4	1817				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7155	Elizabeth	City		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7156	Elk	Township		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
-7157	Elmer	Borough		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7157	Elmer	Borough		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7158	Elmwood Park	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7159	Elsinboro	Township		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7160	Emerson	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7161	Englewood	City		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7162	Englewood Cliffs	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7163	Englishtown	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7163	Englishtown	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7164	Essex Fells	Borough		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7165	Estell Manor	City		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7166	Evesham	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7167	Ewing	Township		f		4	1827				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7168	Fair Haven	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7168	Fair Haven	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7169	Fair Lawn	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7170	Fairfield	Township		f		4	1823				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7171	Fairfield	Township		f		4	1822				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
@@ -3899,7 +3899,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7175	Farmingdale	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7176	Fieldsboro	Borough		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7177	Flemington	Borough		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7178	Florence	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7178	Florence	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7179	Florham Park	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7180	Folsom	Borough		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7181	Fort Lee	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3918,23 +3918,23 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7194	Galloway	Township		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7195	Garfield	City		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7196	Garwood	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7197	Gibbsboro	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7197	Gibbsboro	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7198	Glassboro	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7199	Glen Gardner	Borough		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7200	Glen Ridge	Borough		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7200	Glen Ridge	Borough		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7201	Glen Rock	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7202	Gloucester	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7203	Gloucester City	City		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7204	Green	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7205	Green Brook	Township		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7206	Greenwich	Township		f		4	1822				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+7206	Greenwich	Township		f		4	1822				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 7207	Greenwich	Township		f		4	1824				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 7208	Greenwich	Township		f		4	1837				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7209	Guttenberg	Town		f		4	1825				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7210	Hackensack	City		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7211	Hackettstown	Town		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7212	Haddon	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7213	Haddon Heights	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7213	Haddon Heights	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7214	Haddonfield	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7215	Hainesport	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7216	Haledon	Borough		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3987,7 +3987,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7263	Keansburg	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7264	Kearny	Town		f		4	1825				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7265	Kenilworth	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7266	Keyport	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7266	Keyport	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7267	Kingwood	Township		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7268	Kinnelon	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7269	Knowlton	Township		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3999,15 +3999,15 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7275	Lambertville	City		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7276	Laurel Springs	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7277	Lavallette	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7278	Lawnside	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7279	Lawrence	Township		f		4	1822				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+7278	Lawnside	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
+7279	Lawrence	Township		f		4	1822				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 7280	Lawrence	Township		f		4	1827				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7281	Lebanon	Borough		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7282	Lebanon	Township		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7283	Leonia	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7284	Liberty	Township		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7285	Lincoln Park	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7286	Linden	City		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7286	Linden	City		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7287	Lindenwold	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7288	Linwood	City		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7289	Little Egg Harbor	Township		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4028,7 +4028,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7304	Lumberton	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7305	Lyndhurst	Township		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7306	Madison	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
-7307	Magnolia	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7307	Magnolia	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7308	Mahwah	Township		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7309	Manalapan	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7310	Manasquan	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4045,13 +4045,13 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7321	Margate City	City		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7322	Marlboro	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7323	Matawan	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7324	Maurice River	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7325	Maywood	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7324	Maurice River	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
+7325	Maywood	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7326	Medford	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7327	Medford Lakes	Borough		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7328	Mendham	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7329	Mendham	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7330	Merchantville	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7330	Merchantville	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7331	Metuchen	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7332	Middle	Township		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7333	Middlesex	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4062,11 +4062,11 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7338	Millstone	Borough		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7339	Millstone	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7340	Milltown	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7341	Millville	City		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7341	Millville	City		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7342	Mine Hill	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7343	Monmouth Beach	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7344	Monroe	Township		f		4	1828				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-7345	Monroe	Township		f		4	1824				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+7345	Monroe	Township		f		4	1824				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 7346	Montague	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7347	Montclair	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7348	Montgomery	Township		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4078,12 +4078,12 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7354	Morris Plains	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7355	Morristown	Town		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7356	Mount Arlington	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7357	Mount Ephraim	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7357	Mount Ephraim	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7358	Mount Holly	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7359	Mount Laurel	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7360	Mount Olive	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7361	Mountain Lakes	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7362	Mountainside	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7362	Mountainside	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7363	Mullica	Township		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7364	National Park	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7365	Neptune	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4110,17 +4110,17 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7386	Norwood	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7387	Nutley	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7388	Oakland	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7389	Oaklyn	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7389	Oaklyn	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7390	Ocean	Township		f		4	1829				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7391	Ocean	Township		f		4	1831				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7392	Ocean City	City		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7393	Ocean Gate	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7393	Ocean Gate	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7394	Oceanport	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7395	Ogdensburg	Borough		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7396	Old Bridge	Township		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7397	Old Tappan	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7398	Oldmans	Township		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7399	Oradell	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7399	Oradell	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7400	Orange Township	City		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7401	Oxford	Township		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7402	Palisades Park	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4146,7 +4146,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7422	Pine Hill	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7423	Pine Valley	Borough	defunct	f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7424	Piscataway	Township		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7425	Pitman	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7425	Pitman	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7426	Pittsgrove	Township		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7427	Plainfield	City		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7428	Plainsboro	Township		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4166,17 +4166,17 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7443	Raritan	Borough		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7444	Raritan	Township		f		4	1826				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7445	Readington	Township		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7446	Red Bank	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7446	Red Bank	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7448	Ridgefield	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7449	Ridgefield Park	Village		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7450	Ridgewood	Village		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7451	Ringwood	Borough		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7452	River Edge	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7452	River Edge	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7453	River Vale	Township		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7454	Riverdale	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7455	Riverside	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7456	Riverton	Borough		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7457	Robbinsville	Township		f		4	1827				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7457	Robbinsville	Township		f		4	1827				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7458	Rochelle Park	Township		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7459	Rockaway	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7460	Rockaway	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4184,11 +4184,11 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7462	Rocky Hill	Borough		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7463	Roosevelt	Borough		f		4	1829				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7464	Roseland	Borough		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7465	Roselle	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7465	Roselle	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7466	Roselle Park	Borough		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7467	Roxbury	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7468	Rumson	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7469	Runnemede	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7469	Runnemede	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7470	Rutherford	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7471	Saddle Brook	Township		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7472	Saddle River	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4199,11 +4199,11 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7477	Sea Bright	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7478	Sea Girt	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7479	Sea Isle City	City		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7480	Seaside Heights	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7481	Seaside Park	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7480	Seaside Heights	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
+7481	Seaside Park	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7482	Secaucus	Town		f		4	1825				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7483	Shamong	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7484	Shiloh	Borough		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7484	Shiloh	Borough		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7485	Ship Bottom	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7486	Shrewsbury	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7487	Shrewsbury	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4215,7 +4215,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7493	South Brunswick	Township		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7494	South Hackensack	Township		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7495	South Harrison	Township		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
-7496	South Orange Village	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7496	South Orange Village	Township	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		135789		1	en			\N
 7497	South Plainfield	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7498	South River	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7499	South Toms River	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4235,10 +4235,10 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7514	Stratford	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7515	Summit	City		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7516	Surf City	Borough		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7517	Sussex	Borough		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7517	Sussex	Borough		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7518	Swedesboro	Borough		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7519	Tabernacle	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7520	Tavistock	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7520	Tavistock	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7521	Teaneck	Township		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7522	Tenafly	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7523	Teterboro	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
@@ -4253,16 +4253,16 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7532	Union Beach	Borough		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7533	Union City	City		f		4	1825				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7534	Upper	Township		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7535	Upper Deerfield	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7535	Upper Deerfield	Township		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7536	Upper Freehold	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7537	Upper Pittsgrove	Township		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7537	Upper Pittsgrove	Township		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7538	Upper Saddle River	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7539	Ventnor City	City		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7540	Vernon	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7541	Verona	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7542	Victory Gardens	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7543	Vineland	City		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7544	Voorhees	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7543	Vineland	City		f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
+7544	Voorhees	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7545	Waldwick	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7546	Wall	Township		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7547	Wallington	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4270,12 +4270,12 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7549	Wanaque	Borough		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7550	Wantage	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7551	Warren	Township		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7552	Washington	Borough		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7552	Washington	Borough		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7553	Washington	Township		f		4	1837				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7554	Washington	Township		f		4	1818				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7555	Washington	Township		f		4	1819				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7556	Washington	Township		f		4	1830				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-7557	Washington	Township		f		4	1824				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+7557	Washington	Township		f		4	1824				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 7558	Watchung	Borough		f		4	1834				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7559	Waterford	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7560	Wayne	Township		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4302,7 +4302,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7581	Wildwood Crest	Borough		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7582	Willingboro	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7583	Winfield	Township		f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7584	Winslow	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7584	Winslow	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7585	Wood-Ridge	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7586	Woodbine	Borough		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7587	Woodbridge	Township		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4311,7 +4311,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7590	Woodcliff Lake	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7591	Woodland	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7592	Woodland Park	Borough		f		4	1832				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7593	Woodlynne	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7593	Woodlynne	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7594	Woodstown	Borough		f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7595	Woolwich	Township		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7596	Wrightstown	Borough		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4345,20 +4345,20 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7625	Boiling Springs	Township	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7626	Bordentown	Borough	defunct	f		4	1819				\N	\N			f	\N	\N	\N	f		7074		1	en			\N
 7627	Bound Brook	Town	defunct	f		4	1834				\N	\N			f	\N	\N	\N	f		7076		2	en			\N
-7628	Bridgeton	Township	defunct	f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7628	Bridgeton	Township	defunct	f		4	1822				\N	\N			f	\N	\N	\N	f		7081		7	en			\N
 7629	Brigantine	Borough	defunct	f		4	1817				\N	\N			f	\N	\N	\N	f		7084		1	en			\N
 7630	Brigantine City	City	defunct	f		4	1817				\N	\N			f	\N	\N	\N	f		7084		1	en			\N
 7631	Brooklyn	Borough	defunct	f		4	1835				\N	\N			f	\N	\N	\N	f		7249		2	en			\N
 7632	Caldwell	Borough	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		7094		1	en			\N
 7633	Caldwell	Township	defunct	f		4	1823				\N	\N		1963	f	\N	\N	\N	f		7170		1	en			\N
 7634	Caldwell Borough	Township	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		7094		1	en			\N
-7635	Camden	Township	defunct	f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7635	Camden	Township	defunct	f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7636	Cape Island	Borough	defunct	f		4	1821				\N	\N			f	\N	\N	\N	f		7097		1	en			\N
 7637	Cape Island	City	defunct	f		4	1821				\N	\N			f	\N	\N	\N	f		7097		1	en			\N
 7638	Cape May Point	Borough	defunct	f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7639	Carlstadt	Village	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7099		1	en			\N
 7640	Centre	Township	defunct	f		4	1820				\N	\N			f	\N	\N	\N	f		7357		1	en			\N
-7641	Centreville	Township	defunct	f		4	1833				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7641	Centreville	Township	defunct	f		4	1833				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7642	Chambersburg	Borough	defunct	f		4	1827				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7643	Chatham	Village	defunct	f		4	1830				\N	\N			f	\N	\N	\N	f		7103		1	en			\N
 7645	Chester	Township	defunct	f		4	1819				\N	\N			t	\N	\N	\N	f		7319		1	en			\N
@@ -4367,8 +4367,8 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7648	Clinton	Township	defunct	f		4	1823				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7649	Coaxen	Township	defunct	f		4	1819				\N	\N			f	\N	\N	\N	f		7500		1	en			\N
 7650	Cohansey	Township	defunct	f		4	1822				\N	\N	1697	1748	f	\N	\N	\N	f		\N		1	en			\N
-7651	Cohansey	Township	defunct	f		4	1822				\N	\N	1848	1865	f	\N	\N	\N	f		\N		1	en			\N
-7653	Columbia	Township	defunct	f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7651	Cohansey	Township	defunct	f		4	1822				\N	\N	1848	1865	f	\N	\N	\N	f		\N		2	en			\N
+7653	Columbia	Township	defunct	f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7654	Cropwell	Township	alternate	f		4	1819				\N	\N			f	\N	\N	\N	f		7645		0	en			\N
 7655	Deckertown	Borough	defunct	f		4	1835				\N	\N			f	\N	\N	\N	f		7517		1	en			\N
 7656	Delaware	Township	defunct	f		4	1820				\N	\N			t	\N	\N	\N	f		7105		1	en			\N
@@ -4426,10 +4426,10 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7711	Kearney	Township	defunct	f		4	1825				\N	\N			f	\N	\N	\N	f		7264		1	en			\N
 7712	Keyport	Town	defunct	f		4	1829				\N	\N			f	\N	\N	\N	f		7266		1	en			\N
 7713	Lambertville	Town	defunct	f		4	1826				\N	\N			f	\N	\N	\N	f		7275		1	en			\N
-7714	Landis	Township	defunct	f		4	1822				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7714	Landis	Township	defunct	f		4	1822				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7715	Levittown	Township	defunct	f		4	1819				\N	\N			f	\N	\N	\N	f		7582		1	en			\N
 7716	Lincoln	Township	defunct	f		4	1829				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-7717	Linden	Borough	defunct	f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7717	Linden	Borough	defunct	f		4	1836				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7718	Linden	Township	defunct	f		4	1836				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7719	Linwood	Borough	defunct	f		4	1817				\N	\N			f	\N	\N	\N	f		7288		1	en			\N
 7720	Lodi	Township	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7494		1	en			\N
@@ -4521,10 +4521,10 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7811	South Bound Brook	Town	defunct	f		4	1834				\N	\N			f	\N	\N	\N	f		7492		1	en			\N
 7812	South Cape May	Borough	defunct	f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7813	South Orange	Township	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		7320		1	en			\N
-7814	South Orange	Village	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		7496		1	en			\N
+7814	South Orange	Village	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		135789		1	en			\N
 7815	South Trenton	Borough	defunct	f		4	1827				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7816	Spicer	Township	defunct	f		4	1824				\N	\N			f	\N	\N	\N	f		7230		1	en			\N
-7817	Stockton	Town	defunct	f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7817	Stockton	Town	defunct	f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7818	Stockton	Township	defunct	f		4	1820				\N	\N			f	\N	\N	\N	f		7817		1	en			\N
 7819	Summit	Township	defunct	f		4	1836				\N	\N			f	\N	\N	\N	f		7515		1	en			\N
 7820	Teterboro	Borough	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7523		1	en			\N
@@ -4538,7 +4538,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7828	Union	Township	defunct	f		4	1825				\N	\N			t	\N	\N	\N	f		7569		1	en			\N
 7829	Upper Alloways Creek	Township	defunct	f		4	1833				\N	\N			f	\N	\N	\N	f		7033		1	en			\N
 7830	Upper Penns Neck	Township	defunct	f		4	1833				\N	\N			f	\N	\N	\N	f		7100		1	en			\N
-7831	Vailsburg	Borough	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7831	Vailsburgh	Borough	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7832	Van Vorst	Township	defunct	f		4	1825				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7833	Verona	Borough	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		7541		1	en			\N
 7834	Verona	Township	defunct	f		4	1823				\N	\N			f	\N	\N	\N	f		7102		1	en			\N
@@ -4612,7 +4612,6 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 48140	Delaware	Colony	defunct	f		2	1	DE-C			\N	\N			f	\N	\N	\N	f		9		7	en			\N
 48700	Coal	Township	proposed	f		4	2307				\N	\N			t	\N	\N	\N	f		\N		0	en			\N
 48704	Big Spring	Township	defunct	f		4	2307				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-48706	Panama Canal	Zone	defunct	f		2	1	CZ			\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 48790	Hudson	Borough	proposed	f		4	2326				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 48791	Huntsville	Borough	proposed	f		4	2326				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 48792	North Exeter	Borough	proposed	f		4	2326				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
@@ -8484,6 +8483,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 133336	South Huntingdon Township 2	Independent School District	proposed	f		4	2351				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 133337	Felton	Independent School District	defunct	f		4	2353				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 135042	Great Britain and Northern Ireland	United Kingdom		f		1	\N				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+135044	Great Britain	Kingdom	defunct	f		1	\N				\N	\N			f	\N	\N	\N	f		135042		1	en			\N
 135045	England	Kingdom	defunct	f		1	\N				\N	\N			f	\N	\N	\N	f		135042		1	en			\N
 135046	Metedeconk	Village	proposed	f		4	1831				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 135049	Fieldsborough	Borough	alternate	f		4	1819				\N	\N			f	\N	\N	\N	f		7176		0	en			\N
@@ -8492,3 +8492,14 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 135763	Riverside	Borough	defunct	f		4	1819				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 135766	Bissell	Place	unincorporated	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 135767	Elrod	Place	unincorporated	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
+135789	South Orange	Village		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+135790	Harington	Township	alternate	f		4	1818				\N	\N			f	\N	\N	\N	f		7693		0	en			\N
+135791	Downes	Township	alternate	f		4	1822				\N	\N			f	\N	\N	\N	f		7136		0	en			\N
+135792	Pequanack	Township	alternate	f		4	1830				\N	\N			f	\N	\N	\N	f		7417		0	en			\N
+135793	Pequannack	Township	alternate	f		4	1830				\N	\N			f	\N	\N	\N	f		7417		0	en			\N
+135794	Hardwicke	Township	alternate	f		4	1835				\N	\N			f	\N	\N	\N	f		54187		0	en			\N
+135795	Newarke	Township	alternate	f		4	1823				\N	\N			f	\N	\N	\N	f		7746		0	en			\N
+135796	Vailsburg	Borough	alternate	f		4	1823				\N	\N			f	\N	\N	\N	f		7831		0	en			\N
+135797	Wilber	Borough	defunct	f		4	1827				\N	\N			f	\N	\N	\N	f		7851		0	en			\N
+135799	Eatontown	Borough	defunct	f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+135800	Bloomfield	City	proposed	f		4	1823				\N	\N			f	\N	\N	\N	f		\N		0	en			\N

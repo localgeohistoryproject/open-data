@@ -4151,10 +4151,10 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 4355	236	2	1881-01	In the matter of the application of the town of DuBois to be incorporated in a Borough			
 4356	235		1881-03	In the matter of the application of the town of Glen Hope incorporation into a Borough			
 4357	235	60	1883-01	Petition of Citizens asking for a charter of The Borough of Brisbin			
-4358	235	36	1883				
+4358	235	36	1883	Incorporation of Chesterhill Borough			
 4359	235		1883	In the matter of the incorporation of Coalport a Borough			
 4360	235	45	1883-06	Incorporation of West Clearfield Borough			
-4361	235	67	1884-12				
+4361	235	67	1884-12	In Rel to the petition of Citizens of Greenwood Twp for Independent School District			
 4362	235	44	1885-02	In re: Annexation of certain tracts of land adjacent to the Borough of Clearfield Pa.			
 4363	235	87	1885-09	In the matter of the application to incorporate the town of Pennville into a borough			
 4365	235	58	1889	Incorporation of the Borough of Mahaffey			
@@ -4234,33 +4234,33 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 4449	236		1871-03		Lawrence - Line w/Pike		
 4450	236		1871-06		Pike - ISD		
 4451	236		1871-06		Bell - Pet for new twp also out of Penn & Ferguson		
-4452	236	6	1872-03		Brady - Div		
-4453	236	16	1872-01		Pike - Pt to Penn for SD		
-4454	236	20	1873-09		Madera ISD		
-4455	236	15	1874-09		Union - Pt to for SD		
-4456	236	22	1874-06		Lawrence - Anx for SD purposes		
-4457	236	23	1874-06		Union - ISD		
+4452	236	6	1872-03	Petition For to divide Brady Township			
+4453	236	16	1872-01	Petition of Citizens of Pike Tp. asking to be annexed to Penn Tp For School Purposes			
+4454	236	20	1873-09	Petition for Madera independent School District			
+4455	236	15	1874-09	Petition to Change the Line Between Bloom and Union Tp			
+4456	236	22	1874-06	Petition of B. J. Conklin to annex his farm to Lawrence School dist for School purposes			
+4457	236	23	1874-06	Petition for Independent School District in Union Township			
 4458	236	11	1875-03		Covington - Line w/Girard		
-4459	236	3	1875-01		Ferguson - Line w/Jordan		
-4460	236	6	1875-06		Greenwood - Line w/Penn		
-4461	236	22	1872-06		Greenwood (Clearfield) Formation		
-4462	236	8	1876-09		Greenwood - Line w/Penn		
-4463	236	20	1877-09		Covington - Line w/Girard		
-4464	236		1878-03		Sandy Formation		
-4465	236	2	1878-09		Chest - Line w/Ferguson w/SD purposes		
+4459	236	3	1875-01	Petition to change Tp line Between Jordon & Furgerson Tps.			
+4460	236	6	1875-06	Change Township line between Greenwood and Penn Townships			
+4461	236	22	1872-06	Citizens of Bell, Penn and Furgerson Tps. asking a New Township called "Hoyt Township"			
+4462	236	8	1876-09	Petition to Strike farm of Patrick Rafferty in Penn Township			
+4463	236	20	1877-09	Review of Township line Between Girard and Covington Townships			
+4464	236		1878-03	Citizens of Brady and Huston Townships asking a New Township called "Sandy Township"			
+4465	236	2	1878-09	Change Township line between Chest and Ferguson Townships			
 4466	236	7	1879-03		Woodward - Div		
 4467	236	12	1879-01		Brady - Change line w/Sandy		
 4468	236	2	1881-01		Burnside - Line w/Chest		
 4469	236	17	1881-09		Bigler (Clearfield) Formation		
 4470	236	5	1882-09				
-4471	236	11	1884-01		Boggs - Pet for division also of Woodward & Decatur		
-4472	236	1	1884-12		Bloom - Line		
-4473	236	1	1886		Ferguson - Line w/Jordan		
-4474	236	7	1886-05		Boggs - Pet for new twp also out of Woodward & Decatur		
-4475	236	17	1886-05		Burnside - Proposed div		
-4476	236	6	1887-12		Clearfield - Proposed div		
-4477	236	16	1887-09		Girard - Line w/Goshen		
-4478	236	2	1892-05		Decatur - Div		
+4471	236	11	1884-01	For Erection of a New Township out of a part of Woodward Decatur and Boggs Townships			
+4472	236	1	1884-12	Citizens of Townships of Bloom and Union, for change of line between said Townships			
+4473	236	1	1886	For change of the Township line between Jordan and Ferguson Townships			
+4474	236	7	1886-05	For Erection of a New Township out of parts of Woodward Decatur and Boggs Townships			
+4475	236	17	1886-05	In Re of Division of Burnside Township and Erection of a New Township			
+4476	236	6	1887-12	Petition of Citizens of Burnside Township to Erect a New Township			
+4477	236	16	1887-09	For change of the Township lines between Girard and Goshen Townships			
+4478	236	2	1892-05	In Re Division of the Township of Decatur			
 4479	237	1	1848-12				
 4480	237	18	1855-09				
 4481	237	16	1865-12				
@@ -10223,7 +10223,7 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 11116	355	8187	1943	Estate of Ella F. Kennedy, deceased			
 11117	355	2772	1945	Estate of Mary E. Kennedy, deceased			
 11118	355	1406	1946	Estate of Pauline Riehl, deceased			
-11119	361		1893-06	The State, Ashbel Green, Prosecutor against Stephen G. Clarke, Frederick L. Colver, and others.			
+11119	361		1893	The State, Ashbel Green, Prosecutor against Stephen G. Clarke, Frederick L. Colver, and others.			
 11120	366		1911	Application for a special election in the matter of the consolidation of the Boroughs of North Wildwood, Wildwood, Holly Beach and Wildwood Crest, in the County of Cape May and State of New Jersey.			
 11121	366		1891	In the matter of the petition of Anson H. Hamilton, Alexander W. Springer, Amnon Wright and Edwin Markley, for an election to vote for or against the incorporation of The Mayor and Council of the Borough of Cape May Point.			
 11122	370		1924	In the Matter of the petition of citizens of the Town of West Hoboken, the Town of Union, the Town of West New York, the Town of Secaucus, the Town of Guttenberg, and the Township of North Bergen, and the Township of Weehawken, in the County of Hudson, for the consolidation and incorporation of said municipalities as a city, pursuant to Chapter 117, Laws of 1923, P. L. 1923, p. 243.			
@@ -11900,16 +11900,16 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 13180	256		1839-06				
 13181	385		1852				
 13182	385		1818				
-13183	361		1923-11				
-13184	361		1896-03				
-13185	361		1893-11				
-13186	361		1880-03				
-13187	361		1868-03				
-13188	361		1857-11				
-13189	361		1839-11				
-13190	361		1839-09				
-13191	361		1835-09				
-13192	361		1832-11				
+13183	361		1923				
+13184	361		1896				
+13185	361		1893				
+13186	361	1249	1880				
+13187	361		1868				
+13188	361		1857				
+13189	361		1839				
+13190	361		1839				
+13191	361		1835				
+13192	361		1832				
 13193	386		1910				
 13194	297		1791-03				
 13195	287		1796				
@@ -11927,12 +11927,12 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 13208	467	79	2017				
 13209	1265	3048	2019				
 13210	387		1875				
-13213	361		1895				
+13213	373		1895				
 13214	397		1889				
 13215	397		1890				
 13216	397		1893				
 13217	397		1893				
-13218	361		1893				
+13218	361		1893			The State, George W. Holman, Jr., Pros. and Abram C. B. Havens, Clerk of the Inferior Court of Common Pleas of Ocean County.	
 13219	397	10578	1933				
 13220	487		1985				
 13221	427		1741-05				
@@ -11954,7 +11954,6 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 13238	214		1902				
 13241	214		1883				
 13242	214		1890				
-13244	361		1899				
 13245	348		1801-09				
 13246	348		1801-06				
 13247	1282		1911-09				
@@ -12059,8 +12058,8 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 13353	434		1731-04				
 13354	434		1724-04				
 13355	434		1738-10				
-13356	361		1920-11				
-13357	359		1921-03				
+13356	361		1920			STATE, THOMAS F. McCRAN, ATTORNEY-GENERAL, RELATOR, v. THE BOROUGH OF OCEAN GROVE, IN THE COUNTY OF MONMOUTH, RESPONDENT.	
+13357	359		1921-03			THOMAS F. McCRAN, ATTORNEY-GENERAL, RESPONDENT, v. BOROUGH OF OCEAN GROVE, IN THE COUNTY OF MONMOUTH, APPELLANT.	
 13358	460	2738	1978				
 13359	481	4700	2009				
 13360	361	M-407	2009-09				
@@ -12074,25 +12073,25 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 13368	93	1897	2022				
 13369	450		1974			Filing division currently unknown.	
 13370	397		1931				
-13371	361		1931				
-13372	361		1885				
-13373	361		1886				
+13371	361		1931			THE TOWNSHIP OF DOVER, IN THE COUNTY OF OCEAN, PROSECUTOR, v. THE TOWNSHIP OF BRICK, IN SAID COUNTY, ET AL., DEFENDANTS.	
+13372	361	3364	1885				
+13373	361		1886			THE STATE, THE BOARD OF CHOSEN FREEHOLDERS OF BURLINGTON COUNTY, PROSECUTOR, v. THE BOARD OF CHOSEN FREEHOLDERS OF ATLANTIC COUNTY.	
 13374	387		1942				
-13375	361		1942				
-13376	361		1943				
-14031	359	66	1934-10				
-14032	361		1934				
+13375	361		1942			TOWNSHIP OF LOWER, A MUNICIPAL CORPORATION OF CAPE MAY COUNTY, NEW JERSEY, PROSECUTOR, v. CITY OF WILDWOOD, A MUNICIPAL CORPORATION OF CAPE MAY COUNTY, NEW JERSEY, COURT OF COMMON PLEAS OF CAPE MAY COUNTY, ET AL., RESPONDENTS.	
+13376	361		1943			TOWNSHIP OF LOWER, A MUNICIPAL CORPORATION OF CAPE MAY COUNTY, NEW JERSEY, PROSECUTOR-APPELLANT, v. CITY OF WILDWOOD, A MUNICIPAL CORPORATION OF CAPE MAY COUNTY, NEW JERSEY, COURT OF COMMON PLEAS OF CAPE MAY COUNTY, STIRLING W. COLE, CLERK OF SAID COURT, AND GEORGE W. KROGMAN, MAYOR, AND BENJAMIN INGERSOLL AND ROLLAND CORSON, COMMISSIONERS OF SAID CITY OF WILDWOOD, CAPE MAY COUNTY, NEW JERSEY, RESPONDENTS-APPELLEES.	
+14031	359	66	1934-10			THOMAS L. PECK, PROSECUTOR-APPELLANT, v. THE TOWNSHIP OF NEW BARBADOES, SOMETIMES KNOWN AS THE CITY OF HACKENSACK, AND THE HACKENSACK IMPROVEMENT COMMISSION, SOMETIMES KNOWN AS THE CITY OF HACKENSACK, RESPONDENTS; ROBERT ALTSCHULER, WILDER M. RICH, FRANCIS C. KOEHLER, RICHARD LAMB, DEFENDANTS	
+14032	361		1934			THOMAS L. PECK, PROSECUTOR, v. THE TOWNSHIP OF NEW BARBADOES, SOMETIMES KNOWN AS THE CITY OF HACKENSACK, AND THE HACKENSACK IMPROVEMENT COMMISSION, SOMETIMES KNOWN AS THE CITY OF HACKENSACK, RESPONDENTS; ROBERT ALTSCHULER, WILDER M. RICH, FRANCIS C. KOEHLER, RICHARD LAMB, DEFENDANTS	
 14033	482	20765	1963	John Bojack vs. City of Paterson			
 14034	461	462	1963	Gallo v. Bojac			
 14035	468	2227	1995	Frederic C. Duchac and The Shallon Family Limited Partnership vs. Borough of Englewood Cliffs, the City of Englewood and the County of Bergen			
 14036	390		1887				
-14037	361		1897				
-14038	359		1898				
+14037	361		1897			SAMUEL H. GREY, ATTORNEY-GENERAL OF NEW JERSEY, v. THE MAYOR AND CITY COUNCIL OF THE CITY OF DOVER.	
+14038	359		1898			THE MAYOR AND CITY COUNCIL OF DOVER, IN THE COUNTY OF MORRIS, PLAINTIFFS IN ERROR, v. SAMUEL H. GREY, ATTORNEY-GENERAL, DEFENDANT IN ERROR	
 14039	387		1890				
 14040	396		1889				
 14041	383		1890				
-14042	361		1895				
-14043	361		1892				
+14042	366		1895				
+14043	366		1892				
 14044	366		1896				
 14045	366		1894				
 14046	384		1894				
@@ -12122,3 +12121,75 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 14070	397		1894				
 14071	160	749	2023				
 14072	21	205	2023				
+14073	178	16688	1996				
+14074	529	1481	2023				
+14075	1621	1	2023				
+14076	1621	2	2023				
+14078	169	45	2020				
+14079	79	1458	2023				
+14080	19	19	1836-05		Goddard vs. Gloninger		
+14081	54		1835		Goddard vs. Gloninger		
+14082	402		1894				
+14083	402		1895				
+14084	402		1895				
+14085	427		1696-05				
+14086	427		1709-12				
+14087	427		1692-08				
+14088	403		1861-06				
+14089	403		1845-06				
+14090	361		1926			CHARLES O. PERRY AND JOSEPH A. REID, PROSECUTORS, v. THE BOROUGH OF DEAL, RESPONDENTS.	
+14091	359		1927			CHARLES O. PERRY ET AL., RESPONDENTS, v. BOROUGH OF DEAL, APPELLANT	
+14092	394		1896				
+14093	396		1890				
+14094	396		1894				
+14095	396		1894				
+14096	396		1895				
+14097	389		1894				
+14098	389		1892				
+14099	389		1895				
+14100	389		1860				
+14102	389		1847				
+14103	395		1888				
+14104	384		1894				
+14105	383		1888				
+14106	383		1889				
+14107	364		1893				
+14108	401		1891				
+14109	384		1894				
+14110	399		1894				
+14111	398		1895				
+14113	393		1892				
+14114	361		1892			THE STATE, JOHN H. TURNER, JOHN A. BRUNER, Jr, AND KENYON FORTESCUE, PROSECUTORS, v. THE MAYOR AND COUNCIL OF BRIGANTINE BOROUGH AND E. CLARENCE MILLER.	
+14115	399		1892				
+14116	361		1901			ATTORNEY-GENERAL v. THE BOROUGH OF TUCKERTON.	
+14117	389		1926				
+14118	358		1909				
+14119	361		1881			STATE, WILLIAM S. WORTHLEY, PROSECUTOR, v. JAMES STEEN, MAYOR OF THE BOROUGH OF EATONTOWN.	
+14120	361		1887			THE STATE, EX REL. WESLEY GIBBS ET AL, v. THE MAYOR AND COUNCIL OF THE BOROUGH OF SOMERS POINT, GEORGE A. ANDERSON ET AL.	
+14121	361	3138	1887			STATE v. BOARD OF COMMISSIONERS OF BOROUGH COMMISSION OF ATLANTIC HIGHLANDS.	
+14122	361		1888			THE STATE, EX REL. STEELMAN ET AL., v. J. HENRY VICKERS.	
+14123	361		1888			STATE, RICHARD B. CAMPBELL ET AL., PROSECUTORS, v. HALSTED H. WAINWRIGHT ET AL.	
+14124	393		1894				
+14125	361		1894			THE STATE, GEORGE A. HUTCHINSON, PROSECUTOR, v. ANDREW K. ROWAN ET AL.	
+14126	383		1890				
+14127	361		1895			Township of Bloomfield against James T. Wrightson, Clerk of the County of Essex, and others.	
+14128	359		1895			Township of Bloomfield against James T. Wrightson, Clerk of the County of Essex, and others.	
+14129	361		1885			STATE, EX REL. HENRY H. YARD, v. THE BOROUGH COMMISSION OF OCEAN BEACH, CHARLES H. THOMPSON ET AL.	
+14130	361		1895				
+14131	361	3081	1890			THE STATE v. THE MAYOR AND COUNCIL OF THE BOROUGH OF CLAYTON.	
+14132	361		1896				
+14133	363		1891				
+14134	361	2546	1891			IN THE MATTER OF THE INCORPORATION OF THE VILLAGE OF RIDGEFIELD PARK.	
+14135	361	1157	1889			THE STATE, EX REL. THE ATTORNEY GENERAL, v. THE MAYOR AND COMMON COUNCIL OF THE BOROUGH OF SOMERS POINT.	
+14136	361		1895				
+14137	359		1895			THE ATTORNEY-GENERAL, PLAINTIFF IN ERROR, v. THE MAYOR AND COUNCIL OF THE BOROUGH OF ANGLESEA, DEFENDANTS IN ERROR.	
+14138	361		1895			THE STATE, BOROUGH OF GLEN RIDGE, PROSECUTOR, v. G. LEE STOUT ET AL.	
+14139	359		1895			G. LEE STOUT ET AL., PLAINTIFFS IN ERROR, v. THE BOROUGH OF GLEN RIDGE, DEFENDANT IN ERROR.	
+14140	1265		1949			Bridgewater Twp. v. Raritan	
+14141	361		1892			TOWNSHIP COMMITTEE OF LAKEWOOD v. TOWNSHIP COMMITTEE OF BRICK.	
+14142	361		1894			THE STATE, THE INHABITANTS OF THE TOWNSHIP OF EWING, PROSECUTORS, v. THE INHABITANTS OF THE CITY OF TRENTON.	
+14143	361		1899			RICHARD R. MILLER, TREASURER OF THE CITY OF CAMDEN, RELATOR v. PETER GREENWALT, LATE TREASURER OF THE TOWN OF STOCKTON, IN THE COUNTY OF CAMDEN, ANNEXED TO THE CITY OF CAMDEN. SAMUEL HUFTY, COMPTROLLER OF THE CITY OF CAMDEN, RELATOR, v. PETER GREENWALT, LATE TREASURER OF THE TOWN OF STOCKTON, IN THE COUNTY OF CAMDEN, ANNEXED TO THE CITY OF CAMDEN.	
+14144	359		1900			RICHARD R. MILLER, DEFENDANT IN ERROR, v. PETER GREENWALT, PLAINTIFF IN ERROR.	
+14145	359		1900			WILLIAM T. MILLER, PLAINTIFF IN ERROR, v. THE CITY OF CAMDEN ET AL., DEFENDANTS IN ERROR.	
+14146	361	2543	1891				
+14147	402		1934				

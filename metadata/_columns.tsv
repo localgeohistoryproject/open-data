@@ -10,7 +10,7 @@ adjudication	adjudicationstatus	8	text
 adjudicationevent	adjudicationeventid	1	integer
 adjudicationevent	adjudication	2	integer
 adjudicationevent	event	3	integer
-adjudicationevent	adjudicationeventrelationship	4	character varying
+adjudicationevent	eventrelationship	4	integer
 adjudicationlocation	adjudicationlocationid	1	integer
 adjudicationlocation	adjudication	2	integer
 adjudicationlocation	adjudicationlocationtype	3	integer
@@ -110,7 +110,7 @@ event	eventmethod	3	integer
 event	eventlong	4	character varying
 event	eventfrom	5	smallint
 event	eventto	6	smallint
-event	eventgranted	7	character varying
+event	eventgranted	7	integer
 event	eventeffective	8	text
 event	eventeffectivetypestatutory	9	text
 event	eventeffectivetypepresumedsource	10	integer
@@ -220,11 +220,13 @@ governmentidentifiertype	governmentidentifiertypeshort	3	character varying
 governmentidentifiertype	source	4	integer
 governmentidentifiertype	isinteger	5	boolean
 governmentidentifiertype	governmentidentifiertypeurl	6	text
-governmentidentifiertype	governmentidentifiertypeprefixlength	7	int4range
-governmentidentifiertype	governmentidentifiertypelength	8	int4range
-governmentidentifiertype	governmentidentifiertypeslug	9	text
-governmentidentifiertype	governmentidentifiertypeprefixdelimiter	10	character varying
-governmentidentifiertype	governmentidentifiertypenote	11	text
+governmentidentifiertype	governmentidentifiertypeprefixlengthfrom	7	integer
+governmentidentifiertype	governmentidentifiertypeprefixlengthto	8	integer
+governmentidentifiertype	governmentidentifiertypelengthfrom	9	integer
+governmentidentifiertype	governmentidentifiertypelengthto	10	integer
+governmentidentifiertype	governmentidentifiertypeslug	11	text
+governmentidentifiertype	governmentidentifiertypeprefixdelimiter	12	character varying
+governmentidentifiertype	governmentidentifiertypenote	13	text
 governmentmapstatus	governmentmapstatusid	1	integer
 governmentmapstatus	governmentmapstatusshort	2	character varying
 governmentmapstatus	governmentmapstatuslong	3	text
@@ -274,7 +276,7 @@ governmentsourceevent	governmentsourceeventid	1	integer
 governmentsourceevent	governmentsource	2	integer
 governmentsourceevent	event	3	integer
 governmentsourceevent	governmentsourceeventinclude	4	boolean
-governmentsourceevent	governmentsourceeventrelationship	5	character varying
+governmentsourceevent	eventrelationship	5	integer
 law	lawid	1	integer
 law	source	2	integer
 law	lawvolume	3	character varying
@@ -316,15 +318,19 @@ lawgroup	lawgrouprecording	8	boolean
 lawgroup	lawgroupsecretaryofstate	9	boolean
 lawgroup	lawgroupplanningagency	10	boolean
 lawgroup	lawgroupprocedure	11	text
-lawgroup	lawgroupgovernmenttype	12	text[]
-lawgroup	eventtype	13	integer[]
-lawgroup	lawgroupgroup	14	text
-lawgroup	lawgroupsectionlead	15	text
+lawgroup	lawgroupgroup	12	text
+lawgroup	lawgroupsectionlead	13	text
+lawgroupeventtype	lawgroupeventtypeid	1	integer
+lawgroupeventtype	lawgroup	2	integer
+lawgroupeventtype	eventtype	3	integer
+lawgroupgovernmenttype	lawgroupgovernmenttypeid	1	integer
+lawgroupgovernmenttype	lawgroup	2	integer
+lawgroupgovernmenttype	governmenttype	3	character varying
 lawgroupsection	lawgroupsectionid	1	integer
 lawgroupsection	lawgroupsectionorder	2	integer
 lawgroupsection	lawgroup	3	integer
 lawgroupsection	lawsection	4	integer
-lawgroupsection	lawsectionrelationship	5	character varying
+lawgroupsection	eventrelationship	5	integer
 lawsection	lawsectionid	1	integer
 lawsection	law	2	integer
 lawsection	lawsectionfrom	3	character varying
@@ -341,9 +347,13 @@ lawsection	lawsectionnewsymbol	13	character varying
 lawsectionevent	lawsectioneventid	1	integer
 lawsectionevent	lawsection	2	integer
 lawsectionevent	event	3	integer
-lawsectionevent	lawsectioneventrelationship	4	character varying
+lawsectionevent	eventrelationship	4	integer
 lawsectionevent	lawsectioneventnotes	5	text
 lawsectionevent	lawgroup	6	integer
+locale	localeid	1	character varying
+locale	localename	2	text
+locale	localenameenglish	3	text
+locale	localesupported	4	boolean
 metesdescription	metesdescriptionid	1	integer
 metesdescription	metesdescriptiontype	2	character varying
 metesdescription	metesdescriptionsource	3	character varying
@@ -391,7 +401,7 @@ plss	plsstownship	2	integer
 plss	plssfirstdivision	3	integer
 plss	plssfirstdivisionnumber	4	character varying
 plss	plssfirstdivisionduplicate	5	character varying
-plss	plssfirstdivisionpart	6	text[]
+plss	plssfirstdivisionpart	6	text
 plss	plssseconddivision	7	integer
 plss	plssseconddivisionnumber	8	character varying
 plss	plssseconddivisionsuffix	9	character varying
@@ -462,7 +472,7 @@ recording	recordingrepositorycontainer	25	character varying
 recordingevent	recordingeventid	1	integer
 recordingevent	event	2	integer
 recordingevent	recording	3	integer
-recordingevent	recordingeventrelationship	4	character varying
+recordingevent	eventrelationship	4	integer
 recordingevent	recordingeventinclude	5	boolean
 recordingoffice	recordingofficeid	1	integer
 recordingoffice	government	2	integer
@@ -494,8 +504,7 @@ researchlog	researchlogto	8	character varying
 researchlog	researchlogismissing	9	boolean
 researchlog	researchlognotes	10	text
 researchlog	researchlogdisposition	11	character varying
-researchlog	internetarchivehandle	12	text[]
-researchlog	event	13	text
+researchlog	event	12	text
 researchlogtype	researchlogtypeid	1	integer
 researchlogtype	researchlogtypelong	2	character varying
 researchlogtype	researchlogtypelongpart	3	text
@@ -511,19 +520,18 @@ source	sourceshort	3	character varying
 source	sourceshortpart	4	character varying
 source	sourcebookshort	5	character varying
 source	sourceurlsubstitute	6	integer
-source	sourcegovernment	7	integer[]
-source	sourcelawtype	8	character varying
-source	sourceperson	9	text
-source	sourcesectiontitle	10	text
-source	sourcetitle	11	text
-source	sourceidentifier	12	text
-source	sourcepublisherlocation	13	text
-source	sourcepublisher	14	text
-source	sourcepublisheryear	15	character varying
-source	sourcelawisbynumber	16	boolean
-source	sourcelawhasspecialsession	17	boolean
-source	sourceabbreviationverified	18	boolean
-source	sourcetemporarynote	19	text
+source	sourcelawtype	7	character varying
+source	sourceperson	8	text
+source	sourcesectiontitle	9	text
+source	sourcetitle	10	text
+source	sourceidentifier	11	text
+source	sourcepublisherlocation	12	text
+source	sourcepublisher	13	text
+source	sourcepublisheryear	14	character varying
+source	sourcelawisbynumber	15	boolean
+source	sourcelawhasspecialsession	16	boolean
+source	sourceabbreviationverified	17	boolean
+source	sourcetemporarynote	18	text
 sourcecitation	sourcecitationid	1	integer
 sourcecitation	source	2	integer
 sourcecitation	sourcecitationdate	3	text
@@ -536,17 +544,28 @@ sourcecitation	sourcecitationpageto	9	character varying
 sourcecitation	sourcecitationurl	10	text
 sourcecitation	sourcecitationtypetitle	11	text
 sourcecitation	sourcecitationperson	12	text
-sourcecitation	sourcecitationnotes	13	text
-sourcecitation	sourcecitationgovernmentreferences	14	text
-sourcecitation	sourcecitationarchiveslotfilm	15	character varying
-sourcecitation	sourcecitationarchivecarton	16	character varying
-sourcecitation	sourcecitationstatus	17	character varying
-sourcecitation	sourcecitationdetail	18	jsonb
-sourcecitation	sourcecitationissue	19	character varying
+sourcecitation	sourcecitationgovernmentreferences	13	text
+sourcecitation	sourcecitationarchiveslotfilm	14	character varying
+sourcecitation	sourcecitationarchivecarton	15	character varying
+sourcecitation	sourcecitationstatus	16	character varying
+sourcecitation	sourcecitationissue	17	character varying
 sourcecitationevent	sourcecitationeventid	1	integer
 sourcecitationevent	sourcecitation	2	integer
 sourcecitationevent	event	3	integer
 sourcecitationevent	sourcecitationeventinclude	4	boolean
+sourcecitationnote	sourcecitationnoteid	1	integer
+sourcecitationnote	sourcecitation	2	integer
+sourcecitationnote	sourcecitationnotegroup	3	integer
+sourcecitationnote	sourcecitationnotetype	4	integer
+sourcecitationnote	sourcecitationnotetext	5	text
+sourcecitationnotetype	sourcecitationnotetypeid	1	integer
+sourcecitationnotetype	source	2	integer
+sourcecitationnotetype	sourcecitationnotetypeisdetail	3	boolean
+sourcecitationnotetype	sourcecitationnotetypetext	4	text
+sourcegovernment	sourcegovernmentid	1	integer
+sourcegovernment	source	2	integer
+sourcegovernment	sourceorder	3	integer
+sourcegovernment	government	4	integer
 sourceitem	sourceitemid	1	integer
 sourceitem	source	2	integer
 sourceitem	sourceitemedition	3	character varying

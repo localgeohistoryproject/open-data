@@ -508,3 +508,6 @@ adjudicationlocationtypeid	tribunal	adjudicationlocationtypearchivelevel	adjudic
 1492	1672	\N		Docket	Volume	Page	County	County	County.D.
 1494	1674	\N		Docket	Volume	Page	County	County	County.D.
 1501	432	\N		Docket	Volume	Page	Supreme Court	Supreme Court	Sup.D.
+1799	205	\N		Docket	Volume	Page	Road	Road	Rd.D.
+1801	52	\N		Docket	Volume	Page	Civil	Civil	Civ.D.
+1802	430	\N		Docket	Volume	Page	Errors and Appeals	Errors and Appeals	Err.App.D.

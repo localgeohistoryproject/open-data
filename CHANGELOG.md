@@ -4,22 +4,26 @@
 
 ### Added
 
+- Estimated years for key government sources (charter commissions, elections, ordinances) related to New Jersey Optional Municipal Charter Law (Faulkner Act) proceedings based on New Jersey County and Municipal Government Study Commission reports.
 - Extract file locale.tsv.
+- Remaining legal descriptions for unabstracted New Jersey laws to extract file metesdescription.tsv and metesdescriptionline.tsv.
 
 ### Changed
 
-- Extract files adjudicationevent.tsv, governmentsourceevent.tsv, lawgroupsection.tsv, lawsectionevent.tsv, and recordingevent.tsv to replace columns adjudicationeventrelationship, governmentsourceeventrelationship, lawsectionrelationship, lawsectioneventrelationship, and recordingeventrelationship, respectively, with eventrelationship column with foreign key reference.
 - Extract file event.tsv to change data type for eventgranted column and replace data with foreign key reference.
 - Extract file governmentidentifiertype.tsv to replace column governmentidentifiertypeprefixlength with governmentidentifiertypeprefixlengthfrom and governmentidentifiertypeprefixlengthto, and to replace column governmentidentifiertypelength with governmentidentifiertypelengthfrom and governmentidentifiertypelengthto.
-- Extract file lawgroup.tsv to remove columns eventtype and lawgroupgovernmenttype and replace with new extracts lawgroupeventtype.tsv and lawgroupgovernmenttype.tsv.
+- Extract file lawgroup.tsv to remove columns eventtype and lawgroupgovernmenttype and replace with new extract files lawgroupeventtype.tsv and lawgroupgovernmenttype.tsv.
 - Extract file plss.tsv to change data type for plssfirstdivisionpart column.
-- Extract file sourcecitation.tsv to remove sourcecitationdetail column and replace with new extracts sourcecitationnote.tsv and sourcecitationnotetype.tsv.
-- Extract file source.tsv to remove sourcegovernment column and replace with new extract sourcegovernment.tsv.
+- Extract file source.tsv to remove sourcegovernment column and replace with new extract file sourcegovernment.tsv.
+- Extract file sourcecitation.tsv to remove sourcecitationdetail column and replace with new extract files sourcecitationnote.tsv and sourcecitationnotetype.tsv.
+- Extract files adjudicationevent.tsv, governmentsourceevent.tsv, lawgroupsection.tsv, lawsectionevent.tsv, and recordingevent.tsv to replace columns adjudicationeventrelationship, governmentsourceeventrelationship, lawsectionrelationship, lawsectioneventrelationship, and recordingeventrelationship, respectively, with eventrelationship column with foreign key reference.
+- Other minor data quality improvements in New Jersey and Pennsylvania.
 
 ### Removed
 
 - In extract file researchlog.tsv, internetarchivehandle column.
 - In extract file sourcecitation.tsv, sourcecitationnotes column.
+- References to Panama Canal Zone.
 
 ## [1.2.1] - 2023-11-12
 

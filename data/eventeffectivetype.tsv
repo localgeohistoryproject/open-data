@@ -168,7 +168,6 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 227	Ordinance	1st day in January after Date Filed with Court
 229	Letters Patent	Date Recorded
 231	Deed of Surrender	Date Accepted
-232	Deed of Surrender	Date Accepted per Unofficial Source
 233	Deed	Date Issued per Unofficial Source
 236	Ordinance	Most Recent Date on Initial Filing with Secretary of State
 237	Ordinance	Date Advertised after Enactment (2nd Municipality)
@@ -179,3 +178,5 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 243	Election	Implied Date Results Filed with Secretary of State per Unofficial Source
 244	Declaration	Date Issued
 245	Election	Date Results Filed with County Clerk per Unofficial Source
+250	Letters Patent	Date Issuance Authorized
+251	Order of Council	Date Issued
