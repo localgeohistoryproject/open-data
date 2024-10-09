@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.1.0] - 2024-10-09
+
+### Added
+
+- In extract file documentation.tsv, disclaimer text (formerly in Application repository).
+- In extract file plsstownship.tsv, plsstownshipname column.
+- In extract files governmentidentifier.tsv and governmentidentifiertype.tsv, tax district identifiers for the following Pennsylvania counties: Clinton, Lebanon, McKean, Northumberland, Potter, and Venango.
+
+### Changed
+
+- Minor data quality improvements in New Jersey and Pennsylvania.
+- Standardized eventrelationship values related to placeholder events for alternate government name spellings.
+
+### Fixed
+
+- Field names and datatypes that had been incorrectly interpolated from fields with masked data or that were incorrectly aliased.
+
+### Removed
+
+- In extract file eventtype.tsv and related extracts, Municipal Manager Form event type (substituted with Council-Manager Form).
+
 ## [2.0.0] - 2024-05-04
 
 ### Added
@@ -81,6 +102,7 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
+[2.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.1...v2.0.0
 [1.2.1]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.1.0...v1.2.0
