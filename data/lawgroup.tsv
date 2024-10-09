@@ -45,7 +45,7 @@ lawgroupid	government	lawgrouplong	lawgroupfrom	lawgroupto	eventeffectivetype	la
 66	40	PA: County Classification (1929-1931)	1929	1931	61		\N	\N	\N			
 67	40	PA: County Classification (1931-1951)	1931	1951	61		\N	\N	\N			
 68	40	PA: County Classification (1951-1955)	1951	1955	61		\N	\N	\N			
-69	40	PA: County Classification (1955)	1955	9999	61		\N	\N	\N			
+69	40	PA: County Classification (1955)	1955	2024	61		\N	\N	\N			
 70	40	PA: Annexation Resolution, City (3rd) (1913)	1913	1923	61		\N	\N	\N			
 71	40	PA: Annexation Referendum, City (3rd) (1923)	1923	1929	61		\N	\N	\N			
 73	40	PA: Annexation Ordinance, City (3rd), from Township (1929)	1929	1931	61		\N	\N	\N			
@@ -91,7 +91,7 @@ lawgroupid	government	lawgrouplong	lawgroupfrom	lawgroupto	eventeffectivetype	la
 129	40	PA: Boundary, County (1876)	1876	1905	61		\N	\N	\N			
 130	40	PA: Boundary, County (1905)	1905	9999	61		\N	\N	\N			
 131	40	PA: Boundary, County (1929)	1929	1955	61		\N	\N	\N			
-133	40	PA: Boundary, County (1955)	1955	9999	61		\N	\N	\N			
+133	40	PA: Boundary, County (1955)	1955	2024	61		\N	\N	\N			
 134	40	PA: Annexation Petition, Borough (1834)	1834	1915	61		\N	\N	\N			
 135	40	PA: Township, Division, without Commission (1917)	1917	9999	61		\N	\N	\N			
 137	40	PA: Name, Borough (1915)	1915	1919	61		\N	\N	\N			

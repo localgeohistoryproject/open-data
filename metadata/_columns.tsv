@@ -112,12 +112,12 @@ event	eventfrom	5	smallint
 event	eventto	6	smallint
 event	eventgranted	7	integer
 event	eventeffective	8	text
-event	eventeffectivetypestatutory	9	text
+event	eventeffectivetypestatutory	9	integer
 event	eventeffectivetypepresumedsource	10	integer
-event	eventisrelevant	11	text
+event	eventisrelevant	11	character varying
 event	eventeffectiveorder	12	integer
 event	eventismapped	13	boolean
-event	eventismappedtype	14	text
+event	eventismappedtype	14	character varying
 event	government	15	integer
 eventeffectivetype	eventeffectivetypeid	1	integer
 eventeffectivetype	eventeffectivetypegroup	2	character varying
@@ -185,7 +185,7 @@ government	governmentindigobook	21	character varying
 government	governmentsubstitute	22	integer
 government	governmentnumber	23	character varying
 government	governmentmapstatus	24	integer
-government	governmentlocale	25	character varying
+government	locale	25	character varying
 government	governmentarticle	26	character varying
 government	governmentconnectingarticle	27	character varying
 government	governmentcurrentform	28	integer
@@ -444,6 +444,7 @@ plsstownship	plssrangenumber	7	smallint
 plsstownship	plssrangefraction	8	character varying
 plsstownship	plssrangedirection	9	character varying
 plsstownship	plsstownshipduplicate	10	character varying
+plsstownship	plsstownshipname	11	text
 recording	recordingid	1	integer
 recording	recordingoffice	2	integer
 recording	recordingvolume	3	character varying
@@ -504,7 +505,7 @@ researchlog	researchlogto	8	character varying
 researchlog	researchlogismissing	9	boolean
 researchlog	researchlognotes	10	text
 researchlog	researchlogdisposition	11	character varying
-researchlog	event	12	text
+researchlog	event	12	integer
 researchlogtype	researchlogtypeid	1	integer
 researchlogtype	researchlogtypelong	2	character varying
 researchlogtype	researchlogtypelongpart	3	text

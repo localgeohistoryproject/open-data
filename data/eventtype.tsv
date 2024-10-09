@@ -39,7 +39,6 @@ eventtypeid	eventtypelong	eventtypeshort	eventtypeborders	eventtypeinclude	event
 57	An existing municipality is reorganized under the mayor-council-administrator form.	Mayor-Council-Administrator Form	structure	t	y	Form
 58	An existing municipality is reorganized under the mayor-council form.	Mayor-Council Form	structure	t	y	Form
 59	An existing municipality is classified or reorganized as a different class of municipality.	Municipal Classification	structure	t	y	Classification
-60	An existing municipality is reorganized under the municipal manager form.	Municipal Manager Form	structure	t	y	Form
 62	A new government is created or an existing government is reorganized as a commission, either in name or form of government.	New Commission	yes	t	t	Creation
 63	A new government is created or an existing government is reorganized as a village, either in name or form of government.	New Village	yes	t	t	Creation
 64	An existing municipality is reorganized under the small municipality form.	Small Municipality Form	structure	t	y	Form

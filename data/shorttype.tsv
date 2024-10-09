@@ -224,3 +224,7 @@ shorttypeid	shorttypeisform	shorttypelong	shorttypeshort
 227	f	Land	Land
 228	f	Tax	Tax
 229	f	Lien	Lien
+230	f	Slip	Slip
+231	f	Review	Rev
+232	f	Contiguity	Cntgty
+233	f	Town	Town

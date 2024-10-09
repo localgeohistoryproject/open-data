@@ -37,13 +37,13 @@ governmentidentifiertypeid	governmentidentifiertypetype	governmentidentifiertype
 42	cadastral	Forest County, Pennsylvania	\N	t		0	0	2	2	pa-forest-county		
 43	cadastral	Greene County, Pennsylvania	\N	t		0	0	2	2	pa-greene-county		
 44	cadastral	Huntingdon County, Pennsylvania	\N	t		0	0	2	2	pa-huntingdon-county		
-45	cadastral	Indiana County, Pennsylvania	\N	t		0	0	2	2	pa-indiana-county		Not verified
+45	cadastral	Indiana County, Pennsylvania	\N	t		0	0	2	2	pa-indiana-county		
 46	cadastral	Lancaster County, Pennsylvania	\N	t		0	0	3	3	pa-lancaster-county		
 47	cadastral	Luzerne County, Pennsylvania	\N	t		0	0	2	2	pa-luzerne-county		
 48	cadastral	Lycoming County, Pennsylvania	\N	t		0	0	2	2	pa-lycoming-county		
 49	cadastral	Monroe County, Pennsylvania	\N	t		0	0	2	2	pa-monroe-county		
 50	cadastral	Montgomery County, Pennsylvania	\N	t		0	0	2	2	pa-montgomery-county		
-51	cadastral	Montour County, Pennsylvania	\N	t		0	0	2	2	pa-montour-county		Unable to verify
+51	cadastral	Montour County, Pennsylvania	\N	t		0	0	1	2	pa-montour-county		
 52	cadastral	Northampton County, Pennsylvania	\N	t		0	0	2	2	pa-northampton-county		
 53	cadastral	Perry County, Pennsylvania	\N	t		0	0	3	3	pa-perry-county		
 54	cadastral	Schuylkill County, Pennsylvania	\N	t		0	0	2	2	pa-schuylkill-county		
@@ -74,3 +74,9 @@ governmentidentifiertypeid	governmentidentifiertypetype	governmentidentifiertype
 81	state	New York SWIS (Dominant)	\N	t		0	0	6	6	ny-swis-dominant		
 84	other	Wikidata	\N	t	https://www.wikidata.org/wiki/<Identifier>?uselang=<Language>	0	0	1	10	wikidata		
 85	census	US Census Bureau FIPS: Unified School District	\N	t		2	2	5	5	us-census		
+86	cadastral	Lebanon County, Pennsylvania	\N	t		0	0	2	2	pa-lebanon-county		
+89	cadastral	Venango County, Pennsylvania	\N	t		0	0	2	2	pa-venango-county		
+90	cadastral	Clinton County, Pennsylvania	\N	t		0	0	1	2	pa-clinton-county		
+91	cadastral	Northumberland County, Pennsylvania	\N	f		0	0	3	3	pa-northumberland-county		
+92	cadastral	Potter County, Pennsylvania	\N	t		0	0	3	3	pa-potter-county		
+93	cadastral	McKean County, Pennsylvania	\N	t		0	0	2	2	pa-mckean-county		

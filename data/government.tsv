@@ -1,4 +1,4 @@
-governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefacto	governmentstyle	governmentlevel	governmentcurrentleadparent	governmentabbreviation	government1983stateplaneauthority	governmentlead1983stateplane	governmenthasmultiple1983stateplane	governmentdefaultsrid	governmentnotecreation	governmentnotedissolution	governmentnotecurrentleadparent	governmentcharterstatus	governmentbooknote	governmentbookcomplete	governmentmultilevel	governmentindigobook	governmentsubstitute	governmentnumber	governmentmapstatus	governmentlocale	governmentarticle	governmentconnectingarticle	governmentcurrentform
+governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefacto	governmentstyle	governmentlevel	governmentcurrentleadparent	governmentabbreviation	government1983stateplaneauthority	governmentlead1983stateplane	governmenthasmultiple1983stateplane	governmentdefaultsrid	governmentnotecreation	governmentnotedissolution	governmentnotecurrentleadparent	governmentcharterstatus	governmentbooknote	governmentbookcomplete	governmentmultilevel	governmentindigobook	governmentsubstitute	governmentnumber	governmentmapstatus	locale	governmentarticle	governmentconnectingarticle	governmentcurrentform
 1	United States of America	Country		f		1	\N	USA			\N	\N			f	\N	\N	\N	f	U.S.	\N		1	en			\N
 9	Delaware	State		f		2	1	DE	Del. Code Ann. tit. 6, § 5501		\N	6436			f	\N	\N	\N	f	Del.	\N		1	en			\N
 22	Maryland	State		f		2	1	MD	Md. Code. Ann. Real Prop. § 14-401		\N	6488			f	\N	\N	\N	f	Md.	\N		1	en			\N
@@ -4408,7 +4408,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7691	Hackensack	Commission	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7692	Hackensack	Township	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7693	Harrington	Township	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7385		1	en			\N
-7694	Harrison	Township	defunct	f		4	1825				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+7694	Harrison	Township	defunct	f		4	1825				\N	\N			t	\N	\N	\N	f		7229		1	en			\N
 7696	High Bridge	Township	defunct	f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7697	Hillsdale	Township	defunct	f		4	1818				\N	\N			f	\N	\N	\N	f		7243		1	en			\N
 7698	Hoboken	Township	defunct	f		4	1825				\N	\N			f	\N	\N	\N	f		7246		1	en			\N
@@ -4706,7 +4706,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 49070	Slippery Rock	Township	defunct	f		4	2289				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 49071	North Beaver	Township	defunct	f		4	2329				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 49072	Oil Creek	Township	defunct	f		4	2311				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-49073	Oil Creek	Township	defunct	f		4	2348				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+49073	Oil Creek	Township	defunct	f		4	2348				\N	\N			t	\N	\N	\N	f		3482		1	en			\N
 49080	Hamilton	Township	defunct	f		4	2348				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 49081	Turbot	Township	defunct	f		4	2305				\N	\N			t	\N	\N	\N	f		4475		7	en			\N
 49082	Chillisquaque	Township	defunct	f		4	2305				\N	\N			t	\N	\N	\N	f		4461		7	en			\N
@@ -4790,7 +4790,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 52306	East Kennett	Township	proposed	f		4	2301				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 52307	West Kennett	Township	proposed	f		4	2301				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 52308	Lackawannock	Township	defunct	f		4	2326				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-52352	Chautauque	County	defunct	f		3	34			W	f	\N			f	\N	\N	\N	f		\N		1	en			\N
+52352	Chautauque	County	defunct	f		3	34			W	f	\N			f	\N	\N	\N	f		1877		1	en			\N
 52359	Portsmouth	Borough	proposed	f		4	2308				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 53758	Scottsville	Place	unincorporated	f		5	2317				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 53759	Adams	Township	defunct	f		4	2288				\N	\N			t	\N	\N	\N	f		4979		7	en			\N
@@ -8490,8 +8490,8 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 135694	Tullileague	Township	alternate	f		4	2291				\N	\N			f	\N	\N	\N	f		48995		0	en			\N
 135761	New Bloomfield	Borough	alternate	f		4	2336				\N	\N			f	\N	\N	\N	f		3430		0	en			\N
 135763	Riverside	Borough	defunct	f		4	1819				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
-135766	Bissell	Place	unincorporated	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
-135767	Elrod	Place	unincorporated	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
+135766	Bissell	Place	unincorporated	f		5	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
+135767	Elrod	Place	unincorporated	f		5	2288				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 135789	South Orange	Village		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 135790	Harington	Township	alternate	f		4	1818				\N	\N			f	\N	\N	\N	f		7693		0	en			\N
 135791	Downes	Township	alternate	f		4	1822				\N	\N			f	\N	\N	\N	f		7136		0	en			\N

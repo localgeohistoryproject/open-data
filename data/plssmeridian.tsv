@@ -112,7 +112,7 @@ plssmeridianid	plssmeridianshort	plssmeridianlong	plssmeridianisspecialsurvey	pl
 139	M6	Macomb's Purchase, Great Tract 6	f	f
 140	MRT	Moose River Tract	f	f
 141	CTT	Chenango Twenty Townships	f	f
-142	TRI	Triange Tract	f	f
+142	TRI	Triangle Tract	f	f
 143	CT	Connecticut Tract	f	f
 144	MYT	Mill Yard Tract	f	f
 145	CAN 1	1st Meridian (Dominion Land Survey)	f	f
@@ -123,3 +123,5 @@ plssmeridianid	plssmeridianshort	plssmeridianlong	plssmeridianisspecialsurvey	pl
 150	CAN 6	6th Meridian (Dominion Land Survey)	f	f
 151	CAN 7	7th Meridian (Dominion Land Survey)	f	f
 152	CAN C	Coast Meridian (Dominion Land Survey)	f	f
+153	MT	Military Tract	f	f
+154	SL10	Saint Lawrence Ten Towns	f	f

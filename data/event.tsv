@@ -10690,7 +10690,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10833	2	1	Boonton Town-Montville Township 1923 Annexation	1923	1923	8	1923-03-19	\N	1		0	f		\N
 10834	55	5	Camden City 1923 Commission Form	1923	1923	8	1923-04-17	\N	102		0	f		\N
 10835	55	5	Clifton City Proposed 1923 Commission Form	1923	1923	2		\N	\N		0	f		\N
-10836	60	5	Deal Borough Proposed 1923 Municipal Manager Form	1923	1923	2		\N	\N		0	f		\N
+10836	56	5	Deal Borough Proposed 1923 Municipal Manager Form	1923	1923	2		\N	\N		0	f		\N
 10837	30	1	Forked River Borough Proposed 1923 Creation	1923	1923	2		\N	\N		0	f		\N
 10838	55	5	Harvey Cedars Borough 1923 Commission Form	1923	1923	8	1923-05-15	\N	102		0	f		\N
 10839	30	1	Hillsdale Borough 1923 Creation	1923	1923	8	1923-04-24	\N	242		0	f		\N
@@ -10702,7 +10702,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10845	30	1	Riverdale Borough 1923 Creation	1923	1923	8	1923-04-17	\N	242		0	f		\N
 10846	30	1	Rockleigh Borough 1923 Creation	1923	1923	8	1923-04-10	\N	29		0	f		\N
 10847	2	1	West Deptford Township-Woodbury City 1923 Annexation	1923	1923	8	1923-03-22	\N	1		0	t		\N
-10848	60	5	Atlantic Highlands Borough Proposed 1924 Municipal Manager Form	1924	1924	2		\N	\N		0	f		\N
+10848	56	5	Atlantic Highlands Borough Proposed 1924 Municipal Manager Form	1924	1924	2		\N	\N		0	f		\N
 10849	30	1	Basking Ridge Borough Proposed 1924 Creation	1924	1924	2		\N	\N		0	f		\N
 10850	30	1	Bernardsville Borough 1924 Creation	1924	1924	8	1924-04-29	\N	29		0	f		\N
 10851	30	1	Brooklawn Borough 1924 Creation	1924	1924	8	1924-04-05	\N	29		0	t		\N
@@ -10719,7 +10719,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10862	55	5	Ho-Ho-Kus Borough Proposed 1924 Commission Form	1924	1924	2		\N	\N		0	f		\N
 10863	7	1	Hopewell Borough 1924 Charter Revival	1924	1924	8	1924-03-06	\N	1		0	f		\N
 10864	30	1	Millington Borough Proposed 1924 Creation	1924	1924	2		\N	\N		0	f		\N
-10865	60	5	Montclair Town Proposed 1924 Municipal Manager Form	1924	1924	2		\N	\N		0	f		\N
+10865	56	5	Montclair Town Proposed 1924 Municipal Manager Form	1924	1924	2		\N	\N		0	f		\N
 10866	30	1	Mountain Lakes Borough 1924 Creation	1924	1924	8	1924-04-29	\N	29		0	f		\N
 10867	30	1	Newfield Borough 1924 Creation	1924	1924	8	1924-04-01	\N	242		0	t		\N
 10868	7	1	North Wildwood City 1924 Charter Revival	1924	1924	8	1924-03-08	\N	1		0	f		\N
@@ -10731,7 +10731,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10874	7	1	Westville Borough 1924 Charter Revival	1924	1924	8	1924-03-08	\N	1		0	f		\N
 10875	2	5	Carteret Borough 1924 Ordinance	1924	1924	8	1924-02-18	\N	69		0	t		\N
 10876	7	1	Bradley Beach Borough 1925 Charter Revival	1925	1925	8	1925-03-13	\N	1		0	f		\N
-10877	60	5	Cape May City 1925 Municipal Manager Form	1924	1925	8	1925-02-24	\N	101		0	f		\N
+10877	56	5	Cape May City 1925 Municipal Manager Form	1924	1925	8	1925-02-24	\N	101		0	f		\N
 10878	2	1	Centre Township-Gloucester City City 1925 Annexation	1925	1925	8	1925-03-18	\N	1		0	t		\N
 10879	2	1	Centre Township-Haddon Heights Borough 1925 Annexation	1925	1925	8	1925-04-21	\N	29		0	t		\N
 10880	30	1	Clementon Borough 1925 Creation	1925	1925	8	1925-03-17	\N	29		0	f		\N
@@ -10739,7 +10739,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10882	31	1	Estell Manor City 1925 Creation	1925	1925	8	1925-03-14	\N	1		0	f		\N
 10883	2	7	Franklin Township-Ridgewood Township (Ridgewood Village) 1925 Annexation	1925	1925	8		\N	\N		0	f		\N
 10884	2	5	Montclair Town 1925 Ordinance	1925	1925	8	1925-11-18	\N	114		0	t		\N
-10885	60	5	Keansburg Borough 1925 Municipal Manager Form	1925	1925	8	1925-11-22	\N	101		0	f		\N
+10885	56	5	Keansburg Borough 1925 Municipal Manager Form	1925	1925	8	1925-11-22	\N	101		0	f		\N
 10886	7	1	Lincoln Park Borough 1925 Charter Revival	1925	1925	8	1925-02-26	\N	1		0	f		\N
 10887	31	3	Linden City 1925 Creation	1923	1925	8	1925-01-01	\N	106		0	t		\N
 10888	2	5	South Orange Village 1925 Ordinance	1925	1925	8	1925-08-17	\N	\N		0	t		\N
@@ -10747,7 +10747,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10890	7	1	Milford Borough 1925 Charter Revival	1925	1925	8	1925-03-13	\N	1		0	f		\N
 10891	30	1	Mount Ephraim Borough Proposed 1925 Creation	1925	1925	2		\N	\N		0	f		\N
 10892	55	5	Neptune City Borough Proposed 1925 Commission Form	1925	1925	2		\N	\N		0	f		\N
-10893	60	5	Ocean City City Proposed 1925 Municipal Manager Form	1925	1925	2		\N	\N		0	f		\N
+10893	56	5	Ocean City City Proposed 1925 Municipal Manager Form	1925	1925	2		\N	\N		0	f		\N
 10894	30	1	Pine Beach Borough 1925 Creation	1925	1925	8	1925-03-25	\N	242		0	t		\N
 10895	7	1	Pleasantville City 1925 Charter Revival	1925	1925	8	1925-03-14	\N	1		0	f		\N
 10896	2	1	Ramsey Borough-Waldwick Borough to Saddle River Borough 1925 Annexation	1925	1925	8	1925-03-14	\N	1		0	f		\N
@@ -10846,12 +10846,12 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10989	2	5	Woodbury City 1929 Ordinance	1929	1929	8	1929-09-19	\N	114		0	t		\N
 10990	30	1	Chester Borough 1930 Creation	1930	1930	8	1930-04-25	\N	29		0	f		\N
 10991	2	1	Matawan Township-Matwan Borough Proposed 1930 Annexation	1930	1930	2		\N	\N		0	f		\N
-10992	60	5	Metuchen Borough Proposed 1930 Municipal Manager Form	1930	1930	2		\N	\N		0	f		\N
+10992	56	5	Metuchen Borough Proposed 1930 Municipal Manager Form	1930	1930	2		\N	\N		0	f		\N
 10993	49	5	North Arlington Borough 1930 General Law	1930	1930	8		\N	\N		0	f		\N
 10994	30	1	Pompton Plains Borough Proposed 1930 Creation	1930	1930	2		\N	\N		0	f		\N
 10995	34	5	River Edge Borough 1930 Creation	1930	1930	8	1930-11-04	\N	29		0	t		\N
 10996	2	1	Rockaway Township-Rockaway Borough 1930 Annexation	1930	1930	8	1930-03-28	\N	1		0	f		\N
-10997	60	5	Teaneck Township 1930 Municipal Manager Form	1930	1930	8	1930-11-11	\N	101		0	f		\N
+10997	56	5	Teaneck Township 1930 Municipal Manager Form	1930	1930	8	1930-11-11	\N	101		0	f		\N
 10998	55	5	Union City City 1930 Commission Form	1930	1930	8	1930-06-03	\N	102		0	f		\N
 10999	2	1	Bethlehem Township-Hampton Borough 1931 Annexation	1931	1931	8	1931-06-04	\N	105		0	t		\N
 11000	34	5	Brick Township 1931 Name Shortening	1931	1931	8	1931-04-04	\N	120		0	f		\N
@@ -10869,7 +10869,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11012	34	5	Mendham Township 1931 Name Shortening	1931	1931	8	1931-09-01	\N	120		0	f		\N
 11013	55	5	North Bergen Township 1931 Commission Form	1931	1931	8	1931-05-19	\N	102		0	f		\N
 11014	34	7	Mount Holly Township 1931 Creation	1931	1931	8	1931-11-03	\N	29		0	f		\N
-11015	60	5	Nutley Town Proposed 1931 Municipal Manager Form	1931	1931	2		\N	\N		0	f		\N
+11015	56	5	Nutley Town Proposed 1931 Municipal Manager Form	1931	1931	2		\N	\N		0	f		\N
 11016	55	5	Pleasantville City Proposed 1931 Commission Form	1931	1931	2		\N	\N		0	f		\N
 11017	34	5	Princeton Township 1931 Name Shortening	1931	1931	8	1931-12-12	\N	120		0	f		\N
 11018	55	5	Summit City Proposed 1931 Commission Form	1931	1931	2		\N	\N		0	f		\N
@@ -10880,24 +10880,24 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11023	2	1	West Deptford Township-East Greenwich Township 1931 Annexation	1931	1931	8	1931-03-27	\N	1		0	t		\N
 11024	55	5	West New York Town 1931 Commission Form	1931	1931	8	1931-05-19	\N	102		0	f		\N
 11025	2	1	Wyckoff Township-Midland Park Borough 1931 Annexation	1931	1931	8	1931-06-09	\N	29		0	f		\N
-11026	60	5	Dumont Borough Proposed 1932 Municipal Manager Form	1932	1932	2		\N	\N		0	f		\N
+11026	56	5	Dumont Borough Proposed 1932 Municipal Manager Form	1932	1932	2		\N	\N		0	f		\N
 11027	34	5	Green Brook Township 1932 Creation	1932	1932	8	1932-11-08	\N	29		0	f		\N
 11028	2	5	Elizabeth City 1932 Ordinance	1932	1932	8	1932-08-15	\N	67		0	t		\N
 11029	34	5	Saddle River Township 1932 Name Shortening	1932	1932	8	1932-09-29	\N	120		0	f		\N
-11030	60	5	Asbury Park City 1933 Municipal Manager Form	1933	1933	8	1933-12-05	\N	101		0	f		\N
-11031	60	5	Cliffside Park Borough Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
+11030	56	5	Asbury Park City 1933 Municipal Manager Form	1933	1933	8	1933-12-05	\N	101		0	f		\N
+11031	56	5	Cliffside Park Borough Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
 11032	34	1	Fair Lawn Borough 1933 Creation	1933	1933	8	1933-06-27	\N	1		0	f		\N
-11033	60	5	Fort Lee Borough Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
-11034	60	5	Garfield City Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
-11035	60	5	Hackensack City 1933 Municipal Manager Form	1933	1933	8	1933-07-18	\N	101		0	t		\N
+11033	56	5	Fort Lee Borough Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
+11034	56	5	Garfield City Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
+11035	56	5	Hackensack City 1933 Municipal Manager Form	1933	1933	8	1933-07-18	\N	101		0	t		\N
 11036	30	1	Island Beach Borough 1933 Creation	1933	1933	8	1933-08-18	\N	29		0	f		\N
 11037	55	5	Little Egg Harbor Township Proposed 1933 Commission Form	1933	1933	2		\N	\N		0	f		\N
 11038	2	1	Matawan Township-Matawan Borough 1933 Annexation	1933	1933	8	1933-05-23	\N	29		0	f		\N
 11039	2	1	Northfield City-Egg Harbor Township 1933 Annexation	1933	1933	8	1933-05-10	\N	1		0	f		\N
-11040	60	5	Westwood Borough Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
+11040	56	5	Westwood Borough Proposed 1933 Municipal Manager Form	1933	1933	2		\N	\N		0	f		\N
 11041	55	5	Wildwood Crest Borough Proposed 1933 Commission Form	1933	1933	2		\N	\N		0	f		\N
 11042	49	5	Belmar Borough Proposed 1934 General Law	1934	1934	2		\N	\N		0	f		\N
-11043	60	5	Clifton City 1934 Municipal Manager Form	1934	1934	8	1934-06-26	\N	101		0	f		\N
+11043	56	5	Clifton City 1934 Municipal Manager Form	1934	1934	8	1934-06-26	\N	101		0	f		\N
 11044	4	3	Elizabeth City-Linden City 1934 Boundary Realignment	1934	1934	8	1934-06-12	\N	\N		0	t		\N
 11045	34	5	Glen Rock Borough 1934 Name Shortening	1934	1934	8	1934-04-26	\N	120		0	f		\N
 11046	55	5	Island Beach Borough 1934 Commission Form	1934	1934	8	1934-06-05	\N	102		0	f		\N
@@ -10905,14 +10905,14 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11048	4	1	Lawrence Township-Princeton Township 1934 Boundary Ascertainment	1933	1934	8	1934-04-12	\N	1		0	f		\N
 11049	2	1	Millville City-Deerfield Township 1934 Annexation	1934	1934	8	1934-06-11	\N	1		0	t		\N
 11050	2	1	Millville City-Landis Township 1934 Annexation	1934	1934	8	1934-06-11	\N	1		0	t		\N
-11051	60	5	Morristown Town Proposed 1934 Municipal Manager Form	1934	1934	2		\N	\N		0	f		\N
+11051	56	5	Morristown Town Proposed 1934 Municipal Manager Form	1934	1934	2		\N	\N		0	f		\N
 11052	34	5	Plainfield City 1934 Name Shortening	1934	1934	8	1934-09-13	\N	120		0	f		\N
 11053	55	5	Keyport Borough Proposed 1935 Commission Form	1935	1935	2		\N	\N		0	f		\N
 11054	34	5	South Hackensack Township 1935 Creation	1935	1935	8	1935-11-05	\N	242		0	t		\N
 11055	2	5	South Orange Village 1935 Ordinance	1935	1935	8	1935-12-16	\N	76		0	t		\N
 11056	55	5	Mount Ephraim Borough 1935 Commission Form	1935	1935	8	1935-06-25	\N	102		0	f		\N
 11057	4	1	Stillwater Township-Walpack Township 1935 Boundary Realignment	1935	1935	8	1935-03-25	\N	1		0	f		\N
-11058	60	5	Trenton City 1935 Municipal Manager Form	1935	1935	8	1935-05-14	\N	101		0	f		\N
+11058	56	5	Trenton City 1935 Municipal Manager Form	1935	1935	8	1935-05-14	\N	101		0	f		\N
 11059	87	5	Camden City Proposed 1936 Special Charter	1936	1936	2		\N	\N		0	f		\N
 11060	4	1	Brick Township-Dover Township 1936 Boundary Ascertainment	1936	1936	8	1936-05-26	\N	1		0	f		\N
 11061	2	5	Greenwich Township 1936 Ordinance	1936	1936	8	1936-03-02	\N	69		0	t		\N
@@ -10921,12 +10921,12 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11064	49	5	Avalon Borough Proposed 1937 General Law	1937	1937	2		\N	\N		0	f		\N
 11065	55	5	Cape May City 1937 Commission Form	1937	1937	8		\N	\N		0	f		\N
 11066	30	1	Jersey Homesteads Borough 1937 Creation	1937	1937	8	1937-05-29	\N	1		0	f		\N
-11067	60	5	Morristown Town Proposed 1937 Municipal Manager Form	1937	1937	2		\N	\N		0	f		\N
+11067	56	5	Morristown Town Proposed 1937 Municipal Manager Form	1937	1937	2		\N	\N		0	f		\N
 11068	55	5	Pleasantville City Proposed 1937 Commission Form	1937	1937	2		\N	\N		0	f		\N
 11069	34	5	Bendix Borough 1937 Creation	1937	1937	8	1937-04-14	\N	29		0	t		\N
 11070	55	5	Wildwood Crest Borough 1937 Commission Form	1937	1937	8	1937-10-26	\N	102		0	f		\N
 11071	4	1	Atlantic County-Camden County-Gloucester County 1938 Boundary Realignment	1938	1938	8	1938-05-14	\N	1		0	f		\N
-11072	60	5	Bendix Borough 1938 Municipal Manager Form	1938	1938	8	1938-08-16	\N	101		0	f		\N
+11072	56	5	Bendix Borough 1938 Municipal Manager Form	1938	1938	8	1938-08-16	\N	101		0	f		\N
 11073	2	5	Far Hills Borough 1938 Ordinance	1938	1938	8	1938-06-06	\N	69		0	f		\N
 11074	34	5	Chatham Township 1938 Name Shortening	1938	1938	8	1938-04-05	\N	120		0	f		\N
 11075	34	5	Englewood Cliffs Borough 1938 Name Shortening	1938	1938	8	1938-08-15	\N	120		0	f		\N
@@ -10946,17 +10946,17 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11089	55	5	Spotswood Borough 1939 Commission Form	1939	1939	8	1939-10-24	\N	102		0	f		\N
 11090	55	5	Trenton City 1939 Commission Form	1939	1939	8	1939-05-23	\N	102		0	f		\N
 11091	2	1	Wall Township-Sea Girt Borough 1939 Annexation	1939	1939	8	1939-07-11	\N	1		0	f		\N
-11092	60	5	Atlantic City City Proposed 1940 Municipal Manager Form	1940	1940	2		\N	\N		0	f		\N
-11093	60	5	Bayonne City Proposed 1940 Municipal Manager Form	1940	1940	2		\N	\N		0	f		\N
+11092	56	5	Atlantic City City Proposed 1940 Municipal Manager Form	1940	1940	2		\N	\N		0	f		\N
+11093	56	5	Bayonne City Proposed 1940 Municipal Manager Form	1940	1940	2		\N	\N		0	f		\N
 11094	4	3	Bogota Borough-Ridgefield Park Township (Ridgefield Park Village) 1940 Boundary Ascertainment	1939	1940	7		\N	\N		0	f		\N
 11095	34	5	Cranford Township 1940 Name Shortening	1940	1940	8	1940-03-21	\N	120		0	f		\N
-11096	60	5	Newark City Proposed 1940 Municipal Manager Form	1940	1940	2		\N	\N		0	f		\N
+11096	56	5	Newark City Proposed 1940 Municipal Manager Form	1940	1940	2		\N	\N		0	f		\N
 11097	2	5	Maywood Borough 1940 Ordinance	1940	1940	8	1940-08-06	\N	69		0	t		\N
 11098	2	5	Avalon Borough-Stone Harbor Borough Proposed 1941 Annexation	1941	1941	7		\N	\N		0	f		\N
 11099	55	5	Clark Township 1941 Commission Form	1941	1941	8	1941-07-01	\N	102		0	f		\N
 11100	9	1	Clementon Township-Laurel Springs Borough 1941 Merger	1941	1941	8	1941-05-16	\N	1		0	t		\N
 11101	4	1	Haddonfield Borough-Haddon Township 1941 Boundary Realignment	1941	1941	8	1941-08-04	\N	1		0	t		\N
-11102	60	5	Margate City City Proposed 1941 Municipal Manager Form	1941	1941	2		\N	\N		0	f		\N
+11102	56	5	Margate City City Proposed 1941 Municipal Manager Form	1941	1941	2		\N	\N		0	f		\N
 11103	55	5	Medford Lakes Borough 1941 Commission Form	1941	1941	8	1941-09-23	\N	102		0	f		\N
 11104	2	1	Voorhees Township-Somerdale Borough 1941 Annexation	1941	1941	8	1941-05-16	\N	1		0	t		\N
 11105	2	5	Haddonfield Borough 1941 Ordinance	1941	1941	8	1941-07-31	\N	114		0	t		\N
@@ -10980,10 +10980,10 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11123	9	1	North Cape May Borough-South Cape May Borough-Lower Township 1945 Annexation	1945	1945	8	1945-04-30	\N	1		0	f		\N
 11124	55	5	Beach Haven Borough 1946 Commission Form	1946	1946	8	1946-12-17	\N	102		0	f		\N
 11125	2	5	Seaside Heights Borough Ordinance 285	1946	1949	8	1946-09-06	\N	114		0	t		\N
-11126	60	5	Medford Lakes Borough 1946 Municipal Manager Form	1946	1946	8	1946-07-02	\N	101		0	f		\N
+11126	56	5	Medford Lakes Borough 1946 Municipal Manager Form	1946	1946	8	1946-07-02	\N	101		0	f		\N
 11127	2	5	Allentown Borough 1946 Ordinance	1946	1946	8	1946-03-11	\N	69		0	t		\N
 11128	30	1	Audubon Park Borough 1947 Creation	1947	1947	8	1947-10-28	\N	29		0	t		\N
-11129	60	5	Garfield City Proposed 1947 Municipal Manager Form	1947	1947	2		\N	\N		0	f		\N
+11129	56	5	Garfield City Proposed 1947 Municipal Manager Form	1947	1947	2		\N	\N		0	f		\N
 11130	4	1	Haddonfield Borough-Haddon Heights Borough 1947 Boundary Realignment	1947	1947	8	1947-06-24	\N	1		0	t		\N
 11131	2	5	Keansburg Borough Ordinance 300	1947	1947	8	1947-~12-~31	\N	236		0	t		\N
 11132	4	1	Seaside Park Borough 1947 Boundary Realignment	1947	1947	8	1947-07-03	\N	1		0	t		\N
@@ -10994,17 +10994,17 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11137	55	5	Asbury Park City Proposed 1948 Commission Form	1948	1948	2		\N	\N		0	f		\N
 11138	34	5	Barnegat Light Borough 1948 Creation	1948	1948	8	1948-11-02	\N	29		0	f		\N
 11139	30	1	Buena Borough 1948 Creation	1948	1948	8	1948-11-02	\N	242		0	t		\N
-11140	60	5	Fair Lawn Borough 1948 Municipal Manager Form	1948	1948	8	1948-04-20	\N	101		0	f		\N
-11141	60	5	North Bergen Township Proposed 1948 Municipal Manager Form	1948	1948	2		\N	\N		0	f		\N
+11140	56	5	Fair Lawn Borough 1948 Municipal Manager Form	1948	1948	8	1948-04-20	\N	101		0	f		\N
+11141	56	5	North Bergen Township Proposed 1948 Municipal Manager Form	1948	1948	2		\N	\N		0	f		\N
 11142	55	5	Northvale Borough Proposed 1948 Commission Form	1948	1948	2		\N	\N		0	f		\N
 11143	30	1	Raritan Borough 1948 Creation	1948	1948	8	1948-06-12	\N	29		0	f		\N
 11144	55	5	Surf City Borough Proposed 1948 Commission Form	1948	1948	2		\N	\N		0	f		\N
-11145	60	5	Bayonne City 1949 Municipal Manager Form	1949	1949	8	1949-09-13	\N	101		0	f		\N
+11145	56	5	Bayonne City 1949 Municipal Manager Form	1949	1949	8	1949-09-13	\N	101		0	f		\N
 11146	7	1	Buena Borough 1949 Charter Revival	1949	1949	8	1949-05-18	\N	1		0	f		\N
 11147	4	1	Cinnaminson Township-Riverton Borough 1949 Boundary Realignment	1949	1949	8	1949-05-24	\N	1		0	f		\N
 11148	34	5	Dover Town 1949 Name Shortening	1949	1949	8	1949-03-25	\N	120		0	f		\N
 11149	9	5	Franklin Township 1949 Ordinance	1949	1949	8	1949-12-31	\N	76		0	f		\N
-11150	60	5	Passaic City Proposed 1949 Municipal Manager Form	1949	1949	2		\N	\N		0	f		\N
+11150	56	5	Passaic City Proposed 1949 Municipal Manager Form	1949	1949	2		\N	\N		0	f		\N
 11151	34	5	Bergenfield Borough 1950 Name Shortening	1950	1950	8	1950-12-13	\N	120		0	f		\N
 11152	4	1	Monroe Township-Winslow Township 1950 Boundary Realignment	1950	1950	8	1950-06-26	\N	1		0	f		\N
 11153	30	1	New Shrewsbury Borough 1950 Creation	1950	1950	8	1950-08-15	\N	242		0	f		\N
@@ -11027,7 +11027,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11170	58	7	Vineland City 1952 Mayor-Council Form (OMCL)	1952	1952	8	1952-07-01	\N	\N		0	f		\N
 11171	2	5	Ocean Gate Borough Ordinance 89	1953	1953	8	1953-03-05	\N	114		0	t		\N
 11172	2	5	Somerville Borough Ordinance 458	1953	1953	8	1953-07-15	\N	76		0	t		\N
-11173	60	5	East Paterson Borough Proposed 1953 Municipal Manager Form	1953	1953	2		\N	\N		0	f		\N
+11173	56	5	East Paterson Borough Proposed 1953 Municipal Manager Form	1953	1953	2		\N	\N		0	f		\N
 11174	4	1	Haddon Township-Collingswood Borough 1953 Boundary Realignment	1953	1953	8	1953-05-07	\N	1		0	t		\N
 11175	4	1	Hillsborough Township-Montgomery Township 1953 Boundary Realignment	1953	1953	8	1953-07-29	\N	1		0	f		\N
 11176	58	8	Hoboken City 1953 Mayor-Council Form (OMCL)	1953	1953	8	1953-07-01	\N	\N		0	f		\N
@@ -11048,7 +11048,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11192	2	5	Linden City 1955 Ordinance	1955	1955	8	1955-05-18	\N	67		0	t		\N
 11193	4	1	Essex Fells Borough-Roseland Borough 1955 Boundary Realignment	1955	1955	8	1955-06-17	\N	1		0	t		\N
 11194	56	8	Ewing Township Proposed 1955 Council-Manager Form (OMCL)	1955	1955	2		\N	\N		0	f		\N
-11195	60	5	Lodi Borough 1955 Municipal Manager Form	1955	1955	8	1955-11-22	\N	101		0	f		\N
+11195	56	5	Lodi Borough 1955 Municipal Manager Form	1955	1955	8	1955-11-22	\N	101		0	f		\N
 11196	4	5	Park Ridge Borough-Woodcliff Lake Borough 1956 Boundary Realignment	1955	1956	8	1956-01-01	\N	76		0	t		\N
 11197	58	8	Rahway City 1955 Mayor-Council Form (OMCL)	1952	1955	8	1955-01-01	\N	\N		0	f		\N
 11198	34	5	Saddle Brook Township 1955 Creation	1955	1955	8	1955-11-08	\N	29		0	f		\N
@@ -11088,7 +11088,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11232	2	5	Washington Township-Hillsdale Borough 1959 Annexation	1959	1959	8	1959-04-01	\N	\N		0	f		\N
 11233	34	5	Levittown Township 1959 Creation	1959	1959	8	1959-11-03	\N	29		0	f		\N
 11234	2	5	Haddonfield Borough 1960 Ordinance	1960	1960	8	1960-09-27	\N	69		0	t		\N
-11235	60	5	Cape May City 1960 Municipal Manager Form	1960	1960	8	1960-10-04	\N	101		0	f		\N
+11235	56	5	Cape May City 1960 Municipal Manager Form	1960	1960	8	1960-10-04	\N	101		0	f		\N
 11236	64	8	Chester Township 1960 Small Municipality Form (OMCL)	1957	1960	8	1960-01-01	\N	\N		0	f		\N
 11237	4	1	Englewood City-Englewood Cliffs Borough 1960 Boundary Realignment	1960	1960	8	1960-12-01	\N	1		0	f		\N
 11238	4	5	Hillsdale Borough-Woodcliff Lake Borough 1960 Boundary Realignment	1960	1960	8	1960-10-13	\N	76		0	f		\N
@@ -11118,7 +11118,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11263	56	5	Levittown Township 1962 Council-Manager Form (OMCL)	1960	1962	8	1962-01-01	\N	\N		0	f		\N
 11264	58	8	Trenton City 1962 Mayor-Council Form (OMCL)	1960	1962	8	1962-07-01	\N	\N		0	f		\N
 11265	2	5	Ocean Township 1962 Ordinance	1962	1962	8	1962-11-08	\N	69		0	f		\N
-11266	60	5	Ventnor City City Proposed 1962 Municipal Manager Form	1962	1962	2		\N	\N		0	f		\N
+11266	56	5	Ventnor City City Proposed 1962 Municipal Manager Form	1962	1962	2		\N	\N		0	f		\N
 11267	58	5	Wayne Township 1962 Mayor-Council Form (OMCL)	1962	1962	8	1962-01-01	\N	\N		0	f		\N
 11268	58	8	West Milford Township Proposed 1962 Mayor-Council Form (OMCL)	1962	1962	2		\N	\N		0	f		\N
 11269	58	5	West Orange Town 1962 Mayor-Council Form (OMCL)	1962	1962	8	1962-07-01	\N	\N		0	f		\N
@@ -11215,8 +11215,8 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11361	56	8	Deptford Township 1972 Council-Manager Form (OMCL)	1972	1972	8	1972-01-01	\N	\N		0	f		\N
 11362	34	5	Elmwood Park Borough 1972 Creation	1972	1972	8	1972-11-07	\N	29		0	f		\N
 11363	58	8	Florence Township 1972 Mayor-Council Form (OMCL)	1972	1972	8	1972-01-01	\N	\N		0	f		\N
-11364	60	5	Garfield City 1972 Municipal Manager Form	1972	1972	8	1972-11-21	\N	101		0	f		\N
-11365	60	5	Garfield City Proposed 1972 Municipal Manager Form	1972	1972	2		\N	\N		0	f		\N
+11364	56	5	Garfield City 1972 Municipal Manager Form	1972	1972	8	1972-11-21	\N	101		0	f		\N
+11365	56	5	Garfield City Proposed 1972 Municipal Manager Form	1972	1972	2		\N	\N		0	f		\N
 11366	2	5	Cherry Hill Township Ordinance 72-16	1972	1972	8		\N	\N		0	t		\N
 11367	4	1	Livingston Township-Roseland Borough 1972 Boundary Realignment	1972	1972	8	1972-09-07	\N	1		0	f		\N
 11368	2	5	Matawan Township Ordinance 1-1972	1972	1972	8	1972-04-20	\N	114		0	t		\N
@@ -11301,7 +11301,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11447	36	5	Caldwell Borough Township 1981 Creation	1981	1981	8	1981-09-15	\N	29		0	t		\N
 11448	58	5	Cherry Hill Township 1981 Mayor-Council Form (OMCL)	1981	1981	8	1981-07-01	\N	\N		0	f		\N
 11449	36	5	Essex Fells Township 1981 Creation	1981	1981	8	1981-08-11	\N	29		0	f		\N
-11450	60	5	Fair Lawn Borough 1981 Municipal Manager Form	1981	1981	8	1981-07-01	\N	\N		0	f		\N
+11450	56	5	Fair Lawn Borough 1981 Municipal Manager Form	1981	1981	8	1981-07-01	\N	\N		0	f		\N
 11451	2	5	Newton Town Ordinance 14-81	1981	1981	8	1981-07-13	\N	69		0	t		\N
 11452	36	5	Glen Ridge Borough Township 1981 Creation	1981	1981	8	1981-11-03	\N	29		0	t		\N
 11453	2	5	Hamburg Borough 1981 Ordinance	1981	1981	8	1981-10-05	\N	69		0	f		\N
@@ -11468,7 +11468,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11617	55	5	Haddonfield Borough 1913 Commission Form	1913	1913	8		\N	\N		0	f		\N
 11618	55	5	Hawthorne Borough 1911 Commission Form	1911	1911	8		\N	\N		0	f		\N
 11619	4	1	Hillsdale Borough-Washington Township 1974 Boundary Realignment	1974	1974	8	1974-11-05	\N	29		0	f		\N
-11620	60	5	Hillside Township Proposed 1934 Municipal Manager Form	1934	1934	2		\N	\N		0	f		\N
+11620	56	5	Hillside Township Proposed 1934 Municipal Manager Form	1934	1934	2		\N	\N		0	f		\N
 11621	55	5	Hoboken City Proposed 1911 Commission Form	1911	1911	2		\N	\N		0	f		\N
 11622	55	5	Hoboken City Proposed 1913 Commission Form	1913	1913	2		\N	\N		0	f		\N
 11623	55	5	Irvington Town 1914 Commission Form	1914	1914	8		\N	\N		0	f		\N
@@ -11483,7 +11483,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11632	55	5	Margate City City 1911 Commission Form	1911	1911	8		\N	\N		0	f		\N
 11633	55	5	Metuchen Borough Proposed 1911 Commission Form	1911	1911	2		\N	\N		0	f		\N
 11634	55	5	Millville City 1913 Commission Form	1913	1913	8		\N	\N		0	f		\N
-11635	60	5	Montclair Town Proposed 1934 Municipal Manager Form	1934	1934	2		\N	\N		0	f		\N
+11635	56	5	Montclair Town Proposed 1934 Municipal Manager Form	1934	1934	2		\N	\N		0	f		\N
 11636	55	5	New Brunswick City Proposed 1911 Commission Form	1911	1911	2		\N	\N		0	f		\N
 11637	55	5	New Brunswick City Proposed 1913 Commission Form	1913	1913	2		\N	\N		0	f		\N
 11638	55	5	Nutley Town 1912 Commission Form	1912	1912	8		\N	\N		0	f		\N
@@ -11496,7 +11496,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11645	55	5	Perth Amboy City Proposed 1917 Commission Form	1917	1917	2		\N	\N		0	f		\N
 11646	55	5	Perth Amboy City Proposed 1920 Commission Form	1920	1920	2		\N	\N		0	f		\N
 11647	55	5	Phillipsburg Town 1913 Commission Form	1913	1913	8		\N	\N		0	f		\N
-11648	60	5	Plainfield City Proposed 1923 Municipal Manager Form	1923	1923	2		\N	\N		0	f		\N
+11648	56	5	Plainfield City Proposed 1923 Municipal Manager Form	1923	1923	2		\N	\N		0	f		\N
 11649	5	8	Plainfield City 2018 Special Charter Amendment	2012	2018	8		\N	\N		0	f		\N
 11650	4	1	Plainfield Township-Plainfield City-North Plainfield Township 1876 Boundary Realignment	1876	1876	8		\N	\N		0	f		\N
 11651	55	5	Point Pleasant Beach Borough Proposed 1926 Commission Form	1926	1926	2		\N	\N		0	f		\N
@@ -12448,7 +12448,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 15706	2	3	Penn Township-Shrewsbury Township Proposed 1847 Annexation	1847	1849	7		\N	\N		0	f		\N
 15707	2	3	Hepburn Township to Lewis Township-Cascade Township 1849 Annexation	1848	1849	8	1849-05-07	\N	34		0	f		\N
 15708	2	3	Cascade Township-Lewis Township 1846 Annexation	1846	1846	8	1846-12-10	\N	34		0	f		\N
-15709	4	3	Penn Township-Wolf Township 1847 Boundary Realignment	1847	1847	8	1847-09-01	\N	34		0	f		\N
+15709	2	3	Penn Township-Wolf Township 1847 Annexation	1847	1847	8	1847-09-01	\N	34		0	t		\N
 15710	9	3	Fox Township-McIntyre Township 1848 Merger	1847	1848	8	1848-05-12	\N	34		0	f		\N
 15711	9	3	Davidson Township to Franklin Township-Penn Township 1848 Merger	1847	1848	8	1848-09-16	\N	34		0	f		\N
 15712	4	3	Armstrong Township-Clinton Township-Limestone Township-Susquehanna Township-Washington Township 1846 Boundary Ascertainment	1846	1846	8	1846-12-01	\N	34		0	f		\N
@@ -15275,7 +15275,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 55013	2	3	Georges Township-Nicholson Township 1847 Annexation	1847	1847	8	1847-06-12	\N	37		0	f		\N
 55014	36	3	Saltlick Township Proposed 1839 Division	1839	1839	2		\N	\N		0	f		\N
 55015	4	6	Plainfield City-Watchung Borough 1957 Boundary Realignment	1957	1957	8	1957-02-20	\N	204		0	f		\N
-55016	60	7	Park Ridge Borough Proposed 1957 Municipal Manager Form	1957	1957	2		\N	\N		0	f		\N
+55016	56	7	Park Ridge Borough Proposed 1957 Municipal Manager Form	1957	1957	2		\N	\N		0	f		\N
 55017	4	6	Mansfield Township-Springfield Township 1768 Boundary Realignment	1768	1768	8	1768-09-01	\N	160		0	f		\N
 55018	4	7	Voorhees Township-Waterford Township 1899 Boundary Ascertainment	1899	1899	8	1899-11-17	\N	160		0	f		\N
 55019	4	3	Burlington Township-Willingboro Township 1858 Boundary Ascertainment	1852	1858	8		\N	\N		0	f		\N
@@ -15891,3 +15891,4 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 59405	117	7	Government Name: Hardwicke, Township of (alternate) (NJ)	0	0	17		\N	\N		0	f		135794
 59406	117	7	Government Name: Newarke, Township of (alternate) (NJ)	0	0	17		\N	\N		0	f		135795
 59407	117	7	Government Name: Vailsburg, Borough of (alternate) (NJ)	0	0	17		\N	\N		0	f		135796
+88356	2	5	Muncy Creek Township-Muncy Borough 2025 Annexation	2024	2025	16		\N	\N		0	f		\N

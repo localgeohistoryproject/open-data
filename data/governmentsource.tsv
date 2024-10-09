@@ -1852,8 +1852,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 1853	3675	Ordinance		20		[To annex a certain part of territory in Darby Township to the Borough of Collingdale]			1894-03-09				t			\N						
 1854	3675	Ordinance		271					1948-08-30				t			\N						
 1855	3675	Ordinance		285					1951-10-01				t			\N						
-1856	3676	Minute				[Containing copy of Ordinance 17]	187	187	1904-04-05				t			\N						
-1857	3676	Ordinance		17		Relating to the extension of the borough line of the Borough of Columbia, Lancaster County, Penna.			1904-04-05		1904-04-05		t			\N						
+1857	3676	Ordinance		17		Relating to the extension of the borough line of the Borough of Columbia, Lancaster County, Penna.	187	187	1904-04-05		1904-04-05		t			\N			Minute Book			
 1858	3676	Ordinance		213		Annexing to the Borough of Columbia, Lancaster County, Pennsylvania, a section of West Hempfield Township, Lancaster County, Pennsylvania, adjacent to and east of the said Borough as herein described			1948-03-08		1948-03-10		t			\N						
 1859	3676	Ordinance		224		Annexing to the Borough of Columbia, Lancaster County, Pennsylvania, a section of West Hempfield Township, Lancaster County, Pennsylvania, adjacent to and east of the said borough as herein described	229	229	1949-06-13		1949-06-15		t			\N						
 1860	3676	Ordinance		242		Annexing to the Borough of Columbia, in the County of Lancaster and State of Pennsylvania, a portion of West Hempfield Township in said county and state, adjacent to and east from the easterly portion of the aforesaid borough	335	335	1951-09-10		1951-09-10		t			\N						
@@ -2503,17 +2502,17 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 2510	4082	Ordinance							1934-07-03		1934-07-03		t			\N						
 2511	4088	Ordinance		1		Providing for the annexation of certain adjacent territory to the Borough of Georgetown.			1903-12-23		1903-12-24		t			\N						
 2512	4088	Resolution				[Application be made by the Burgess and Town Council to the Court praying that the Borough become subject to the restrictions and possess the powers and privileges conferred by the Act of April 3, 1851]			1855-09-10				t			\N						
-2513	4091	Ordinance				annexing certain adjacent land in Cumberland Township, Adams County, Penna., to the Borough of Gettysburg, upon the petition of a majority of the free holders of the territory proposed to be annexed			1934-07-02		1934-07-02		t			\N						
-2514	4091	Ordinance				Annexing certain adjacent land in Cumberland Township, Adams County, Penna., to the Borough of Gettysburg, upon the petition of all free holders of the territory proposed to be annexed			1931-11-05		1931-11-08		t			\N						
-2515	4091	Ordinance				Annexing certain adjacent land in Cumberland Township, Adams County, Penna., to the Borough of Gettysburg, upon the petition of all the free holders of the territory proposed to be annexed			1925-06-05		1925-06-05		t			\N						
+2513	4091	Ordinance				Annexing certain adjacent land in Cumberland Township, Adams County, Penna., to the Borough of Gettysburg, upon the petition of a majority of the free holders of the territory proposed to be annexed	5	6	1934-07-02		1934-07-02		t			\N						
+2514	4091	Ordinance				Annexing certain adjacent land in Cumberland Township, Adams County, Penna., to the Borough of Gettysburg, upon the petition of all free holders of the territory proposed to be annexed	4	4	1931-11-05		1931-11-08		t			\N						
+2515	4091	Ordinance				Annexing certain adjacent land in Cumberland Township, Adams County, Penna., to the Borough of Gettysburg, upon the petition of all the free holders of the territory proposed to be annexed	3	3	1925-06-05		1925-06-05		t			\N						
 2516	4091	Ordinance				Annexing certain land in Cumberland Township, a township of the second class, to the Borough of Gettysburg, upon petition of a majority in number of all of the freeholders of the territory to be annexed			1953-06-01		1953-06-01		t			\N						
 2517	4091	Ordinance				Annexing certain land in Cumberland Township, Adams County, Pennsylvania, a township of the second class, to the Borough of Gettysburg, upon petition of a majority in number of all of the freeholders of the territory to be annexed			1957-02-04		1957-02-04		t			\N						
 2518	4091	Ordinance				Annexing certain land in Cumberland Township, Adams County, Pennsylvania, a township of the second class, to the Borough of Gettysburg, upon petition of a majority in number of all of the freeholders of the territory to be annexed			1959-09-08		1959-09-08		t			\N						
 2519	4091	Ordinance				Annexing certain land in Cumberland Township, Adams County, Pennsylvania, adjacent to the northern boundary of the Borough of Gettysburg upon petition of a majority of the freeholders of the territory proposed to be annexed			1940-10-07		1940-10-07		t			\N						
 2520	4091	Ordinance				Annexing certain land in Cumberland Township, Adams County, Pennsylvania, adjacent to the northern boundary of the Borough of Gettysburg, upon petition of a majority of the freeholders of the territory proposed to be annexed			1948-08-02		1948-08-02		t			\N						
 2521	4091	Ordinance				Annexing certain land in Cumberland Township, Adams County, Pennsylvania, adjacent to the southern boundary of the Borough of Gettysburg, upon petition of a majority of the freeholders of the territory proposed to be annexed			1946-07-01		1946-07-01		t			\N						
-2522	4091	Ordinance				annexing lots of a section of land lying adjacent to the northern boundary of the Borough of Gettysburg			1909-06-04		1909-06-04		t			\N						
-2523	4091	Ordinance				Annexing lots of a section of land lying adjacent to the western boundary of the Borough of Gettysburg			1912-03-18		1912-07-06		t			\N						
+2522	4091	Ordinance				annexing lots of a section of land lying adjacent to the northern boundary of the Borough of Gettysburg	1	1	1909-06-04		1909-06-04		t			\N						
+2523	4091	Ordinance				Annexing lots of a section of land lying adjacent to the western boundary of the Borough of Gettysburg	2	2	1912-03-18		1912-07-06		t			\N						
 2524	4091	Ordinance		828	1970	Annexing certain land in Cumberland Township, Adams County, Pennsylvania, a township of the second class to the Borough of Gettysburg, Pennsylvania, upon petition of a majority in number of all of the freeholders of the territory to be annexed			1970-04-13		1970-04-13		t			\N						
 2525	4091	Ordinance		831	1970	Annexing certain land in Cumberland Township, Adams County, Pennsylvania, a township of the second class to the Borough of Gettysburg, Pennsylvania, upon petition of a majority in number of all of the freeholders of the territory to be annexed			1970-04-13		1970-04-13		t			\N						
 2526	4097	Minute					407	410	1890-05-12				t			\N						
@@ -8173,3 +8172,7 @@ governmentsourceid	government	governmentsourcetype	governmentsourcebody	governme
 26290	1823	Election							1895-~01-~01				t			\N						
 26327	7675	Ordinance		520					1973-12-03				t	twenty (20) days after publication, after final passage according to law		\N						
 26328	7673	Resolution							1991-12-17				t			\N						
+49194	3788	Minute					212	212	1984-03-05				t			\N						
+49195	4576	Minute							1859-09-23				t			\N						
+49227	4757	Ordinance		549					2024-09-19				t			\N						
+49228	4759	Ordinance							2024-09-16				t			\N						

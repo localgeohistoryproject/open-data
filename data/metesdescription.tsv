@@ -55,7 +55,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 54	shape	act	post on the lands of William and Joseph Feay, standing on the south side of the river Juniata	100007	-78.2039934	40.4653889	-0.45				359	0
 55	shape	act	corner of Penn and Washington streets, on Alexander Laughlin's land	100007	0.0000000	0.0000000	0				363	0
 56	shape	act	post at the east corner of a bridge, over George Barnett's mill race	100007	0.0000000	0.0000000	0				379	0
-57	shape	act	north corner of Franklin and Washington street	100007	-78.9170292	40.3268390	0				382	0
+57	shape	act	north corner of Franklin and Washington street	100007	-78.9163260	40.3269540	0				382	0
 58	line after	report of commissioners (docket, Lebanon Co.)	black oak, on the top of the Blue Mountain	100007	-76.6557741	40.4163061	-3				385	0
 59	line after	act	summit of Black Log mountain, where the Huntingdon county line crosses the same	100007	0.0000000	0.0000000	0				391	0
 60	shape	act	post at the north west corner of Henry Fetter's garden	100007	-77.3083510	40.3423740	-0.7				392	0
@@ -292,7 +292,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 291	shape	petition (recorded)	Corner in the Centre of the intersection of Crystal Street and Chapel Alley	100007	-75.9813320	40.9527210	-4.5				1362	0
 292	whole after	act	stone, the present north-east corner of the borough	100007	-76.4163843	40.3461966	-5	m			1367	0
 293	shape	petition (recorded)	south west corner of Marcus Kelley's lot, on the east side of the Williamson road	100007	-77.0772070	41.8040170	-7				1371	0
-294	shape	decree (recorded)	corner	100007	-75.5612826	40.5155773	-4.55				1374	0
+294	shape	decree (recorded)	corner	100007	-75.5602310	40.5130490	0				1374	0
 295	line	report of commissioners (state)	River Schuylkill passing a marble stone set in the boundary line at the distance of about twenty eight feet from the water's edge being at the Northeastwardly side of the river road	100007	0.0000000	0.0000000	0				1377	0
 296	shape	act	post in land of Francis Strittmatter, about three perches from the south-east corner of Carrolltown	100007	-78.7051485	40.5987848	0.29999999999999993				1396	0
 297	shape	act	post in the Dry Gap road, in land of William Ivory, near the south-east corner of Chest Springs village	100007	-78.6027868	40.5809627	-3.3				1399	0
@@ -4869,7 +4869,7 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 4878	shape	petition (recorded)	corner set in the South side line of the Cape Island Turnpike opposite the dwelling of Charles Rutherford	6527	-74.9611461	38.9423068	-4.5				10140	266.66
 4879	shape	act	middle of the Passaic river where the center line of Prescott avenue extended southerly would intersect the same	6527	-74.1669293	40.9339732	-5.1				11121	0
 4880	shape	act	bridge crossing the Pequanac river on the Paterson and Hamburg Turnpike road, a few rods east of Cook's Hill, so-called, and on the Morris county line, being the point where the line between the townships of Pompton and West Milford intersects the line between the counties of Morris and Passaic	6527	0.0000000	0.0000000	0				10743	0
-4881	shape	act	point in the boundary line between the counties of Bergen and Passaic, said point being where the division line between a tract of 1611.93 acres owned by Heitaro Fujita and that of the land of Julien J. Durand, if projected easterly, would intersect the aforesaid county line	6527	0.0000000	0.0000000	0				10753	0
+4881	shape	act	point in the boundary line between the counties of Bergen and Passaic, said point being where the division line between a tract of 1611.93 acres owned by Heitaro Fujita and that of the land of Julien J. Durand, if projected easterly, would intersect the aforesaid county line	6527	-74.2505620	41.0609350	-3.8				10753	0
 4882	shape	act	"an island in Pompton Lake about three hundred feet north of the Schuyler Bridges," being the end of the fourth course of the incorporation description of the borough of Pompton Lakes	6527	0.0000000	0.0000000	0			Tract 1	10750	0
 4883	shape	act	point south seventy-six degrees fifty minutes west thirteen chains fifty links from a monument, the corner of lands of E. I. du Pont de Nemours and Company's Haskell Plant, The Metallic Cap Manufacturing Company, and the Fuse Works, said point being where the seventh line of the incorporation description of the borough of Pompton Lakes intersects the division line between the aforesaid E. I. du Pont de Nemours and Company's Haskell Plant and the Fuse Works	6527	0.0000000	0.0000000	0			Tract 2	10750	0
 4884	shape	act	point in the boundary line between the counties of Bergen and Passaic, said point being where the division line between a tract of 1611.93 acres owned by Heitaro Fujita, and that of the land of Julien J. Durand, if projected easterly, would intersect the aforesaid county line	6527	0.0000000	0.0000000	0				10751	0
@@ -7015,9 +7015,9 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 7216	shape	decree (docket)	point where the borough line corners with the line of Margaret Hochstine and the line of the Tri-County Park	100007	-78.9276480	40.2932920	-2.95				3979	0
 7217	whole after	act	abutment of the aqueduct, on the Little Conemaugh river	100007	-78.9201810	40.3281490	0				22517	0
 7218	shape	plan		100007	-78.9176917	40.3285075	0				1417	0
-7219	shape	act	feeder down the embankment	100007	-78.9114150	40.3256350	0				869	0
+7219	shape	act	feeder down the embankment	100007	-78.9104600	40.3292420	-5				869	0
 7220	shape	act	[residence of George W. Early]	100007	0.0000000	0.0000000	0				22385	0
-7221	shape	act	stones at the east corner of the borough of Johnstown	100007	0.0000000	0.0000000	0				22386	0
+7221	shape	act	stones at the east corner of the borough of Johnstown	100007	-78.9063420	40.3237530	-120				22386	0
 7222	shape	ordinance	point at corner of property of George & Mary Slavik and an 18 foot right-of-way	100007	-78.7832260	40.6751510	-5.45				8549	1
 7223	line after	decree (docket)	point on the Westerly line of Woodmont Road (formerly known as Slagle Road) at the line dividing lands now or formerly of Shangri-Law Lodge, Inc., and lands now or formerly of Bethlehem Steel Corp.	100007	-78.9798710	40.3114760	-0.4				7826	0
 7224	shape	ordinance (docket)	point on the present Southern boundary of the Borough of Ashville, said point being approximately one hundred eighteen (118) feet of the Southernmost point of said Borough	100007	-78.5441940	40.5565850	-1.5				7772	2.89
@@ -8613,3 +8613,5 @@ metesdescriptionid	metesdescriptiontype	metesdescriptionsource	metesdescriptionb
 8894	line after	petition (docket)	road called Aron Musgrove road, near the copper mines at Strasburg township line, where it divides from Sadsbury	100007	0.0000000	0.0000000	0				14950	0
 8895	shape	ordinance	intersection of the centre line of South Orange Avenue with the present boundary line between the Township of Maplewood and the Village of South Orange	6527	0.0000000	0.0000000	0				10888	0
 8896	shape	ordinance	point in the center line of Irvington Avenue where the same is intersected by the present boundary line between the Village of South Orange and the Township of Maplewood	6527	-74.2520160	40.7383940	0				10978	0
+8897	shape	act	south-west corner of said borough	100007	-78.9058873	40.3282564	0				22512	0
+8898	line after	report of commissioners	Black Oak, corner of the Singer tract	100007	-76.7052555	41.2732669	0				15709	0
