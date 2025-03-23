@@ -85,7 +85,7 @@ lawgroupid	government	lawgrouplong	lawgroupfrom	lawgroupto	eventeffectivetype	la
 118	40	PA: Borough (1927)	1927	1966	61		\N	\N	\N			
 119	40	PA: Borough (1834-1895)	1834	1895	61		\N	\N	\N			
 120	40	PA: Borough (1915)	1915	1927	61		\N	\N	\N			
-122	40	PA: Township, Division, with Commission (1917)	1917	9999	61		\N	\N	\N			
+122	40	PA: Township, Division, with Commission (1917)	1917	1933	61		\N	\N	\N			
 123	40	PA: Township, Division (1857-1917)	1857	1917	61		\N	\N	\N			
 124	40	PA: Township, from Multiple (1857-1917)	1857	1917	61		\N	\N	\N			
 129	40	PA: Boundary, County (1876)	1876	1905	61		\N	\N	\N			
@@ -93,7 +93,7 @@ lawgroupid	government	lawgrouplong	lawgroupfrom	lawgroupto	eventeffectivetype	la
 131	40	PA: Boundary, County (1929)	1929	1955	61		\N	\N	\N			
 133	40	PA: Boundary, County (1955)	1955	2024	61		\N	\N	\N			
 134	40	PA: Annexation Petition, Borough (1834)	1834	1915	61		\N	\N	\N			
-135	40	PA: Township, Division, without Commission (1917)	1917	9999	61		\N	\N	\N			
+135	40	PA: Township, Division, without Commission (1917)	1917	1933	61		\N	\N	\N			
 137	40	PA: Name, Borough (1915)	1915	1919	61		\N	\N	\N			
 138	40	PA: Dissolution (1915)	1915	1927	61		\N	\N	\N			
 139	40	PA: Charter Amendment, Borough Burgess (1871)	1871	1893	61		\N	\N	\N			

@@ -7,6 +7,7 @@ adjudication	adjudicationlong	5	text
 adjudication	adjudicationshort	6	text
 adjudication	adjudicationnotes	7	text
 adjudication	adjudicationstatus	8	text
+adjudication	adjudicationname	9	text
 adjudicationevent	adjudicationeventid	1	integer
 adjudicationevent	adjudication	2	integer
 adjudicationevent	event	3	integer
@@ -50,6 +51,7 @@ adjudicationsourcecitation	adjudicationsourcecitationjudge	10	character varying
 adjudicationsourcecitation	adjudicationsourcecitationdissentjudge	11	character varying
 adjudicationsourcecitation	adjudicationsourcecitationurl	12	text
 adjudicationsourcecitation	adjudication	13	integer
+adjudicationsourcecitation	adjudicationsourcecitationname	14	text
 adjudicationtype	adjudicationtypeid	1	integer
 adjudicationtype	tribunal	2	integer
 adjudicationtype	adjudicationtypeabbreviation	3	character varying
@@ -272,11 +274,14 @@ governmentsource	governmentsourcevolumetype	20	character varying
 governmentsource	sourcecitationvolume	21	character varying
 governmentsource	sourcecitationpagefrom	22	character varying
 governmentsource	sourcecitationpageto	23	character varying
+governmentsource	governmentsourcename	24	text
 governmentsourceevent	governmentsourceeventid	1	integer
 governmentsourceevent	governmentsource	2	integer
 governmentsourceevent	event	3	integer
 governmentsourceevent	governmentsourceeventinclude	4	boolean
 governmentsourceevent	eventrelationship	5	integer
+lastrefresh	lastrefreshversion	1	character varying
+lastrefresh	lastrefreshdate	2	date
 law	lawid	1	integer
 law	source	2	integer
 law	lawvolume	3	character varying
@@ -550,6 +555,7 @@ sourcecitation	sourcecitationarchiveslotfilm	14	character varying
 sourcecitation	sourcecitationarchivecarton	15	character varying
 sourcecitation	sourcecitationstatus	16	character varying
 sourcecitation	sourcecitationissue	17	character varying
+sourcecitation	sourcecitationname	18	text
 sourcecitationevent	sourcecitationeventid	1	integer
 sourcecitationevent	sourcecitation	2	integer
 sourcecitationevent	event	3	integer
@@ -610,5 +616,5 @@ tribunaltype	tribunaltypelong	4	text
 tribunaltype	tribunaltypedivision	5	character varying
 tribunaltype	tribunaltypefilingoffice	6	character varying
 tribunaltype	tribunaltypefilingofficerlevel	7	boolean
-tribunaltype	tribunaldescription	8	text
+tribunaltype	tribunaltypedistrictcircuit	8	text
 tribunaltype	tribunaltypesummary	9	character varying

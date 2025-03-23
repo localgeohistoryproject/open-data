@@ -1,9 +1,9 @@
-tribunaltypeid	tribunaltypelevel	tribunaltypeshort	tribunaltypelong	tribunaltypedivision	tribunaltypefilingoffice	tribunaltypefilingofficerlevel	tribunaldescription	tribunaltypesummary
-1	1	U.S.Dist.	United States District Court		Clerk	f		District
+tribunaltypeid	tribunaltypelevel	tribunaltypeshort	tribunaltypelong	tribunaltypedivision	tribunaltypefilingoffice	tribunaltypefilingofficerlevel	tribunaltypedistrictcircuit	tribunaltypesummary
+1	1	U.S.Dist.	United States District Court		Clerk	f	District	District
 3	1	Sup.	Supreme Court		Clerk	f		Supreme
 4	2	Commw.	Commonwealth Court		Chief Clerk	f		Commonwealth
-5	2	Super.	Superior Court		Prothonotary	f		Superior
-6	2	Sup.	Supreme Court		Prothonotary	f		Supreme
+5	2	Super.	Superior Court		Prothonotary	f	District	Superior
+6	2	Sup.	Supreme Court		Prothonotary	f	District	Supreme
 7	3	Com.Pl.	Court of Common Pleas		Prothonotary	t		Common Pleas
 8	3	Com.Pl.Crim.Div.	Court of Common Pleas	Criminal Division	Clerk of Courts	t		Common Pleas Criminal
 9	3	Com.Pl.Civ.Div.	Court of Common Pleas	Civil Division	Prothonotary	t		Common Pleas Civil
