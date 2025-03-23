@@ -2257,7 +2257,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 2267	9	5	North End District-Allegheny City 1873 Merger	1873	1873	8	1873-03-21	\N	87		0	t		\N
 2268	30	3	Overton Borough Proposed 1873 Creation	1873	1873	2		\N	\N		0	f		\N
 2269	31	1	Parker City 1873 Creation	1873	1873	8	1873-03-01	\N	1		0	t		\N
-2270	30	3	Petrolia Borough 1873 Creation	1872	1873	8	1873-01-30	\N	14		0	f		\N
+2270	30	3	Petrolia Borough 1873 Creation	1872	1873	8	1873-01-30	\N	14		0	t		\N
 2271	36	1	Pine Township 1873 Creation	1873	1873	8	1873-04-10	\N	1		0	t		\N
 2272	30	3	Reynoldsville Borough 1873 Creation	1873	1873	8	1873-09-11	\N	17		0	t		\N
 2273	2	3	Rockland Township-Richland Township Proposed 1873 Annexation	1873	1873	7		\N	\N		0	f		\N
@@ -6175,7 +6175,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 6215	2	5	New Holland Borough Ordinance 112	1948	1948	8	1948-12-02	\N	72		0	t		\N
 6216	4	3	Otter Creek Township-Perry Township 1948 Boundary Ascertainment	1945	1948	8	1948-04-26	\N	34		0	f		\N
 6217	2	5	Patton Borough Ordinance 199	1948	1948	8	1948-07-07	\N	71		0	t		\N
-6218	2	5	Petrolia Borough Ordinance 63	1948	1948	8	1948-04-28	\N	75		0	f		\N
+6218	2	5	Petrolia Borough Ordinance 63	1948	1948	8	1948-04-28	\N	75		0	t		\N
 6219	2	5	Pittsburgh City Ordinance 26	1948	1948	8	1948-04-28	\N	34		0	t		\N
 6220	30	3	Pleasant Hills Borough 1948 Creation	1946	1948	8	1948-01-05	\N	59		0	t		\N
 6221	2	5	Richland Borough Ordinance 136	1948	1948	8	1948-12-01	\N	77		0	t		\N
@@ -6633,7 +6633,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 6677	2	5	West Brownsville Borough Ordinance 148	1953	1954	8	1953-05-28	\N	72		0	t		\N
 6678	4	3	West Caln Township-Sadsbury Township-West Sadsbury Township 1954 Boundary Ascertainment	1954	1954	8	1954-10-18	\N	34		0	f		\N
 6679	2	5	Westmont Borough Ordinance 269	1953	1954	8	1953-08-24	\N	71		0	t		\N
-6680	31	7	Allegheny City Proposed 1955 Creation	1955	1955	2		\N	\N		0	f		\N
+6680	31	7	Allegheny City Proposed 1955 Creation	1955	1955	2		\N	\N		0	t		\N
 6681	2	5	Allentown City Ordinance 7688	1955	1955	8	1955-03-27	\N	64		0	t		\N
 6682	2	5	Allentown City Ordinance 7880 and 7909	1955	1955	8	1955-11-04	\N	64		0	t		\N
 6683	2	5	Blairsville Borough Ordinance 277	1954	1955	8	1955-02-26	\N	34		0	t		\N
@@ -7063,7 +7063,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 7109	2	5	Adamsburg Borough Ordinance 28	1959	1960	8	1960-04-26	\N	41		0	t		\N
 7110	2	5	Adamstown Borough Ordinance 114	1960	1960	8	1960-02-19	\N	34		0	t		\N
 7111	4	3	Allegheny Township-Juniata Township Proposed 1959 Boundary Ascertainment	1959	1960	2		\N	\N		0	f		\N
-7112	31	7	Allegheny City Proposed 1960 Creation	1960	1960	2		\N	\N		0	f		\N
+7112	31	7	Allegheny City Proposed 1960 Creation	1960	1960	2		\N	\N		0	t		\N
 7113	2	5	Allentown City Ordinance 9037	1959	1959	8	1959-12-07	\N	64		0	t		\N
 7114	2	5	Ambridge Borough Ordinance 731	1960	1960	8	1960-06-13	\N	67		0	t		\N
 7115	4	3	Athens Borough-Athens Township 1960 Boundary Realignment	1959	1960	8	1960-02-15	\N	34		0	t		\N
@@ -7992,7 +7992,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 8056	2	5	Elizabethville Borough Ordinance 153	1960	1960	2		\N	\N		0	f		\N
 8057	2	5	Emlenton Borough Ordinance 192	1970	1970	8	1970-07-01	\N	71		0	t		\N
 8058	2	5	Emmaus Borough Ordinance 373	1960	1960	8	1960-07-05	\N	67		0	t		\N
-8059	2	5	Emmaus Borough Ordinance 448	1968	1971	2		\N	\N		0	f		\N
+8059	2	5	Emmaus Borough Ordinance 448	1968	1971	2		\N	\N		0	t		\N
 8060	2	5	Emmaus Borough Ordinance 450	1969	1971	2		\N	\N		0	t		\N
 8061	2	5	Emmaus Borough Ordinance 453	1969	1969	8	1969-02-03	\N	67		0	t		\N
 8062	2	5	Ephrata Borough Ordinance 924	1970	1970	8	1970-05-20	\N	75		0	t		\N
@@ -9297,7 +9297,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 9424	2	5	Oxford Borough Proposed 1855 Annexation	1855	1855	7		\N	\N		0	f		\N
 9425	36	3	Oxford Township 1754 Creation	1754	1754	8	1754-11-26	\N	34		0	t		\N
 9426	36	3	Packerton Township Proposed 1885 Creation	1885	1886	2		\N	\N		0	f		\N
-9427	2	5	Palmer Township Ordinance 87	1967	1969	8	1969-01-13	\N	34		0	f		\N
+9427	2	5	Palmer Township Ordinance 87	1967	1969	8	1969-01-13	\N	34		0	t		\N
 9428	2	5	Palmyra Borough Ordinance 107	1927	1927	8	1927-12-05	\N	67		0	t		\N
 9429	30	3	Parker City Borough Proposed 1869 Creation	1869	1869	2		\N	\N		0	f		\N
 9430	9	3	Patterson Township-Chippewa Township Proposed 1869 Merger	1869	1869	2		\N	\N		0	f		\N
@@ -11731,7 +11731,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 14890	4	1	Carbon County to Monroe County-Northampton County 1855 Boundary Ascertainment	1855	1855	8	1855-10-29	\N	145		0	f		\N
 14891	36	3	Lower Mount Bethel Township Proposed 1855 Division	1855	1856	2		\N	\N		0	f		\N
 14892	89	3	Lower Mount Bethel Township 1856 Independent School District	1855	1856	8	1856-06-02	\N	206		0	f		\N
-14893	36	3	Palmer Township 1859 Creation	1856	1859	8	1859-05-16	\N	82		0	f		\N
+14893	36	3	Palmer Township 1859 Creation	1856	1859	8	1859-05-16	\N	82		0	t		\N
 14894	36	1	East Allen Township 1845 Creation	1845	1845	8	1845-03-14	\N	1		0	f		\N
 14895	36	3	Banks Township 1841 Creation	1840	1841	8	1841-11-19	\N	34		0	f		\N
 14896	36	3	Penn Township 1768 Creation	1768	1768	8	1768-09-20	\N	34		0	f		\N
@@ -12540,7 +12540,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 15800	36	3	Mount Bethel Township Proposed 1746 Creation	1746	1746	12		\N	\N		0	f		\N
 15801	36	7	Forks Township 1741 Creation	1741	1741	10	1741-~09-~01J	\N	25		0	t		\N
 15802	36	7	Moore Township 1764 Creation	1764	1764	10	1764-~11-~23	\N	25		0	f		\N
-15803	36	7	Lehigh Township 1754 Creation	1754	1754	10	1754-~01-~01	\N	144		0	f		\N
+15803	36	7	Lehigh Township 1755 Creation	1755	1755	10	1755-~02-~19	\N	25		0	f		\N
 15804	36	3	Plainfield Township 1763 Plat Recording	1762	1763	8	1763-~03-~22	\N	43		0	t		\N
 15805	36	7	Chestnuthill Township 1763 Creation	1763	1763	10	1763-~09-~20	\N	25		0	f		\N
 15806	36	3	Pocono Township 1816 Creation	1816	1816	10	1816-11-~01	\N	37		0	f		\N
@@ -12557,7 +12557,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 15818	36	7	Hamilton Township 1752 Creation	1752	1752	10	1752-~01-~01J11	\N	144		0	f		\N
 15819	36	7	Letterkenny Township 1762 Creation	1762	1762	10	1762-~03-~01	\N	25		0	f		\N
 15820	36	7	Lurgan Township 1750 Creation	1750	1750	10	1750-~09-~20J	\N	25		0	f		\N
-15821	36	7	Peters Township 1750 Creation	1750	1750	10	1750-~04-~01J	\N	25		0	f		\N
+15821	36	7	Peters Township 1750 Creation	1750	1750	10	1750-~04-~18J	\N	25		0	f		\N
 15822	36	7	Quincy Township 1838 Creation	1838	1838	10	1838-~01-~01	\N	144		0	f		\N
 15823	36	7	Saint Thomas Township 1818 Creation	1818	1818	10	1818-~01-~01	\N	144		0	f		\N
 15824	36	7	Metal Township 1795 Creation	1795	1795	10	1795-~01-~01	\N	144		0	f		\N
@@ -15744,8 +15744,8 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 55542	89	3	Seward Independent School District 1913 Creation	1912	1913	8	1913-07-07	\N	208		0	f		\N
 55543	89	3	Concord Independent School District Proposed 1912 Creation	1912	1912	2		\N	\N		0	f		\N
 55544	9	3	Wilkinsburg Borough-Pittsburgh City Proposed 2022 Merger	2022	2024	2		\N	\N		0	t		\N
-55545	24	7	Wilkinsburg Borough Proposed 2022 Home Rule	2022	2024	4		\N	\N		0	f		\N
-55546	24	7	Aliquippa City Proposed 2022 Home Rule	2022	2024	4		\N	\N		0	f		\N
+55545	24	7	Wilkinsburg Borough 2025 Home Rule	2022	2025	8	2025-01-01	\N	45		0	f		\N
+55546	24	7	Aliquippa City Proposed 2022 Home Rule	2022	2022	2		\N	\N		0	f		\N
 55547	90	3	Safe Harbor Iron Works Independent School District Proposed 1904 Dissolution	1904	1904	7		\N	\N		0	f		\N
 55548	90	3	Camargo Independent School District 1860 Dissolution	1860	1860	8	1860-06-21	\N	34		0	f		\N
 55549	90	3	New Milltown Independent School District Proposed 1856 Dissolution	1856	1856	2		\N	\N		0	f		\N
@@ -15827,7 +15827,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 57132	63	3	Metedeconk Village Proposed 1958 Creation	1958	1958	2		\N	\N		0	f		\N
 57133	2	5	Philipsburg Borough Ordinance 002-2022	2022	2022	7		\N	\N		0	t		\N
 57134	2	5	Verona Township Ordinance 14-05	2005	2005	8	2005-08-22	\N	69		0	t		\N
-57138	24	5	Lancaster City Proposed 2023 Home Rule	2023	2024	4		\N	\N		0	f		\N
+57138	24	5	Lancaster City 2025 Home Rule	2023	2025	8	2025-01-01	\N	45		0	f		\N
 57139	4	3	Brick Township-Dover Township Proposed 1931 Boundary Ascertainment	1931	1931	7		\N	\N		0	f		\N
 57140	4	3	Lower Township-Wildwood City Proposed 1942 Boundary Realignment	1942	1943	2		\N	\N		0	f		\N
 57141	117	7	Government Name: Fieldsborough, Borough of (alternate) (NJ)	0	0	17		\N	\N		0	f		135049
@@ -15856,7 +15856,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 59104	2	5	Forks Township-Tatamy Borough 2024 Annexation	2023	2024	8	2024-01-01	\N	227		0	t		\N
 59107	118	5	Mapleton Borough-Union Township 2024 Intergovernmental Agreement	2023	2024	8	2024-01-01	\N	8		0	f		\N
 59108	2	5	Monroe Township-Shamokin Dam Borough 2024 Annexation	2023	2024	8	2024-01-01	\N	227		0	t		\N
-59123	9	5	South New Castle Borough-Shenango Township 2026 Merger	2023	2026	16		\N	\N		0	t		\N
+59123	9	5	South New Castle Borough-Shenango Township 2026 Merger	2023	2026	16	2026-01-01	\N	8		0	t		\N
 59124	9	3	Timblin Borough Proposed 2020 Dissolution	2020	2020	2		\N	\N		0	f		\N
 59125	2	5	Hamiltonban Township-Liberty Township 2024 Annexation	2023	2024	8	2024-01-01	\N	227		0	t		\N
 59360	2	5	Barrington Borough 1973 Ordinance	1973	1973	8	1973-05-08	\N	69		0	t		\N
@@ -15891,4 +15891,13 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 59405	117	7	Government Name: Hardwicke, Township of (alternate) (NJ)	0	0	17		\N	\N		0	f		135794
 59406	117	7	Government Name: Newarke, Township of (alternate) (NJ)	0	0	17		\N	\N		0	f		135795
 59407	117	7	Government Name: Vailsburg, Borough of (alternate) (NJ)	0	0	17		\N	\N		0	f		135796
-88356	2	5	Muncy Creek Township-Muncy Borough 2025 Annexation	2024	2025	16		\N	\N		0	f		\N
+88356	2	5	Muncy Creek Township-Muncy Borough 2025 Annexation	2024	2025	10	2025-01-01	\N	227		0	t		\N
+88358	2	6	Clearfield County-Jefferson County 2025 Annexation	2024	2025	10	2025-01-01	\N	253		0	t		\N
+88359	24	5	Millcreek Township Proposed 2024 Home Rule	2024	2024	4		\N	\N		0	f		\N
+88360	9	5	Callimont Borough-Larimer Township 2026 Merger	2024	2026	16	2026-01-01	\N	8		0	f		\N
+88361	24	7	Duquesne City Proposed 2024 Home Rule	2024	2024	4		\N	\N		0	f		\N
+88362	9	5	East Keating Township-Noyes Township 2025 Merger	2024	2025	8	2025-01-01	\N	8		0	f		\N
+88363	31	7	New Allegheny City Proposed 1952 Creation	1952	1952	2		\N	\N		0	t		\N
+88364	31	7	Penn Hills City Proposed 1952 Creation	1952	1952	12		\N	\N		0	t		\N
+88370	2	5	Rush Township-Philipsburg Borough 2025 Annexation	2023	2025	10	2025-01-01	\N	255		0	t		\N
+88557	4	3	Center Township-Potter Township 2023 Boundary Ascertainment	2019	2024	10	2023-12-28	\N	34		0	f		\N

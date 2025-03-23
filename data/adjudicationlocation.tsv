@@ -17085,7 +17085,7 @@ adjudicationlocationid	adjudication	adjudicationlocationtype	adjudicationlocatio
 18078	6401	323	Film 1			\N			\N	\N			\N		
 18079	6403	323	Film 1			\N			\N	\N			\N		
 18080	6404	323	Film 1			\N			\N	\N			\N		
-18081	7572	335	A	175	175	\N			\N	\N			\N		
+18081	7572	334	A	175	175	\N			\N	\N			\N		
 18082	5132	294	56	not found	not found	\N			\N	\N			\N		
 18083	5132	294	58	not found	not found	\N			\N	\N			\N		
 18084	5157	294	108			\N			\N	\N			\N		
@@ -19906,12 +19906,12 @@ adjudicationlocationid	adjudication	adjudicationlocationtype	adjudicationlocatio
 21945	14079	86	electronic	electronic	electronic	\N			\N	\N			\N		
 21946	14080	27	1834-1842	71	71	\N			\N	\N			\N		
 21947	14081	1801	?	?	?	\N			\N	\N			\N		
-21948	14085	502	1681-1709	138	ver	\N			\N	\N			\N		
-21949	14085	502	Book	187	ver	\N			\N	\N			\N		
-21950	14086	502	1681-1709	259	ver	\N			\N	\N			\N		
-21951	14086	502	Book	343	ver	\N			\N	\N			\N		
-21952	14087	502	Book	144	ver	\N			\N	\N			\N		
-21953	14087	502	1681-1709	112	ver	\N			\N	\N			\N		
+21948	14085	502	1681-1709	138	?	\N			\N	\N			\N		
+21949	14085	502	Book	187	?	\N			\N	\N			\N		
+21950	14086	502	1681-1709	259	?	\N			\N	\N			\N		
+21951	14086	502	Book	343	?	\N			\N	\N			\N		
+21952	14087	502	Book	144	?	\N			\N	\N			\N		
+21953	14087	502	1681-1709	112	?	\N			\N	\N			\N		
 21954	14119	1501	?	?	?	\N			\N	\N			\N		
 21955	14120	1501	?	?	?	\N			\N	\N			\N		
 21956	14121	1501	15	628	628	\N			\N	\N			\N		
@@ -19959,3 +19959,7 @@ adjudicationlocationid	adjudication	adjudicationlocationtype	adjudicationlocatio
 22002	14145	1802	?	?	?	\N			\N	\N			\N		
 22003	14135	1501	16	234	234	\N			\N	\N			\N		
 22004	14146	1501	17	509	509	\N			\N	\N			\N		
+22005	26764	1970	electronic	electronic	electronic	\N			\N	\N			\N		
+22009	26768	181	electronic	electronic	electronic	\N			\N	\N			\N		
+22010	26769	169	electronic	electronic	electronic	\N			\N	\N			\N		
+22011	26770	169	electronic	electronic	electronic	\N			\N	\N			\N		

@@ -23,7 +23,7 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 25	Reference	Earliest Known Year
 26	Election	1st Monday in January thereafter
 27	Election	Date Results Certified
-29	Election	Immediately Thereafter
+29	Election	Immediately thereafter
 30	Final Decree	1st Monday in January thereafter
 32	Final Decree	Date Filed with Court
 33	Final Decree	Date Filed with State after Date Recorded
@@ -36,7 +36,7 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 41	Final Decree	Immediately after Election after Date Granted
 42	Final Decree	Listed Effective Date
 43	Final Decree	Most Probable Year Granted
-44	First Election	1st Monday in January thereafter
+44	Organization Election	1st Monday in January thereafter
 45	Home Rule Charter	Listed Effective Date
 46	Joint Resolution of U.S. Congress	Date Approved
 47	Letters Patent	Date Granted
@@ -90,7 +90,7 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 103	Election	Date Results Entered in Minutes of Origin Municipality
 104	Election	Date Results Filed with County Clerk
 105	Election	Date Results Filed with Secretary of State
-106	Final Decree	1st day of January thereafter
+106	Final Decree	January 1 thereafter
 107	Final Decree	Date Filed with County Clerk
 109	Letters Patent	Date Granted per Unofficial Source
 112	Ordinance	10 Days after Date Enacted
@@ -135,7 +135,7 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 173	Grand Jury	Date Approval Filed
 174	Ordinance	30 Days after Most Probable Date Filed with Court
 175	Grand Jury	Date Approval Issued
-176	First Election	Immediately Thereafter
+176	Organization Election	Immediately thereafter
 190	Consolidation Plan	Listed Effective Date
 197	Ordinance	Date Costs of Filing with Court Paid
 198	Ordinance	30 Days after Date Costs of Filing with Court Paid
@@ -165,7 +165,7 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 222	Report of Commissioner(s)	Date Filed with Secretary of State
 225	Municipal Election after Decree Nisi	1st Monday in January thereafter
 226	Election	Listed Effective Date
-227	Ordinance	1st day in January after Date Filed with Court
+227	Ordinance	January 1 after Date Filed with Court
 229	Letters Patent	Date Recorded
 231	Deed of Surrender	Date Accepted
 233	Deed	Date Issued per Unofficial Source
@@ -180,3 +180,5 @@ eventeffectivetypeid	eventeffectivetypegroup	eventeffectivetypequalifier
 245	Election	Date Results Filed with County Clerk per Unofficial Source
 250	Letters Patent	Date Issuance Authorized
 251	Order of Council	Date Issued
+253	Ordinance	Listed Effective Date per Unofficial Source
+255	Ordinance	January 1 after Service upon County Commissioners

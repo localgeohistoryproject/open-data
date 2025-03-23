@@ -1,5 +1,30 @@
 # Changelog
 
+## [3.0.0] - 2025-03-23
+
+### Added
+
+- Extract file lastrefresh.tsv.
+- In extract file adjudication.tsv, adjudicationname column.
+- In extract file adjudicationsourcecitation.tsv, adjudicationsourcecitationname column.
+- In extract file documentation.tsv, additional content from Key and Welcome pages (formerly in Application repository).
+- In extract file documentation.tsv, Status page detail.
+- In extract file governmentsource.tsv, governmentsourcename column.
+- In extract file sourcecitation.tsv, sourcecitationname column.
+
+### Changed
+
+- In extract file tribunaltype.tsv, tribunaldescription column to tribunaltypedistrictcircuit.
+- Minor data quality improvements and year 2025 updates in New Jersey and Pennsylvania.
+
+### Fixed
+
+- In extract file documentation.tsv, various broken and redirected links.
+
+### Removed
+
+- In extract file documentation.tsv, credits to Natural Earth (associated map icons being removed from Application repository).
+
 ## [2.1.0] - 2024-10-09
 
 ### Added
@@ -102,6 +127,7 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
+[3.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.1.0...v3.0.0
 [2.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.1...v2.0.0
 [1.2.1]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.0...v1.2.1

@@ -5,8 +5,8 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 32	New Jersey	State		f		2	1	NJ	N.J. Stat. Ann. § 51:3-7		\N	6527			f	\N	\N	\N	f	N.J.	\N		1	en			\N
 34	New York	State		f		2	1	NY	1995 N.Y. Laws ch. 605		\N	4438			f	\N	\N	\N	f	N.Y.	\N		1	en			\N
 37	Ohio	State		f		2	1	OH	Ohio Rev. Code Ann. § 157.01		\N	32167			f	\N	\N	\N	f	Ohio.	\N		1	en			\N
-40	Pennsylvania	Commonwealth		f		2	1	PA	68 Pa. Stat. Ann. § 951		\N	100007			f	\N	\N	\N	f	Pa.	\N		1	en			\N
-48	Virginia	Commonwealth		f		2	1	VA	Va. Code Ann. § 55-288.1		\N	32167			f	\N	\N	\N	f	Va.	\N		1	en			\N
+40	Pennsylvania	State		f	Commonwealth	2	1	PA	68 Pa. Stat. Ann. § 951		\N	100007			f	\N	\N	\N	f	Pa.	\N		1	en			\N
+48	Virginia	State		f	Commonwealth	2	1	VA	Va. Code Ann. § 55-288.1		\N	32167			f	\N	\N	\N	f	Va.	\N		1	en			\N
 50	West Virginia	State		f		2	1	WV	W. Va. Code § 1-1-5		\N	32167			f	\N	\N	\N	f	W.Va.	\N		1	en			\N
 359	Kent	County		f		3	9	Ken		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
 360	New Castle	County		f		3	9	New		X	f	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -764,7 +764,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 3873	East Hempfield	Township		f		4	2322				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 3874	East Hopewell	Township		f		4	2353				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 3875	East Huntingdon	Township		f		4	2351				\N	\N			f	\N	\N	\N	f		\N		1	en			9
-3876	East Keating	Township		f		4	2304				\N	\N			f	\N	\N	\N	f		\N		1	en			9
+3876	East Keating	Township	defunct	f		4	2304				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 3877	East Lackawannock	Township		f		4	2329				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 3878	East Lampeter	Township		f		4	2322				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 3879	East Lansdowne	Borough		f		4	2309				\N	\N			f	\N	\N	\N	f		\N		2	en			111
@@ -1292,7 +1292,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 4401	Lake	Township		f		4	2326				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4402	Lake City	Borough		f		4	2311				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 4403	Lamar	Township		f		4	2304				\N	\N			f	\N	\N	\N	f		\N		1	en			9
-4404	Lancaster	City		f		4	2322				\N	\N			f	\N	\N	\N	f		\N		2	en			165
+4404	Lancaster	City		f		4	2322				\N	\N			f	\N	\N	\N	f		\N		2	en			97
 4405	Lancaster	Township		f		4	2296				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 4406	Lancaster	Township		f		4	2322				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 4407	Landingville	Borough		f		4	2340				\N	\N			f	\N	\N	\N	f		\N		2	en			111
@@ -2686,7 +2686,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5796	Wharton	Township		f		4	2339				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5797	Wharton	Township		f		4	2312				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5798	Wheatfield	Township		f		4	2336				\N	\N			t	\N	\N	\N	f		\N		1	en			9
-5799	Wheatland	Borough	defunct	f		4	2329				\N	\N			f	\N	\N	\N	f		\N		2	en			93
+5799	Wheatland	Borough	defunct	f		4	2329				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 5800	Whitaker	Borough		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5801	White	Township		f		4	2290				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5802	White	Township		f		4	2318				\N	\N			t	\N	\N	\N	f		\N		1	en			9
@@ -2704,7 +2704,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5814	Wilkes-Barre	City		f		4	2326				\N	\N			f	\N	\N	\N	f		\N		2	en			97
 5815	Wilkes-Barre	Township		f		4	2326				\N	\N			f	\N	\N	\N	f		\N		1	en			104
 5816	Wilkins	Township		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			8
-5817	Wilkinsburg	Borough		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			111
+5817	Wilkinsburg	Borough		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			93
 5818	Williams	Township		f		4	2334				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5819	Williams	Township		f		4	2308				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5820	Williamsburg	Borough		f		4	2293				\N	\N			t	\N	\N	\N	f		\N		2	en			111
@@ -8301,13 +8301,13 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 133143	Grim's	Independent School District	defunct	f		4	2325				\N	\N		1911	f	\N	\N	\N	f		\N		1	en			\N
 133144	Union	Independent School District	defunct	f		4	2338				\N	\N	1912		t	\N	\N	\N	f		\N		1	en			\N
 133145	Union	Independent School District	defunct	f		4	2338				\N	\N		1911	t	\N	\N	\N	f		\N		1	en			\N
-133146	Bushkill	Independent School District	alternate	f		4	2338				\N	\N			f	\N	\N	\N	f		133144		0	en			\N
-133147	Bushkill	Independent School District	alternate	f		4	2338				\N	\N			f	\N	\N	\N	f		133145		0	en			\N
+133146	Bushkill	Independent School District	alternate	f		4	2338				\N	\N	1912		f	\N	\N	\N	f		133144		0	en			\N
+133147	Bushkill	Independent School District	alternate	f		4	2338				\N	\N		1911	f	\N	\N	\N	f		133145		0	en			\N
 133148	Milford	Independent School District	defunct	f		4	2338				\N	\N		1911	f	\N	\N	\N	f		\N		1	en			\N
 133149	Union	Independent School District	defunct	f		4	2346				\N	\N		1911	t	\N	\N	\N	f		\N		1	en			\N
 133150	Sugarcreek	Independent School District	defunct	f		4	2347				\N	\N		1911	f	\N	\N	\N	f		\N		1	en			\N
-133151	Sugar Creek	Independent School District	alternate	f		4	2347				\N	\N			f	\N	\N	\N	f		133001		0	en			\N
-133152	Sugar Creek	Independent School District	alternate	f		4	2347				\N	\N			f	\N	\N	\N	f		133150		0	en			\N
+133151	Sugar Creek	Independent School District	alternate	f		4	2347				\N	\N	1912		f	\N	\N	\N	f		133001		0	en			\N
+133152	Sugar Creek	Independent School District	alternate	f		4	2347				\N	\N		1911	f	\N	\N	\N	f		133150		0	en			\N
 133153	Seeleyville	Independent School District	defunct	f		4	2350				\N	\N		1911	f	\N	\N	\N	f		\N		1	en			\N
 133154	White Mills	Independent School District	defunct	f		4	2350				\N	\N		1911	f	\N	\N	\N	f		\N		1	en			\N
 133155	Braintrim	Independent School District	defunct	f		4	2352				\N	\N		1911	f	\N	\N	\N	f		\N		1	en			\N
@@ -8482,7 +8482,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 133335	South Huntingdon Township 1	Independent School District	proposed	f		4	2351				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 133336	South Huntingdon Township 2	Independent School District	proposed	f		4	2351				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
 133337	Felton	Independent School District	defunct	f		4	2353				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-135042	Great Britain and Northern Ireland	United Kingdom		f		1	\N				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+135042	Great Britain and Northern Ireland	United Kingdom		f		1	\N	GBR			\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 135044	Great Britain	Kingdom	defunct	f		1	\N				\N	\N			f	\N	\N	\N	f		135042		1	en			\N
 135045	England	Kingdom	defunct	f		1	\N				\N	\N			f	\N	\N	\N	f		135042		1	en			\N
 135046	Metedeconk	Village	proposed	f		4	1831				\N	\N			f	\N	\N	\N	f		\N		0	en			\N
