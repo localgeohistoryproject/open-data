@@ -1168,7 +1168,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 1175	36	3	Taylor Township 1853 Creation	1852	1853	8	1853-02-19	\N	34		0	t		\N
 1176	4	3	Coolbaugh Township-Pocono Township to Tobyhanna Township 1853 Boundary Realignment	1852	1853	8	1853-09-30	\N	34		0	f		\N
 1177	36	3	Valley Township 1852 Creation	1851	1852	8	1852-08-10	\N	34		0	f		\N
-1178	2	3	Wallace Township-Uwchlan Township 1853 Annexation	1853	1853	8		\N	\N		0	t		\N
+1178	2	3	Wallace Township-Uwchlan Township 1853 Annexation	1853	1853	8	1853-07-~25	\N	158		0	t		\N
 1179	30	3	Wayne Borough 1853 Creation	1853	1853	8	1853-06-04	\N	14		0	t		\N
 1180	91	1	West Fallowfield Township-Hartford Borough 1853 School District Annexation	1853	1853	8	1853-02-18	\N	1		0	f		\N
 1181	49	7	West Newton Borough 1853 General Law	1853	1853	8	1853-09-03	\N	34		0	f		\N
@@ -4122,7 +4122,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 4147	2	5	McKeesport City Common Ordinance 14, 1903	1903	1904	8	1903-09-11	\N	63		0	t		\N
 4148	2	5	McKeesport City Common Ordinance 15, 1903	1903	1904	8	1903-09-11	\N	63		0	t		\N
 4149	30	3	McMahan Borough 1904 Creation	1903	1904	8	1904-05-04	\N	14		0	t		\N
-4150	2	3	Mercer Borough-Findley Township Proposed 1903 Annexation 	1903	1904	2		\N	\N		0	f		\N
+4150	2	3	Mercer Borough-Findley Township Proposed 1903 Annexation	1903	1904	2		\N	\N		0	f		\N
 4151	90	3	Mount Airy Independent School District 1904 Dissolution	1903	1904	8		\N	\N		0	f		\N
 4152	2	5	Mount Oliver Borough Ordinance 47	1904	1904	8	1904-05-09	\N	71		0	t		\N
 4153	4	3	Newton Township-Ransom Township 1904 Boundary Ascertainment	1903	1904	8	1904-02-13	\N	34		0	f		\N
@@ -5642,7 +5642,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 5676	2	5	Altoona City Ordinance 2843	1931	1931	8	1931-05-11	\N	65		0	t		\N
 5677	2	5	Bath Borough Ordinance 111	1930	1931	8	1931-09-16	\N	75		0	t		\N
 5678	11	4	Bradford County 1931 6th to 7th	1931	1931	8	1931-01-01	\N	11		0	f		\N
-5679	2	5	Bridgeport Borough Ordinance 100	1927	1931	2		\N	\N		0	f		\N
+5679	2	5	Bridgeport Borough Ordinance 100	1927	1931	2		\N	\N		0	t		\N
 5680	2	5	Bryn Athyn Borough Ordinance 55	1928	1931	8	1928-07-13	\N	91		0	t		\N
 5681	2	5	Chambersburg Borough 1929 Ordinance	1929	1931	8	1931-07-03	\N	91		0	t		\N
 5682	2	5	Oil City City Ordinance 1282	1931	1931	8	1931-10-09	\N	34		0	t		\N
@@ -6409,7 +6409,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 6453	2	3	Bethel Borough-Mount Lebanon Township Proposed 1952 Annexation	1952	1952	2		\N	\N		0	f		\N
 6454	2	5	Burnside Borough Ordinance of 8 July 1952	1952	1952	2		\N	\N		0	f		\N
 6455	11	4	Butler County 1952 6th to 5th	1951	1952	8	1952-01-01	\N	13		0	f		\N
-6456	2	5	Canonsburg Borough Ordinance 705 & 706	1952	1952	8	1952-11-13	\N	91		0	t		\N
+6456	2	5	Canonsburg Borough Ordinance 705 and 706	1952	1952	8	1952-11-13	\N	91		0	t		\N
 6457	2	5	Canonsburg Borough Ordinance 715	1952	1952	8	1952-12-19	\N	91		0	t		\N
 6458	11	4	Chester County 5th to 4th	1951	1952	8	1952-01-01	\N	13		0	f		\N
 6459	2	5	Oil City City Ordinance 1838	1952	1952	8	1952-06-04	\N	64		0	t		\N
@@ -8756,7 +8756,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 8852	2	5	Bethlehem Borough Ordinance 57	1912	1912	2		\N	\N		0	f		\N
 8853	2	5	Freemansburg Borough 1907 Ordinance	1907	1907	8	1907-12-02	\N	71		0	t		\N
 8854	89	3	Big Beaver Township-Darlington Township Proposed 1859 Independent School District	1859	1859	2		\N	\N		0	f		\N
-8855	4	3	Birmingham Township-East Bradford Township 1856 Boundary Realignment	1856	1856	8	1856-08-07	\N	34		0	f		\N
+8855	2	3	East Bradford Township-Birmingham Township 1856 Annexation	1856	1856	8	1856-08-07	\N	34		0	t		\N
 8856	36	7	Birmingham Township 1686 Creation	1686	1686	8	1686-~10-~07QJ	\N	25		0	t		\N
 8857	4	3	Blair County-Centre County 1877 Boundary Ascertainment	1876	1877	8	1877-03-19	\N	34		0	f		\N
 8858	4	3	Blair County-Cambria County 1961 Boundary Ascertainment	1961	1961	7		\N	\N		0	f		\N
@@ -8833,7 +8833,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 8936	36	3	Pikeland Township 1734 Creation	1734	1734	10	1734-~08-~25J	\N	43		0	t		\N
 8939	89	3	East Brandywine Township-Wallace Township-West Brandywine Township Proposed 1883 Independent School District	1883	1883	7		\N	\N		0	f		\N
 8940	95	3	East Marlborough Township-Newlin Township Proposed 1884 School District Reversion	1884	1884	7		\N	\N		0	f		\N
-8941	40	3	Uwchlan Township 1726 Plat Recording	1726	1726	10		\N	\N		0	f		\N
+8941	40	3	Uwchlan Township 1726 Plat Recording	1726	1726	8	1726-05-31J	\N	34		0	f		\N
 8943	36	3	London Grove Township 1723 Creation	1723	1723	10	1723-~03-~28QJ	\N	43		0	f		\N
 8944	40	3	East Caln Township 1739 Plat Recording	1739	1739	10	1739-05-29J	\N	34		0	f		\N
 8945	91	3	Pocopson Township-East Marlborough Township 1893 School District Annexation	1892	1893	8	1893-06-05	\N	206		0	f		\N
@@ -8936,7 +8936,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 9050	89	3	Durham Township Proposed 1874 Independent School District	1874	1874	2		\N	\N		0	f		\N
 9051	90	3	Dyberry Township-Lebanon Township-Oregon Township Proposed 1863 Independent School District Dissolution	1863	1863	7		\N	\N		0	f		\N
 9052	89	3	Dyberry Township-Lebanon Township Proposed 1859 Independent School District	1859	1859	7		\N	\N		0	f		\N
-9053	2	3	West Bradford Township-East Bradford Township 1857 Annexation	1857	1857	8		\N	\N		0	f		\N
+9053	2	3	West Bradford Township-East Bradford Township 1857 Annexation	1857	1857	8	1857-12-15	\N	34		0	f		\N
 9054	2	5	East Bangor Borough Ordinance 211	1973	1973	8	1973-07-19	\N	71		0	t		\N
 9055	2	5	East Bangor Borough Ordinance 31	1913	1913	7		\N	\N		0	f		\N
 9056	2	5	East Bangor Borough Ordinance 32	1914	1914	7		\N	\N		0	t		\N
@@ -9030,7 +9030,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 9148	30	3	Glen Mills Borough Proposed 1986 Creation	1986	1986	2		\N	\N		0	f		\N
 9149	2	5	Glen Rock Borough Ordinance 211	1973	1973	2		\N	\N		0	t		\N
 9150	2	5	Glen Rock Borough Ordinance 58	1946	1946	8	1946-08-02	\N	71		0	t		\N
-9151	36	3	East Goshen Township-West Goshen Township 1817 Creation	1817	1817	8	1817-~11-~01	\N	43		0	f		\N
+9151	36	3	East Goshen Township-West Goshen Township 1817 Creation	1817	1817	8	1817-~11-~01	\N	43		0	t		\N
 9152	30	3	Great Island Borough Proposed 1874 Creation	1874	1874	2		\N	\N		0	f		\N
 9153	9	7	Green Tree Borough-Pittsburgh City Proposed 1921 Merger	1921	1921	2		\N	\N		0	t		\N
 9154	89	3	Greene Township-Hanover Township-Raccoon Township Proposed 1857 Independent School District	1857	1857	2		\N	\N		0	f		\N
@@ -9512,7 +9512,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 9646	89	3	Trappe Independent School District 1880 Creation	1880	1880	8	1880-06-07	\N	221		0	f		\N
 9647	17	3	Upper Salford Township 1878 Election Districts	1877	1878	8	1878-07-~01	\N	37		0	f		\N
 9648	4	3	Uwchlan Township-West Whiteland Township 1828 Boundary Realignment	1828	1828	8	1828-08-06	\N	34		0	f		\N
-9649	2	3	West Whiteland Township-Uwchlan Township 1982 Annexation	1982	1982	8	1982-11-24	\N	34		0	f		\N
+9649	2	3	West Whiteland Township-Uwchlan Township 1982 Annexation	1982	1982	8	1982-11-24	\N	34		0	t		\N
 9650	4	3	East Fallowfield Township-Valley Township Proposed 1960 Boundary Ascertainment	1960	1960	7		\N	\N		0	f		\N
 9651	2	3	Valley Township-Sadsbury Township Proposed 1894 Annexation	1894	1894	2		\N	\N		0	f		\N
 9652	2	5	Vandergrift Borough Ordinance 42	1912	1912	8	1912-11-22	\N	71		0	t		\N
@@ -9550,12 +9550,12 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 9685	24	7	West Liberty Borough Proposed 1976 Home Rule	1976	1976	2		\N	\N		0	f		\N
 9686	30	3	West Newton Borough Proposed 1840 Creation	1840	1840	7		\N	\N		0	f		\N
 9687	2	3	Westfield Township-Brookfield Township 1833 Annexation	1833	1833	8		\N	\N		0	f		\N
-9688	36	7	Westtown Township 1689 Creation	1689	1689	8	1689-~04-~04QJ	\N	25		0	f		\N
+9688	36	7	Westtown Township 1689 Creation	1689	1689	8	1689-~04-~04QJ	\N	25		0	t		\N
 9689	21	7	White Township Proposed 1930 1st Class	1930	1930	2		\N	\N		0	f		\N
 9690	89	3	South Whitehall Township-Whitehall Township Proposed 1869 Independent School District	1869	1869	2		\N	\N		0	f		\N
 9691	89	3	Whitehall Township Proposed 1869 Independent School District (Butz)	1869	1869	7		\N	\N		0	f		\N
 9692	89	3	Whitehall Township Proposed 1869 Independent School District (Marsteller)	1869	1869	7		\N	\N		0	f		\N
-9693	36	3	East Whiteland Township-West Whiteland Township 1765 Creation	1765	1765	8	1765-02-26	\N	34		0	f		\N
+9693	36	3	East Whiteland Township-West Whiteland Township 1765 Creation	1765	1765	8	1765-02-26	\N	34		0	t		\N
 9694	17	3	Whitemarsh Township 1875 Election Districts	1875	1875	8	1875-07-02	\N	37		0	f		\N
 9695	2	5	Wilkes-Barre Borough Ordinance of May 1870	1870	1870	8	1870-05-02	\N	67		0	t		\N
 9696	2	5	Wilkes-Barre Borough Ordinance of October 1870	1870	1870	8	1870-10-29	\N	69		0	t		\N
@@ -9626,7 +9626,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 9763	36	1	Jefferson Township 1804 Creation	1804	1804	8	1804-02-11	\N	1		0	f		\N
 9764	36	1	Rahway Township 1804 Creation	1804	1804	8	1804-02-27	\N	1		0	f		\N
 9765	2	1	Elizabeth Borough 1805 Detachment	1805	1805	8	1805-11-06	\N	1		0	f		\N
-9766	36	1	Chatham Township 1806 Creation	1806	1806	8	1806-03-10	\N	4		0	f		\N
+9766	36	1	Chatham Township 1806 Creation	1806	1806	8	1806-03-10	\N	4		0	t		\N
 9767	2	1	Randolph Township-Chester Township 1806 Annexation	1806	1806	8	1806-03-03	\N	1		0	f		\N
 9768	36	1	Randolph Township 1806 Creation	1805	1806	8	1806-01-01	\N	4		0	f		\N
 9769	36	1	Warren Township 1806 Creation	1806	1806	8	1806-03-05	\N	1		0	f		\N
@@ -9874,7 +9874,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10013	31	1	Millville City 1866 Creation	1866	1866	8	1866-03-01	\N	4		0	t		\N
 10014	2	1	Morristown Town 1866 Annexation	1866	1866	8	1866-03-15	\N	1		0	f		\N
 10015	2	1	North Bergen Township-Union Town 1866 Annexation	1866	1866	8	1866-03-20	\N	1		0	f		\N
-10016	36	1	Passaic Township 1866 Creation	1866	1866	8	1866-03-23	\N	1		0	f		\N
+10016	36	1	Passaic Township 1866 Creation	1866	1866	8	1866-03-23	\N	1		0	t		\N
 10017	36	1	Woodland Township 1866 Creation	1866	1866	8	1866-03-07	\N	1		0	f		\N
 10018	35	1	Boonton Town 1867 Creation	1867	1867	8	1867-03-18	\N	1		0	f		\N
 10019	31	1	Bordentown City 1867 Creation	1867	1867	8	1867-04-03	\N	1		0	f		\N
@@ -10287,7 +10287,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10427	31	5	Dover City Proposed 1896 Creation	1896	1899	2		\N	\N		0	f		\N
 10428	31	5	East Orange City 1899 Creation	1899	1899	8	1899-12-09	\N	105		0	f		\N
 10429	31	1	Englewood City 1899 Creation	1899	1899	8	1899-03-17	\N	1		0	f		\N
-10430	30	1	Florham Park Borough 1899 Creation	1899	1899	8	1899-03-09	\N	1		0	f		\N
+10430	30	1	Florham Park Borough 1899 Creation	1899	1899	8	1899-03-09	\N	1		0	t		\N
 10431	35	5	Kearny Town 1899 Creation	1899	1899	8	1899-01-19	\N	243		0	f		\N
 10432	34	5	Surf City Borough 1899 Creation	1899	1899	8	1899-05-30	\N	119		0	f		\N
 10433	36	1	Long Beach Township 1899 Creation	1899	1899	8	1899-03-23	\N	1		0	f		\N
@@ -10501,7 +10501,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10643	36	1	Denville Township 1913 Creation	1913	1913	8	1913-04-14	\N	1		0	f		\N
 10644	2	1	East Windsor Township-Hightstown Borough 1913 Annexation	1913	1913	2		\N	\N		0	f		\N
 10645	30	1	Franklin Borough 1913 Creation	1913	1913	8	1913-04-23	\N	242		0	f		\N
-10646	2	1	Hanover Township-Florham Park Borough 1913 Annexation	1913	1913	8	1913-04-14	\N	1		0	f		\N
+10646	2	1	Hanover Township-Florham Park Borough 1913 Annexation	1913	1913	8	1913-04-14	\N	1		0	t		\N
 10647	36	1	Hillside Township 1913 Creation	1913	1913	8	1913-04-29	\N	242		0	f		\N
 10648	30	1	Laurel Springs Borough 1913 Creation	1913	1913	8	1913-05-01	\N	29		0	f		\N
 10649	2	1	Long Beach Township-Beach Haven Borough 1913 Annexation	1913	1913	8	1913-04-02	\N	1		0	f		\N
@@ -10645,7 +10645,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10788	2	5	Elizabeth City 1920 Ordinance	1920	1920	8	1920-07-08	\N	67		0	f		\N
 10789	30	1	West Wildwood Borough 1920 Creation	1920	1920	8	1920-04-21	\N	1		0	f		\N
 10790	55	5	Audubon Borough 1921 Commission Form	1921	1921	8	1921-04-26	\N	102		0	f		\N
-10791	4	1	Avon-by-the-Sea Borough-Belmar Borough 1921 Boundary Realignment 	1921	1921	8	1921-04-12	\N	1		0	f		\N
+10791	4	1	Avon-by-the-Sea Borough-Belmar Borough 1921 Boundary Realignment	1921	1921	8	1921-04-12	\N	1		0	f		\N
 10792	30	1	Basking Ridge Borough Proposed 1921 Creation	1921	1921	2		\N	\N		0	f		\N
 10793	30	1	Bernardsville Borough Proposed 1921 Creation	1921	1921	2		\N	\N		0	f		\N
 10794	2	5	Ridgefield Park Village 1921 Ordinance	1921	1921	8	1921-05-03	\N	69		0	t		\N
@@ -10670,7 +10670,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 10813	31	1	Corbin City City 1922 Creation	1922	1922	8	1922-03-11	\N	1		0	f		\N
 10814	30	1	Franklin Lakes Borough 1922 Creation	1922	1922	8	1922-04-11	\N	29		0	f		\N
 10815	34	5	Garwood Borough 1922 Name Shortening	1922	1922	8	1922-09-06	\N	120		0	f		\N
-10816	36	1	Harding Township 1922 Creation	1922	1922	8	1922-09-01	\N	4		0	f		\N
+10816	36	1	Harding Township 1922 Creation	1922	1922	8	1922-09-01	\N	4		0	t		\N
 10817	30	1	Hillcrest Borough Proposed 1922 Creation	1922	1922	2		\N	\N		0	f		\N
 10818	30	1	Interlaken Borough 1922 Creation	1922	1922	8	1922-05-03	\N	242		0	f		\N
 10819	30	1	Kinnelon Borough 1922 Creation	1922	1922	8	1922-03-21	\N	242		0	f		\N
@@ -11366,7 +11366,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 11513	30	5	Essex Fells Borough 1991 Creation	1991	1991	8	1991-12-17	\N	87		0	f		\N
 11514	2	7	Matawan Borough-Marlboro Township 1991 Annexation	1987	1991	8		\N	\N		0	f		\N
 11515	30	5	North Caldwell Borough 1991 Creation	1991	1991	8	1991-12-10	\N	87		0	f		\N
-11516	34	5	Long Hill Township 1992 Creation	1992	1992	8	1992-11-04	\N	29		0	f		\N
+11516	34	5	Long Hill Township 1992 Creation	1992	1992	8	1992-11-04	\N	29		0	t		\N
 11517	58	7	Phillipsburg Town 1992 Mayor-Council Form (OMCL)	1992	1992	8		\N	\N		0	f		\N
 11518	2	5	Mount Olive Township Ordinance 7-92	1992	1992	8	1992-04-28	\N	69		0	f		\N
 11519	30	5	Glen Ridge Borough 1993 Creation	1993	1993	8	1993-05-10	\N	87		0	t		\N
@@ -11707,14 +11707,14 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 14865	2	1	Norwegian Township-Pottsville Borough 1859 Annexation	1859	1859	8	1859-02-26	\N	1		0	t		\N
 14866	2	1	West Brunswick Township-Port Clinton Borough 1861 Annexation	1861	1861	8	1861-03-25	\N	1		0	f		\N
 14867	36	7	Easttown Township 1705 Creation	1705	1705	8	1705-~10-~02J	\N	25		0	t		\N
-14868	36	7	Goshen Township 1703 Creation	1703	1703	8	1703-~09-~01J	\N	25		0	f		\N
-14869	36	7	Whiteland Township 1705 Creation	1705	1705	8	1705-~10-~02J	\N	25		0	f		\N
-14870	36	7	Willistown Township 1705 Creation	1705	1705	8	1705-~10-~02J	\N	25		0	f		\N
+14868	36	7	Goshen Township 1703 Creation	1703	1703	8	1703-~09-~01J	\N	25		0	t		\N
+14869	36	7	Whiteland Township 1705 Creation	1705	1705	8	1705-~10-~02J	\N	25		0	t		\N
+14870	36	7	Willistown Township 1705 Creation	1705	1705	8	1705-~10-~02J	\N	25		0	t		\N
 14871	36	7	Kennett Township 1705 Creation	1705	1705	8	1705-~10-~02J	\N	25		0	f		\N
 14872	36	7	Marlborough Township 1702 Creation	1702	1702	8	1702-~04-~02QJ	\N	25		0	f		\N
 14874	36	7	Caln Township 1709 Creation	1709	1709	8	1709-~05-~24J	\N	25		0	f		\N
 14875	36	7	Bradford Township 1712 Creation	1712	1712	8	1712-~06-~13QJ	\N	25		0	f		\N
-14876	36	7	Uwchlan Township 1714 Creation	1714	1714	8	1714-~05-~25J	\N	25		0	f		\N
+14876	36	7	Uwchlan Township 1714 Creation	1714	1714	8	1714-~05-~25J	\N	25		0	t		\N
 14877	36	7	New Garden Township 1714 Creation	1714	1714	8	1714-~05-~25J	\N	25		0	f		\N
 14878	36	7	Tredyffrin Township 1714 Creation	1714	1714	8	1714-~08-~31J	\N	25		0	t		\N
 14879	36	7	Nottingham Township 1718 Creation	1718	1718	8	1718-~03-~25J	\N	25		0	t		\N
@@ -11949,7 +11949,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 15121	91	3	Washington Township-Fayette City Borough 1890 School District Annexation	1889	1890	8		\N	\N		0	f		\N
 15122	36	3	Georges Township-German Township Proposed 1889 New Township	1889	1892	2		\N	\N		0	f		\N
 15123	2	3	Luzerne Township-Bridgeport Borough Proposed 1889 Annexation	1889	1890	2		\N	\N		0	f		\N
-15124	4	3	Georges Township-Menallen Township-Wharton Township  to South Union Township Proposed 1900 Boundary Ascertainment	1900	1900	7		\N	\N		0	f		\N
+15124	4	3	Georges Township-Menallen Township-Wharton Township to South Union Township Proposed 1900 Boundary Ascertainment	1900	1900	7		\N	\N		0	f		\N
 15125	36	3	Wharton Township Proposed 1898 Division	1898	1898	2		\N	\N		0	f		\N
 15126	90	3	LaGrange Independent School District Proposed 1898 Dissolution	1898	1898	7		\N	\N		0	f		\N
 15127	49	1	New Alexandria Borough 1860 General Law	1860	1860	8	1860-03-12	\N	1		0	f		\N
@@ -13173,7 +13173,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 22574	40	1	Norristown Borough Proposed 1837 Plat Recording	1837	1837	7		\N	\N		0	f		\N
 22575	40	1	Pottstown Borough 1828 Plat Recording	1828	1828	8	1828-11-22	\N	34		0	f		\N
 22576	5	1	Chester Borough 1818 Charter Amendment	1818	1818	8	1818-02-17	\N	1		0	t		\N
-22579	2	3	Uwchlan Township-Upper Uwchlan Township Proposed 1996 Annexation	1996	1996	7		\N	\N		0	f		\N
+22579	2	3	Uwchlan Township-Upper Uwchlan Township Proposed 1996 Annexation	1996	1996	7		\N	\N		0	t		\N
 22580	4	3	Phoenixville Borough-Schuylkill Township 2003 Boundary Realignment	2001	2003	8	2003-04-21	\N	34		0	f		\N
 22581	9	3	Allegheny Township-Harmony Township 1867 Merger and Tionesta Township-Harmony Township 1867 Annexation	1867	1867	10	1867-~08-~01	\N	43		0	f		\N
 22583	9	3	Pinegrove Township-President Township to Tionesta Township Reconstructed 1867 Merger	1867	1867	6	1867-~02-~01	\N	43		0	f		\N
@@ -13260,10 +13260,10 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 22677	36	3	Morris County 1740 Township Division	1740	1740	8	1740-03-25J	\N	34		0	f		\N
 22678	36	7	Trenton Township 1719 Creation	1719	1719	10	1719-~06-~03J	\N	25		0	f		\N
 22679	40	3	Trenton Township 1719 Plat Recording	1719	1719	10	1719[-03-02J	\N	127		0	f		\N
-22680	36	7	Pequannock Township 1719 Creation	1719	1719	10	1719*-~03-~01J	\N	25		0	f		\N
-22681	36	3	Whippanong Township 1719 Creation	1719	1719	8	1719*-~03-~01J	\N	25		0	f		\N
-22682	36	3	Walpack Township 1731 Creation	1731	1731	10	1731-~10-~26J	\N	25		0	f		\N
-22683	34	7	Hanover Township 1722 Creation	1722	1722	10	1722-~05-~14	\N	25		0	f		\N
+22680	36	7	Pequannock Township 1719 Creation	1719	1719	10	1719*-~03-~01J	\N	25		0	t		\N
+22681	36	3	Whippanong Township 1719 Creation	1719	1719	8	1719*-~03-~01J	\N	25		0	t		\N
+22682	36	7	Walpack Township 1731 Creation	1731	1731	10	1731-~10-~26J	\N	25		0	f		\N
+22683	34	7	Hanover Township 1722 Creation	1722	1722	10	1722-~05-~14	\N	25		0	t		\N
 22684	36	3	Burlington County 1688 Township Division	1688	1688	8	1688-11-06J	\N	34		0	f		\N
 22685	36	3	Maidenhead Township 1696 Creation	1696	1696	8	1696*-02-20J	\N	34		0	f		\N
 22686	36	3	Hopewell Township 1699 Creation	1699	1699	8	1699*-02-20J	\N	34		0	f		\N
@@ -13377,12 +13377,11 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 31933	2	5	Dallastown Borough Ordinance 153 and 155	1932	1933	8	1932-11-09	\N	135		0	t		\N
 31934	2	7	Upper Darby Township-Springfield Township Reconstructed 1792-1817 Annexation	1792	1817	6		\N	\N		0	t		\N
 31935	31	4	Philadelphia City 1691 Creation	1691	1691	10	1691-03-20QJ	\N	109		0	t		\N
-31936	2	7	West Vincent Township-Upper Uwchlan Township Reconstructed 1860-1873 Annexation	1860	1873	6		\N	\N		0	t		\N
 31937	2	7	West Vincent Township-South Coventry Township Reconstructed 1856-1860 Annexation	1856	1860	6		\N	\N		0	t		\N
 31948	36	3	Pickering Township Proposed 1821 Creation	1821	1821	2		\N	\N		0	f		\N
-31949	2	7	Honey Brook Township-Wallace Township to West Brandywine Township 1860 Annexation	1860	1860	8		\N	\N		0	t		\N
+31949	2	3	Honey Brook Township-Wallace Township to West Brandywine Township 1860 Annexation	1860	1860	8	1860-08-18	\N	34		0	t		\N
 31950	2	7	North Heidelberg Township-Heidelberg Township Reconstructed 1854-1860 Annexation	1854	1860	6		\N	\N		0	t		\N
-31999	2	7	East Nantmeal Township-Wallace Township 1860 Annexation	1860	1860	8		\N	\N		0	t		\N
+31999	2	3	East Nantmeal Township-Wallace Township 1860 Annexation	1860	1860	8	1860-11-02	\N	34		0	t		\N
 32001	2	7	Honey Brook Township-West Nantmeal Township Reconstructed 1856-1860 Annexation	1856	1860	6		\N	\N		0	t		\N
 32008	36	3	Neshannock Township-Shenango Township Proposed 1855 New Township (1)	1855	1855	2		\N	\N		0	f		\N
 32009	36	3	Neshannock Township-Shenango Township Proposed 1855 New Township (2)	1855	1855	2		\N	\N		0	f		\N
@@ -13933,7 +13932,7 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 52431	2	3	Hanover Township-Pequannock Township to Roxbury Township 1758 Annexation	1758	1758	8	1758-12-20	\N	34		0	f		\N
 52432	5	1	Jersey City City 1871 Charter Amendment	1871	1871	10	1871-03-31	\N	1		0	f		\N
 52433	2	1	Waterford Township-Newton Township 1783 Annexation	1783	1783	10		\N	\N		0	t		\N
-52434	36	7	New Brunswick Township 1724 Creation	1724	1724	10	1723-~04-~04J	\N	25		0	f		\N
+52434	36	7	New Brunswick Township 1724 Creation	1724	1724	10	1724-~04-~04J	\N	25		0	f		\N
 52435	31	4	New Brunswick City 1730 Creation	1730	1730	8	1730-12-30J	\N	109		0	f		\N
 52437	5	4	Perth Amboy City 1753 Charter Revival	1753	1753	10	1753-~01-~01	\N	109		0	f		\N
 52438	2	7	Perth Amboy City-Perth Amboy Township Reconstructed 1720s Annexation	1720	1730	6		\N	\N		0	f		\N
@@ -15901,3 +15900,6 @@ eventid	eventtype	eventmethod	eventlong	eventfrom	eventto	eventgranted	eventeffe
 88364	31	7	Penn Hills City Proposed 1952 Creation	1952	1952	12		\N	\N		0	t		\N
 88370	2	5	Rush Township-Philipsburg Borough 2025 Annexation	2023	2025	10	2025-01-01	\N	255		0	t		\N
 88557	4	3	Center Township-Potter Township 2023 Boundary Ascertainment	2019	2024	10	2023-12-28	\N	34		0	f		\N
+88559	2	3	Sharon Hill Borough-Darby Borough 1973 Annexation	1973	1973	8	1973-09-25	\N	38		0	t		\N
+88560	4	3	Chatham Township-Passaic Township 1887 Boundary Ascertainment	1887	1887	10		\N	\N		0	f		\N
+88561	2	5	Harding Township Ordinance 2-90	1990	1990	8	1990-02-13	\N	69		0	t		\N

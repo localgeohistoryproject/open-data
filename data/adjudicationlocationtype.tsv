@@ -444,7 +444,7 @@ adjudicationlocationtypeid	tribunal	adjudicationlocationtypearchivelevel	adjudic
 501	165	\N		Docket	Volume	Page	MN	Miscellaneous	Misc.D.
 502	498	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
 504	503	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
-505	505	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
+505	463	\N		Minute	Volume	Page	Min	Common Pleas	Com.Pl.M.
 506	509	\N		Docket	Volume	Page	Sess	Sessions	Q.Sess.D.
 514	167	\N		Docket	Volume	Page	Misc	Miscellaneous	Misc.D.
 515	386	\N		File	Box	Location	Road F	Road	Rd.F.
@@ -512,3 +512,4 @@ adjudicationlocationtypeid	tribunal	adjudicationlocationtypearchivelevel	adjudic
 1801	52	\N		Docket	Volume	Page	Civil	Civil	Civ.D.
 1802	430	\N		Docket	Volume	Page	Errors and Appeals	Errors and Appeals	Err.App.D.
 1970	191	\N		Docket	Volume	Page	In re	In re	IR.D.
+1972	507	\N		Minute	Volume	Page	Min	Quarter Sessions	Q.Sess.M.

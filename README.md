@@ -12,7 +12,7 @@ This repository does not contain the application code, which can be found in the
 
 ## File format
 
-The TSV files were created using the [PostgreSQL COPY function](https://www.postgresql.org/docs/15/sql-copy.html) in the Text Format. Each file corresponds with a PostgreSQL table in the application.
+The TSV files were created using the [PostgreSQL COPY function](https://www.postgresql.org/docs/15/sql-copy.html) in the Text Format. Each file corresponds with a PostgreSQL table in the application. The files corresponding with the governmentshape table all begin with that word, but are split by jurisdiction.
 
 Because TSV files do not use quotation marks to escape fields containing tabs, the **String delimiter** option in LibreOffice Calc or the **Text qualifier** option in Microsoft Excel must be left blank to ensure the file imports accurately.
 
