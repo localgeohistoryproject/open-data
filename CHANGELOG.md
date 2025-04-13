@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.1.0] - 2025-04-12
+
+### Changed
+
+- Extract file governmentshape.tsv split by jurisdiction.
+- Minor data quality improvements in New Jersey and Pennsylvania.
+
+### Fixed
+
+- In extract file sourceitem.tsv, missing forward slashes in URLs.
+
+### Removed
+
+- In extract file metesdescription.tsv, removed data from metesdescriptionquality column.
+
 ## [3.0.0] - 2025-03-23
 
 ### Added
@@ -127,6 +142,7 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
+[3.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.0.0...v3.1.0
 [3.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.1.0...v3.0.0
 [2.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v1.2.1...v2.0.0

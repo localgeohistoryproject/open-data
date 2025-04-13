@@ -306,7 +306,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 3414	Binghamton	Town		f		4	1874				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 3415	Birdsboro	Borough		f		4	2292				\N	\N			f	\N	\N	\N	f		\N		2	en			141
 3416	Birmingham	Borough		f		4	2317				\N	\N			t	\N	\N	\N	f		\N		2	en			259
-3417	Birmingham	Township		f		4	2301				\N	\N			t	\N	\N	\N	f		\N		1	en			9
+3417	Birmingham	Township		f		4	2301				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 3418	Black	Township		f		4	2342				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 3419	Black Creek	Township		f		4	2326				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 3420	Black Lick	Township		f		4	2318				\N	\N			t	\N	\N	\N	f		\N		1	en			9
@@ -757,7 +757,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 3866	East Fallowfield	Township		f		4	2306				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 3867	East Finley	Township		f		4	2349				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 3868	East Franklin	Township		f		4	2289				\N	\N			f	\N	\N	\N	f		\N		1	en			9
-3869	East Goshen	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			9
+3869	East Goshen	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 3870	East Greenville	Borough		f		4	2332				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 3871	East Hanover	Township		f		4	2324				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 3872	East Hanover	Township		f		4	2308				\N	\N			t	\N	\N	\N	f		\N		1	en			9
@@ -796,7 +796,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 3905	East Vincent	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 3906	East Washington	Borough		f		4	2349				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 3907	East Wheatfield	Township		f		4	2318				\N	\N			f	\N	\N	\N	f		\N		1	en			9
-3908	East Whiteland	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			9
+3908	East Whiteland	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 3909	Easton	City		f		4	2334				\N	\N			f	\N	\N	\N	f		\N		2	en			97
 3910	Easttown	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 3911	Eastvale	Borough		f		4	2290				\N	\N			f	\N	\N	\N	f		\N		2	en			111
@@ -2371,7 +2371,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5480	Thompson	Township		f		4	2315				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5481	Thompsontown	Borough		f		4	2320				\N	\N			f	\N	\N	\N	f		\N		2	en			143
 5482	Thornburg	Borough		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			111
-5483	Thornbury	Township		f		4	2301				\N	\N			t	\N	\N	\N	f		\N		1	en			9
+5483	Thornbury	Township		f		4	2301				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 5484	Thornbury	Township		f		4	2309				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 5485	Thornhurst	Township		f		4	2321				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5486	Three Springs	Borough		f		4	2317				\N	\N			f	\N	\N	\N	f		\N		2	en			143
@@ -2494,7 +2494,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5603	Upper Tulpehocken	Township		f		4	2292				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5604	Upper Turkeyfoot	Township		f		4	2342				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5605	Upper Tyrone	Township		f		4	2312				\N	\N			f	\N	\N	\N	f		\N		1	en			9
-5606	Upper Uwchlan	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
+5606	Upper Uwchlan	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5607	Upper Yoder	Township		f		4	2297				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5608	Ursina	Borough		f		4	2342				\N	\N			f	\N	\N	\N	f		\N		2	en			143
 5609	Utica	Borough		f		4	2347				\N	\N			f	\N	\N	\N	f		\N		1	en			143
@@ -2626,7 +2626,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5736	West Fallowfield	Township		f		4	2306				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5737	West Finley	Township		f		4	2349				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5738	West Franklin	Township		f		4	2289				\N	\N			f	\N	\N	\N	f		\N		1	en			9
-5739	West Goshen	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			9
+5739	West Goshen	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 5740	West Grove	Borough		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5741	West Hanover	Township		f		4	2308				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5742	West Hazleton	Borough		f		4	2326				\N	\N			f	\N	\N	\N	f		\N		2	en			111
@@ -2673,7 +2673,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5783	West View	Borough		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5784	West Vincent	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 5785	West Wheatfield	Township		f		4	2318				\N	\N			f	\N	\N	\N	f		\N		1	en			9
-5786	West Whiteland	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			9
+5786	West Whiteland	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 5787	West Wyoming	Borough		f		4	2326				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5788	West York	Borough		f		4	2353				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5789	Westfall	Township		f		4	2338				\N	\N			f	\N	\N	\N	f		\N		1	en			9
@@ -2681,7 +2681,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5791	Westfield	Township		f		4	2345				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5792	Westmont	Borough		f		4	2297				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5793	Westover	Borough		f		4	2303				\N	\N			f	\N	\N	\N	f		\N		2	en			111
-5794	Westtown	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			9
+5794	Westtown	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 5795	Wetmore	Township		f		4	2328				\N	\N			f	\N	\N	\N	f		\N		1	en			9
 5796	Wharton	Township		f		4	2339				\N	\N			t	\N	\N	\N	f		\N		1	en			9
 5797	Wharton	Township		f		4	2312				\N	\N			t	\N	\N	\N	f		\N		1	en			9
@@ -2712,7 +2712,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 5822	Williamsport	City		f		4	2327				\N	\N			f	\N	\N	\N	f		\N		2	en			165
 5823	Williamstown	Borough		f		4	2308				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5824	Willing	Town		f		4	1872				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-5825	Willistown	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			9
+5825	Willistown	Township		f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			9
 5826	Wilmerding	Borough		f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			111
 5827	Wilmington	Township		f		4	2323				\N	\N			t	\N	\N	\N	f		\N		2	en			9
 5828	Wilmington	Township		f		4	2329				\N	\N			t	\N	\N	\N	f		\N		2	en			9
@@ -3082,7 +3082,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 6201	Gibsonburg	Borough	defunct	f		4	2326				\N	\N			f	\N	\N	\N	f		4342		7	en			\N
 6202	Glenburn	Borough	defunct	f		4	2321				\N	\N			f	\N	\N	\N	f		4108		7	en			\N
 6203	Glenwood	Borough	defunct	f		4	2321				\N	\N			f	\N	\N	\N	f		4609		7	en			\N
-6204	Goshen	Township	defunct	f		4	2301				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
+6204	Goshen	Township	defunct	f		4	2301				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
 6205	Gouldsboro	Borough	defunct	f		4	2321				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6206	Grand Valley	Borough	defunct	f		4	2348				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6207	Graysville	Borough	defunct	f		4	2316				\N	\N			f	\N	\N	\N	f		4121		7	en			\N
@@ -3466,7 +3466,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 6601	Westwood	Borough	defunct	f		4	2288				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6602	Wheatfield	Township	defunct	f		4	2318				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 6603	White Hall	Borough	defunct	f		4	2337				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
-6604	Whiteland	Township	defunct	f		4	2301				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+6604	Whiteland	Township	defunct	f		4	2301				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6605	Wickboro	Borough	defunct	f		4	2289				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 6606	Wilkes-Barre	Borough	defunct	f		4	2326				\N	\N			f	\N	\N	\N	f		5814		7	en			\N
 6607	Williamsburg	Borough	defunct	f		4	2317				\N	\N			t	\N	\N	\N	f		\N		2	en			\N
@@ -3825,7 +3825,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7101	Carteret	Borough		f		4	1828				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7102	Cedar Grove	Township		f		4	1823				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7103	Chatham	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
-7104	Chatham	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7104	Chatham	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7105	Cherry Hill	Township		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7106	Chesilhurst	Borough		f		4	1820				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7107	Chester	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3900,7 +3900,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7176	Fieldsboro	Borough		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7177	Flemington	Borough		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7178	Florence	Township		f		4	1819				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
-7179	Florham Park	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7179	Florham Park	Borough		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7180	Folsom	Borough		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7181	Fort Lee	Borough		f		4	1818				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7182	Frankford	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -3945,7 +3945,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7221	Hampton	Borough		f		4	1826				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7222	Hampton	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7223	Hanover	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7224	Harding	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7224	Harding	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7225	Hardwick	Township		f		4	1837				\N	\N			t	\N	\N	\N	f		\N		1	en			\N
 7226	Hardyston	Township		f		4	1835				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7227	Harmony	Township		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
@@ -4020,7 +4020,7 @@ governmentid	governmentname	governmenttype	governmentstatus	governmentstatusdefa
 7296	Logan	Township		f		4	1824				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7297	Long Beach	Township		f		4	1831				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7298	Long Branch	City		f		4	1829				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
-7299	Long Hill	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
+7299	Long Hill	Township		f		4	1830				\N	\N			f	\N	\N	\N	f		\N		2	en			\N
 7300	Longport	Borough		f		4	1817				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7301	Lopatcong	Township		f		4	1837				\N	\N			f	\N	\N	\N	f		\N		1	en			\N
 7302	Lower	Township		f		4	1821				\N	\N			f	\N	\N	\N	f		\N		1	en			\N

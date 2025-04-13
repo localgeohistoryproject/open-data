@@ -5903,7 +5903,7 @@ sourcecitationid	source	sourcecitationdate	sourcecitationdatetype	sourcecitation
 6725	126						6	6		CHRONOLOGY OF THE POLITICAL SUBDIVISIONS OF THE PRESENT CITY AND COUNTY OF PHILADELPHIA							8
 6727	345									CENSUS --------- 1971							2
 6728	345									EM/Census: 1980 County Classification Changes							
-6729	345									CENSUS - 1960							
+6729	345									CENSUS - 1960							3
 6730	504	1946-10-18					18	18		AN ORDINANCE ANNEXING TO THE BOROUGH OF WEST YORK, A SECTION OF WEST MANCHESTER TOWNSHIP, YORK COUNTY, PENNSYLVANIA, ADJACENT TO AND LYING TO THE NORTHWEST OF SAID BOROUGH, HEREIN DESCRIBED							
 6731	489	1931-06-08					13	13									
 6732	489	1941-07-19					11	11		ORDINANCE NO. 230							
@@ -11937,7 +11937,7 @@ sourcecitationid	source	sourcecitationdate	sourcecitationdatetype	sourcecitation
 281918	886	2011-09-30	As of	2018-01-30	Retrieved							MIFFLIN					8
 281919	886	2011-09-30	As of	2018-01-30	Retrieved							MONROE					78
 281920	886	2011-09-30	As of	2018-01-30	Retrieved							MONROE					79
-281921	886	2011-09-30	As of	2018-01-30	Retrieved							MONTGOMERY					91
+281921	886	2011-09-30	As of	2018-01-30	Retrieved							MONTGOMERY					93
 281922	886	2011-09-30	As of	2018-01-30	Retrieved							MONTOUR					1
 281923	886	2011-09-30	As of	2018-01-30	Retrieved							MONTOUR					2
 281925	886	2011-09-30	As of	2018-01-30	Retrieved							PA Non-County Area 1					2
@@ -17168,8 +17168,6 @@ sourcecitationid	source	sourcecitationdate	sourcecitationdatetype	sourcecitation
 451769	1583						18	19		SYLVANIA							
 451770	1584						20	21		HOLLIDAYSBURG							
 451771	1585						46	46		WALLACE							
-451772	1585						47	47		UPPER UWCHLAN AND UWCHLAN							
-451773	1585						51	51		WEST VINCENT							
 451774	1585						52	52		EAST NANTMEAL							
 451775	1585						45	45		EAST & WEST BRANDYWINE							
 451776	1585						54	54		HONEY BROOK							
@@ -17621,3 +17619,4 @@ sourcecitationid	source	sourcecitationdate	sourcecitationdatetype	sourcecitation
 469295	1709	2024-10-30							https://www.theprogressnews.com/news/clearfield-county-votes-to-cede-falls-creek-to-jefferson- county/article_b169dae6-96d7-11ef-9987-4ba0e571ab45.html	Clearfield County votes to cede Falls Creek to Jefferson County	Corcino, Jeff						
 469296	1710	2024-11-05							https://therecord-online.com/site/archives/118192	Election Results: East Keating Township merger with Noyes gets support	Miller, Christopher						
 469297	1711						155	158		Tiffany, Lyman B.							
+469446	992						192	193		CHAPTER III. ORGANIZATION AND CIVIL HISTORY.							

@@ -3906,7 +3906,7 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 4099	232		1731-11		Division of	Township/Borough Boundaries - Bradford		
 4100	232		1733-08		Petition for northern bounds	Township/Borough Boundaries - New London		
 4101	232		1734-08		Petition for the erection of	Township/Borough Boundaries - Pikeland		
-4102	232		1726		Boundaries of	Township/Borough Boundaries - Uwchlan		
+4102	232		1726-05		Boundaries of	Township/Borough Boundaries - Uwchlan		
 4103	232		1738-08		Vincent: Boundaries			
 4104	232		1739-05		Boundaries	Township/Borough Boundaries - Caln, East		2
 4106	232		1740-02		Erected	Township/Borough Boundaries - Newlin		
@@ -12055,9 +12055,8 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 13350	441		1721-07					
 13351	432		1693-03					
 13352	432		1686-05					
-13353	434		1731-04					
-13354	434		1724-04					
-13355	434		1738-10					
+13353	436		1731-04					
+13354	436		1724-04					
 13356	361		1920			STATE, THOMAS F. McCRAN, ATTORNEY-GENERAL, RELATOR, v. THE BOROUGH OF OCEAN GROVE, IN THE COUNTY OF MONMOUTH, RESPONDENT.		
 13357	359		1921-03			THOMAS F. McCRAN, ATTORNEY-GENERAL, RESPONDENT, v. BOROUGH OF OCEAN GROVE, IN THE COUNTY OF MONMOUTH, APPELLANT.		
 13358	460	2738	1978					
@@ -12198,3 +12197,6 @@ adjudicationid	adjudicationtype	adjudicationnumber	adjudicationterm	adjudication
 26768	161	1083	2024	In re: East Keating Township merger into Noyes Township				
 26769	148	10098	2019					
 26770	148	11608	2019					
+26771	165	2796	1971					
+26772	231		1860	View to alter the township lines between East & West Nantmeal and Wallace				
+26773	231		1860		Alteration of the Boundary lines of the townships of Wallace Honey Brook & West Brandywine			

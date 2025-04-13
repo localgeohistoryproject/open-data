@@ -147,11 +147,11 @@ metesdescriptionlineid	metesdescription	metesdescriptionline	thencepoint	northso
 146	1742	9	4	N	27.7333333333333	W	63.5	Stake		\N	0	\N	\N		\N
 147	1742	10	5	S	63.3	W	940.6	Stake		\N	0	\N	\N		\N
 148	1742	11	6	S	67.95	W	2183.32	Stake		\N	0	\N	\N		\N
-149	1742	12	7		\N		64.01		left	4019.83	0	\N	\N		\N
+149	1742	12	7		\N		64.01		left	4019.83	1	\N	\N		\N
 150	1742	13	8	S	24.5166666666667	E	48.2	Stake		\N	0	\N	\N		\N
 151	1742	14	9	S	63.7333333333333	W	251.5	Stake		\N	0	\N	\N		\N
 152	1742	15	10	N	26.0333333333333	W	53.81	Stake		\N	0	\N	\N		\N
-153	1742	16	11		\N		1605.33		left	1419.83	0	\N	\N		\N
+153	1742	16	11		\N		1605.33		left	1419.83	-1	\N	\N		\N
 154	1742	17	12	S	40.2	W	95.46	Stake		\N	0	\N	\N		\N
 155	1742	18	13	S	27.4	E	140.62	Stake		\N	0	\N	\N		\N
 156	1742	19	14	S	40.2	W	1178.38	Stake, the place of beginning		\N	0	\N	\N		\N
@@ -91620,3 +91620,50 @@ metesdescriptionlineid	metesdescription	metesdescriptionline	thencepoint	northso
 92526	8910	4		S	59.945833333333	W	856.84	existing concrete monument point having a coordinate of Northing: 500448.5986, Easting: 1255926.0700		\N	0	\N	\N		\N
 92527	8910	6		S	32.302222222222	E	6202.91	existing concrete monument having a coordinate of Northing: 489522.9830, Easting: 1256780.1230		\N	0	\N	\N		\N
 92528	8910	5		S	23.413333333333	W	6192.55	existing concrete monument point having a coordinate of Northing: 494765.9354; Easting: 1253465.3834		\N	0	\N	\N		\N
+92529	8911	1	through land of said Marshall Strode (The True bearings used)	S	34.5	W	1567.5	middle of a public road leading from Strode's mill to Birmingham Meeting House		\N	0	\N	\N		\N
+92530	8911	2	Same course continued	S	34.5	W	1254	Stone a corner of Marshall Strode and William Kite and in the line of land of Palmer Chamberlain		\N	0	\N	\N		\N
+92531	8911	3	through said Chamberlains land	S	57.7	W	1173.15	corner of William Forsythe's land		\N	0	\N	\N		\N
+92532	8911	4	same course nearly along the line between Palmer Chamberlain and William Forsythe	S	57.7	W	688.05	Stone a corner of William Lightfoots land		\N	0	\N	\N		\N
+92533	8911	5	nearly along the line of William Lightfoot and William Forsythes land	S	57	W	2376	middle of a public road near a corner of lands of William Lightfoot and William Gibbons on the North and William Forsythe and John P. Sager on the South		\N	0	\N	\N		\N
+92534	8911	6	Same course continued nearly along the line of lands of William Gibbons and John P. Sager	S	57	W	631.125	public road leading to Baily's mill		\N	0	\N	\N		\N
+92535	8911	7	same course continued by same lands	S	57	W	1183.875	point in the middle of Brandywine creek in the line of Pocopson township near Bailys mill		\N	0	\N	\N		\N
+92536	8912	1	by said Township line dividing the Township of Birmingham and the Township of Westtown and by a line being the property line between lands of A. Darlington Strode and Radley Run, Inc. (Osborne Hill Section)	S	33.530555555556	E	885.33	old corner stone, marking a corner of lands of said Radley Run, Inc. and also marking a corner of lands of A. Darlington Strode		\N	0	\N	\N		\N
+92537	8912	2	through lands of Radley Run, Inc., being the Osborne Hill section	S	33.377222222222	E	843.24	concrete monument, set in line of lands of Z. Edmund Prince		\N	0	\N	\N		\N
+92538	8912	3	still by said line being through lands of Z. Edmund Prince	S	33.377222222222	E	1544.37	concrete monument, set in line of other lands of Radley Run, Inc.		\N	0	\N	\N		\N
+92539	8912	4	by lands of said Radley Run, Inc.	S	33.377222222222	E	1133.94	marble monument, marking a corner of lands of said Radley Run, Inc. and said monument also marking a corner of lands of James K. Robinson, Jr.		\N	0	\N	\N		\N
+92540	8912	5	still by said line and by lands of Radley Run, Inc. and also by lands of James K. Robinson, Jr.	S	33.033333333333	E	1369.14	old concrete monument, set for a corner of lands of Radley Run, Inc. and a corner of lands of James K. Robinson, Jr., a corner of lands of William Allen Taft and a corner of lands of various owners fronting on Lake Drive		\N	0	\N	\N		\N
+92541	8912	6	by line of lands of said William Allen Taft and also by various owners fronting on Lake Drive	S	32.084166666667	E	2020.11	old spike set in the center line of State Route #926, known as Street Road, said spike marking the southwesterly corner of Westtown Township boundary line, said spike of ending of this described township line, being North 57 degrees 25 minutes 00 seconds East, (being measured along the center line of said State Route #926, known as Street Road) 953.60 from an old spike set at the intersection of public roads being State Route #926 and Legislative Route #15087, known as Birmingham Road		\N	0	\N	\N		\N
+92543	8913	1	crossing vacant land, South by East	S	\N	E	610.5			\N	0	\N	\N		\N
+92544	8913	2		S	4	W	3531	Black oak near a Run		\N	0	\N	\N		\N
+92545	8913	3	crossing ye said Run	S	26	E	165	Spanish oak		\N	0	\N	\N		\N
+92546	8913	4		S	6	W	297			\N	0	\N	\N		\N
+92547	8913	5		S	30	E	363	white		\N	0	\N	\N		\N
+92548	8913	6	crossing vacant land	S	4	E	1254	white oak near a line of Ellis Williams land		\N	0	\N	\N		\N
+92549	8913	7		S	24	E	693	north west corner of Nicholas White's land		\N	0	\N	\N		\N
+92550	8913	8	along a line between the land of the said Nicholas White, and the land of Ellis Williams	S	25	E	2887.5	post		\N	0	\N	\N		\N
+92551	8913	9		S	52	E	99	post standing two perches and a half west South West from a corner marked black oak, being the north west corner of the land now or late of William Hudson		\N	0	\N	\N		\N
+92552	8913	10	along a line parrarell to the line of the land now or late of the said William Hudson (at the distance of two perches and a half therefrom) viz	S	24	E	9075	post standing by the Mill Road at a small distance eastward from the said George Asbridges mill		\N	0	\N	\N		\N
+92553	8914	1	northerly course along the line dividing said lands	N	\N		\N	corner of John Rettew & Rebekah Hoops's land		\N	0	\N	\N		\N
+92554	8914	2	along the line dividing said lands, and of said Rettew, Jesse Matlack, Eli Thomas, & John Marshall, on the East side, & William Rettew, on the West side		\N		\N	Street road		\N	0	\N	\N		\N
+92555	8914	3	along the same westerly		\N	W	\N	corner of Jesse McCalls land on the West, & Nathan Sharples, William Minster, & Isaac Hains, on the East side		\N	0	\N	\N		\N
+92556	8914	4			\N		\N	north west corner of said Hains's land		\N	0	\N	\N		\N
+92557	8914	5	along the line of said Hains, and lands of John Temple, an easterly course		\N	E	\N	middle of old Chester road		\N	0	\N	\N		\N
+92558	8914	6	along the middle of the same north westerly	N	\N	W	948.75			\N	0	\N	\N		\N
+92559	8914	7	northerly direction, on the line dividing the lands of John Morgan, Isaiah Fawkes, & Benjamin Matlack on the west side, & Enos Garrett, & Eli Patterson, on the East side		\N		\N	intersect West Whiteland Township		\N	0	\N	\N		\N
+92560	8915	1	Southerly along the West line of Thomas Bowens	S	\N		\N			\N	0	\N	\N		\N
+92561	8915	2	along the west line of land late of George Hunter		\N		\N			\N	0	\N	\N		\N
+92562	8915	3			\N		\N	line of Goshen Township in a direct course		\N	0	\N	\N		\N
+92563	8916	1	along the line dividing West Nantmeal and Wallace Township	S	49	W	247.5	post in land of Jos R Parker Esqr		\N	0	\N	\N		\N
+92564	8916	2	through the same and along the lands of lands of Isaac W. Vandeer and Jemima Smith	N	4.75	W	1320	stone corner of the last mentioned lands		\N	0	\N	\N		\N
+92565	8916	3	through the lands of the latter	N	23	E	1881	stone heap in a line of the same and corner of Levi Knauer & George Pennypacker's lands		\N	0	\N	\N		\N
+92566	8916	4	by a line of the latter land & land of said Jemima Smith	N	88	E	3498	post in the middle of Marsh creek		\N	0	\N	\N		\N
+92568	8916	5	down the several courses of the same		\N		9949.5	post in the line dividing East Nantmeal and Wallace township where said line crosses said creek		\N	0	\N	\N		\N
+92569	8917	1	along the Manor line	S	89	W	1039.5	line of John Stapleton and Dr. A. K. Gastons land		\N	0	\N	\N		\N
+92570	8917	2	through the township of Honey Brook	N	33	E	6600	Chesnut tree a corner of the townships of West Nantmeal and Wallace		\N	0	\N	\N		\N
+92571	8917	3	along the line of West Nantmeal and Wallace Townships	N	49.5	E	4438.5	stone on the East side of a Public Road		\N	0	\N	\N		\N
+92572	8917	4	through Wallace township	S	61	E	3696	Rock North of George A Davis' House		\N	0	\N	\N	No N/S.	\N
+92573	8917	5	through the said township	S	38.75	E	7920	Brandywine Manor line on the farm of Thomas Forrest Eighty five Perches west of a White Oak Tree in the Brandywine Manor line and in the middle of the Washingtonville and Sprinton Road		\N	0	\N	\N		\N
+92574	8918	1	And from said point of beginning runs, thence; 1. Along the first course of said 14.70 acre tract	N	81.608611111111	E	439.1	point		\N	0	\N	\N		\N
+92575	8918	2	2. Along the second course of said 14.70 acre tract, and the third course of said 8.30 acre tract	S	65.3525	E	560.79	concrete monument, being the sixth corner of a 4.863 acre tract conveyed by Mount Kemble Corporation to Kenneth H. Mills, and Alma M. Mills, described in Deed Book 70, Page 208, recorded in the Office of the Morris County Clerk		\N	0	\N	\N		\N
+92576	8918	3	3. Along the third course of said 14.70 acre tract, and along the third course of a tract described in Deed Book 2836, Page 860, recorded in the Office of the Morris County Clerk	S	37.705833333333	W	288.8	point along the approximate Morris Township and Harding Township boundary line		\N	0	\N	\N		\N
+92577	8918	4	4. Along the approximate Morris Township and Harding Township boundary line	N	62.573055555556	W	864.66	point and place of beginning		\N	0	\N	\N		\N
