@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- In extract file sourcecitation.tsv, change column sourcecitationarchivecarton to sourcecitationcontainer, and column sourcecitationarchiveslotfilm to sourcecitationitemlocation.
+
 ### Fixed
 
 - Legacy location and series references for Pennsylvania State Archives citations.
