@@ -551,8 +551,8 @@ sourcecitation	sourcecitationurl	10	text
 sourcecitation	sourcecitationtypetitle	11	text
 sourcecitation	sourcecitationperson	12	text
 sourcecitation	sourcecitationgovernmentreferences	13	text
-sourcecitation	sourcecitationarchiveslotfilm	14	character varying
-sourcecitation	sourcecitationarchivecarton	15	character varying
+sourcecitation	sourcecitationitemlocation	14	character varying
+sourcecitation	sourcecitationcontainer	15	character varying
 sourcecitation	sourcecitationstatus	16	character varying
 sourcecitation	sourcecitationissue	17	character varying
 sourcecitation	sourcecitationname	18	text
