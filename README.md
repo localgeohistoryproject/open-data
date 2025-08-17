@@ -83,7 +83,7 @@ The least common geometries method,[^1] where polygon geometries are split into 
 
 ### Using QGIS to view data
 
-[QGIS](https://www.qgis.org/) supports reading this data directly from the TSV via a **Virtual Layer**. Navigate to **Layer**, then **Add/Edit Virtual Layer**. This will open up a dialog to add a Virtual Layer. Press **Add** under **Embedded layers** and set the following values (replacing **FOLDER** with the folder in which the file is located, and **FILE** with the jurisdiction associated with the particular file to be viewed):
+[QGIS](https://www.qgis.org/) supports reading this data directly from the TSV via a **Virtual Layer**. Navigate to **Layer**, then **Add/Edit Virtual Layer**. This will open up a dialog to add a Virtual Layer. Press **Add** under **Embedded layers** and set the following values (replacing **FOLDER** with the folder in which the file is located, and **FILE** with the jurisdiction associated with the file to be viewed):
 
 **Local name:** governmentshape
 
@@ -106,5 +106,24 @@ Then, press **Add**, then **Close**, and the least common geometries should appe
 For further information, see:
 
 <https://gis.stackexchange.com/questions/69500/importing-points-in-wkb-format-to-qgis>
+
+### Converting to other formats
+
+Other GIS software may not be able to open the geometry TSV files directly. Using the [CSV driver](https://gdal.org/en/stable/drivers/vector/csv.html) in [ogr2ogr](https://gdal.org/en/stable/programs/ogr2ogr.html), a GDAL program, these files can be quickly converted to a large number of other formats. For example, the following terminal command converts a geometry TSV to a GeoPackage (before running, replace **FILE** with the jurisdiction associated with the file to be converted):
+
+```bash
+ogr2ogr \
+    -f GPKG governmentshape_FILE.gpkg \
+    governmentshape_FILE.tsv \
+    -oo GEOM_POSSIBLE_NAMES=governmentshapegeometry \
+    -oo KEEP_GEOM_COLUMNS=NO \
+    -a_srs 'EPSG:4326'
+```
+
+For more information on how to download GDAL and what export formats are available, see:
+
+<https://gdal.org/en/stable/download.html>
+
+<https://gdal.org/en/stable/drivers/vector/index.html>
 
 [^1]: Martina De Moor and Torsten Wiedemann, "Reconstructing Territorial Units and Hierarchies: A Belgian Example," *History and Computing* 13, no. 1 (March 2001): 71-98, https://doi.org/10.3366/hac.2001.13.1.71.
