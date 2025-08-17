@@ -83,11 +83,11 @@ The least common geometries method,[^1] where polygon geometries are split into 
 
 ### Using QGIS to view data
 
-[QGIS](https://www.qgis.org/) supports reading this data directly from the TSV via a **Virtual Layer**. Navigate to **Layer**, then **Add/Edit Virtual Layer**. This will open up a dialog to add a Virtual Layer. Press **Add** under **Embedded layers** and set the following values (replacing **FOLDER** with the folder in which the file is located):
+[QGIS](https://www.qgis.org/) supports reading this data directly from the TSV via a **Virtual Layer**. Navigate to **Layer**, then **Add/Edit Virtual Layer**. This will open up a dialog to add a Virtual Layer. Press **Add** under **Embedded layers** and set the following values (replacing **FOLDER** with the folder in which the file is located, and **FILE** with the jurisdiction associated with the particular file to be viewed):
 
 **Local name:** governmentshape
 
-**Source:** **FOLDER**/governmentshape.tsv|layername=governmentshape
+**Source:** **FOLDER**/governmentshape_**FILE**.tsv|layername=governmentshape
 
 Populate the following fields:
 
