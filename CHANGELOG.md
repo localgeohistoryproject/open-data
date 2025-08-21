@@ -1,10 +1,17 @@
 # Changelog
 
-## [Unreleased]
+## [3.2.0] - Unreleased
+
+### Added
+
+- In extract file law.tsv, add column lawpagetextbefore.
+- To README, Converting to other formats section.
 
 ### Changed
 
+- In extract file source.tsv, change column sourcelawisbynumber to sourcelawnumbertype.
 - In extract file sourcecitation.tsv, change column sourcecitationarchivecarton to sourcecitationcontainer, and column sourcecitationarchiveslotfilm to sourcecitationitemlocation.
+- In README, Using QGIS to view data section.
 
 ### Fixed
 
@@ -152,7 +159,7 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
-[Unreleased]: https://github.com/localgeohistoryproject/open-data/compare/v3.1.0...develop
+[3.2.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.1.0...develop
 [3.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.0.0...v3.1.0
 [3.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.1.0...v3.0.0
 [2.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.0.0...v2.1.0
