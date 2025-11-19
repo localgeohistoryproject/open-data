@@ -1,6 +1,6 @@
 # Changelog
 
-## [3.2.0] - Unreleased
+## [4.0.0] - Unreleased
 
 ### Added
 
@@ -159,7 +159,7 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
-[3.2.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.1.0...develop
+[4.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.1.0...develop
 [3.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.0.0...v3.1.0
 [3.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.1.0...v3.0.0
 [2.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.0.0...v2.1.0
