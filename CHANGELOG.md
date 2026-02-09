@@ -17,6 +17,12 @@
 
 - Legacy location and series references for Pennsylvania State Archives citations.
 
+## [3.1.1] - 2026-02-08
+
+### Fixed
+
+- In extract files sourceitem.tsv and sourceitempart.tsv, replace broken and missing volume links for New Jersey session laws.
+
 ## [3.1.0] - 2025-04-12
 
 ### Changed
@@ -159,7 +165,8 @@
 
 - Public release of the Local Geohistory Project: Open Data repository.
 
-[4.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.1.0...develop
+[4.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.1.1...develop
+[3.1.1]: https://github.com/localgeohistoryproject/open-data/compare/v3.1.0...v3.1.1
 [3.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v3.0.0...v3.1.0
 [3.0.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.1.0...v3.0.0
 [2.1.0]: https://github.com/localgeohistoryproject/open-data/compare/v2.0.0...v2.1.0
